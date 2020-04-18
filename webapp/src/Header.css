@@ -1,0 +1,28 @@
+.Header {
+    width: 100%;
+    background-color: #ed1c24;
+    position: fixed;
+}
+
+.Header ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    justify-content: center;
+}
+
+.Header li {
+    list-style-type: none;
+    color: white;
+    padding: 12px 10px 10px 10px ;
+    margin: 10px;
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    align-content: center;
+}
+
+.Youtube-logo {
+    width: 28px;
+    height: 28px;
+}
