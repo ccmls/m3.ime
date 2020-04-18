@@ -7,9 +7,9 @@ function TopHeader() {
     return (
         <div className="TopHeader">
             <h1>
-                Recursos educacionais multimídia 
+                Recursos educacionais multimídia para
                 <br></br>
-                para a matemática do ensino médio.
+                a matemática do ensino médio.
             </h1>
 
             <img src={blocosHeader} className="Blocos-Header" alt="blocos-header" />
