@@ -1,0 +1,22 @@
+.TopHeader {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.Logos {
+    height: 73px;
+    width: 191px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.TopHeader h1 {
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-size: 20px;
+    align-content: center;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}

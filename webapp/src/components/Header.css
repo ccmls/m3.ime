@@ -1,7 +1,7 @@
 .Header {
     width: 100%;
     background-color: #ed1c24;
-    position: fixed;
+    /* position: fixed; */
 }
 
 .Header ul {
@@ -16,7 +16,7 @@
     list-style-type: none;
     color: white;
     padding: 12px 10px 10px 10px ;
-    margin: 10px;
+    margin: 5px;
     font-family: Source Sans Pro;
     font-size: 20px;
     align-content: center;

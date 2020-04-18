@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import youtube from './youtube.svg'
+import youtube from '../assets/youtube.svg'
 
 function Header() {
     return(
