@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './assets/logo.svg';
 import './App.css';
 import Header from './components/Header'
 import TopHeader from './components/TopHeader'
@@ -19,7 +18,6 @@ function App() {
         </div>
         <Route exact path="/"> 
             <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo" />
                 <p>
                     loading
                 </p>

@@ -6,25 +6,16 @@
     margin-right: auto; */
 }
 
-.Logos {
-    height: 73px;
-    width: 191px;
-    margin-top: auto;
-    margin-bottom: auto;
+.ImagemTopHeader {
+    width: 100%;
+    min-width: 830px;
+    max-width: 920px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
-.TopHeader h1 {
-    font-family: Source Sans Pro;
-    font-weight: 400;
-    font-size: 20px;
-    align-content: center;
-    text-align: left;
-    margin-top: auto;
-    margin-bottom: auto;
-    /* position: absolute;
-    left: 0;  */
-}
-
-.Blocos-Header {
-    margin-top: 40px;
+@media only screen and (max-width: 870px) {
+    .ImagemTopHeader {
+        display: none;
+    }
 }

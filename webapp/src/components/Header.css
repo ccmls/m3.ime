@@ -1,28 +1,83 @@
-.Header {
+.header {
     width: 100%;
     background-color: #ed1c24;
-    /* position: fixed; */
+    max-height: 60px;
 }
 
-.Header ul {
+.header ul {
     display: flex;
-    margin: 0px;
-    padding: 0px;
+    margin: auto;
     width: 100%;
-    justify-content: center;
+    max-width: 944px;
+    justify-content:space-between; 
+    padding: 0px
 }
 
-.Header li {
+.header li {
     list-style-type: none;
-    color: white;
-    padding: 12px 10px 10px 10px ;
-    margin: 5px 22px 5px 22px;
-    font-family: Source Sans Pro;
-    font-size: 20px;
-    align-content: center;
 }
 
-.Youtube-logo {
-    width: 28px;
-    height: 28px;
+
+/* Estilo dos botões dropdown e do botão de Início */
+.header-dropdown-toggle {
+    color: #fff !important;
+    font-family: 'Signika', sans-serif !important;
+    font-size: 1rem !important;
+    text-transform: uppercase !important;
+    line-height: 25px !important;
+    text-align: center !important;
+    letter-spacing: 0.03em !important;
+    font-weight: 400 !important;
+    padding: 16.6px 12px !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.header-dropdown-toggle:focus {
+    box-shadow: none !important;
+}
+
+/* Animação da barrinha branca que cresce ao passar o mouse por cima das páginas */
+@keyframes alongar {
+    from {
+        width: 0%;
+    }
+    to {
+        width: 30px;
+    } 
+}
+
+.header-dropdown-toggle:hover:after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3.2px;
+    background-color: white;
+    margin-top: 8px;
+    animation-name: alongar;
+    animation-duration: 1s;
+}
+
+/* Estilo do menu de dropdown e seus botões */
+.header-dropdown-menu {
+    margin-top: -12px !important;
+    border-top-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
+    border-bottom-right-radius: 0.3rem !important;
+    border-bottom-left-radius: 0.3rem !important;
+}
+
+.header-dropdown-menu button {
+    color: #202020 !important;
+    font-family: 'Signika', sans-serif !important;
+    font-size: 1rem !important;
+    line-height: 25px !important;
+    letter-spacing: 0.03em !important;
+    font-weight: 400 !important;
+}
+
+.header-dropdown-menu button:focus {
+    background-color: #ED1C24 !important;
+    color: white !important;
+    outline: none !important;
 }
