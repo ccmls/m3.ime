@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './Header.css';
 import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
+import classNames from 'classnames';
 
 function Header() {
 
@@ -8,8 +9,6 @@ function Header() {
     const [probDropdownOpen, setProbDropdownOpen] = useState(false);
     const [geoDropdownOpen, setGeoDropdownOpen] = useState(false);
     const [numDropdownOpen, setNumDropdownOpen] = useState(false);
-
-    
 
     return(
         <div className="header">
@@ -21,9 +20,9 @@ function Header() {
                         onMouseOver={() => setMidiaDropdownOpen(true)} 
                         onMouseLeave={() => setMidiaDropdownOpen(false)} 
                         isOpen={midiaDropdownOpen} 
-                        toggle={() => setMidiaDropdownOpen(!midiaDropdownOpen)
-                    }>
-                        <DropdownToggle className="header-dropdown-toggle"> 
+                        toggle={() => setMidiaDropdownOpen(!midiaDropdownOpen)}
+                    >
+                        <DropdownToggle className={classNames("header-dropdown-toggle", midiaDropdownOpen? "dropdownOpen":"")}> 
                             Mídias
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">
@@ -40,9 +39,9 @@ function Header() {
                         onMouseOver={() => setProbDropdownOpen(true)} 
                         onMouseLeave={() => setProbDropdownOpen(false)}
                         isOpen={probDropdownOpen} 
-                        toggle={() => setProbDropdownOpen(!probDropdownOpen)
-                    }>
-                        <DropdownToggle className="header-dropdown-toggle"> 
+                        toggle={() => setProbDropdownOpen(!probDropdownOpen)}
+                    >
+                        <DropdownToggle className={classNames("header-dropdown-toggle", probDropdownOpen? "dropdownOpen":"")}> 
                             Análise de dados e probabilidade
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">
@@ -64,9 +63,9 @@ function Header() {
                         onMouseOver={() => setGeoDropdownOpen(true)} 
                         onMouseLeave={() => setGeoDropdownOpen(false)}
                         isOpen={geoDropdownOpen} 
-                        toggle={() => setGeoDropdownOpen(!geoDropdownOpen)
-                    }>
-                        <DropdownToggle className="header-dropdown-toggle"> 
+                        toggle={() => setGeoDropdownOpen(!geoDropdownOpen)}
+                    >
+                        <DropdownToggle className={classNames("header-dropdown-toggle", geoDropdownOpen? "dropdownOpen":"")}> 
                             Geometria e medidas
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">
@@ -83,8 +82,9 @@ function Header() {
                         onMouseOver={() => setNumDropdownOpen(true)} 
                         onMouseLeave={() => setNumDropdownOpen(false)}
                         isOpen={numDropdownOpen} 
-                        toggle={() => setNumDropdownOpen(!numDropdownOpen)}>
-                        <DropdownToggle className="header-dropdown-toggle"> 
+                        toggle={() => setNumDropdownOpen(!numDropdownOpen)}
+                    >
+                        <DropdownToggle className={classNames("header-dropdown-toggle", numDropdownOpen? "dropdownOpen":"")}> 
                             Números e funções
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">

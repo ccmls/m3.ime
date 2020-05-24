@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2 {
+    font-family: 'Signika', sans-serif !important;
+    color: #202020 !important;
+    font-size: 1.25rem !important;
+    line-height: 25px !important;
+    margin: 0px !important;
+}
+
+h3 {
+    font-family: 'Signika', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 1.25rem !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+    color: #202020;
+}
+
+p {
+    font-family: 'Signika', sans-serif !important;
+    font-weight: 300 !important;
+    font-size: 0.9rem !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+    color: #202020;
+    margin: 0px !important;
+}

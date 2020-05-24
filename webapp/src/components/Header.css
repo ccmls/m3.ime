@@ -8,9 +8,9 @@
     display: flex;
     margin: auto;
     width: 100%;
-    max-width: 944px;
+    max-width: 960px;
     justify-content:space-between; 
-    padding: 0px
+    padding: 0px 8px;
 }
 
 .header li {
@@ -19,6 +19,7 @@
 
 
 /* Estilo dos botões dropdown e do botão de Início */
+
 .header-dropdown-toggle {
     color: #fff !important;
     font-family: 'Signika', sans-serif !important;
@@ -38,6 +39,7 @@
 }
 
 /* Animação da barrinha branca que cresce ao passar o mouse por cima das páginas */
+
 @keyframes alongar {
     from {
         width: 0%;
@@ -55,10 +57,11 @@
     background-color: white;
     margin-top: 8px;
     animation-name: alongar;
-    animation-duration: 1s;
+    animation-duration: 0.6s;
 }
 
 /* Estilo do menu de dropdown e seus botões */
+
 .header-dropdown-menu {
     margin-top: -12px !important;
     border-top-left-radius: 0rem !important;
@@ -80,4 +83,13 @@
     background-color: #ED1C24 !important;
     color: white !important;
     outline: none !important;
+}
+
+.dropdownOpen::after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3.2px;
+    background-color: white;
+    margin-top: 8px;
 }

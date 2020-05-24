@@ -1,0 +1,22 @@
+.home-container {
+    max-width: 960px !important;
+    padding: 0px !important;
+}
+
+.home-row {
+    margin-top: 60px;
+    margin-left: -27px !important;
+    margin-right: -27px !important;
+}
+
+.home-col {
+    padding: 0px 47px !important;
+}
+
+.divider {
+    max-width: 920px;
+    height: 3px;
+    background: rgb(238,45,50);
+    background: linear-gradient(90deg, rgba(238,45,50,1) 0%, rgba(252,210,192,1) 16.6%, rgba(255,223,104,1) 33.3%, rgba(228,230,207,1) 50%, rgba(217,232,174,1) 66.6%, rgba(197,220,215,1) 83.3%, rgba(175,170,211,1) 100%);
+    margin: 0px 20px;
+}

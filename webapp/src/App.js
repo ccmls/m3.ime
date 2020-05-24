@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header'
 import TopHeader from './components/TopHeader'
+import Home from './components/Home'
 import {
   BrowserRouter as Router,
   Switch,
@@ -13,23 +14,11 @@ function App() {
   return (
     <Router>
         <div className="App">
-            <TopHeader></TopHeader>
-            <Header></Header>
+            <TopHeader/>
+            <Header/>
         </div>
         <Route exact path="/"> 
-            <header className="App-header">
-                <p>
-                    loading
-                </p>
-                <a
-                className="App-link"
-                href="https://reactjs.org"
-                target="_blank"
-                rel="noopener noreferrer"
-                >
-                    Learn React
-                </a>
-            </header>
+            <Home/>
         </Route>
         <Route path="/recursos">
         

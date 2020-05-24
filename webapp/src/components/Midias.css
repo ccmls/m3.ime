@@ -1,0 +1,48 @@
+/* Animação da barrinha vermelha que cresce ao passar o mouse por cima nos títulos */
+
+.filter-link::after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3.2px;
+    background-color: #ED1C24;
+    margin-top: 4px;
+}
+
+@keyframes crescer {
+    from {
+        width: 30px;
+    }
+    to {
+        width: 60px;
+    } 
+}
+
+.filter-link:hover:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3.2px;
+    background-color: #ED1C24;
+    margin-top: 4px;
+    animation-name: crescer;
+    animation-duration: 0.6s;
+}
+
+/* Botão de do collapse */
+.collapse-button {
+    background-color: #f5f5f5 !important;
+    border: none !important;
+    border-radius: 0.25rem !important;
+    margin: 0px !important;
+    margin-top: 20px !important;
+}
+
+.collapse-button p {
+    margin: 0px !important;
+}
+
+.collapse-button:focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
