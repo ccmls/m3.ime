@@ -31,8 +31,6 @@ function Home() {
             <GrandesTemas/>
 
             <div className="divider" style={{marginTop: "60px"}}/>
-            
-            <br/><br/><br/><br/>
 
         </Container>
     )

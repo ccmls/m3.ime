@@ -29,6 +29,16 @@ h3 {
     color: #202020;
 }
 
+h6 {
+    font-family: 'Signika', sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 0.9rem !important;
+    line-height: 18px !important;
+    letter-spacing: 0.03em !important;
+    color: #202020;
+    margin: 0px !important;
+}
+
 p {
     font-family: 'Signika', sans-serif !important;
     font-weight: 300 !important;

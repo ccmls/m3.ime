@@ -1,0 +1,52 @@
+/* Seção de Licença */
+
+.license {
+    max-width: 960px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.license h6 {
+    margin-right: 10px !important;
+}
+
+.copyrights {
+    width: 58px;
+    height: 14px;
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+    margin-left: 10px
+}
+
+.gov {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    width: 100%;
+    max-width: 960px;;
+}
+
+.gov h6 {
+    list-style-type: none;
+    padding: 20px;
+    text-align: right;
+}
+
+.first-item {
+    margin-left: auto !important;
+}
+
+
+/* Barra vermelha */
+
+.red-bar {
+    background-color: #ed1c24;
+    height: 60px;
+    width: 100%;
+    margin-top: 40px;
+}
