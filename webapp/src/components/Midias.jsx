@@ -11,9 +11,7 @@ import iconAudios from '../assets/icon-audios.png';
 function Midias() {
 
     const [videosOpen, setVideosOpen] = useState(false);
-
     const [audiosOpen, setAudiosOpen] = useState(false);
-
 
     return(
         <>
@@ -22,6 +20,7 @@ function Midias() {
                 As Mídias
             </h2>
         </Row>
+        
         {/* Experimentos */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
@@ -42,6 +41,7 @@ function Midias() {
             </p>
             </Col>
         </Row>
+        
         {/* Vídeos */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
@@ -96,6 +96,7 @@ function Midias() {
                 </div>
             </Col>
         </Row>
+        
         {/* Softwares */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
@@ -111,6 +112,7 @@ function Midias() {
                 </p>
             </Col>
         </Row>
+        
         {/* Áudios */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">

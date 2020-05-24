@@ -1,3 +1,4 @@
+/* Barrinha vermelha sob o título (essa não cresce pois não é um link!) */
 .title::after {
     content: "";
     display: block;

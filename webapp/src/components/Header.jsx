@@ -10,6 +10,7 @@ function Header() {
     const [geoDropdownOpen, setGeoDropdownOpen] = useState(false);
     const [numDropdownOpen, setNumDropdownOpen] = useState(false);
 
+    // Função para que a barra vermelha da header fique fixa na tela
     useEffect(() => {
         window.addEventListener("scroll", () => {
             if(window.scrollY > 164.8) {
@@ -46,6 +47,7 @@ function Header() {
                         </DropdownMenu>
                     </Dropdown>
                 </li>
+                
                 <li>
                     {/* Botão dropdown com os conteúdos de Análise de Dados e Probabilidade */}
                     <Dropdown 
@@ -70,6 +72,7 @@ function Header() {
                         </DropdownMenu>
                     </Dropdown>
                 </li> 
+                
                 <li>
                     {/* Botão dropdown com os conteúdos de Geometria e Medidas */}
                     <Dropdown
@@ -89,6 +92,7 @@ function Header() {
                         </DropdownMenu>
                     </Dropdown>
                 </li>  
+                
                 <li> 
                     {/* Botão dropdown com os conteúdos de Números e Funções */}
                     <Dropdown 

@@ -13,6 +13,7 @@ function GrandesTemas() {
                 Os Grandes Temas
             </h2>
         </Row>
+        
         {/* Análise de Dados e Probabilidade */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
@@ -46,6 +47,7 @@ function GrandesTemas() {
             </p>
             </Col>
         </Row>
+        
         {/* Geometria e Medidas */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
@@ -69,6 +71,7 @@ function GrandesTemas() {
                 </p>
             </Col>
         </Row>
+        
         {/* Números e Funções */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
