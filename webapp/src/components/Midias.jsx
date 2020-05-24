@@ -25,7 +25,7 @@ function Midias() {
         {/* Experimentos */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
-                <img src={iconExperimentos} className="icons" alt="experimentos"/>
+                <img src={iconExperimentos} alt="experimentos"/>
             </Col>
             <Col md="10" sm="12" className="home-col">
             <h3>
@@ -45,7 +45,7 @@ function Midias() {
         {/* Vídeos */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
-                <img src={iconVideos} className="icons" alt="vídeos"/>
+                <img src={iconVideos} alt="vídeos"/>
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
@@ -99,7 +99,7 @@ function Midias() {
         {/* Softwares */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
-                <img src={iconSoftwares} className="icons" alt="softwares"/>
+                <img src={iconSoftwares} alt="softwares"/>
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
@@ -114,7 +114,7 @@ function Midias() {
         {/* Áudios */}
         <Row className="home-row">
             <Col md="2" sm="12" className="home-col">
-                <img src={iconAudios} className="icons" alt="áudios"/>
+                <img src={iconAudios} alt="áudios"/>
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
