@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './Header.css';
 import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 import classNames from 'classnames';
@@ -10,8 +10,20 @@ function Header() {
     const [geoDropdownOpen, setGeoDropdownOpen] = useState(false);
     const [numDropdownOpen, setNumDropdownOpen] = useState(false);
 
+    useEffect(() => {
+        window.addEventListener("scroll", () => {
+            if(window.scrollY > 164.8) {
+                document.getElementById("red-header").classList.add("red-header-fixed");
+                document.getElementById("tam-header").classList.add("show-tam-header");
+            } else {
+                document.getElementById("red-header").classList.remove("red-header-fixed");
+                document.getElementById("tam-header").classList.remove("show-tam-header");
+            }
+        })
+    }, []);
+
     return(
-        <div className="header">
+        <div className="header" id="red-header">
             <ul>
                 <li className="header-dropdown-toggle"> Início </li>
                 <li>
@@ -22,7 +34,8 @@ function Header() {
                         isOpen={midiaDropdownOpen} 
                         toggle={() => setMidiaDropdownOpen(!midiaDropdownOpen)}
                     >
-                        <DropdownToggle className={classNames("header-dropdown-toggle", midiaDropdownOpen? "dropdownOpen":"")}> 
+                        <DropdownToggle 
+                            className={classNames("header-dropdown-toggle", midiaDropdownOpen? "dropdownOpen":"")}> 
                             Mídias
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">

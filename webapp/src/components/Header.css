@@ -2,6 +2,7 @@
     width: 100%;
     background-color: #ed1c24;
     max-height: 60px;
+    z-index: 20;
 }
 
 .header ul {
@@ -15,8 +16,13 @@
 
 .header li {
     list-style-type: none;
+    cursor: pointer;
 }
 
+.red-header-fixed {
+    position: fixed;
+    top: 0px;
+}
 
 /* Estilo dos botões dropdown e do botão de Início */
 
@@ -79,7 +85,7 @@
     font-weight: 400 !important;
 }
 
-.header-dropdown-menu button:focus {
+.header-dropdown-menu button:focus, .header-dropdown-menu button:active {
     background-color: #ED1C24 !important;
     color: white !important;
     outline: none !important;
@@ -93,3 +99,4 @@
     background-color: white;
     margin-top: 8px;
 }
+
