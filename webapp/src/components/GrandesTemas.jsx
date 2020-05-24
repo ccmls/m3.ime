@@ -53,7 +53,7 @@ function GrandesTemas() {
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
-                    <div className="tittle"> Geometria e Medidas </div>
+                    <div className="title"> Geometria e Medidas </div>
                 </h3>
                 <p>
                     <br/>
@@ -76,7 +76,7 @@ function GrandesTemas() {
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
-                    <div className="tittle"> Números e Funções </div>
+                    <div className="title"> Números e Funções </div>
                 </h3>
                 <p>
                     <br/>
