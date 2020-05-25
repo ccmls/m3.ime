@@ -43,7 +43,7 @@ function Footer() {
                 <div className="extra-links">
                     <p> Justificativa Pedagógica </p>
                     <p> Colaboradores </p>
-                    <p> Histórico </p>
+                    <p>  Histórico </p>
                     <div className="social-midia">
                         <a href="https://www.youtube.com/user/matematicamultimidia/featured" target="_blank">
                             <img src={logoyoutube} alt="youtube" />

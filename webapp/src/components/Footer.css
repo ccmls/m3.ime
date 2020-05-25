@@ -69,6 +69,16 @@
     padding-left: 20px;
 }
 
+.credits a {
+    color: #202020;
+    text-decoration: underline;
+    text-decoration-color: #ED1C24;
+}
+
+.credits a:hover {
+    color: #ED1C24;
+}
+
 .extra-links {
     padding-right: 10px;
     margin-top: -10px;
@@ -80,6 +90,28 @@
     text-align: right;
     padding: 10px;
     font-weight: 400 !important;
+}
+
+.extra-links p::after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 3.2px;
+    background-color: #ED1C24;
+    margin-top: 4px;
+    margin-left: auto;
+}
+
+.extra-links P:hover:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3.2px;
+    background-color: #ED1C24;
+    margin-top: 4px;
+    animation-name: crescer;
+    animation-duration: 0.6s;
+    margin-left: auto;
 }
 
 .social-midia {
