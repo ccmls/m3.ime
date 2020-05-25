@@ -66,7 +66,7 @@ function Midias() {
                         </p> 
                     </Button>
                     <Collapse isOpen={videosOpen}>
-                        <Card style={{borderColor: "#f5f5f5"}}>
+                        <Card style={{borderColor: "#f5f5f5", height: "305px", overflowY: "scroll"}}>
                             <CardBody>
                                 <p>
                                     <b> Matemática na Escola </b>
@@ -137,7 +137,7 @@ function Midias() {
                         </p>
                     </Button>
                     <Collapse isOpen={audiosOpen}>
-                        <Card style={{borderColor: "#f5f5f5", height: "304px", overflowY: "scroll"}}>
+                        <Card style={{borderColor: "#f5f5f5", height: "305px", overflowY: "scroll"}}>
                             <CardBody>
                                 <p>
                                     <b> Estimativas </b>
