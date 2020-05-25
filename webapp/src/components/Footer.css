@@ -52,6 +52,21 @@
 }
 
 
+{/* Imagem dos blocos */}
+
+.blocos {
+    display: flex;
+    justify-content: center;
+}
+
+.imagem-footer {
+    width: 100%;
+    min-width: 830px;
+    max-width: 920px;
+    position: absolute;
+    z-index: -1 !important;
+}
+
 /* Créditos e Links Extras */
 
 .texts {
@@ -89,26 +104,25 @@
     cursor: pointer;
     text-align: right;
     padding: 10px;
-    font-weight: 400 !important;
 }
 
 .extra-links p::after {
     content: "";
     display: block;
     width: 30px;
-    height: 3.2px;
+     height: 3px;
     background-color: #ED1C24;
-    margin-top: 4px;
+    margin-top: 3px;
     margin-left: auto;
 }
 
-.extra-links P:hover:after {
+.extra-links p:hover:after {
     content: "";
     display: block;
     width: 60px;
-    height: 3.2px;
+    height: 3px;
     background-color: #ED1C24;
-    margin-top: 4px;
+    margin-top: 3px;
     animation-name: crescer;
     animation-duration: 0.6s;
     margin-left: auto;

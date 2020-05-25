@@ -3,7 +3,9 @@
     justify-content: center;
 }
 
-.ImagemTopHeader {
+.imagem-topheader {
+    display: flex;
+    justify-content: center;
     width: 100%;
     min-width: 830px;
     max-width: 920px;

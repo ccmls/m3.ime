@@ -3,6 +3,7 @@ import './Footer.css';
 import copyrights from '../assets/copyrights.png'
 import logoyoutube from '../assets/logo-youtube.png';
 import logotwitter from '../assets/logo-twitter.png';
+import footer from '../assets/footer.png'
 
 function Footer() {
     return (
@@ -22,6 +23,11 @@ function Footer() {
 
             {/* Barra vermelha */}
             <div className="red-bar"/>
+
+            {/* Imagem dos blocos */}
+            <div className="blocos">
+                <img src={footer} className="imagem-footer" alt="footer" />
+            </div>
 
             {/* Créditos e Links Extras */}
             <div className="texts">
@@ -55,6 +61,7 @@ function Footer() {
                 </div>
             </div>
             
+            {/* REMOVER ISSO AQUI DPS! */}
             <br/><br/><br/>
         </>    
     )
