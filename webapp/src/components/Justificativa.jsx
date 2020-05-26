@@ -1,5 +1,5 @@
 import React from 'react';
-import './Justificativa.css';
+import './ExtraLinks.css';
 import { Container, Row, Col } from 'reactstrap';
 import iconJustificativa from '../assets/icon-justificativa.png';
 
@@ -9,15 +9,16 @@ function Justificativa() {
         <Container className="extra-links-container">
 
         <Row className="extra-links-row">
-            <h2 className="extra-links-col" style={{marginBottom: "-20px"}}> 
+            <h2 className="extra-links-col"> 
                 Justificativa Pedagógica
             </h2>
         </Row>
 
         <Row className="extra-links-row">
             <Col md="2" sm="12" className="extra-links-col">
-                <img src={iconJustificativa} alt="justificativa pedagógica"/>
+                <img src={iconJustificativa} className="extra-links-icon" alt="justificativa pedagógica"/>
             </Col>
+
             <Col md="10" sm="12" className="extra-links-col">
                 <p>
                     Os recursos educacionais dessa coleção abordam praticamente todo o conteúdo de matemática do 
@@ -50,7 +51,7 @@ function Justificativa() {
                 <p>
                     <br/>
                     Se você procura uma referência mais acadêmica, o coordenador degral da coleção, prof. Dr. 
-                    Samuel Rocha de Oliveira, escreveu o texto <a href="https://econtents.bc.unicamp.br/inpec/index.php/cef/article/view/9199">  
+                    Samuel Rocha de Oliveira, escreveu o texto <a href="https://econtents.bc.unicamp.br/inpec/index.php/cef/article/view/9199" target="_blank" rel="noopener noreferrer">  
                     Desafios e possibilidades de uso de conteúdos digitais 
                     no ensino e na aprendizagem de matemática: o caso da coleção M3.
                     </a>
@@ -60,9 +61,7 @@ function Justificativa() {
         
         </Row>
 
-
-
-            <div className="divider" style={{marginTop: "60px"}}/>
+            <div className="divider" style={{marginTop: "30px"}}/>
 
         </Container>
     )

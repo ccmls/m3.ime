@@ -1,17 +1,20 @@
 .extra-links-container {
+    margin-top: 30px;
     max-width: 960px !important;
     padding: 0px !important;
     overflow-x: hidden !important;
 }
 
 .extra-links-row {
-    margin-top: 60px !important;
+    margin-top: 0px;
     margin-left: -27px !important;
     margin-right: -27px !important;
 }
 
 .extra-links-col {
     padding: 0px 47px !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
 }
 
 .extra-links-container a {
@@ -22,4 +25,9 @@
 
 .extra-links-container a:hover {
     color: #ED1C24;
+}
+
+.extra-links-icon {
+    max-width: 80px !important;
+    max-height: 80px !important;
 }

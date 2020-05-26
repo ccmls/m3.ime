@@ -67,6 +67,15 @@
     z-index: -1 !important;
 }
 
+/* Função para que a TopHeader suma quando a tela tiver um tamanho <= 960px */
+
+@media only screen and (max-width: 960px) {
+    .blocos {
+        display: none;
+    }
+}
+
+
 /* Créditos e Links Extras */
 
 .texts {
