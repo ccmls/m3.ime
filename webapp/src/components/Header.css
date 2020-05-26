@@ -83,6 +83,8 @@
     line-height: 25px !important;
     letter-spacing: 0.03em !important;
     font-weight: 400 !important;
+    /* white-space: normal;
+    word-wrap: normal; */
 }
 
 .header-dropdown-menu button:focus, .header-dropdown-menu button:active {

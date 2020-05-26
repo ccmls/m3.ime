@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css';
+import { Link } from "react-router-dom";
 import copyrights from '../assets/copyrights.png'
 import logoyoutube from '../assets/logo-youtube.png';
 import logotwitter from '../assets/logo-twitter.png';
@@ -37,24 +38,26 @@ function Footer() {
                         <br/>
                         Fone: (55) 019 3521 5956
                         <br/>
-                        E-mail: <a href="mailto:samuel@ime.unicamp.br" target="_blank" > samuel@ime.unicamp.br </a>
+                        E-mail: <a href="mailto:samuel@ime.unicamp.br" target="_blank" rel="noopener noreferrer"> samuel@ime.unicamp.br </a>
                         <br/>
                         <br/>
                         <br/>
-                        Site inicialmente desenhado pela <a href="http://www.preface.com.br" target="_blank"> Preface Design </a>
+                        Site inicialmente desenhado pela <a href="http://www.preface.com.br" target="_blank" rel="noopener noreferrer"> Preface Design </a>
                         <br/>
-                        Redesenhado e reconstruído por <a href="http://c-mls.weebly.com/" target="_blank"> Camila Porfírio </a>
+                        Redesenhado e reconstruído por <a href="http://c-mls.weebly.com/" target="_blank" rel="noopener noreferrer"> Camila Porfírio </a>
                     </p>
                 </div>
                 <div className="extra-links">
-                    <p> Justificativa Pedagógica </p>
+                    <Link to="/principal/justificativa">
+                        <p> Justificativa Pedagógica </p>
+                    </Link>
                     <p> Colaboradores </p>
                     <p>  Histórico </p>
                     <div className="social-midia">
-                        <a href="https://www.youtube.com/user/matematicamultimidia/featured" target="_blank">
+                        <a href="https://www.youtube.com/user/matematicamultimidia/featured" target="_blank" rel="noopener noreferrer">
                             <img src={logoyoutube} alt="youtube" />
                         </a>
-                        <a href="https://twitter.com/matematicam3" target="_blank">
+                        <a href="https://twitter.com/matematicam3" target="_blank" rel="noopener noreferrer">
                             <img src={logotwitter} alt="twitter" />
                         </a>
                     </div>

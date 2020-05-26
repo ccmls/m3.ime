@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './Header.css';
+import { Link } from "react-router-dom";
 import { Dropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 import classNames from 'classnames';
 
@@ -26,7 +27,9 @@ function Header() {
     return(
         <div className="header" id="red-header">
             <ul>
-                <li className="header-dropdown-toggle"> Início </li>
+                <Link to="/">
+                    <li className="header-dropdown-toggle"> Início </li>
+                </Link>
                 <li>
                     {/* Botão dropdown com as Mídias */}
                     <Dropdown
@@ -104,7 +107,7 @@ function Header() {
                         <DropdownToggle className={classNames("header-dropdown-toggle", numDropdownOpen? "dropdownOpen":"")}> 
                             Números e funções
                         </DropdownToggle>
-                        <DropdownMenu className="header-dropdown-menu">
+                        <DropdownMenu className="header-dropdown-menu" right>
                             <DropdownItem> Conjuntos, Lógica e Números </DropdownItem> 
                             <DropdownItem> Relações e Funções </DropdownItem>
                             <DropdownItem> Razão e Proporção </DropdownItem> 

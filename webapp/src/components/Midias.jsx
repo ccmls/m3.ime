@@ -27,18 +27,18 @@ function Midias() {
                 <img src={iconExperimentos} alt="experimentos"/>
             </Col>
             <Col md="10" sm="12" className="home-col">
-            <h3>
-                <div className="filter-link"> Experimentos </div>
-            </h3>
-            <p>
-                <br/>
-                Atividades práticas instigantes que podem ser feitas em uma ou duas aulas em que se constrói algum conceito 
-                ou formalização matemática. Em geral, eles seguem a ideia de um experimento científico: geração e coleta de 
-                dados, análise e conclusão (ou formalização matemática, no nosso caso).
-                <br/>
-                Esses experimentos contam com um roteiro metodológico para o professor, uma folha de acompanhamento para os 
-                alunos e um guia com informações adicionais ou complementares para o professor.
-            </p>
+                <h3>
+                    <div className="filter-link"> Experimentos </div>
+                </h3>
+                <p>
+                    <br/>
+                    Atividades práticas instigantes que podem ser feitas em uma ou duas aulas em que se constrói algum conceito 
+                    ou formalização matemática. Em geral, eles seguem a ideia de um experimento científico: geração e coleta de 
+                    dados, análise e conclusão (ou formalização matemática, no nosso caso).
+                    <br/>
+                    Esses experimentos contam com um roteiro metodológico para o professor, uma folha de acompanhamento para os 
+                    alunos e um guia com informações adicionais ou complementares para o professor.
+                </p>
             </Col>
         </Row>
         

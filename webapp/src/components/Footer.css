@@ -86,8 +86,8 @@
 
 .credits a {
     color: #202020;
-    text-decoration: underline;
-    text-decoration-color: #ED1C24;
+    text-decoration: underline !important;
+    text-decoration-color: #ED1C24 !important;
 }
 
 .credits a:hover {

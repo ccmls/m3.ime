@@ -1,0 +1,25 @@
+.extra-links-container {
+    max-width: 960px !important;
+    padding: 0px !important;
+    overflow-x: hidden !important;
+}
+
+.extra-links-row {
+    margin-top: 60px !important;
+    margin-left: -27px !important;
+    margin-right: -27px !important;
+}
+
+.extra-links-col {
+    padding: 0px 47px !important;
+}
+
+.extra-links-container a {
+    color: #202020;
+    text-decoration: underline !important;
+    text-decoration-color: #ED1C24 !important;
+}
+
+.extra-links-container a:hover {
+    color: #ED1C24;
+}
