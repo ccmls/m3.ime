@@ -1,19 +1,22 @@
 import React from 'react';
 import './ExtraLinks.css';
 import { Container, Row, Col } from 'reactstrap';
-import iconJustificativa from '../assets/icon-justificativa.png';
+// IMAGENS:
+import iconJustificativa from '../../assets/icons - ExtraLinks/icon-justificativa.png';
 
 
 function Justificativa() {
     return (
         <Container className="extra-links-container">
 
+            {/* Título */}
             <Row className="extra-links-row">
                 <h2 className="extra-links-col"> 
                     Justificativa Pedagógica
                 </h2>
             </Row>
 
+            {/* Ícone e Textos */}
             <Row className="extra-links-row">
                 <Col md="2" sm="12" className="extra-links-col">
                     <img src={iconJustificativa} className="extra-links-icon" alt="justificativa pedagógica"/>
@@ -57,8 +60,6 @@ function Justificativa() {
                         </a>
                     </p>
                 </Col>
-            
-            
             </Row>
 
             <div className="divider" style={{marginTop: "30px"}}/>

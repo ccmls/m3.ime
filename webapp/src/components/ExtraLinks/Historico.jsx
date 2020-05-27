@@ -1,18 +1,21 @@
 import React from 'react';
 import './ExtraLinks.css';
 import { Container, Row, Col } from 'reactstrap';
-import iconHistorico from '../assets/icon-historico.png';
+// IMAGENS:
+import iconHistorico from '../../assets/icons - ExtraLinks/icon-historico.png';
 
 function Historico() {
     return (
         <Container className="extra-links-container">
 
+            {/* Título */}
             <Row className="extra-links-row">
                 <h2 className="extra-links-col"> 
                     Histórico
                 </h2>
             </Row>
 
+            {/* Ícone e Textos */}
             <Row className="extra-links-row">
                 <Col md="2" sm="12" className="extra-links-col">
                     <img src={iconHistorico} className="extra-links-icon" alt="justificativa pedagógica"/>

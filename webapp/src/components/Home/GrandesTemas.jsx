@@ -1,9 +1,9 @@
 import React from 'react';
 import './GrandesTemas.css';
 import { Row, Col } from 'reactstrap';
-import icontemasProb from '../assets/icontemas-prob.png';
-import icontemasGeom from '../assets/icontemas-geom.png';
-import icontemasNum from '../assets/icontemas-num.png';
+import icontemasProb from '../../assets/icons - Home/icontemas-prob.png';
+import icontemasGeom from '../../assets/icons - Home/icontemas-geom.png';
+import icontemasNum from '../../assets/icons - Home/icontemas-num.png';
 
 function GrandesTemas() {
     return(

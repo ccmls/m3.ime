@@ -11,10 +11,10 @@ import ScrollToTop from './components/ScrollToTop'
 import Header from './components/Header'
 import TopHeader from './components/TopHeader'
 import Footer from './components/Footer'
-import Home from './components/Home'
-import Justificativa from './components/Justificativa'
-import Colaboradores from './components/Colaboradores'
-import Historico from './components/Historico'
+import Home from './components/Home/Home'
+import Justificativa from './components/ExtraLinks/Justificativa'
+import Colaboradores from './components/ExtraLinks/Colaboradores'
+import Historico from './components/ExtraLinks/Historico'
 
 function App() {
   return (

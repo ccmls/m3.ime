@@ -1,18 +1,21 @@
 import React from 'react';
 import './ExtraLinks.css';
 import { Container, Row, Col } from 'reactstrap';
-import iconColaboradores from '../assets/icon-colaboradores.png';
+// IMAGENS:
+import iconColaboradores from '../../assets/icons - ExtraLinks/icon-colaboradores.png';
 
 function Colaboradores() {
     return (
         <Container className="extra-links-container">
-
+            
+            {/* Título */}
             <Row className="extra-links-row">
                 <h2 className="extra-links-col"> 
                     Colaboradores do projeto
                 </h2>
             </Row>
 
+            {/* Ícone e Textos */}
             <Row className="extra-links-row">
                 <Col md="2" sm="12" className="extra-links-col">
                     <img src={iconColaboradores} className="extra-links-icon" alt="justificativa pedagógica"/>
@@ -46,13 +49,12 @@ function Colaboradores() {
                         Mas a lista de todos os participantes do projeto segue abaixo (se você participou e não consta 
                         aqui, favor nos avisar):
                     </p>
-
-                    
                 </Col>
             </Row>
 
             {/* Seção com os nomes dos colaboradores */}
             <Row className="extra-links-colab-row">
+
                 {/* Projeto Gráfico */}
                 <Col lg="2" md="6" sm="12" className="extra-links-colab-col">
                     <h6> Projeto gráfico </h6>
@@ -219,6 +221,7 @@ function Colaboradores() {
                         <br/>Wilson Roberto Rodrigues
                     </p>
                 </Col>
+            
             </Row>
 
             <div className="divider" style={{marginTop: "30px"}}/>

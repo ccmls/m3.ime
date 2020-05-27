@@ -1,3 +1,5 @@
+/* LAYOUT da Justificativa, Histórico e Colaboradores */
+
 .extra-links-container {
     margin-top: 30px;
     max-width: 960px !important;
@@ -17,6 +19,9 @@
     margin-bottom: 30px !important;
 }
 
+
+/* Links e ícones */
+
 .extra-links-container a {
     color: #202020;
     text-decoration: underline !important;
@@ -31,6 +36,9 @@
     max-width: 80px !important;
     max-height: 80px !important;
 }
+
+
+/* LAYOUT da seção de Colaboradores */
 
 .extra-links-colab-row {
     margin-top: 0px;

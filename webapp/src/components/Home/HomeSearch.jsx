@@ -1,7 +1,7 @@
 import React from 'react';
 import './HomeSearch.css';
 import { InputGroup, InputGroupAddon, Button, Input } from 'reactstrap';
-import search from '../assets/search.svg'
+import search from '../../assets/icons - Home/search.svg'
 
 function HomeSearch() {
     return (
@@ -21,7 +21,8 @@ function HomeSearch() {
                 das últimas novidades!
                 <br/>
                 <br/>
-                Para encontrar um recurso que atenda ao que você procura, use a busca ao lado ou selecione uma mídia ou tema.
+                Para encontrar um recurso que atenda ao que você procura, use a 
+                busca ao lado ou selecione uma mídia ou tema.
             </p>
             
             <InputGroup>

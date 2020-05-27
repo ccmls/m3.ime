@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import './Midias.css';
 import { Row, Col } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
-import iconExperimentos from '../assets/icon-experimentos.png';
-import iconVideos from '../assets/icon-videos.png';
-import iconSoftwares from '../assets/icon-softwares.png';
-import iconAudios from '../assets/icon-audios.png';
+import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
+import iconVideos from '../../assets/icons - Home/icon-videos.png';
+import iconSoftwares from '../../assets/icons - Home/icon-softwares.png';
+import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
 
 function Midias() {
