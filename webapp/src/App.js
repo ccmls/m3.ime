@@ -7,6 +7,7 @@ import {
     Link,
     Redirect
 } from "react-router-dom";
+import ScrollToTop from './components/ScrollToTop'
 import Header from './components/Header'
 import TopHeader from './components/TopHeader'
 import Footer from './components/Footer'
@@ -18,6 +19,7 @@ import Historico from './components/Historico'
 function App() {
   return (
     <Router>
+        <ScrollToTop />
             {/* HEADER */}
             <div>
                 <TopHeader/>
@@ -57,7 +59,7 @@ function App() {
             <div>
                 <Footer/>
             </div>
-        
+
     </Router>
   );
 }
