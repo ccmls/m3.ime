@@ -51,14 +51,20 @@ function Footer() {
                     <Link to="/principal/justificativa">
                         <p> Justificativa Pedagógica </p>
                     </Link>
-                    <p> Colaboradores </p>
+
+                    <Link to="/principal/colaboradores">
+                        <p> Colaboradores </p>
+                    </Link>
+
                     <Link to="/principal/historico">
                         <p>  Histórico </p>
-                    </Link>    
+                    </Link>   
+
                     <div className="social-midia">
                         <a href="https://www.youtube.com/user/matematicamultimidia/featured" target="_blank" rel="noopener noreferrer">
                             <img src={logoyoutube} alt="youtube" />
                         </a>
+
                         <a href="https://twitter.com/matematicam3" target="_blank" rel="noopener noreferrer">
                             <img src={logotwitter} alt="twitter" />
                         </a>

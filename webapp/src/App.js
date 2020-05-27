@@ -12,6 +12,7 @@ import TopHeader from './components/TopHeader'
 import Footer from './components/Footer'
 import Home from './components/Home'
 import Justificativa from './components/Justificativa'
+import Colaboradores from './components/Colaboradores'
 import Historico from './components/Historico'
 
 function App() {
@@ -40,6 +41,11 @@ function App() {
             {/* JUSTIFICATIVA PEDAGÓGICA */}
             <Route path="/principal/justificativa">
                 <Justificativa/>
+            </Route>
+
+            {/* COLABORADORES */}
+            <Route path="/principal/colaboradores">
+                <Colaboradores/>
             </Route>
 
             {/* HISTÓRICO */}

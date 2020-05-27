@@ -31,3 +31,19 @@
     max-width: 80px !important;
     max-height: 80px !important;
 }
+
+.extra-links-colab-row {
+    margin-top: 0px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.extra-links-colab-col {
+    padding: 0px 10px !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+}
+
+.extra-links-colab-col p {
+    font-size: 0.8rem !important;
+}
