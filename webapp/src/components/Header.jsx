@@ -12,8 +12,7 @@ function Header() {
     const [numDropdownOpen, setNumDropdownOpen] = useState(false);
 
     // Função para que a barra vermelha da header fique fixa na tela
-    useEffect(() => {
-        window.addEventListener("scroll", () => {
+    function changeClasses() {
             if(window.scrollY > 164.8) {
                 document.getElementById("red-header").classList.add("red-header-fixed");
                 document.getElementById("tam-header").classList.add("show-tam-header");
@@ -21,7 +20,14 @@ function Header() {
                 document.getElementById("red-header").classList.remove("red-header-fixed");
                 document.getElementById("tam-header").classList.remove("show-tam-header");
             }
-        })
+    }
+
+    useEffect(() => {
+        window.addEventListener("scroll", changeClasses);
+        
+        return () => {
+            window.removeEventListener("scroll", changeClasses)
+        }
     }, []);
 
     return(

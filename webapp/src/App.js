@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
 import './App.css';
 import {
     BrowserRouter as Router,
@@ -17,14 +17,27 @@ import Colaboradores from './components/ExtraLinks/Colaboradores'
 import Historico from './components/ExtraLinks/Historico'
 
 function App() {
+
+    const [isMobile, setIsMobile] = useState(false);
+
+    useEffect(() => {
+        window.addEventListener("resize", () => {
+            if(window.innerWidth > 960) {
+                setIsMobile(false);
+            } else {
+                setIsMobile(true);
+            }
+        })
+    }, []);
+
   return (
     <Router>
         <ScrollToTop />
             {/* HEADER */}
             <div>
-                <TopHeader/>
-                <Header/>
-                <div className="tam-header" id="tam-header"/>
+                {isMobile? null:<TopHeader/>}
+                {isMobile? null:<Header/>}
+                {isMobile? null:<div className="tam-header" id="tam-header"/>}
             </div>
 
             {/* HOME */}
@@ -57,7 +70,7 @@ function App() {
 
             {/* FOOTER */}
             <div>
-                <Footer/>
+                {isMobile? null:<Footer/>}
             </div>
 
     </Router>

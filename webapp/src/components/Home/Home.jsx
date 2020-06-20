@@ -4,7 +4,6 @@ import { Container, Row, Col } from 'reactstrap';
 import HomeSearch from './HomeSearch';
 import TwitterTimeline from './TwitterTimeline';
 import Midias from './Midias';
-import GrandesTemas from './GrandesTemas';
 
 function Home() {
     return (
@@ -25,12 +24,7 @@ function Home() {
             {/* 2º seção: explicativo sobre as mídias */}
             <Midias/>
 
-            <div className="divider" style={{marginTop: "60px"}}/>
-
-            {/* 3º seção: explicativo sobre os grandes temas */}
-            <GrandesTemas/>
-
-            <div className="divider" style={{marginTop: "60px"}}/>
+            <div className="divider" style={{marginTop: "30px"}}/>
 
         </Container>
     )
