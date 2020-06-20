@@ -1,7 +1,8 @@
 import React from 'react';
 import './Footer.css';
 import { Link } from "react-router-dom";
-import copyrights from '../assets/copyrights.png'
+import copyrights from '../assets/copyrights.png';
+import logoanchor from '../assets/logo-anchor.png';
 import logoyoutube from '../assets/logo-youtube.png';
 import logotwitter from '../assets/logo-twitter.png';
 import footer from '../assets/footer.png'
@@ -12,8 +13,9 @@ function Footer() {
             {/* Seção da Licença */}
             <div className="license">
                 <h6> LICENÇA </h6>
-                <p> Esta obra está licenciada sob uma licença Creative Commons </p>
-                <img src={copyrights} className="copyrights" alt="copyrights" />
+                <p> Esta obra está licenciada sob uma licença Creative Commons 
+                    <img src={copyrights} className="copyrights" alt="copyrights" />
+                </p>
             </div>
             <div className="gov">
                 <h6 className="first-item"> Secretaria de<br/>Educação a Distância </h6>
@@ -61,6 +63,10 @@ function Footer() {
                     </Link>   
 
                     <div className="social-midia">
+                        <a href="https://anchor.fm/matematica-multimidia" target="_blank" rel="noopener noreferrer">
+                            <img src={logoanchor} alt="anchor.fm" />
+                         </a>
+
                         <a href="https://www.youtube.com/user/matematicamultimidia/featured" target="_blank" rel="noopener noreferrer">
                             <img src={logoyoutube} alt="youtube" />
                         </a>
@@ -71,9 +77,6 @@ function Footer() {
                     </div>
                 </div>
             </div>
-            
-            {/* REMOVER ISSO AQUI DPS! */}
-            <br/><br/><br/>
         </>    
     )
 }

@@ -11,6 +11,10 @@
     flex-direction: row;
 }
 
+.license-mobile {
+    margin-top: 30px;
+}
+
 .license h6 {
     margin-right: 10px !important;
 }
@@ -29,6 +33,15 @@
     margin: auto;
     width: 100%;
     max-width: 960px;
+}
+
+.gov-mobile {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    max-width: 960px;
+    padding: 20px;
 }
 
 .gov h6 {
@@ -67,23 +80,13 @@
     z-index: -1 !important;
 }
 
-/* Função para que a TopHeader suma quando a tela tiver um tamanho <= 960px */
-
-@media only screen and (max-width: 960px) {
-    .blocos {
-        display: none;
-    }
-}
-
 
 /* Créditos e Links Extras */
 
 .texts {
     width: 100%;
     max-width: 960px;
-    margin-top: 60px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 60px auto;
     display: flex;
     flex-direction: row;
 }
@@ -91,6 +94,10 @@
 .credits {
     width: 50%;
     padding-left: 20px;
+}
+
+.credits-mobile {
+    width: 100% !important;
 }
 
 .credits a {
@@ -145,4 +152,17 @@
     width: 45px;
     height: 45px;
     padding: 10px;
+}
+
+.social-midia-mobile {
+    text-align: left;
+}
+
+.social-midia-mobile img {
+    width: 60px;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }

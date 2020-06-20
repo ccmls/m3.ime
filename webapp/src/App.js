@@ -11,6 +11,7 @@ import ScrollToTop from './components/ScrollToTop'
 import Header from './components/Header'
 import TopHeader from './components/TopHeader'
 import Footer from './components/Footer'
+import FooterMobile from './components/FooterMobile'
 import Home from './components/Home/Home'
 import Justificativa from './components/ExtraLinks/Justificativa'
 import Colaboradores from './components/ExtraLinks/Colaboradores'
@@ -22,6 +23,12 @@ function App() {
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {
+            if(window.innerWidth > 960) {
+                setIsMobile(false);
+            } else {
+                setIsMobile(true);
+            }
+
         window.addEventListener("resize", () => {
             if(window.innerWidth > 960) {
                 setIsMobile(false);
@@ -71,7 +78,7 @@ function App() {
 
             {/* FOOTER */}
             <div>
-                {isMobile? null:<Footer/>}
+                {isMobile? <FooterMobile/>:<Footer/>}
             </div>
 
     </Router>
