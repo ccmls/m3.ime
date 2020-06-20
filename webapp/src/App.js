@@ -18,6 +18,7 @@ import Historico from './components/ExtraLinks/Historico'
 
 function App() {
 
+    // Função para renderizar header+footer versão desktop OU mobile
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {
