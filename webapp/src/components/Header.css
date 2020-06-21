@@ -24,6 +24,7 @@
     top: 0px;
 }
 
+
 /* Estilo dos botões dropdown e do botão de Início */
 
 .header-dropdown-toggle {
@@ -43,6 +44,7 @@
 .header-dropdown-toggle:focus {
     box-shadow: none !important;
 }
+
 
 /* Animação da barrinha branca que cresce ao passar o mouse por cima das páginas */
 
@@ -66,6 +68,7 @@
     animation-duration: 0.6s;
 }
 
+
 /* Estilo do menu de dropdown e seus botões */
 
 .header-dropdown-menu {
@@ -83,8 +86,6 @@
     line-height: 25px !important;
     letter-spacing: 0.03em !important;
     font-weight: 400 !important;
-    /* white-space: normal;
-    word-wrap: normal; */
 }
 
 .header-dropdown-menu button:focus, .header-dropdown-menu button:active {
@@ -100,4 +101,35 @@
     height: 3.2px;
     background-color: white;
     margin-top: 8px;
+}
+
+
+/* Estilos para mobile */
+.collapse {
+    width: 100%;
+}
+
+.navbar {
+    background-color: #ED1C24 !important;
+}
+
+.header-dropdown-toggle-mobile {
+    color: #fff !important;
+    font-family: 'Signika', sans-serif !important;
+    font-size: 1rem !important;
+    line-height: 25px !important;
+    letter-spacing: 0.03em !important;
+    font-weight: 400 !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+button:active, button:focus {
+    outline: 0px !important;
+}
+
+.header-dropdown-menu-mobile {
+    max-height: 315px;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }

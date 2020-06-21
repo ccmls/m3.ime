@@ -7,15 +7,16 @@ import {
     Link,
     Redirect
 } from "react-router-dom";
-import ScrollToTop from './components/ScrollToTop'
-import Header from './components/Header'
-import TopHeader from './components/TopHeader'
-import Footer from './components/Footer'
-import FooterMobile from './components/FooterMobile'
-import Home from './components/Home/Home'
-import Justificativa from './components/ExtraLinks/Justificativa'
-import Colaboradores from './components/ExtraLinks/Colaboradores'
-import Historico from './components/ExtraLinks/Historico'
+import ScrollToTop from './components/ScrollToTop';
+import Header from './components/Header';
+import HeaderMobile from './components/HeaderMobile';
+import TopHeader from './components/TopHeader';
+import Footer from './components/Footer';
+import FooterMobile from './components/FooterMobile';
+import Home from './components/Home/Home';
+import Justificativa from './components/ExtraLinks/Justificativa';
+import Colaboradores from './components/ExtraLinks/Colaboradores';
+import Historico from './components/ExtraLinks/Historico';
 
 function App() {
 
@@ -44,8 +45,8 @@ function App() {
             {/* HEADER */}
             <div>
                 {isMobile? null:<TopHeader/>}
-                {isMobile? null:<Header/>}
-                {isMobile? null:<div className="tam-header" id="tam-header"/>}
+                {isMobile? <HeaderMobile/>:<Header/>}
+                {isMobile? <div className="tam-header-mobile"/>:<div className="tam-header" id="tam-header"/>}
             </div>
 
             {/* HOME */}

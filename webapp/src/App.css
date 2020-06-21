@@ -7,3 +7,9 @@
 .show-tam-header {
     display: block;
 }
+
+.tam-header-mobile {
+    height: 60px;
+    width: 100%;
+    display: block;
+}

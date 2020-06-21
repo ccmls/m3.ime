@@ -64,8 +64,7 @@ html ::-webkit-scrollbar{
 }
 
 html ::-webkit-scrollbar-track {
-    background-color: transparent;
-    border-radius: 10px;
+    background-color:#FFFFFF;
 }
 
 html ::-webkit-scrollbar-thumb {
