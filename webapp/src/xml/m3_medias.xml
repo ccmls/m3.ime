@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m3_medias>
+  <m3_media>
+    <id>1</id>
+    <title>Experimento</title>
+    <slug>experimento</slug>
+    <description>
+<![CDATA[
+Atividades práticas instigantes que podem ser feitas em uma ou duas aulas em que se constrói algum conceito ou formalização matemática. Esses experimentos contam com um roteiro explicativo para o professor, uma folha de acompanhamento para os alunos e um guia com informações adicionais ou complementares para o professor.
+]]>
+    </description>
+  </m3_media>
+  <m3_media>
+    <id>2</id>
+    <title>Vídeo</title>
+    <slug>video</slug>
+    <description>
+<![CDATA[
+Programas áudio-visuais de 10 minutos que servem para apresentação individual ou à sala de alunos com introdução de conceitos mas pouca formalização matemática. Eles podem fazer parte de uma série que tem características distintas.
+]]>
+    </description>
+  </m3_media>
+  <m3_media>
+    <id>3</id>
+    <title>Software</title>
+    <slug>software</slug>
+    <description>
+<![CDATA[
+Atividades com o uso de computadores para o estudo, aplicação ou formalização de conceitos de matemática do ensino médio. Estes softwares contêm várias informações para os alunos e existe um guia com explicações aprofundadas para o professor.
+]]>
+    </description>
+  </m3_media>
+  <m3_media>
+    <id>4</id>
+    <title>Áudio</title>
+    <slug>audio</slug>
+    <description>
+<![CDATA[
+Programas de áudio divididos em duas partes de 5 minutos cada, que podem ser ouvidos em grupo ou individualmente. Eles podem fazer parte de uma série que tem características distintas.
+]]>
+    </description>
+  </m3_media>
+</m3_medias>

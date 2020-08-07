@@ -14,6 +14,7 @@ import TopHeader from './components/TopHeader';
 import Footer from './components/Footer';
 import FooterMobile from './components/FooterMobile';
 import Home from './components/Home/Home';
+import RecursosEd from './components/Resources/RecursosEd';
 import Justificativa from './components/ExtraLinks/Justificativa';
 import Colaboradores from './components/ExtraLinks/Colaboradores';
 import Historico from './components/ExtraLinks/Historico';
@@ -59,7 +60,7 @@ function App() {
 
             {/* RECURSOS */}
             <Route path="/recursos">
-
+                <RecursosEd/>
             </Route>
 
             {/* JUSTIFICATIVA PEDAGÓGICA */}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m3_downloads_types>
+  <m3_downloads_type>
+    <id>1</id>
+    <name>Roteiro do Experimento</name>
+    <description>
+<![CDATA[
+Duas versões. A primeira, adequada para impressão caseira. A segunda, para visualização em tela:
+]]>
+    </description>
+    <file1_name>versão para impressão</file1_name>
+    <file2_name>versão para tela</file2_name>
+  </m3_downloads_type>
+  <m3_downloads_type>
+    <id>2</id>
+    <name>Guia do professor</name>
+    <description>
+<![CDATA[
+Duas versões. A primeira, adequada para impressão caseira. A segunda, para visualização em tela:
+]]>
+    </description>
+    <file1_name>versão para impressão</file1_name>
+    <file2_name>versão para tela</file2_name>
+  </m3_downloads_type>
+  <m3_downloads_type>
+    <id>3</id>
+    <name>Folha do aluno</name>
+    <description>
+<![CDATA[
+Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
+]]>
+    </description>
+    <file1_name>versão para impressão</file1_name>
+    <file2_name></file2_name>
+  </m3_downloads_type>
+  <m3_downloads_type>
+    <id>4</id>
+    <name>Vídeo</name>
+    <description></description>
+    <file1_name>vídeo completo</file1_name>
+    <file2_name></file2_name>
+  </m3_downloads_type>
+  <m3_downloads_type>
+    <id>5</id>
+    <name>Guia do professor</name>
+    <description>
+<![CDATA[
+Apenas uma versão para visualização em tela
+]]>
+    </description>
+    <file1_name></file1_name>
+    <file2_name>versão para tela</file2_name>
+  </m3_downloads_type>
+  <m3_downloads_type>
+    <id>6</id>
+    <name>Áudios</name>
+    <description></description>
+    <file1_name>Primeiro módulo</file1_name>
+    <file2_name>Segundo módulo</file2_name>
+  </m3_downloads_type>
+</m3_downloads_types>
