@@ -1,0 +1,30 @@
+.home-input {
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 0.9rem !important;
+    line-height: 18px !important;
+    font-weight: 300 !important;
+    color: #495057;
+    border: 1.5px solid #ced4da;
+    border-right: 0px !important;
+    border-radius: .25rem;
+    transition: none !important;
+}
+
+.home-input:focus {
+    box-shadow: none !important;
+    border: 1.5px solid #ED1C24 !important;
+    border-right: 0px !important;
+}
+
+.text-search-button {
+    height: 35.6px !important;
+    border: 0px !important;
+    padding: 9.8px 20px !important;
+    background-color: #ED1C24 !important;
+}
+
+.text-search-button p {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+}
