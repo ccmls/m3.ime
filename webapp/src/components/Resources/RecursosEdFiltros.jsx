@@ -1,19 +1,10 @@
 import React, { useState } from 'react';
-import './RecursosEdFiltros.css';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 
-function RecursosEdFiltros() {
-
-    const [filtrosOpen, setFiltrosOpen] = useState(false);
-
+function RecursosEdFiltros({filtrosOpen}) {
     return (
         <>
-            <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)}> 
-                <p>
-                    FILTRAR
-                </p> 
-            </Button>
             <Collapse isOpen={filtrosOpen}>
                 <Card style={{borderColor: "#f5f5f5", backgroundColor:"#f5f5f5"}}>
                     <CardBody>
