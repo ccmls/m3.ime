@@ -2,7 +2,7 @@
 .button {
     height: 35.6px !important;
     border: 0px !important;
-    padding: 9.8px 20px !important;
+    padding: 9.8px 12px !important;
     background-color: #ED1C24 !important;
 }
 
@@ -15,6 +15,11 @@
     font-weight: 600 !important;
 }
 
+.button:hover {
+    background-color: #000000 !important;
+    transition-duration: 0.3s;
+}
+
 .scroll-to-top-button {
     position: fixed;
     right: 60px;
@@ -24,6 +29,12 @@
     width: 60px;
     height: 60px;
     cursor: pointer;
+    z-index: 1000;
+}
+
+.scroll-to-top-button:hover {
+    background-color: #000000;
+    transition-duration: 0.6s;
 }
 
 .scroll-to-top-button img {
@@ -31,4 +42,27 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    height: 10px;
+    width: 20px;
+}
+
+.resources-card {
+    margin-top: 20px;
+    border: 1px solid #ED1C24;
+    border-radius: 0.25rem;
+    margin-right: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.resources-row {
+    margin-top: 0px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.resources-col {
+    padding: 0px 10px !important;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
 }

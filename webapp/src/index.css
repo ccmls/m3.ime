@@ -60,7 +60,7 @@ a {
 /* Scrollbar */
 
 html ::-webkit-scrollbar{
-    width: 5px;
+    width: 7px;
 }
 
 html ::-webkit-scrollbar-track {
@@ -74,4 +74,5 @@ html ::-webkit-scrollbar-thumb {
 
 html ::-webkit-scrollbar-thumb:hover {
     background: #AFAAD3;
+    transition-duration: 0.6s;
 }

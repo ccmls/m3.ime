@@ -32,6 +32,15 @@
     background-color: #ED1C24 !important;
 }
 
+.search-button:focus {
+    box-shadow: none !important;
+}
+
+.search-button:hover {
+    background-color: #000000 !important;
+    transition-duration: 0.3s;
+}
+
 .search-icon {
     vertical-align: baseline !important;
     margin-bottom: 1px !important;

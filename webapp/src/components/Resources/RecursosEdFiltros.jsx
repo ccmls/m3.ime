@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 
-function RecursosEdFiltros({filtrosOpen}) {
+function RecursosEdFiltros({filtrosOpen, numberOfResults}) {
     return (
         <>
             <Collapse isOpen={filtrosOpen}>
@@ -10,11 +10,11 @@ function RecursosEdFiltros({filtrosOpen}) {
                     <CardBody>
                         <Row style={{margin:"0"}}>
                             <Col lg="2" md="6" sm="12">
-                                <Row> <p><b>MÍDIA</b></p> </Row>
+                                <Row> <h6>MÍDIA</h6> </Row>
                             </Col>
 
                             <Col lg="4" md="6" sm="12">
-                                <Row> <p><b>ANÁLISE DE DADOS E PROBABILIDADE</b></p> </Row>
+                                <Row> <h6>ANÁLISE DE DADOS E PROBABILIDADE</h6> </Row>
                                 <Row> 
                                     <p>
                                         <br/>
@@ -40,11 +40,11 @@ function RecursosEdFiltros({filtrosOpen}) {
                             </Col>
 
                             <Col lg="3" md="6" sm="12">
-                                <Row> <p><b>GEOMETRIA E MEDIDAS</b></p> </Row>
+                                <Row> <h6>GEOMETRIA E MEDIDAS</h6> </Row>
                             </Col>
 
                             <Col lg="3" md="6" sm="12">
-                                <Row> <p><b>NÚMEROS E FUNÇÕES</b></p> </Row>
+                                <Row> <h6>NÚMEROS E FUNÇÕES</h6> </Row>
                                 <Row> 
                                     <p>
                                         <br/>
@@ -72,6 +72,9 @@ function RecursosEdFiltros({filtrosOpen}) {
                     </CardBody>
                 </Card>
             </Collapse>
+            <br/>
+            <p> Mostrando {numberOfResults} resultados. </p>
+            <p> Filtrando por: Experimentos / Vídeos / Conjuntos, lógica e números / Matrizes  </p>
         </>
     )
 }
