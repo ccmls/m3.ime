@@ -37,10 +37,13 @@ function RecursosEd() {
     const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")]
     console.log(rawResourcesArray)
     const resourcesArray = rawResourcesArray.map(rawResource => ({
+        title: rawResource.childNodes[7].textContent,
         m3_media_id: rawResource.childNodes[3].textContent,
-        title: rawResource.childNodes[9].textContent,
-        synopsis: rawResource.childNodes[13].textContent,
-        objectives: rawResource.childNodes[15].textContent,
+        topic: rawResource.childNodes[35].textContent,
+        serie: rawResource.childNodes[5].textContent,
+        synopsis: rawResource.childNodes[11].textContent,
+        objectives: rawResource.childNodes[13].textContent,
+        tags: rawResource.childNodes[33].textContent,
     }))
 
 
@@ -53,7 +56,7 @@ function RecursosEd() {
                             <Col className= "resources-col">
                                 <h2> {resource.title} </h2>
                                 <div  style={{marginTop: "10px"}}>
-                                    <p style={{color: "#ee2d32"}}> GEOMETRIA E MEDIDAS | NÚMEROS E FUNÇÕES </p>
+                                    <p style={{color: "#ee2d32"}}> {resource.topic} </p>
                                 </div>
                             </Col>
                             <Col className= "resources-col">
@@ -70,20 +73,7 @@ function RecursosEd() {
                         </Col>
                         <Col md="3" sm="12" className= "resources-col">
                             <h6> Conteúdos: </h6>
-                            <p> • Geometria plana
-                                <br/>
-                                • Otimização
-                                <br/>
-                                • Funções
-                                <br/>
-                                • Software educacional
-                                <br/>
-                                • Cinemática
-                                <br/>
-                                • Características das figuras 
-                                <br/>
-                                • Geométricas planas e espaciais
-                            </p>
+                            <p> {resource.tags} </p>
                         </Col>
                     </Row>
                 </div>

@@ -54,11 +54,11 @@ Maria Zoraide M. C. Soares, Miriam Sampieri Santinho, Rosa Maria Machado e Wilso
     </authors>
     <conteudos>
 <![CDATA[
-Trigonometria no triângulo retângulo, 
-distâncias, 
-experimento, 
-alturas, 
-Função tangente, 
+Trigonometria no triângulo retângulo,
+distâncias,
+experimento,
+alturas,
+Função tangente,
 ângulo
 ]]>
     </conteudos>
@@ -184,7 +184,7 @@ Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-experimento, construções com régua e compasso, geometria plana, arco capaz
+experimento,construções com régua e compasso,geometriz plana,arco capaz
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -241,7 +241,7 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Probabilidade, probabilidade condicional
+experimento,Probabilidade,probabilidade condicional
 ]]>
     </conteudos>
     <topicos>
@@ -303,7 +303,7 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-experimento, função logarítmica, cartas, truques, logaritmos, mágica
+experimento,função logarítmica,cartas,truques,logaritmos,mágica
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -360,7 +360,7 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e Maria Lúcia Bontorim de
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Fotografia, proporção, Proporcionalidade inversa, Proporcionalidade direta, Razão, câmara escura
+experimento,Fotografia,proporção,Proporcionalidade inversa,Proporcionalidade direta,Razão,câmara escura
 ]]>
     </conteudos>
     <topicos>
@@ -422,7 +422,7 @@ Maria Lúcia Bontorim de Queiroz, Claudina Izepe Rodrigues e Eliane Quelho Frota
     </authors>
     <conteudos>
 <![CDATA[
-experimento, princípio de cavalieri, geometria, espacial, cone, cilindro, esfera, volumes
+experimento,princípio de cavalieri,geometria,espacial,cone,cilindro,esfera,volumes
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -481,7 +481,7 @@ Cristiano Torezzan
     </authors>
     <conteudos>
 <![CDATA[
-experimento, topologia, mapas, teorema das quatro cores
+experimento,topologia,mapas,teorema das quatro cores
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -539,9 +539,14 @@ Samuel Rocha de Oliveira
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Problemas de otimização., Geometria Plana
+experimento,Problemas de otimização.,Geometria Plana
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1002
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -596,9 +601,14 @@ Carlos Roberto da Silva, Lourival Pereira Martins e Marcelo de Melo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Sequências, Progressão Aritmética, PA.
+experimento,Sequências,Progressão Aritmética,PA.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1003
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -655,9 +665,14 @@ Miriam Sampieri Santinho, Rosa Maria Machado e Wilson Roberto Rodrigues
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Geometria Plana, Paralelismo entre Planos, Curvas de nível, Projeções Ortogonais, Geometria Espacial, representação
+experimento,Geometria Plana,Paralelismo entre Planos,Curvas de nível,Projeções Ortogonais,Geometria Espacial,representação
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1004
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -712,9 +727,14 @@ Leonardo Barichello, Samuel Rocha de Oliveira
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Princípio Fundamental da Contagem, Técnicas de Contagem, Combinatória
+experimento,Princípio Fundamental da Contagem,Técnicas de Contagem,Combinatória
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1005
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -776,7 +796,7 @@ Lourival Pereira Martins, Carlos Roberto Silva, Marcelo de Melo, Rita Santos Gui
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Equação, elástico, dinamômetro, Aplicação., lei de hooke, Coeficientes, Gráfico, Função Afim
+experimento,Equação,elástico,dinamômetro,Aplicação.,lei de hooke,Coeficientes,Gráfico,Função Afim
 ]]>
     </conteudos>
     <foreign_key>
@@ -840,7 +860,7 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e Maria Lúcia Bontorim de
     </authors>
     <conteudos>
 <![CDATA[
-matemática, experimento, Geometria Espacial, Geometria Métrica, volume, Números irracionais., cubo., Conjuntos Numéricos
+matemática,experimento,Geometria Espacial,Geometria Métrica,volume,Números irracionais.,cubo.,Conjuntos Numéricos
 ]]>
     </conteudos>
     <foreign_key>
@@ -903,7 +923,7 @@ Maria Zoraide M. C. Soares
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Probabilidade, decaimento, Produto Cartesiano, Relações e Funções, Função Decrescente, Função Exponencial., exponencial
+experimento,Probabilidade,decaimento,Produto Cartesiano,Relações e Funções,Função Decrescente,Função Exponencial.,exponencial
 ]]>
     </conteudos>
     <foreign_key>
@@ -965,7 +985,7 @@ Cristiano Torezzan, Maria Inês Sparrapan Muniz, Miriam Sampiere Santinho e Sam
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Problemas de otimização., Geometria Plana, Geometria Espacial, empacotamento, Áreas, encaixe, Perímetros., esferas, ladrilhamento
+experimento,Problemas de otimização.,Geometria Plana,Geometria Espacial,empacotamento,Áreas,encaixe,Perímetros.,esferas,ladrilhamento
 ]]>
     </conteudos>
     <foreign_key>
@@ -1028,7 +1048,7 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende, Luiz Fernando Giolo Alve
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Geometria Plana, Semelhança de triângulos, Relações trigonométricas em um triângulo, túnel, direção, engenharia
+experimento,Geometria Plana,Semelhança de triângulos,Relações trigonométricas em um triângulo,túnel,direção,engenharia
 ]]>
     </conteudos>
     <foreign_key>
@@ -1091,7 +1111,7 @@ Laura L. R. Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, proporção, Proporcionalidade inversa, Proporcionalidade direta, Razão, fluidos, funil
+experimento,proporção,Proporcionalidade inversa,Proporcionalidade direta,Razão,fluidos,funil
 ]]>
     </conteudos>
     <foreign_key>
@@ -1159,7 +1179,7 @@ Samuel Rocha de Oliveira, Rita Santos Guimarães
     </authors>
     <conteudos>
 <![CDATA[
-experimento, ângulos, Geometria Plana, polígonos, Simetrias
+experimento,ângulos,Geometria Plana,polígonos,Simetrias
 ]]>
     </conteudos>
     <foreign_key>
@@ -1222,7 +1242,7 @@ Cristiano Torezzan
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Geometria Espacial, sólidos, palitos, contrução, Geometria Métrica
+experimento,Geometria Espacial,sólidos,palitos,contrução,Geometria Métrica
 ]]>
     </conteudos>
     <foreign_key>
@@ -1285,7 +1305,7 @@ Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-experimento, condição, conjuntos, Noções de Lógica., Lógica e Números, lógica, condições
+experimento,condição,conjuntos,Noções de Lógica.,Lógica e Números,lógica,condições
 ]]>
     </conteudos>
     <foreign_key>
@@ -1348,7 +1368,7 @@ Marcelo Firer, Kauan Pastini Paula Leite
     </authors>
     <conteudos>
 <![CDATA[
-distâncias, experimento, Geometria Plana, geometria analítica, reta, reflexão, ponto, otimização
+distâncias,experimento,Geometria Plana,geometria analítica,reta,reflexão,ponto,otimização
 ]]>
     </conteudos>
     <foreign_key>
@@ -1413,7 +1433,7 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Probabilidade, transitividade, Representação gráfica, Eventos equiprováveis, dados não-transitivos, Independência
+experimento,Probabilidade,transitividade,Representação gráfica,Eventos equiprováveis,dados não-transitivos,Independência
 ]]>
     </conteudos>
     <foreign_key>
@@ -1480,7 +1500,7 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Probabilidade, probabilidade condicional, Representação gráfica, Independência, Análise de Jogos.
+experimento,Probabilidade,probabilidade condicional,Representação gráfica,Independência,Análise de Jogos.
 ]]>
     </conteudos>
     <foreign_key>
@@ -1546,7 +1566,7 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Probabilidade, divisão, Análise de Jogos., Estatística, divisores, divisibilidade, Interpretação de Gráficos e Dados.
+experimento,Probabilidade,divisão,Análise de Jogos.,Estatística,divisores,divisibilidade,Interpretação de Gráficos e Dados.
 ]]>
     </conteudos>
     <foreign_key>
@@ -1610,7 +1630,7 @@ Rita Santos Guimarães
     </authors>
     <conteudos>
 <![CDATA[
-experimento, mágica, base 2, truque, números binários, base binário
+experimento,mágica,base 2,truque,números binários,base binário
 ]]>
     </conteudos>
     <foreign_key>
@@ -1673,7 +1693,7 @@ Leonardo Barichello, Marcelo Firer, Cristiano Torezzan
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Matriz Inversa, Matrizes, criptografia., Determinantes, multiplicação
+experimento,Matriz Inversa,Matrizes,criptografia.,Determinantes,multiplicação
 ]]>
     </conteudos>
     <foreign_key>
@@ -1740,7 +1760,7 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-distâncias, experimento, Geometria Plana, Geometria Espacial, Semelhança de triângulos, polígonos, geometria analítica, montanhas, poliedros, arestas
+distâncias,experimento,Geometria Plana,Geometria Espacial,Semelhança de triângulos,polígonos,geometria analítica,montanhas,poliedros,arestas
 ]]>
     </conteudos>
     <foreign_key>
@@ -1803,7 +1823,7 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende, Maria Lúcia Bontorim de 
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Princípio Fundamental da Contagem, Combinatória, conjuntos, lógica, divisibilidade, Números
+experimento,Princípio Fundamental da Contagem,Combinatória,conjuntos,lógica,divisibilidade,Números
 ]]>
     </conteudos>
     <foreign_key>
@@ -1866,7 +1886,7 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e Maria Lúcia Bontorim de
     </authors>
     <conteudos>
 <![CDATA[
-experimento, PG, Progressão Geométrica, fractal, Sequência, Soma de Progressões Geométricas
+experimento,PG,Progressão Geométrica,fractal,Sequência,Soma de Progressões Geométricas
 ]]>
     </conteudos>
     <foreign_key>
@@ -1928,7 +1948,7 @@ Sueli I. Costa, Kauan Pastini Paula Leite
     </authors>
     <conteudos>
 <![CDATA[
-experimento, otimização, lixeira, circuncentro, triângulo
+experimento,otimização,lixeira,circuncentro,triângulo
 ]]>
     </conteudos>
     <foreign_key>
@@ -1986,12 +2006,12 @@ published
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
-Palavras-chave: Unicamp, Projeto M³, experimento, matemática, Função Quadrática, Gráficos, Geometria Plana, Área, Perímetro, isoperimétrico.
+Palavras-chave: Unicamp, Projeto M³, experimento, matemática, Função Quadrática, Gráficos,Geometria Plana, Área, Perímetro, isoperimétrico.
 ]]>
     </authors>
     <conteudos>
 <![CDATA[
-matemática, experimento, Geometria Plana, Perímetro, isoperimétrico., Função Quadrática, Gráficos, Área
+matemática,experimento,Geometria Plana,Perímetro,isoperimétrico.,Função Quadrática,Gráficos,Área
 ]]>
     </conteudos>
     <foreign_key>
@@ -2054,7 +2074,7 @@ Leonardo Barichello, Kauan Pastini Paula Leite, Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Geometria Plana, ladrilhamento, polígonos, Simetrias, recobrimento do plano
+experimento,Geometria Plana,ladrilhamento,polígonos,Simetrias,recobrimento do plano
 ]]>
     </conteudos>
     <foreign_key>
@@ -2117,7 +2137,7 @@ Laura Letícia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Estatística, inferência., Análise de dados
+experimento,Estatística,inferência.,Análise de dados
 ]]>
     </conteudos>
     <foreign_key>
@@ -2184,7 +2204,7 @@ Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Progressão Aritmética, quadrados mágicos
+experimento,Progressão Aritmética,quadrados mágicos
 ]]>
     </conteudos>
     <foreign_key>
@@ -2247,7 +2267,7 @@ Samuel Rocha de Oliveira, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Geometria Plana, Áreas, Perímetros., Quadriláteros, teorema de pick
+experimento,Geometria Plana,Áreas,Perímetros.,Quadriláteros,teorema de pick
 ]]>
     </conteudos>
     <foreign_key>
@@ -2310,7 +2330,7 @@ Sueli Irene R. Costa, Cristaino Torezzan
     </authors>
     <conteudos>
 <![CDATA[
-experimento, cone, Geometria Espacial, otimização, setor circular., volume
+experimento,cone,Geometria Espacial,otimização,setor circular.,volume
 ]]>
     </conteudos>
     <foreign_key>
@@ -2368,12 +2388,12 @@ published
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
-Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende, Maria Lúcia Bontorim de Queiroz, 
+Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende, Maria Lúcia Bontorim de Queiroz,
 ]]>
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Geometria Plana, Geometria Espacial, otimização, Prisma., Áreas e PerímetrosVolume
+experimento,Geometria Plana,Geometria Espacial,otimização,Prisma.,Áreas e PerímetrosVolume
 ]]>
     </conteudos>
     <foreign_key>
@@ -2444,7 +2464,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, Geometria Espacial, Áreas, sólidos, superfícies
+Geometria Plana,Geometria Espacial,Áreas,sólidos,superfícies
 ]]>
     </conteudos>
     <foreign_key>
@@ -2509,7 +2529,7 @@ Maria Zoraide M. C. Soares
     </authors>
     <conteudos>
 <![CDATA[
-experimento, função periódica, máximos e mínimos., oscilação
+experimento,função periódica,máximos e mínimos.,oscilação
 ]]>
     </conteudos>
     <foreign_key>
@@ -2577,7 +2597,7 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Estatística, Interpretação de Gráficos e Dados.
+experimento,Estatística,Interpretação de Gráficos e Dados.
 ]]>
     </conteudos>
     <foreign_key>
@@ -2640,16 +2660,16 @@ published
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
-Felipe M. Bittencourt Lima, 
-Leonardo Barichello, 
-Rita Santos Guimarães, 
+Felipe M. Bittencourt Lima,
+Leonardo Barichello,
+Rita Santos Guimarães,
 Claudina Izepe Rodrigues e
 Sueli I. R. Costa
 ]]>
     </authors>
     <conteudos>
 <![CDATA[
-experimento, geometria do táxi, binômio de newton, geometria do taxista, Combinação, Triângulo de Pascal., Análise Combinatória
+experimento,geometria do táxi,binômio de newton,geometria do taxista,Combinação,Triângulo de Pascal.,Análise Combinatória
 ]]>
     </conteudos>
     <foreign_key>
@@ -2725,7 +2745,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-função quadrática, otimização, gráfico
+função quadrática,otimização,gráfico
 ]]>
     </conteudos>
     <foreign_key>
@@ -2735,7 +2755,7 @@ função quadrática, otimização, gráfico
     </foreign_key>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
   </m3_resource>
@@ -2789,15 +2809,15 @@ published
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
-Claudina Izepe Rodrigues, 
-Edmundo Capelas de Oliveira, 
+Claudina Izepe Rodrigues,
+Edmundo Capelas de Oliveira,
 Eliane Quelho Frota Rezende e
 Maria Lúcia Bontorim de Queiroz
 ]]>
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Números complexos, Argand-Gauss, dilatação, translação, rotação, transformações geométricas
+experimento,Números complexos,Argand-Gauss,dilatação,translação,rotação,transformações geométricas
 ]]>
     </conteudos>
     <foreign_key>
@@ -2860,7 +2880,7 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-experimento, Representação gráfica, Estatística, Correlação.
+experimento,Representação gráfica,Estatística,Correlação.
 ]]>
     </conteudos>
     <foreign_key>
@@ -2927,7 +2947,7 @@ Claudina Izepe Rodrigues e Sueli I. R. Costa
     </authors>
     <conteudos>
 <![CDATA[
-experimento, princípio de cavalieri, Geometria Espacial, Volume de Pirâmides, planificação.
+experimento,princípio de cavalieri,Geometria Espacial,Volume de Pirâmides,planificação.
 ]]>
     </conteudos>
     <foreign_key>
@@ -3003,7 +3023,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-princípio de cavalieri, volumes, Áreas, sólidos, prismas
+princípio de cavalieri,volumes,Áreas,sólidos,prismas
 ]]>
     </conteudos>
     <foreign_key>
@@ -3082,7 +3102,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-noções de cálculo, limite de funções, Paradoxo de Zenão, Paradoxo de Zenon
+noções de cálculo,limite de funções,Paradoxo de Zenão,Paradoxo de Zenon
 ]]>
     </conteudos>
     <foreign_key>
@@ -3155,7 +3175,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-prismas, figuras geometricas
+prismas,figuras geometricas
 ]]>
     </conteudos>
     <foreign_key>
@@ -3236,7 +3256,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Correlação., causalidade, estatística descritiva, fator de confusão
+Correlação.,causalidade,estatística descritiva,fator de confusão
 ]]>
     </conteudos>
     <foreign_key>
@@ -3315,7 +3335,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Seqüência de Fibonacci, números de Pell e arazão prateada., númerode ouro
+Seqüência de Fibonacci,números de Pell e arazão prateada.,númerode ouro
 ]]>
     </conteudos>
     <foreign_key>
@@ -3391,7 +3411,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-estimativas, notação científica, Potências de 10
+estimativas,notação científica,Potências de 10
 ]]>
     </conteudos>
     <foreign_key>
@@ -3465,7 +3485,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-relações trigonometricas, Trigonometria
+relações trigonometricas,Trigonometria
 ]]>
     </conteudos>
     <foreign_key>
@@ -3539,7 +3559,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-relações trigonometricas, Trigonometria, cosseno
+relações trigonometricas,Trigonometria,cosseno
 ]]>
     </conteudos>
     <foreign_key>
@@ -3613,7 +3633,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Trigonometria, Cosseno da diferença
+Trigonometria,Cosseno da diferença
 ]]>
     </conteudos>
     <foreign_key>
@@ -3688,7 +3708,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Progressão Aritmética, propriedade comutativa da soma, Simetria, Quadrado Mágico, valor médio
+Progressão Aritmética,propriedade comutativa da soma,Simetria,Quadrado Mágico,valor médio
 ]]>
     </conteudos>
     <foreign_key>
@@ -3847,7 +3867,7 @@ h2. Revisores
     <conteudos>
 <![CDATA[
 funções
-polinomiais, fractais.
+polinomiais,fractais.
 ]]>
     </conteudos>
     <foreign_key>
@@ -3923,7 +3943,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-desvio padrão., média
+desvio padrão.,média
 ]]>
     </conteudos>
     <foreign_key>
@@ -4003,7 +4023,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, dados
+Probabilidade,dados
 ]]>
     </conteudos>
     <foreign_key>
@@ -4184,7 +4204,7 @@ André precisa tomar uma decisão crucial em sua vida. Mas como escolher a melho
     </synopsis>
     <objectives>
 <![CDATA[
-Aplicar o cálculo de probabilidades, Apresentar a interpretação subjetivista de probabilidade, Introduzir aspectos de teoria de decisão
+Aplicar o cálculo de probabilidades, Apresentar a interpretação subjetivista de probabilidade,Introduzir aspectos de teoria de decisão
 
 ]]>
     </objectives>
@@ -4231,7 +4251,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, decisão, análise subjetiva
+Probabilidade,decisão,análise subjetiva
 ]]>
     </conteudos>
     <foreign_key>
@@ -4303,7 +4323,7 @@ h2. Autores
 
 h2. Revisores
 				
-*conteudo* Claudina Izepe Rodrigues, Eliane Quelho
+*conteudo* Claudina Izepe Rodrigues,  Eliane Quelho
 Frota Rezende e  Maria Lucia Bontorim de Queiroz
 *roteiro* Frederico Gualberto de Souza, Sarah Yakhni
 *guia* Samuel Rocha de Oliveira
@@ -4387,7 +4407,7 @@ h2. Revisores
     <conteudos>
 <![CDATA[
 número
-de ouro, secção áurea, sequência de Fibonacci
+de ouro,secção áurea,sequência de Fibonacci
 ]]>
     </conteudos>
     <foreign_key>
@@ -4461,7 +4481,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Gráficos, gráfico de barras, gráfico de pizza
+Gráficos,gráfico de barras,gráfico de pizza
 ]]>
     </conteudos>
     <foreign_key>
@@ -4540,7 +4560,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-grafos, caminhos
+grafos,caminhos
 ]]>
     </conteudos>
     <foreign_key>
@@ -4615,7 +4635,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Semelhança de triângulos, Trigonometria, teorema de pitágoras
+Semelhança de triângulos,Trigonometria,teorema de pitágoras
 ]]>
     </conteudos>
     <foreign_key>
@@ -4690,7 +4710,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Combinação, História da matemática, Problema dos pontos
+Probabilidade,Combinação,História da matemática,Problema dos pontos
 ]]>
     </conteudos>
     <foreign_key>
@@ -4770,7 +4790,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-domínio de uma função, coeficiente angular, Função inversa, Funções
+domínio de uma função,coeficiente angular,Função inversa,Funções
 ]]>
     </conteudos>
     <foreign_key>
@@ -4929,7 +4949,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Combinação, permutação, fatorial, arranjo, análise combinatóra
+Combinação,permutação,fatorial,arranjo,análise combinatóra
 ]]>
     </conteudos>
     <foreign_key>
@@ -5009,7 +5029,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-razão de semelhança, proporcionalidade
+razão de semelhança,proporcionalidade
 ]]>
     </conteudos>
     <foreign_key>
@@ -5085,7 +5105,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-criptografia., História
+criptografia.,História
 ]]>
     </conteudos>
     <foreign_key>
@@ -5166,7 +5186,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-piscina, Sequências numéricas, limite de sequências, porcentagem, cloro, padrões de
+piscina,Sequências numéricas,limite de sequências,porcentagem,cloro,padrões de
         medida
 ]]>
     </conteudos>
@@ -5243,7 +5263,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Sequências numéricas, Conjuntos dos números naturais
+Sequências numéricas,Conjuntos dos números naturais
 ]]>
     </conteudos>
     <foreign_key>
@@ -5317,7 +5337,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, experimentos equiprováveis, fenômenos aleatórios
+Probabilidade,experimentos equiprováveis,fenômenos aleatórios
 ]]>
     </conteudos>
     <foreign_key>
@@ -5349,7 +5369,7 @@ Juliana precisa saber com quem sua irmã sairá daqui a três dias. Com ajuda de
     </synopsis>
     <objectives>
 <![CDATA[
-Aplicar o cálculo de probabilidades, 
+Aplicar o cálculo de probabilidades,
 Definir probabilidade condicional, Introduzir cadeias de Markov.
 
 ]]>
@@ -5468,7 +5488,7 @@ h2. Autores
 
 h2. Revisores
 				
-*conteudo* Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
+*conteudo* Claudina Izepe Rodrigues,  Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
 *roteiro* Frederico Gualberto de Souza, Sarah Yakhni
 *guia* Samuel Rocha de Oliveira
 *graficos_formulas* Raphael Garcia
@@ -5477,7 +5497,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Progressões Aritméticas, Esfera e fusos
+Progressões Aritméticas,Esfera e fusos
 ]]>
     </conteudos>
     <foreign_key>
@@ -5552,7 +5572,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-sistemas lineares, eliminação de Gauss
+sistemas lineares,eliminação de Gauss
 ]]>
     </conteudos>
     <foreign_key>
@@ -5626,7 +5646,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-circuncentro, Pontos notáveis do triângulo
+circuncentro,Pontos notáveis do triângulo
 ]]>
     </conteudos>
     <foreign_key>
@@ -5706,7 +5726,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-lógica, Teoria dos conjuntos, Raciocínio dedutivo
+lógica,Teoria dos conjuntos,Raciocínio dedutivo
 ]]>
     </conteudos>
     <foreign_key>
@@ -5777,7 +5797,7 @@ h2. Autores
 
 h2. Revisores
 				
-*conteudo* Claudina Izepe Rodrigues, Eliane Quelho F. Rezende, Maria Lucia B DE Queiroz
+*conteudo* Claudina Izepe Rodrigues, Eliane Quelho F. Rezende,  Maria Lucia B DE Queiroz
 *roteiro* Sarah Yakhni, Frederico Gualberto Jardim
 *guia* Samuel Rocha de Oliveira
 *graficos_formulas* Raphael Garcia
@@ -5786,7 +5806,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, tabelas, solução de problemas
+Matrizes,tabelas,solução de problemas
 ]]>
     </conteudos>
     <foreign_key>
@@ -5863,7 +5883,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, ovo de colombo, planejamento de experimentos
+Estatística,ovo de colombo,planejamento de experimentos
 ]]>
     </conteudos>
     <foreign_key>
@@ -5942,7 +5962,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Área, volume, áreas e volumes., Figuras semelhantes, comprimento, fator de escala
+Área,volume,áreas e volumes.,Figuras semelhantes,comprimento,fator de escala
 ]]>
     </conteudos>
     <foreign_key>
@@ -6016,7 +6036,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, probabilidade condicional
+Probabilidade,probabilidade condicional
 ]]>
     </conteudos>
     <foreign_key>
@@ -6101,7 +6121,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria analítica, Trigonometria, geografia, astronomia
+geometria analítica,Trigonometria,geografia,astronomia
 ]]>
     </conteudos>
     <foreign_key>
@@ -6111,7 +6131,7 @@ geometria analítica, Trigonometria, geografia, astronomia
     </foreign_key>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -6181,7 +6201,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-permutação, mmc, mínimo múltiplo comum.
+permutação,mmc,mínimo múltiplo comum.
 ]]>
     </conteudos>
     <foreign_key>
@@ -6338,7 +6358,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Princípio Fundamental da Contagem, Combinatória, fatorial
+Princípio Fundamental da Contagem,Combinatória,fatorial
 ]]>
     </conteudos>
     <foreign_key>
@@ -6413,7 +6433,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, Correlação., correlações espúrias
+Estatística,Correlação.,correlações espúrias
 ]]>
     </conteudos>
     <foreign_key>
@@ -6648,7 +6668,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-divisão, anos bissextos, algoritmo de Euclides
+divisão,anos bissextos,algoritmo de Euclides
 ]]>
     </conteudos>
     <foreign_key>
@@ -6722,7 +6742,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Decrescente, Função Quadrática, função periódica, função par, função crescente, função ímpar
+Função Decrescente,Função Quadrática,função periódica,função par,função crescente,função ímpar
 ]]>
     </conteudos>
     <foreign_key>
@@ -6801,7 +6821,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-lógica, Teoria dos Jogos
+lógica,Teoria dos Jogos
 ]]>
     </conteudos>
     <foreign_key>
@@ -6875,7 +6895,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Sequências, números de Catalan
+Sequências,números de Catalan
 ]]>
     </conteudos>
     <foreign_key>
@@ -6897,7 +6917,7 @@ Direitos do consumidor
     <duration></duration>
     <synopsis>
 <![CDATA[
-Uma consumidora quer saber a forma mais vantajosa de gastar o crédito de  R$50, 00 cobrado indevidamente na sua conta telefônica mensal.
+Uma consumidora quer saber a forma mais vantajosa de gastar o crédito de  R$50,00 cobrado indevidamente na sua conta telefônica mensal.
 ]]>
     </synopsis>
     <objectives>
@@ -6951,7 +6971,7 @@ Maria Lucia B DE Queiroz
     </authors>
     <conteudos>
 <![CDATA[
-Função Afim, função linear
+Função Afim,função linear
 ]]>
     </conteudos>
     <foreign_key>
@@ -7025,8 +7045,8 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Exponencial., Matemática
-Financeira, Progressões geométricas, Juros.
+Função Exponencial.,Matemática
+Financeira,Progressões geométricas,Juros.
 ]]>
     </conteudos>
     <foreign_key>
@@ -7100,7 +7120,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, baricentro, centro de massa.
+Geometria Plana,baricentro,centro de massa.
 ]]>
     </conteudos>
     <foreign_key>
@@ -7175,7 +7195,7 @@ h2. Revisores
     <conteudos>
 <![CDATA[
 funções
-polinomiais, Polinômio
+polinomiais,Polinômio
 ]]>
     </conteudos>
     <foreign_key>
@@ -7185,7 +7205,7 @@ polinomiais, Polinômio
     </foreign_key>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -7255,7 +7275,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Equação quadrática, Polya, Proporção Áurea, Descartes, Resolução de Problemas
+Equação quadrática,Polya,Proporção Áurea,Descartes,Resolução de Problemas
 ]]>
     </conteudos>
     <foreign_key>
@@ -7338,7 +7358,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Semelhança de triângulos, Eupalinos
+Semelhança de triângulos,Eupalinos
 ]]>
     </conteudos>
     <foreign_key>
@@ -7417,7 +7437,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Equação quadrática, raízes de uma função quadrática, Viète, Bhaskara
+Equação quadrática,raízes de uma função quadrática,Viète,Bhaskara
 ]]>
     </conteudos>
     <foreign_key>
@@ -7444,7 +7464,7 @@ A experiência
     <duration></duration>
     <synopsis>
 <![CDATA[
-Ao discutir com sua professora Sarah os problemas surgidos em sua pesquisa, Verena aprende algumas técnicas de planejamento de experimento e os cuidados que ela deve tomar a fim de obter resultados que sejam confiáveis.
+Ao discutir com sua professora Sarah os problemas surgidos em sua pesquisa,  Verena aprende algumas técnicas de planejamento de experimento e os cuidados que ela deve tomar a fim de obter resultados que sejam confiáveis.
 ]]>
     </synopsis>
     <objectives>
@@ -7497,7 +7517,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-experimento, tese, hipótese, método científico
+experimento,tese,hipótese,método científico
 ]]>
     </conteudos>
     <foreign_key>
@@ -7565,7 +7585,7 @@ h2. Autores
 *conteudo* Miriam Sampieri Santinho, Maria Inês Sparrapan Muniz, Wilson Roberto
             Rodrigues
 *roteiro* Natalia Freitas Reis
-*guia* Antonio Marcos Gabetta Junior, Gislaine Maria R. de Almeida, Ligiane Aline Roque, 
+*guia* Antonio Marcos Gabetta Junior, Gislaine Maria R. de Almeida, Ligiane Aline Roque,
             Lislene Heloisa Alves
 
 h2. Revisores
@@ -7579,7 +7599,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-cubagem, volume de cilindro, volume de cone
+cubagem,volume de cilindro,volume de cone
 ]]>
     </conteudos>
     <foreign_key>
@@ -7653,7 +7673,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, criptografia.
+Matrizes,criptografia.
 ]]>
     </conteudos>
     <foreign_key>
@@ -7801,7 +7821,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria da Terra, circunferência da Terra
+Geometria da Terra,circunferência da Terra
 ]]>
     </conteudos>
     <foreign_key>
@@ -7875,7 +7895,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria da Terra, longitude, latitude
+Geometria da Terra,longitude,latitude
 ]]>
     </conteudos>
     <foreign_key>
@@ -7950,7 +7970,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria da Terra, temperatura, movimentos da Terra
+Geometria da Terra,temperatura,movimentos da Terra
 ]]>
     </conteudos>
     <foreign_key>
@@ -8025,7 +8045,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria da Terra, movimentos da Terra, estações do ano
+Geometria da Terra,movimentos da Terra,estações do ano
 ]]>
     </conteudos>
     <foreign_key>
@@ -8104,7 +8124,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria da Terra, fusos horários
+Geometria da Terra,fusos horários
 ]]>
     </conteudos>
     <foreign_key>
@@ -8177,7 +8197,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria da Terra, GPS.
+Geometria da Terra,GPS.
 ]]>
     </conteudos>
     <foreign_key>
@@ -8401,7 +8421,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, probabilidade condicional
+Probabilidade,probabilidade condicional
 ]]>
     </conteudos>
     <foreign_key>
@@ -8482,7 +8502,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Álgebra, sitema de numeração decimal
+Álgebra,sitema de numeração decimal
 ]]>
     </conteudos>
     <foreign_key>
@@ -8557,7 +8577,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, Sistemas de equações lineares
+Matrizes,Sistemas de equações lineares
 ]]>
     </conteudos>
     <foreign_key>
@@ -8632,7 +8652,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-cone, planificação.
+cone,planificação.
 ]]>
     </conteudos>
     <foreign_key>
@@ -8711,7 +8731,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-coordenadas cartesianas, geometria na esfera, Coordenadas geográficas
+coordenadas cartesianas,geometria na esfera,Coordenadas geográficas
 ]]>
     </conteudos>
     <foreign_key>
@@ -8787,7 +8807,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-proporção, Frações, Razão
+proporção,Frações,Razão
 ]]>
     </conteudos>
     <foreign_key>
@@ -8862,7 +8882,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-representação hexadecimal, bases numéricas, representação binária
+representação hexadecimal,bases numéricas,representação binária
 ]]>
     </conteudos>
     <foreign_key>
@@ -8936,7 +8956,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Infinito., paradoxo, Hilbert
+Infinito.,paradoxo,Hilbert
 ]]>
     </conteudos>
     <foreign_key>
@@ -9011,7 +9031,7 @@ h2. Revisores
     <conteudos>
 <![CDATA[
 Matemática
-Financeira, poupança, empréstimo, juros compostos
+Financeira,poupança,empréstimo,juros compostos
 ]]>
     </conteudos>
     <foreign_key>
@@ -9086,7 +9106,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-modelagem matemática, Fundamentos da economia
+modelagem matemática,Fundamentos da economia
 ]]>
     </conteudos>
     <foreign_key>
@@ -9162,7 +9182,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-conjuntos infinitos, Cardinalidade, infinitos, Redução ao Absurdo, Diagonal de Cantor
+conjuntos infinitos,Cardinalidade,infinitos,Redução ao Absurdo,Diagonal de Cantor
 ]]>
     </conteudos>
     <foreign_key>
@@ -9238,7 +9258,7 @@ Maria Lucia de Queiroz
     </authors>
     <conteudos>
 <![CDATA[
-geometria analítica, pontos, sistema cartesiano
+geometria analítica,pontos,sistema cartesiano
 ]]>
     </conteudos>
     <foreign_key>
@@ -9312,7 +9332,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Análise Combinatória, música, Mozart
+Probabilidade,Análise Combinatória,música,Mozart
 ]]>
     </conteudos>
     <foreign_key>
@@ -9472,7 +9492,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Juros., convergência de seqüências numéricas, funções exponenciais
+Juros.,convergência de seqüências numéricas,funções exponenciais
 ]]>
     </conteudos>
     <foreign_key>
@@ -9628,7 +9648,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-problema isoperimétrico, área máxima
+problema isoperimétrico,área máxima
 ]]>
     </conteudos>
     <foreign_key>
@@ -9702,7 +9722,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Alice, Lógica formal, lógica informal
+Alice,Lógica formal,lógica informal
 ]]>
     </conteudos>
     <foreign_key>
@@ -9777,8 +9797,8 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-criptografia., fatorial, sorteio, segurança de
-        informações, criptoanálise, computador, códigos, decodificação, Cifra de César
+criptografia.,fatorial,sorteio,segurança de
+        informações,criptoanálise,computador,códigos,decodificação,Cifra de César
 ]]>
     </conteudos>
     <foreign_key>
@@ -9788,7 +9808,7 @@ criptografia., fatorial, sorteio, segurança de
     </foreign_key>
     <topicos>
 <![CDATA[
-análise de dados e probabilidade, números e funções
+análise de dados e probabilidade,números e funções
 ]]>
     </topicos>
      
@@ -9857,7 +9877,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-logaritmos, música, Proporções, Luthier
+logaritmos,música,Proporções,Luthier
 ]]>
     </conteudos>
     <foreign_key>
@@ -9959,7 +9979,7 @@ A jovem Fabiana assistindo a um programa de tv onde tem um mágico que usa mudan
     <objectives>
 <![CDATA[
 Apresentar uma aplicação curiosa de operações aritméticas, 
-Reforçar o sistema decimal, 
+Reforçar o sistema decimal,  
 Mostrar outros sistemas numerais com base diferente
 
 ]]>
@@ -10009,7 +10029,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Álgebra, base numerica
+Álgebra,base numerica
 ]]>
     </conteudos>
     <foreign_key>
@@ -10082,7 +10102,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-volume de pirâmide, tronco de pirâmide
+volume de pirâmide,tronco de pirâmide
 ]]>
     </conteudos>
     <foreign_key>
@@ -10104,7 +10124,7 @@ A mancha
     <duration></duration>
     <synopsis>
 <![CDATA[
-Preoucupado com uma mancha de poluentes químicos que se aproxima de sua cidade, um agricultor procura a ajuda de um amigo para evitar uma catástrofe. O amigo por sua vez sugere um modelo matemático para analisar o problema
+Preoucupado com uma mancha de poluentes químicos que se aproxima de sua cidade,  um agricultor procura a ajuda de um amigo para evitar uma catástrofe. O amigo por sua vez sugere um modelo matemático para analisar o problema
 ]]>
     </synopsis>
     <objectives>
@@ -10157,7 +10177,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, Sistemas de equações lineares, multiplição de matriz por vetor
+Matrizes,Sistemas de equações lineares,multiplição de matriz por vetor
 ]]>
     </conteudos>
     <foreign_key>
@@ -10231,7 +10251,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, circunferência., trigonometria do triângulo, sistema métrico
+geometria,circunferência.,trigonometria do triângulo,sistema métrico
 ]]>
     </conteudos>
     <foreign_key>
@@ -10307,7 +10327,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, probabilidade condicional, Estatística, Matrizes, música, Markov
+Probabilidade,probabilidade condicional,Estatística,Matrizes,música,Markov
 ]]>
     </conteudos>
     <foreign_key>
@@ -10388,7 +10408,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Sequências, Funções, iteração., repetição
+Sequências,Funções,iteração.,repetição
 ]]>
     </conteudos>
     <foreign_key>
@@ -10461,7 +10481,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria analítica, astronomia, hipérbole, parábola, cônicas, elipse
+geometria analítica,astronomia,hipérbole,parábola,cônicas,elipse
 ]]>
     </conteudos>
     <foreign_key>
@@ -10537,7 +10557,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, Trigonometria, otimização de formas geométricas, matemática na natureza
+geometria,Trigonometria,otimização de formas geométricas,matemática na natureza
 ]]>
     </conteudos>
     <foreign_key>
@@ -10613,7 +10633,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Eventos Complementares, Regra do Produto, Probabilidade de Eventos
+Eventos Complementares,Regra do Produto,Probabilidade de Eventos
 ]]>
     </conteudos>
     <foreign_key>
@@ -10693,7 +10713,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Afim, Função Exponencial., Função e gráficos, Verhulst, Malthus, crescimento
+Função Afim,Função Exponencial.,Função e gráficos,Verhulst,Malthus,crescimento
 populacional.
 ]]>
     </conteudos>
@@ -10770,7 +10790,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-História dos números complexos, Números complexos, Conjuntos Numéricos, formas e propriedades algébricas dos números complexos, formas trigonométricas e geométricas dos números complexos, Fórmula de Euler
+História dos números complexos,Números complexos,Conjuntos Numéricos,formas e propriedades algébricas dos números complexos,formas trigonométricas e geométricas dos números complexos,Fórmula de Euler
 ]]>
     </conteudos>
     <foreign_key>
@@ -10851,7 +10871,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Adição e multiplicação de números complexos, Números complexos e sua história, Fórmula de De Moivre
+Adição e multiplicação de números complexos,Números complexos e sua história,Fórmula de De Moivre
 ]]>
     </conteudos>
     <foreign_key>
@@ -10884,9 +10904,9 @@ Num estúdio de filmagem, a jovem Lúcia está tocando uma música em um cravo: 
     <objectives>
 <![CDATA[
 Estudar as isometrias:
- no plano, 
- na música, 
- nas artes, 
+ no plano,
+ na música,
+ nas artes,
  na computação gráfica e
  na natureza.
 ]]>
@@ -10934,7 +10954,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, Simetria, música, isometrias no plano, arte
+geometria,Simetria,música,isometrias no plano,arte
 ]]>
     </conteudos>
     <foreign_key>
@@ -11010,8 +11030,8 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, gráfico de
-        frequencias., moda e mediana, medidas.., média, resumo
+Estatística,gráfico de
+        frequencias.,moda e mediana,medidas..,média,resumo
 ]]>
     </conteudos>
     <foreign_key>
@@ -11090,7 +11110,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-triângulo, Trigonometria, comprimento, lado
+triângulo,Trigonometria,comprimento,lado
 ]]>
     </conteudos>
     <foreign_key>
@@ -11240,7 +11260,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-função logarítmica, Função Exponencial., porcentagem, meia-vida
+função logarítmica,Função Exponencial.,porcentagem,meia-vida
 ]]>
     </conteudos>
     <foreign_key>
@@ -11306,7 +11326,7 @@ h2. Autores
 
 h2. Revisores
 				
-*conteudo* Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
+*conteudo* Claudina Izepe Rodrigues,  Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
 *roteiro* Frederico Gualberto de Souza, Sarah Yakhni
 *guia* Samuel Rocha de Oliveira
 *graficos_formulas* Raphael Garcia
@@ -11315,7 +11335,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Exponencial., Progressão Geométrica
+Função Exponencial.,Progressão Geométrica
 ]]>
     </conteudos>
     <foreign_key>
@@ -11390,7 +11410,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Afim, Função Exponencial., conjuntos, Função Quadrática, Funções
+Função Afim,Função Exponencial.,conjuntos,Função Quadrática,Funções
 ]]>
     </conteudos>
     <foreign_key>
@@ -11465,7 +11485,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Seqüência, Progressões Aritméticas
+Seqüência,Progressões Aritméticas
 ]]>
     </conteudos>
     <foreign_key>
@@ -11616,7 +11636,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-lógica, Alice, paradoxos
+lógica,Alice,paradoxos
 ]]>
     </conteudos>
     <foreign_key>
@@ -11696,7 +11716,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-função por partes, função modular
+função por partes,função modular
 ]]>
     </conteudos>
     <foreign_key>
@@ -11761,7 +11781,7 @@ LKwT0xUgME0
 <![CDATA[
 h2. Autores
 				
-*conteudo* Prof. Dra. Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
+*conteudo* Prof. Dra. Claudina Izepe Rodrigues,  Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
 *roteiro* Fernando Martins Collaço
 *guia* Claudina Izepe Rodrigues e Eliane Quelho Frota Rezende
 
@@ -11776,7 +11796,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, Geometria Espacial, semelhança, homotetia
+Geometria Plana,Geometria Espacial,semelhança,homotetia
 ]]>
     </conteudos>
     <foreign_key>
@@ -11843,7 +11863,7 @@ h2. Autores
 
 h2. Revisores
 				
-*conteudo* Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
+*conteudo* Claudina Izepe Rodrigues,  Eliane Quelho Frota Rezende e  Maria Lucia Bontorim de Queiroz
 *roteiro* Frederico Gualberto de Souza, Sarah Yakhni
 *guia* Samuel Rocha de Oliveira
 *graficos_formulas* Raphael Garcia
@@ -11852,7 +11872,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-esfera, Trigonometria, paralelismo, ângulo entre retas no plano.
+esfera,Trigonometria,paralelismo,ângulo entre retas no plano.
 ]]>
     </conteudos>
     <foreign_key>
@@ -11926,7 +11946,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-prismas, pirâmides, Volume de sólidos, tronco de pirâmides
+prismas,pirâmides,Volume de sólidos,tronco de pirâmides
 ]]>
     </conteudos>
     <foreign_key>
@@ -12000,7 +12020,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-plano cartesiano, pontilhismo
+plano cartesiano,pontilhismo
 ]]>
     </conteudos>
     <foreign_key>
@@ -12076,7 +12096,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Exponencial., Progressão Geométrica, Xadrez, Lenda
+Função Exponencial.,Progressão Geométrica,Xadrez,Lenda
 ]]>
     </conteudos>
     <foreign_key>
@@ -12156,7 +12176,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, probabilidade condicional
+Probabilidade,probabilidade condicional
 ]]>
     </conteudos>
     <foreign_key>
@@ -12237,7 +12257,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-máximos e mínimos., Funções quadráticas
+máximos e mínimos.,Funções quadráticas
 ]]>
     </conteudos>
     <foreign_key>
@@ -12312,7 +12332,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Teoria dos Números, Crivo de Eratóstenes, Teorema da Infinitude dos Primos
+Teoria dos Números,Crivo de Eratóstenes,Teorema da Infinitude dos Primos
 ]]>
     </conteudos>
     <foreign_key>
@@ -12387,7 +12407,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, probabilidade condicional, equiprobabilidade
+Probabilidade,probabilidade condicional,equiprobabilidade
 ]]>
     </conteudos>
     <foreign_key>
@@ -12465,7 +12485,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-proporcionalidade, função modular, figuras geometricas, gráficos de funções escada
+proporcionalidade,função modular,figuras geometricas,gráficos de funções escada
 ]]>
     </conteudos>
     <foreign_key>
@@ -12546,7 +12566,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Combinatória, métrica do taxista, permutação com repetição
+Combinatória,métrica do taxista,permutação com repetição
 ]]>
     </conteudos>
     <foreign_key>
@@ -12625,7 +12645,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Aplicação de logaritmos;, Contagem, potência
+Aplicação de logaritmos;,Contagem,potência
 ]]>
     </conteudos>
     <foreign_key>
@@ -12701,7 +12721,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, Sistemas de equações lineares, multiplicação de matriz por vetor
+Matrizes,Sistemas de equações lineares,multiplicação de matriz por vetor
 ]]>
     </conteudos>
     <foreign_key>
@@ -12777,7 +12797,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Paradoxo de São Petersburgo, cálculo de esperança, valor esperado, média
+Paradoxo de São Petersburgo,cálculo de esperança,valor esperado,média
 ]]>
     </conteudos>
     <foreign_key>
@@ -12927,7 +12947,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-lógica, Alice
+lógica,Alice
 ]]>
     </conteudos>
     <foreign_key>
@@ -13001,7 +13021,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-valor esperado, esperança, Probabilidde
+valor esperado,esperança,Probabilidde
 ]]>
     </conteudos>
     <foreign_key>
@@ -13082,7 +13102,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-fatorial, arranjo, Permutação cíclica
+fatorial,arranjo,Permutação cíclica
 ]]>
     </conteudos>
     <foreign_key>
@@ -13104,7 +13124,7 @@ Roda de samba
     <duration></duration>
     <synopsis>
 <![CDATA[
-A fim de conseguir recursos suficientes para a contratação de mais costureiras, Deco, após conversar com um contador, explica para a Dona Gera como foi calculado o preço do ingresso de uma festa na comunidade. Usando uma função quadrática, eles encontram o valor de ingresso que deve maximizar o lucro.
+A fim de conseguir recursos suficientes para a contratação de mais costureiras,  Deco, após conversar com um contador, explica para a Dona Gera como foi calculado o preço do ingresso de uma festa na comunidade. Usando uma função quadrática, eles encontram o valor de ingresso que deve maximizar o lucro.
 ]]>
     </synopsis>
     <objectives>
@@ -13186,7 +13206,7 @@ O programa faz uso dos personagens Pablo e Arquimedes para abordar inicialmente 
     <objectives>
 <![CDATA[
 Apresentar o problema do cálculo da área de um círculo e conexões com outros resultados de geometria plana;
-Apresentar e motivar a busca por aspectos históricos,  em particular deduções da geometria grega e trabalhos de Arquimedes, que foram fundamentais no desenvolvimento da matemática.
+Apresentar e motivar a busca por aspectos históricos,         em particular deduções da geometria grega e trabalhos de Arquimedes, que foram fundamentais         no desenvolvimento da matemática.
 
 ]]>
     </objectives>
@@ -13233,7 +13253,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-número pi, Área de um círculo
+número pi,Área de um círculo
 ]]>
     </conteudos>
     <foreign_key>
@@ -13308,7 +13328,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Exponencial., meia-vida, concentração de remédios, decaimento
+Função Exponencial.,meia-vida,concentração de remédios,decaimento
         radioativo
 ]]>
     </conteudos>
@@ -13462,7 +13482,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, amostragem, correlações, Paradoxo de Simpson
+Estatística,amostragem,correlações,Paradoxo de Simpson
 ]]>
     </conteudos>
     <foreign_key>
@@ -13541,7 +13561,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Simetria, sólidos de Platão
+Simetria,sólidos de Platão
 ]]>
     </conteudos>
     <foreign_key>
@@ -13568,7 +13588,7 @@ O casal Fabrício e Luana está de mudança para a casa nova, e 	precisa comprar
     </synopsis>
     <objectives>
 <![CDATA[
-Identificar de modo claro os conceitos de fluxo monetário, tempo e equivalência financeira;
+Identificar de modo claro os conceitos de fluxo monetário,  tempo e equivalência financeira;
 Reconhecer e analisar critérios para resolução de situações problemas envolvendo a matemática financeira em diferentes contextos.
 
 ]]>
@@ -13617,7 +13637,7 @@ h2. Revisores
     <conteudos>
 <![CDATA[
 Matemática
-Financeira, Juros simples e compostos, Análise e viabilidade de transações financeiras.
+Financeira,Juros simples e compostos,Análise e viabilidade de transações financeiras.
 ]]>
     </conteudos>
     <foreign_key>
@@ -13639,7 +13659,7 @@ Surpresa para os calouros
     <duration></duration>
     <synopsis>
 <![CDATA[
-Um jovem estudante, que é presidente do centro acadêmico, está preparando uma gincana para os calouros. Pede ajuda ao seu irmão que sugere prêmios aos calouros que resolverem o “problema dos armários”. Acontece que o irmão do jovem desaparece e ele não sabe resolver o problema que propôs aos calouros. Fala com um amigo, que faz Matemática, para ajudá-lo. O amigo o ajuda a resolver o problema de uma maneira bem fácil.
+Um jovem estudante, que é presidente do centro acadêmico, está preparando uma gincana para os calouros. Pede ajuda ao seu irmão que sugere prêmios aos calouros que resolverem o “problema dos armários”. Acontece que o irmão do jovem desaparece e ele não sabe resolver o problema que propôs aos calouros. Fala com um amigo, que faz Matemática,         para ajudá-lo. O amigo o ajuda a resolver o problema de uma maneira bem fácil.
 ]]>
     </synopsis>
     <objectives>
@@ -13693,7 +13713,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-divisibilidade, quadrados perfeitos, múltiplos
+divisibilidade,quadrados perfeitos,múltiplos
 ]]>
     </conteudos>
     <foreign_key>
@@ -13769,7 +13789,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Equação, decaimento, exponencial, Logaritmo
+Equação,decaimento,exponencial,Logaritmo
 ]]>
     </conteudos>
     <foreign_key>
@@ -13920,7 +13940,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Logaritmo, escala Richter, terremoto
+Logaritmo,escala Richter,terremoto
 ]]>
     </conteudos>
     <foreign_key>
@@ -13996,7 +14016,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria analítica, sistema de coordenadas cartesianas, plano cartesiano
+geometria analítica,sistema de coordenadas cartesianas,plano cartesiano
 ]]>
     </conteudos>
     <foreign_key>
@@ -14072,7 +14092,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-probabilidade condicional, Árvore de Probabilidades, Princípio Multiplicativo
+probabilidade condicional,Árvore de Probabilidades,Princípio Multiplicativo
 ]]>
     </conteudos>
     <foreign_key>
@@ -14152,7 +14172,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, áreas de polígono, área de triângulo, triangulação
+Geometria Plana,áreas de polígono,área de triângulo,triangulação
 ]]>
     </conteudos>
     <foreign_key>
@@ -14227,7 +14247,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-potência de expoente zero, potências de expoente negativo, Propriedade Fundamental da Potência, multiplicação de números negativos
+potência de expoente zero,potências de expoente negativo,Propriedade Fundamental da Potência,multiplicação de números negativos
 ]]>
     </conteudos>
     <foreign_key>
@@ -14303,7 +14323,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Números complexos, Argand-Gauss, plano complexo
+Números complexos,Argand-Gauss,plano complexo
 ]]>
     </conteudos>
     <foreign_key>
@@ -14383,7 +14403,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Simetrias, formas geométricas
+Simetrias,formas geométricas
 ]]>
     </conteudos>
     <foreign_key>
@@ -14459,8 +14479,8 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-regra de três simples, cálculo
-        de multidões., proporção, Geometria plana (cálculo de áreas)
+regra de três simples,cálculo
+        de multidões.,proporção,Geometria plana (cálculo de áreas)
 ]]>
     </conteudos>
     <foreign_key>
@@ -14541,7 +14561,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-criptografia., chave privada, chave pública
+criptografia.,chave privada,chave pública
 ]]>
     </conteudos>
     <foreign_key>
@@ -14616,7 +14636,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-distâncias, geometria, Números, valor absoluto de números reais, sistema de coordenadas cartesianas ortogonal
+distâncias,geometria,Números,valor absoluto de números reais,sistema de coordenadas cartesianas ortogonal
 ]]>
     </conteudos>
     <foreign_key>
@@ -14690,7 +14710,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-solução de problemas, Álgebra, sistema de equações, malba tahan
+solução de problemas,Álgebra,sistema de equações,malba tahan
 ]]>
     </conteudos>
     <foreign_key>
@@ -14764,7 +14784,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-permutação, arranjo
+permutação,arranjo
 ]]>
     </conteudos>
     <foreign_key>
@@ -14838,7 +14858,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, contabilidade, administração
+matemática,Profissão,contabilidade,administração
 ]]>
     </conteudos>
     <foreign_key>
@@ -14912,7 +14932,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, engenhenharia elétrica, direito, advocacia
+matemática,Profissão,engenhenharia elétrica,direito,advocacia
 ]]>
     </conteudos>
     <foreign_key>
@@ -14986,7 +15006,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, geologia, agrimensor, agrimensura, geólogo
+matemática,Profissão,geologia,agrimensor,agrimensura,geólogo
 ]]>
     </conteudos>
     <foreign_key>
@@ -15060,7 +15080,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, fisioterapia, agronomia
+matemática,Profissão,fisioterapia,agronomia
 ]]>
     </conteudos>
     <foreign_key>
@@ -15133,7 +15153,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, engenharia da computação, analista de sistemas
+matemática,Profissão,engenharia da computação,analista de sistemas
 ]]>
     </conteudos>
     <foreign_key>
@@ -15207,7 +15227,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, arquitetura, engenharia civil, engenheiro civil, arquiteto
+matemática,Profissão,arquitetura,engenharia civil,engenheiro civil,arquiteto
 ]]>
     </conteudos>
     <foreign_key>
@@ -15281,7 +15301,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, Artes plásticas, Designer gráfico, desenho industrial
+matemática,Profissão,Artes plásticas,Designer gráfico,desenho industrial
 ]]>
     </conteudos>
     <foreign_key>
@@ -15355,7 +15375,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-astronomia, Profissão, Física
+astronomia,Profissão,Física
 ]]>
     </conteudos>
     <foreign_key>
@@ -15429,7 +15449,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, estatístico, atuário
+matemática,Profissão,estatístico,atuário
 ]]>
     </conteudos>
     <foreign_key>
@@ -15503,7 +15523,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, nutrição, bióloga, nutricionista, biologia
+matemática,Profissão,nutrição,bióloga,nutricionista,biologia
 ]]>
     </conteudos>
     <foreign_key>
@@ -15576,7 +15596,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, chef de cozinha, moda, estilista
+matemática,Profissão,chef de cozinha,moda,estilista
 ]]>
     </conteudos>
     <foreign_key>
@@ -15649,7 +15669,7 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, corretor, comércio, imobiliária
+matemática,Profissão,corretor,comércio,imobiliária
 ]]>
     </conteudos>
     <foreign_key>
@@ -15723,9 +15743,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, Piloto de helicóptero, Controlador de tráfego aéreo
+matemática,Profissão,Piloto de helicóptero,Controlador de tráfego aéreo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1206
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -15791,9 +15816,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, economia, comércio exterior
+matemática,Profissão,economia,comércio exterior
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1207
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -15859,9 +15889,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, engenharia de alimentos, química
+matemática,Profissão,engenharia de alimentos,química
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1208
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -15928,9 +15963,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-Profissão, Fotografia, Educação Física
+Profissão,Fotografia,Educação Física
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1209
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -15997,9 +16037,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, eventos, farmácia
+matemática,Profissão,eventos,farmácia
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1210
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16065,9 +16110,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, hotelaria, logística
+matemática,Profissão,hotelaria,logística
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1211
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16134,9 +16184,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, matemático, músico
+matemática,Profissão,matemático,músico
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1212
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16203,9 +16258,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, Turismo, Meteorlogia
+matemática,Profissão,Turismo,Meteorlogia
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1213
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16271,9 +16331,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, odontologia, médico, medicina, dentista
+matemática,Profissão,odontologia,médico,medicina,dentista
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1214
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16340,9 +16405,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, produtor de cinema, publicitário
+matemática,Profissão,produtor de cinema,publicitário
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1215
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16409,9 +16479,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, pesquisador, professor universitário
+matemática,Profissão,pesquisador,professor universitário
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1216
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16478,9 +16553,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, engenharia de telecomunicações, secretariado
+matemática,Profissão,engenharia de telecomunicações,secretariado
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1217
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16546,9 +16626,14 @@ h2. Autores
     </authors>
     <conteudos>
 <![CDATA[
-matemática, Profissão, veterinária, zootécnico, zootecnia, veterinário
+matemática,Profissão,veterinária,zootécnico,zootecnia,veterinário
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1218
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16614,9 +16699,14 @@ Sueli Costa, Cristiano Torrezan, Claudina I. Rodrigues
     </authors>
     <conteudos>
 <![CDATA[
-otimização, Perímetro, Área, problema isoperimétrico, máximo, janela, software educacional
+otimização,Perímetro,Área,problema isoperimétrico,máximo,janela,software educacional
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1219
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -16682,9 +16772,14 @@ Sueli I. R. Costa, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-geometria, Perímetro, Função., software educacional, quadrática, áreas de figuras planas
+geometria,Perímetro,Função.,software educacional,quadrática,áreas de figuras planas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1220
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -16750,9 +16845,14 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, grafos, matriz de adjacência, malhas aéreas, produto de matrizes
+Matrizes,grafos,matriz de adjacência,malhas aéreas,produto de matrizes
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1221
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -16817,9 +16917,14 @@ Leonardo Barichello, Matias R. Costa, Laura Leticia Ramos Rigo
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, gráfico de barras, variáveis quantitativas, gráfico de setores, variáveis qualitativas, variáveis aleatórias
+Estatística,gráfico de barras,variáveis quantitativas,gráfico de setores,variáveis qualitativas,variáveis aleatórias
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1222
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16884,9 +16989,14 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-software educacional, princípio da casa dos pombos, príncipio das gavetas de dirichilet
+software educacional,princípio da casa dos pombos,príncipio das gavetas de dirichilet
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1223
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -16952,12 +17062,17 @@ Leonardo Barichello, Cristiano Torezzan e Sueli R. Costa
     </authors>
     <conteudos>
 <![CDATA[
-Equação, inequação, desigualdade, programação linear
+Equação,inequação,desigualdade,programação linear
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1224
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
-análise de dados e probabilidade, números e funções
+análise de dados e probabilidade,números e funções
 ]]>
     </topicos>
      
@@ -17018,12 +17133,17 @@ Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, otimização, Funções, Física, software educacional, corrida, cinemática
+Geometria Plana,otimização,Funções,Física,software educacional,corrida,cinemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1225
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -17085,9 +17205,14 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-Matrizes, Determinantes, Área, paralelogramo
+Matrizes,Determinantes,Área,paralelogramo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1226
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -17152,9 +17277,14 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-polígonos, Matrizes, Determinantes, Área
+polígonos,Matrizes,Determinantes,Área
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1227
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -17220,9 +17350,14 @@ Marcelo Firer
     </authors>
     <conteudos>
 <![CDATA[
-software educacional, mmc, permutações, grupo, embaralhamento
+software educacional,mmc,permutações,grupo,embaralhamento
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1228
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -17282,9 +17417,14 @@ Leonardo Barichello, Matias Costa
     </authors>
     <conteudos>
 <![CDATA[
-multiplicação, potência, ferramenta, soma, grafo, matriz, adjacência
+multiplicação,potência,ferramenta,soma,grafo,matriz,adjacência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1229
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -17342,9 +17482,14 @@ Matias Costa
     </authors>
     <conteudos>
 <![CDATA[
-cone, cilindro, volume, software educacional, sólidos revolução
+cone,cilindro,volume,software educacional,sólidos revolução
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1230
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -17409,9 +17554,14 @@ Leonardo Barichello, Claudina Izepe Rodrigues e Sueli I. Costa
     </authors>
     <conteudos>
 <![CDATA[
-distâncias, geometria, software educacional, táxi, métrica, taxista
+distâncias,geometria,software educacional,táxi,métrica,taxista
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1231
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -17477,9 +17627,14 @@ Laura letícia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, Interpretação de Gráﬁcos, gráﬁco de dispersão, Coeﬁciente de correlação linear., Gráﬁcos bivariados
+Estatística,Interpretação de Gráﬁcos,gráﬁco de dispersão,Coeﬁciente de correlação linear.,Gráﬁcos bivariados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1232
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -17545,9 +17700,14 @@ Laura Leticia Ramos Rifo
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, Gráficos, software educacional, corpo humano
+Estatística,Gráficos,software educacional,corpo humano
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1233
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -17613,9 +17773,14 @@ Leonardo Barichello, Matias R. Costa, Laura Leticia Ramos Rigo
     </authors>
     <conteudos>
 <![CDATA[
-moda, média, histograma, mediana, quantil
+moda,média,histograma,mediana,quantil
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1234
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -17675,9 +17840,14 @@ Cristiano Torezzan
     </authors>
     <conteudos>
 <![CDATA[
-Gráficos, jogo, raízes, polinômios, expressão algébrica, multiplicidade
+Gráficos,jogo,raízes,polinômios,expressão algébrica,multiplicidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1235
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -17742,10 +17912,15 @@ Samuel Rocha de Oliveira, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-Sequências, Progressão Geométrica, Matemática
-Financeira, Juros., juros compostos, compra, financiamento, dívida
+Sequências,Progressão Geométrica,Matemática
+Financeira,Juros.,juros compostos,compra,financiamento,dívida
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1236
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -17808,9 +17983,14 @@ Laura Letícia Ramos Rifo, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, jogo, dados
+Probabilidade,jogo,dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1237
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -17874,6 +18054,11 @@ Laura Leticia Ramos Rifo
 software educacional
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1238
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -17937,9 +18122,14 @@ Claudina Izepe Rodrigues, Leonardo Barichello e Rita Guimarães
     </authors>
     <conteudos>
 <![CDATA[
-Simetrias, Números complexos, transformações no plano, números imaginários, isometria
+Simetrias,Números complexos,transformações no plano,números imaginários,isometria
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1239
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -17999,9 +18189,14 @@ Leonardo Barichello, Samuel Rocha de Oliveira
     </authors>
     <conteudos>
 <![CDATA[
-seno, modelagem, funções trigonométricas, fenômenos naturais, cosseno
+seno,modelagem,funções trigonométricas,fenômenos naturais,cosseno
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1240
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -18067,9 +18262,14 @@ Sueli I. R. Costa, Leonardo Barichello e Cristiano Torezzan
     </authors>
     <conteudos>
 <![CDATA[
-cone, otimização, volume, Função., software educacional, geratriz, disco
+cone,otimização,volume,Função.,software educacional,geratriz,disco
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1241
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18135,9 +18335,14 @@ Sueli I. R. Costa
     </authors>
     <conteudos>
 <![CDATA[
-otimização, triângulo, Perímetro, Função Quadrática, Área, parábola, software educacional, vértice da parábola., janelas
+otimização,triângulo,Perímetro,Função Quadrática,Área,parábola,software educacional,vértice da parábola.,janelas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1242
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18203,9 +18408,14 @@ Sueli I. R. Costa
     </authors>
     <conteudos>
 <![CDATA[
-otimização, Perímetro, Função Quadrática, Área, parábola, software educacional, vértice da parábola., janelas, retângulo
+otimização,Perímetro,Função Quadrática,Área,parábola,software educacional,vértice da parábola.,janelas,retângulo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1243
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -18271,10 +18481,15 @@ Samuel Rocha de Oliveira, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-exponencial, Verhulst, Malthus, crescimento
-populacional., modelagem, modelo
+exponencial,Verhulst,Malthus,crescimento
+populacional.,modelagem,modelo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1244
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -18344,9 +18559,14 @@ Laura Letícia Ramos Rifo, Mariana Sacrini Ayres Ferraz
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, software educacional, urna com reposição, urna sem reposição, urna de polya, bolinhas, urnas
+Probabilidade,software educacional,urna com reposição,urna sem reposição,urna de polya,bolinhas,urnas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1245
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18442,9 +18662,14 @@ Sueli I. R. Costa, Claudina I. Rodrigues
     </authors>
     <conteudos>
 <![CDATA[
-distâncias, Princípio Fundamental da Contagem, Contagem, software educacional, geomtria do taxista, Combinações
+distâncias,Princípio Fundamental da Contagem,Contagem,software educacional,geomtria do taxista,Combinações
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1247
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18508,9 +18733,14 @@ Leonardo Barichello, Claudina Izepe Rodrigues, Sueli I. R. Costa
     </authors>
     <conteudos>
 <![CDATA[
-geometria do táxi, circunferência., métrica, taxista, distância, círculo
+geometria do táxi,circunferência.,métrica,taxista,distância,círculo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1248
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -18569,9 +18799,14 @@ Samuel Rocha de Oliveira, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-Trigonometria, software educacional, seno, halos, lei de snell, refração, raios luminosos, lunares, solares
+Trigonometria,software educacional,seno,halos,lei de snell,refração,raios luminosos,lunares,solares
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1249
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18635,9 +18870,14 @@ Samuel Rocha de Oliveira, Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-Trigonometria, software educacional, seno, lei de snell, refração, raios luminosos, princípio de fermat
+Trigonometria,software educacional,seno,lei de snell,refração,raios luminosos,princípio de fermat
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1250
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18703,9 +18943,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Sequências numéricas, Sequênciade Fibonacci
+Sequências numéricas,Sequênciade Fibonacci
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1251
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -18770,6 +19015,11 @@ h2. Revisores
 História da estatística.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1252
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18839,6 +19089,11 @@ h2. Revisores
 História da probabilidade.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1253
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -18906,6 +19161,11 @@ h2. Revisores
 estimativas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1254
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -18969,6 +19229,11 @@ h2. Revisores
 Números complexos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1255
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -19032,6 +19297,11 @@ h2. Revisores
 Progressão Aritmética
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1256
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -19101,6 +19371,11 @@ h2. Revisores
 Progressão Geométrica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1257
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -19174,6 +19449,11 @@ h2. Revisores
 grafos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1258
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -19239,9 +19519,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Trissecção de ângulos, Geometria Euclidiana, Construção com régua e compasso, Duplicação do cubo, quadratura do círculo
+Trissecção de ângulos,Geometria Euclidiana,Construção com régua e compasso,Duplicação do cubo,quadratura do círculo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1259
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -19307,10 +19592,15 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-exponencial, Progressão Geométrica, crescimento
+exponencial,Progressão Geométrica,crescimento
 populacional.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1260
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -19379,6 +19669,11 @@ h2. Revisores
 lógica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1261
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -19447,9 +19742,14 @@ h2. Revisores
 Função Exponencial.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1262
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
-análise de dados e probabilidade, números e funções
+análise de dados e probabilidade,números e funções
 ]]>
     </topicos>
      
@@ -19515,6 +19815,11 @@ h2. Revisores
 Análise de dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1263
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -19583,6 +19888,11 @@ h2. Revisores
 Logaritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1264
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -19648,9 +19958,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Afim, função linear
+Função Afim,função linear
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1265
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -19714,6 +20029,11 @@ h2. Revisores
 Análise de dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1266
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -19780,9 +20100,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estimativa, proporção, regra de três.
+Estimativa,proporção,regra de três.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1267
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -19849,9 +20174,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Combinação, ordem de grandeza, complexidade computacional.
+Combinação,ordem de grandeza,complexidade computacional.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1268
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -19913,9 +20243,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estimativa, proporção, regra de três.
+Estimativa,proporção,regra de três.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1269
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -19977,10 +20312,15 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estimativa, proporção, conversão
+Estimativa,proporção,conversão
 de unidades
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1270
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20043,9 +20383,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estimativa, proporção, conversãode unidades
+Estimativa,proporção,conversãode unidades
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1271
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20107,9 +20452,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-estimativas, áreas e volumes., empacotamento esférico.
+estimativas,áreas e volumes.,empacotamento esférico.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1272
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20171,9 +20521,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-volume, Estimativa, proporção, densidade
+volume,Estimativa,proporção,densidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1273
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -20240,12 +20595,17 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estimativa, média, limitante
+Estimativa,média,limitante
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1274
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
-análise de dados e probabilidade, números e funções
+análise de dados e probabilidade,números e funções
 ]]>
     </topicos>
      
@@ -20311,6 +20671,11 @@ h2. Revisores
 estimativas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1275
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -20376,9 +20741,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Infinito., História dos  conjuntos
+Infinito.,História dos  conjuntos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1276
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20443,6 +20813,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1277
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -20511,9 +20886,14 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1278
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
-análise de dados e probabilidade, números e funções
+análise de dados e probabilidade,números e funções
 ]]>
     </topicos>
      
@@ -20576,9 +20956,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Logaritmo, História da matemática
+Logaritmo,História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1279
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20643,6 +21028,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1280
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20706,6 +21096,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1281
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -20774,6 +21169,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1282
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -20843,6 +21243,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1283
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -20911,6 +21316,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1284
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -20974,6 +21384,11 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1285
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -21042,6 +21457,11 @@ h2. Revisores
 baricentro
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1286
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -21109,6 +21529,11 @@ h2. Revisores
 elipse
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1287
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
@@ -21128,7 +21553,7 @@ O que é margem de erro?
     <duration></duration>
     <synopsis>
 <![CDATA[
-Neste programa, o apresentador discute com um convidado especial, contando com algumas participações de ouvintes, o significado da expressão margem de erro no  contexto da Matemática.
+Neste programa, o apresentador discute com um convidado especial,  contando com algumas participações de ouvintes, o significado da expressão margem de erro no  contexto da Matemática.
 ]]>
     </synopsis>
     <objectives>
@@ -21178,6 +21603,11 @@ h2. Revisores
 Amostragem; inferência estatística; margem de erro.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1288
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -21245,6 +21675,11 @@ h2. Revisores
 exponencial
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1289
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -21313,6 +21748,11 @@ h2. Revisores
 hipérbole
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1290
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -21378,9 +21818,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-triângulo retângulo, teorema de pitágoras, hipotenusa
+triângulo retângulo,teorema de pitágoras,hipotenusa
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1291
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -21444,6 +21889,11 @@ h2. Revisores
 Logaritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1292
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -21511,9 +21961,14 @@ h2. Revisores
 parábola
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1293
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -21576,9 +22031,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-hipotenusa, quadrilátero, parelelogramo
+hipotenusa,quadrilátero,parelelogramo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1294
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -21593,7 +22053,7 @@ O que é permutação?
     <duration></duration>
     <synopsis>
 <![CDATA[
-Neste programa, o apresentador discute com um convidado especial, contando com  algumas participações de ouvintes, o significado da palavra permutação no contexto da Matemática, e acaba por discutir também as palavras arranjo e combinação, sempre usando o Princípio Fundamental da  Contagem como referência.
+Neste programa, o apresentador discute com um convidado especial, contando com  algumas participações de ouvintes, o significado da palavra permutação no contexto da Matemática,  e acaba por discutir também as palavras arranjo e combinação, sempre usando o Princípio Fundamental da  Contagem como referência.
 ]]>
     </synopsis>
     <objectives>
@@ -21640,9 +22100,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-permutação, Contagem
+permutação,Contagem
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1295
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
@@ -21662,7 +22127,7 @@ O que é poliedro
     <duration></duration>
     <synopsis>
 <![CDATA[
-Neste programa, o apresentador discute com um convidado especial, contando com algumas participações de ouvintes, o significado da palavra poliedro no  	contexto da Matemática.
+Neste programa, o apresentador discute com um convidado especial,  	contando com algumas participações de ouvintes, o significado da palavra poliedro no  	contexto da Matemática.
 ]]>
     </synopsis>
     <objectives>
@@ -21708,9 +22173,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, sólidos, polígono, Poliedro
+geometria,sólidos,polígono,Poliedro
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1296
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -21770,9 +22240,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Polinômio, splines
+Polinômio,splines
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1297
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -21833,9 +22308,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-criptografia., Números primos
+criptografia.,Números primos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1298
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -21901,9 +22381,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-ângulos, Geometria Plana, Radiano
+ângulos,Geometria Plana,Radiano
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1299
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -21966,6 +22451,11 @@ h2. Revisores
 Função Afim
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1300
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
@@ -22033,6 +22523,11 @@ h2. Revisores
 comprimento de circunferência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1301
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -22092,9 +22587,14 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Proporções, regra de três simples
+Proporções,regra de três simples
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1302
+]]>
+    </foreign_key>
     <topicos></topicos>
   </m3_resource>
   <m3_resource>
@@ -22155,7 +22655,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, teorema de pitágoras
+Geometria Plana,teorema de pitágoras
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -22217,7 +22717,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Frações, números racionais.
+Frações,números racionais.
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -22281,7 +22781,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, probabilidade condicional
+Probabilidade,probabilidade condicional
 ]]>
     </conteudos>
     <topicos>
@@ -22349,7 +22849,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-tabela verdade, lógica binária
+tabela verdade,lógica binária
 ]]>
     </conteudos>
     <topicos>
@@ -22417,7 +22917,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-função linear, proporção, função definida por partes
+função linear,proporção,função definida por partes
 ]]>
     </conteudos>
     <topicos>
@@ -22486,7 +22986,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Perímetro de retângulos, modelagem matemática e
+Perímetro de retângulos,modelagem matemática e
 resolução de sistemas de
 equações lineares.
 ]]>
@@ -22551,7 +23051,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, transitividade, Independência de eventos
+Probabilidade,transitividade,Independência de eventos
 ]]>
     </conteudos>
     <topicos>
@@ -22680,7 +23180,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-lógica, divisão sem inveja
+lógica,divisão sem inveja
 ]]>
     </conteudos>
     <topicos>
@@ -22749,7 +23249,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Progressões Aritméticas, Números triangulares
+Progressões Aritméticas,Números triangulares
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -22812,7 +23312,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Função Exponencial.
+Probabilidade,Função Exponencial.
 ]]>
     </conteudos>
     <topicos>
@@ -22879,7 +23379,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Afim, porcentagem, Razão e proporção
+Função Afim,porcentagem,Razão e proporção
 ]]>
     </conteudos>
     <topicos>
@@ -22948,7 +23448,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-médias, médias ponderadas
+médias,médias ponderadas
 ]]>
     </conteudos>
     <topicos>
@@ -23016,7 +23516,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Sequências, Progressão Geométrica, crescimento
+Sequências,Progressão Geométrica,crescimento
 populacional.
 ]]>
     </conteudos>
@@ -23112,7 +23612,7 @@ Onde está o peso extra?
     <duration></duration>
     <synopsis>
 <![CDATA[
-Dois funcionários devem descobrir onde está um saco de cimento que pesa um         pouco menos que os demais. Este saco é igual aos demais e está em um fardo com muitos sacos, todos aparentemente iguais. Como usar uma balança de equilíbrio em pratos, com o menor         número de pesagens, para descobrir qual é o saco de cimento com peso inferior aos demais?         Esta é o problema deste programa que também apresenta a solução e uma generalização para o         problema e sua solução
+Dois funcionários devem descobrir onde está um saco de cimento que pesa um         pouco menos que os demais. Este saco é igual aos demais e está em um fardo com muitos sacos,         todos aparentemente iguais. Como usar uma balança de equilíbrio em pratos, com o menor         número de pesagens, para descobrir qual é o saco de cimento com peso inferior aos demais?         Esta é o problema deste programa que também apresenta a solução e uma generalização para o         problema e sua solução
 ]]>
     </synopsis>
     <objectives>
@@ -23158,7 +23658,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-lógica, peso, balança de pratos
+lógica,peso,balança de pratos
 ]]>
     </conteudos>
     <topicos>
@@ -23357,7 +23857,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Perímetro de circufererência, formas geométricas
+Perímetro de circufererência,formas geométricas
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -23548,13 +24048,13 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, teorema de pitágoras, números ímpares, números
+Geometria Plana,teorema de pitágoras,números ímpares,números
         pares
 ]]>
     </conteudos>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -23745,7 +24245,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Contagem
+Probabilidade,Contagem
 ]]>
     </conteudos>
     <topicos>
@@ -23767,7 +24267,7 @@ análise de dados e probabilidade
     <duration></duration>
     <synopsis>
 <![CDATA[
-O programa apresenta a  conjectura do problema 3x+1 e  discute algumas curiosidades em  torno dela para mostrar que, mesmo parecendo verdade, os  matemáticos só consideram  verdadeiro aquilo que é provado  lógica e matematicamente.
+O programa apresenta a  conjectura do problema 3x+1 e  discute algumas curiosidades em  torno dela para mostrar que,  mesmo parecendo verdade, os  matemáticos só consideram  verdadeiro aquilo que é provado  lógica e matematicamente.
 ]]>
     </synopsis>
     <objectives>
@@ -23814,7 +24314,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-conjuntos, lógica, Conjectura, Números Naturais
+conjuntos,lógica,Conjectura,Números Naturais
 ]]>
     </conteudos>
     <topicos>
@@ -24008,7 +24508,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Função Afim, função linear
+Função Afim,função linear
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24071,7 +24571,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Estatística, Gaussiana., Função
+Probabilidade,Estatística,Gaussiana.,Função
 distribuição de probabilidade
 ]]>
     </conteudos>
@@ -24099,7 +24599,7 @@ O programa faz comentários  sobre resultados de pesquisas  que mudam quando nov
     </synopsis>
     <objectives>
 <![CDATA[
-Mostrar que as pesquisas, estatísticas e científicas, têm  margem de erros;
+Mostrar que as pesquisas,  estatísticas e científicas, têm  margem de erros;
 Mostrar a interpretação  probabilística dos erros  estatísticos;
 Apresentar uma aplicação dos  conceitos de média e desvio  padrão;
 Apresentar noções de função  de distribuição de  probabilidade.
@@ -24142,7 +24642,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, desvio padrão.
+Estatística,desvio padrão.
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24205,7 +24705,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-medidas.., Geometria da esfera
+medidas..,Geometria da esfera
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24399,7 +24899,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Combinatória, Contagem, Números e funções, Exponenciais
+Combinatória,Contagem,Números e funções,Exponenciais
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24461,7 +24961,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, Análise de dados
+Estatística,Análise de dados
 ]]>
     </conteudos>
     <topicos>
@@ -24530,7 +25030,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, área do triângulo.
+geometria,área do triângulo.
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24654,7 +25154,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-números racionais., Números Naturais
+números racionais.,Números Naturais
 ]]>
     </conteudos>
     <topicos>
@@ -24722,7 +25222,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Função Exponencial.
+Probabilidade,Função Exponencial.
 ]]>
     </conteudos>
     <topicos>
@@ -24792,7 +25292,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-teorema de pitágoras, Progressões.
+teorema de pitágoras,Progressões.
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24854,7 +25354,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Análise de dados, Funções e números, Geometria e medidas.
+Análise de dados,Funções e números,Geometria e medidas.
 ]]>
     </conteudos>
     <topicos>
@@ -24922,7 +25422,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Números primos, Aritmética.
+Números primos,Aritmética.
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -24984,7 +25484,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Probabilidade, Estatística
+Probabilidade,Estatística
 ]]>
     </conteudos>
     <topicos>
@@ -25115,7 +25615,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-números binários, Geometria esférica, Funcão potência
+números binários,Geometria esférica,Funcão potência
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -25179,12 +25679,12 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-números binários, Teorema de Euler., Funcão potência
+números binários,Teorema de Euler.,Funcão potência
 ]]>
     </conteudos>
     <topicos>
 <![CDATA[
-análise de dados e probabilidade, geometria e medidas
+análise de dados e probabilidade,geometria e medidas
 ]]>
     </topicos>
      
@@ -25246,7 +25746,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, desvio padrão.
+Estatística,desvio padrão.
 ]]>
     </conteudos>
     <topicos>
@@ -25314,7 +25814,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Sólidos convexos, Teorema de Euler.
+Sólidos convexos,Teorema de Euler.
 ]]>
     </conteudos>
     <topicos>
@@ -25382,8 +25882,8 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, Problemas de otimização no 
-plano., Áreas e perímetros
+geometria,Problemas de otimização no 
+plano.,Áreas e perímetros
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -25446,7 +25946,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-funções trigonométricas, Números e funções. Funções periódicas
+funções trigonométricas,Números e funções. Funções periódicas
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -25571,7 +26071,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Espacial, Diagonal de 
+Geometria Espacial,Diagonal de 
 um paralelepípedo.
 ]]>
     </conteudos>
@@ -25635,7 +26135,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-geometria, Simetrias, Geometria Métrica
+geometria,Simetrias,Geometria Métrica
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -25697,7 +26197,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-fractais., Funções e números, Geometria e medidas.
+fractais.,Funções e números,Geometria e medidas.
 ]]>
     </conteudos>
     <topicos>
@@ -25766,7 +26266,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-criptografia., Análise de dados
+criptografia.,Análise de dados
 ]]>
     </conteudos>
     <topicos>
@@ -25834,7 +26334,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-Trigonometria, Logaritmo
+Trigonometria,Logaritmo
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -25963,7 +26463,7 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e Maria Lúcia Bontorim de
     </authors>
     <conteudos>
 <![CDATA[
-matemática, experimento, Sequências, Aplicação., Função Exponencial., Torres de Hanói, Torre de Hanói
+matemática,experimento,Sequências,Aplicação.,Função Exponencial.,Torres de Hanói,Torre de Hanói
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -26026,7 +26526,7 @@ h2. Revisores
     </authors>
     <conteudos>
 <![CDATA[
-conjuntos, Números primos
+conjuntos,Números primos
 ]]>
     </conteudos>
     <topicos>
@@ -26095,7 +26595,7 @@ Matias Costa
     </authors>
     <conteudos>
 <![CDATA[
-geometria analítica, Sólidos de Revolução
+geometria analítica,Sólidos de Revolução
 ]]>
     </conteudos>
     <topicos>
@@ -26163,7 +26663,7 @@ Patrícia Roman
     </authors>
     <conteudos>
 <![CDATA[
-Logaritmo, avalanche, desmoronamento, radiciação, potenciação
+Logaritmo,avalanche,desmoronamento,radiciação,potenciação
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -26222,7 +26722,7 @@ Felipe Mascagna Bittencourt Lima
     </authors>
     <conteudos>
 <![CDATA[
-Representação gráfica, Independência, Interpretação geométrica de probabilidade
+Representação gráfica,Independência,Interpretação geométrica de probabilidade
 ]]>
     </conteudos>
     <topicos>
@@ -26348,7 +26848,7 @@ Thaisa Aluani
     </authors>
     <conteudos>
 <![CDATA[
-Polinômios – Funções polinomiais,  Unidades de medida, Geometria espacial – Problemas de otimização, Gráficos e Propriedades
+Polinômios – Funções polinomiais, Unidades de medida,Geometria espacial – Problemas de otimização,Gráficos e Propriedades
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -26406,7 +26906,7 @@ Rafael Santos de Oliveira Alves
     </authors>
     <conteudos>
 <![CDATA[
-Combinatória, grafos
+Combinatória,grafos
 ]]>
     </conteudos>
     <topicos>
@@ -26469,7 +26969,7 @@ Felipe Mascagna Bittencourt Lima
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Espacial, Relação de Euler
+Geometria Espacial,Relação de Euler
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -26527,7 +27027,7 @@ Luiz Fernando Giolo Alves
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, Elementos de Amostragem, Interpretação de gráficos.
+Estatística,Elementos de Amostragem,Interpretação de gráficos.
 ]]>
     </conteudos>
     <topicos>
@@ -26592,7 +27092,7 @@ Felipe Mascagna Bittencourt Lima
     </authors>
     <conteudos>
 <![CDATA[
-Razão e proporção, Proporcionalidade direta, Probabilidade Geométrica
+Razão e proporção,Proporcionalidade direta,Probabilidade Geométrica
 ]]>
     </conteudos>
     <topicos>
@@ -26655,7 +27155,7 @@ Mariana Sacrini Ayres Ferraz
     </authors>
     <conteudos>
 <![CDATA[
-conjuntos, Progressão Geométrica, Sequência
+conjuntos,Progressão Geométrica,Sequência
 ]]>
     </conteudos>
     <topicos>
@@ -26718,7 +27218,7 @@ Felipe Mascagna Bittencourt Lima
     </authors>
     <conteudos>
 <![CDATA[
-Estatística, Razão e proporção, Proporcionalidade direta, Estimação
+Estatística,Razão e proporção,Proporcionalidade direta,Estimação
 ]]>
     </conteudos>
     <topicos>
@@ -26785,7 +27285,7 @@ Wilson Roberto Rodrigues
     </authors>
     <conteudos>
 <![CDATA[
-geometria analítica, cônicas, elipse
+geometria analítica,cônicas,elipse
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -26848,12 +27348,12 @@ Samuel Rocha de Oliveira
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, Simetrias, lógica, vetores
+Geometria Plana,Simetrias,lógica,vetores
 ]]>
     </conteudos>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -26915,12 +27415,12 @@ Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-funções trigonométricas, Funções periódicas, Gráficos de funções, Curvas parametrizadas
+funções trigonométricas,Funções periódicas,Gráficos de funções,Curvas parametrizadas
 ]]>
     </conteudos>
     <topicos>
 <![CDATA[
-geometria e medidas, números e funções
+geometria e medidas,números e funções
 ]]>
     </topicos>
      
@@ -26979,7 +27479,7 @@ Samuel Rocha de Oliveira
     </authors>
     <conteudos>
 <![CDATA[
-Geometria Plana, área do triângulo.
+Geometria Plana,área do triângulo.
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -27154,7 +27654,7 @@ Fabricio de Paula Silva
     </authors>
     <conteudos>
 <![CDATA[
-probabilidade condicional, Representação gráfica, Eventos equiprováveis, Permutação e combinação
+probabilidade condicional,Representação gráfica,Eventos equiprováveis,Permutação e combinação
 ]]>
     </conteudos>
     <topicos>
@@ -27248,8 +27748,8 @@ Patricia Roman
     </authors>
     <conteudos>
 <![CDATA[
-Problemas de otimização., Geometria Espacial, funções
-polinomiais, polinômios,  Unidades de medida, Gráficos e Propriedades
+Problemas de otimização.,Geometria Espacial,funções
+polinomiais,polinômios, Unidades de medida,Gráficos e Propriedades
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -27339,7 +27839,7 @@ Patricia Roman
     </authors>
     <conteudos>
 <![CDATA[
-distâncias, Geometria Plana, Semelhança de triângulos, geometria analítica
+distâncias,Geometria Plana,Semelhança de triângulos,geometria analítica
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -27397,7 +27897,7 @@ Patricia Roman
     </authors>
     <conteudos>
 <![CDATA[
-Simetrias, Padrões matemáticos, Algoritmo
+Simetrias,Padrões matemáticos,Algoritmo
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -27461,7 +27961,7 @@ Thaisa Aluani
     </authors>
     <conteudos>
 <![CDATA[
-vetores, Geometria Analítica, Rotações, Translações
+vetores,Geometria Analítica,Rotações,Translações
 ]]>
     </conteudos>
     <topicos></topicos>
@@ -27528,7 +28028,7 @@ Adolfo Maia
     </authors>
     <conteudos>
 <![CDATA[
-conjuntos, Funções, relações
+conjuntos,Funções,relações
 ]]>
     </conteudos>
     <topicos></topicos>
