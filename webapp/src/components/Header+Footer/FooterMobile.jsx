@@ -1,9 +1,9 @@
 import React from 'react';
 import './Footer.css';
-import copyrights from '../assets/copyrights.png'
-import logoanchor from '../assets/logo-anchor.png';
-import logoyoutube from '../assets/logo-youtube.png';
-import logotwitter from '../assets/logo-twitter.png';
+import copyrights from '../../assets/copyrights.png'
+import logoanchor from '../../assets/logo-anchor.png';
+import logoyoutube from '../../assets/logo-youtube.png';
+import logotwitter from '../../assets/logo-twitter.png';
 
 function FooterMobile() {
     return(

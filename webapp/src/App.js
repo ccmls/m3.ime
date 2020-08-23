@@ -7,14 +7,18 @@ import {
     Link,
     Redirect
 } from "react-router-dom";
-import ScrollToTop from './components/ScrollToTop';
-import Header from './components/Header';
-import HeaderMobile from './components/HeaderMobile';
-import TopHeader from './components/TopHeader';
-import Footer from './components/Footer';
-import FooterMobile from './components/FooterMobile';
+// Header+Footer
+import ScrollToTop from './components/Header+Footer/ScrollToTop';
+import Header from './components/Header+Footer/Header';
+import HeaderMobile from './components/Header+Footer/HeaderMobile';
+import TopHeader from './components/Header+Footer/TopHeader';
+import Footer from './components/Header+Footer/Footer';
+import FooterMobile from './components/Header+Footer/FooterMobile';
+// Home
 import Home from './components/Home/Home';
+// Recursos
 import RecursosEd from './components/Resources/RecursosEd';
+//ExtraLinks
 import Justificativa from './components/ExtraLinks/Justificativa';
 import Colaboradores from './components/ExtraLinks/Colaboradores';
 import Historico from './components/ExtraLinks/Historico';

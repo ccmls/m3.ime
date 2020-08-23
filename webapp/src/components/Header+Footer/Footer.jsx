@@ -1,11 +1,11 @@
 import React from 'react';
 import './Footer.css';
 import { Link } from "react-router-dom";
-import copyrights from '../assets/copyrights.png';
-import logoanchor from '../assets/logo-anchor.png';
-import logoyoutube from '../assets/logo-youtube.png';
-import logotwitter from '../assets/logo-twitter.png';
-import footer from '../assets/footer.png'
+import copyrights from '../../assets/copyrights.png';
+import logoanchor from '../../assets/logo-anchor.png';
+import logoyoutube from '../../assets/logo-youtube.png';
+import logotwitter from '../../assets/logo-twitter.png';
+import footer from '../../assets/footer.png'
 
 function Footer() {
     return (
