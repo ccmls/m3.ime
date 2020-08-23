@@ -1,5 +1,7 @@
 import React from 'react';
 import { TwitterTimelineEmbed } from 'react-twitter-embed';
+// React Twitter Embed:
+// https://www.npmjs.com/package/react-twitter-embed
 
 function TwitterTimeline() {
     return (

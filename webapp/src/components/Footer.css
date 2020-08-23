@@ -139,7 +139,7 @@
     height: 3px;
     background-color: #ED1C24;
     margin-top: 3px;
-    animation-name: crescer;
+    animation-name: grow;
     animation-duration: 0.6s;
     margin-left: auto;
 }

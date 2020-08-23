@@ -10,11 +10,14 @@ import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
 function Midias() {
 
+    // States para controlar os botões de collapse:
     const [videosOpen, setVideosOpen] = useState(false);
     const [audiosOpen, setAudiosOpen] = useState(false);
 
     return(
         <>
+
+        {/* Título */}
         <Row className="home-row">
             <h2 className="home-col" style={{marginBottom: "-20px"}}> 
                 As Mídias
@@ -60,6 +63,7 @@ function Midias() {
                     o respectivo "Guia do Professor".
                 </p>
                 <div>
+                    {/* Botão de collapse */}
                     <Button className="collapse-button" onClick={() => setVideosOpen(!videosOpen)}> 
                         <p>
                             Dividem-se em três séries
@@ -131,6 +135,7 @@ function Midias() {
                     o respectivo guia do professor.
                 </p>
                 <div>
+                    {/* Botão de collapse */}
                     <Button className="collapse-button" onClick={() => setAudiosOpen(!audiosOpen)}>
                         <p>
                             Dividem-se em sete séries

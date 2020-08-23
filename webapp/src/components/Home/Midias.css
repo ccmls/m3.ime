@@ -9,7 +9,7 @@
     margin-top: 4px;
 }
 
-@keyframes crescer {
+@keyframes grow {
     from {
         width: 30px;
     }
@@ -25,7 +25,7 @@
     height: 3.2px;
     background-color: #ED1C24;
     margin-top: 4px;
-    animation-name: crescer;
+    animation-name: grow;
     animation-duration: 0.6s;
 }
 
@@ -34,7 +34,7 @@
 }
 
 
-/* Botão do collapse */
+/* Botão de collapse */
 
 .collapse-button {
     background-color: #f5f5f5 !important;
@@ -46,6 +46,11 @@
 
 .collapse-button p {
     margin: 0px !important;
+}
+
+.collapse-button:hover {
+    background-color: #dadada !important;
+    transition-duration: 0.3s;
 }
 
 .collapse-button:focus {

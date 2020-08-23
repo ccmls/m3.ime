@@ -1,15 +1,18 @@
 import React from 'react';
 import './HomeSearch.css';
 import { InputGroup, InputGroupAddon, Button, Input } from 'reactstrap';
+// IMAGENS:
 import search from '../../assets/icons - Home/search.svg'
 
 function HomeSearch() {
     return (
         <>
+            {/* Título */}
             <h2> 
                 Encontre os recursos certos para sua aula: 
             </h2>
-
+            
+            {/* Texto */}
             <p className="home-p">
                 Este é o site da coleção Matemática Multimídia, 
                 um conjunto com mais de 300 recursos educacionais 
@@ -25,6 +28,7 @@ function HomeSearch() {
                 busca ao lado ou selecione uma mídia ou tema.
             </p>
             
+            {/* Barra de busca */}
             <InputGroup>
                 <Input className="home-input" placeholder="Procure algum termo (tema, conteúdo, etc.)"/>
                 <InputGroupAddon addonType="append">
