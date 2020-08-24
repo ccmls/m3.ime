@@ -17,7 +17,7 @@ import FooterMobile from './components/Header+Footer/FooterMobile';
 // Home
 import Home from './components/Home/Home';
 // Recursos
-import RecursosEd from './components/Resources/RecursosEd';
+import RecursosRoutes from './components/Resources/RecursosRoutes';
 //ExtraLinks
 import Justificativa from './components/ExtraLinks/Justificativa';
 import Colaboradores from './components/ExtraLinks/Colaboradores';
@@ -64,7 +64,7 @@ function App() {
 
             {/* RECURSOS */}
             <Route path="/recursos">
-                <RecursosEd/>
+                <RecursosRoutes/>
             </Route>
 
             {/* JUSTIFICATIVA PEDAGÓGICA */}
