@@ -6,12 +6,14 @@ import classNames from 'classnames';
 
 function Header() {
 
+    // States para controlar os botões de dropdown:
     const [midiaDropdownOpen, setMidiaDropdownOpen] = useState(false);
     const [probDropdownOpen, setProbDropdownOpen] = useState(false);
     const [geoDropdownOpen, setGeoDropdownOpen] = useState(false);
     const [numDropdownOpen, setNumDropdownOpen] = useState(false);
 
-    // Função para que a barra vermelha da header fique fixa na tela
+
+    // Função para que a barra vermelha da header fique fixa na tela:
     function changeClasses() {
             if(window.scrollY > 164.8) {
                 document.getElementById("red-header").classList.add("red-header-fixed");
@@ -33,11 +35,15 @@ function Header() {
     return(
         <div className="header" id="red-header">
             <ul>
+                {/* Início */}
                 <Link to="/">
-                    <li className="header-dropdown-toggle"> Início </li>
+                    <li className="header-dropdown-toggle"> 
+                        Início 
+                    </li>
                 </Link>
+
+                {/* Botão dropdown com as Mídias */}
                 <li>
-                    {/* Botão dropdown com as Mídias */}
                     <Dropdown
                         onMouseOver={() => setMidiaDropdownOpen(true)} 
                         onMouseLeave={() => setMidiaDropdownOpen(false)} 
@@ -57,8 +63,8 @@ function Header() {
                     </Dropdown>
                 </li>
                 
+                {/* Botão dropdown com os conteúdos de Análise de Dados e Probabilidade */}
                 <li>
-                    {/* Botão dropdown com os conteúdos de Análise de Dados e Probabilidade */}
                     <Dropdown 
                         onMouseOver={() => setProbDropdownOpen(true)} 
                         onMouseLeave={() => setProbDropdownOpen(false)}
@@ -82,8 +88,8 @@ function Header() {
                     </Dropdown>
                 </li> 
                 
+                {/* Botão dropdown com os conteúdos de Geometria e Medidas */}
                 <li>
-                    {/* Botão dropdown com os conteúdos de Geometria e Medidas */}
                     <Dropdown
                         onMouseOver={() => setGeoDropdownOpen(true)} 
                         onMouseLeave={() => setGeoDropdownOpen(false)}
@@ -102,8 +108,8 @@ function Header() {
                     </Dropdown>
                 </li>  
                 
+                {/* Botão dropdown com os conteúdos de Números e Funções */}
                 <li> 
-                    {/* Botão dropdown com os conteúdos de Números e Funções */}
                     <Dropdown 
                         onMouseOver={() => setNumDropdownOpen(true)} 
                         onMouseLeave={() => setNumDropdownOpen(false)}

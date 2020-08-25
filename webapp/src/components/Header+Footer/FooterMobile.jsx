@@ -1,5 +1,6 @@
 import React from 'react';
 import './Footer.css';
+// IMAGENS:
 import copyrights from '../../assets/copyrights.png'
 import logoanchor from '../../assets/logo-anchor.png';
 import logoyoutube from '../../assets/logo-youtube.png';

@@ -17,6 +17,7 @@ import './Header.css';
 
 function HeaderMobile() {
 
+    // State para controlar os botões de collapse:
     const [isOpen, setIsOpen] = useState(false);
 
     const toggle = () => setIsOpen(!isOpen);
@@ -28,6 +29,7 @@ function HeaderMobile() {
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
+                        {/* Início */}
                         <NavItem>
                             <NavLink href="/" className="header-dropdown-toggle-mobile">Início</NavLink>
                         </NavItem>

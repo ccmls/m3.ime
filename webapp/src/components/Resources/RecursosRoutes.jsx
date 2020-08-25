@@ -16,7 +16,6 @@ function RecursosRoutes() {
             </Route>
             <Route path="/recursos/:idRecurso">
                 <p>chamar aqui a pagina de detalhes de um recurso!!!!!!</p>
-
             </Route>
         </Switch>
     )

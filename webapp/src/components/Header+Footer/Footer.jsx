@@ -1,11 +1,12 @@
 import React from 'react';
 import './Footer.css';
 import { Link } from "react-router-dom";
+// IMAGENS:
 import copyrights from '../../assets/copyrights.png';
+import footer from '../../assets/footer.png'
 import logoanchor from '../../assets/logo-anchor.png';
 import logoyoutube from '../../assets/logo-youtube.png';
 import logotwitter from '../../assets/logo-twitter.png';
-import footer from '../../assets/footer.png'
 
 function Footer() {
     return (
@@ -61,7 +62,8 @@ function Footer() {
                     <Link to="/principal/historico">
                         <p>  Histórico </p>
                     </Link>   
-
+    
+                    {/* Redes sociais */}
                     <div className="social-midia">
                         <a href="https://anchor.fm/matematica-multimidia" target="_blank" rel="noopener noreferrer">
                             <img src={logoanchor} alt="anchor.fm" />

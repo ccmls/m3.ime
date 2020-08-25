@@ -65,7 +65,7 @@
 }
 
 
-{/* Imagem dos blocos */}
+/* Imagem dos blocos */
 
 .blocos {
     display: flex;
@@ -143,6 +143,9 @@
     animation-duration: 0.6s;
     margin-left: auto;
 }
+
+
+/* Redes sociais */
 
 .social-midia {
     text-align: right;
