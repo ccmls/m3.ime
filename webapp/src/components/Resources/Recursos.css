@@ -1,4 +1,47 @@
+/* LAYOUT de linhas e colunas */
+
+.resources-row {
+    margin-top: 0px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.resources-col {
+    padding: 0px 10px !important;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+
+/* LAYOUT dos cards */
+
+.resources-card {
+    margin-top: 20px;
+    border: 1px solid #ED1C24;
+    border-radius: 0.25rem;
+    margin-right: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.details-card {
+    background-color: #F5F5F5;
+    border-radius: 0.25rem;
+}
+
+.details-card h3 {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.details-card p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
 /* Botões */
+
 .button {
     height: 35.6px !important;
     border: 0px !important;
@@ -44,25 +87,4 @@
     transform: translate(-50%, -50%);
     height: 10px;
     width: 20px;
-}
-
-.resources-card {
-    margin-top: 20px;
-    border: 1px solid #ED1C24;
-    border-radius: 0.25rem;
-    margin-right: 20px;
-    margin-left: 20px;
-    cursor: pointer;
-}
-
-.resources-row {
-    margin-top: 0px;
-    margin-left: 10px !important;
-    margin-right: 10px !important;
-}
-
-.resources-col {
-    padding: 0px 10px !important;
-    margin-top: 15px !important;
-    margin-bottom: 15px !important;
 }

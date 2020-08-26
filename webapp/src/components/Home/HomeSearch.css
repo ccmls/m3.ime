@@ -15,7 +15,7 @@
     line-height: 18px !important;
     font-weight: 300 !important;
     color: #495057;
-    border: 1px solid #ced4da;
+    border: 1.5px solid #ced4da !important;
     border-right: 0px !important;
     border-radius: .25rem;
     transition: none !important;
@@ -23,7 +23,7 @@
 
 .home-input:focus {
     box-shadow: none !important;
-    border: 1px solid #ED1C24 !important;
+    border: 1.5px solid #ED1C24 !important;
     border-right: 0px !important;
 }
 

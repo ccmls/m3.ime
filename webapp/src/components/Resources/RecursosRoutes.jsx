@@ -7,6 +7,7 @@ import {
     Redirect
 } from "react-router-dom";
 import RecursosEd from './RecursosEd';
+import DetalhesRecurso from './DetalhesRecurso';
 
 function RecursosRoutes() {
     return (
@@ -15,7 +16,7 @@ function RecursosRoutes() {
                 <RecursosEd/>
             </Route>
             <Route path="/recursos/:idRecurso">
-                <p>chamar aqui a pagina de detalhes de um recurso!!!!!!</p>
+                <DetalhesRecurso/>
             </Route>
         </Switch>
     )

@@ -104,9 +104,7 @@ function RecursosEd() {
                         <div style={{display: "flex", flexDirection: "row"}}>
                             <RecursosEdSearch searchValue={searchValue} setSearchValue={setSearchValue}/>
                             <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)} style={{marginLeft: "10px"}}> 
-                                <p>
-                                    FILTRAR
-                                </p> 
+                                <p> FILTRAR </p> 
                             </Button>
                         </div>
                     </Col>
