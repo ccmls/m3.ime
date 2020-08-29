@@ -18,7 +18,9 @@ function HomeSearch() {
     function handleKeyDown(event) {
         if (event.key === "Enter") {
             if (searchText.length === 0) {
-            history.push(`/recursos?search=${searchText}`)
+                history.push(`/recursos`)
+            } else {
+                history.push(`/recursos?search=${searchText}`)
             }
         }
     }
@@ -50,7 +52,13 @@ function HomeSearch() {
             <InputGroup>
                 <Input className="home-input" placeholder="Procure algum termo (tema, conteúdo, etc.)" onChange={(event) => setSearchText(event.target.value)} onKeyPress={event => handleKeyDown(event)}/>
                 <InputGroupAddon addonType="append">
-                    <Button className="search-button" onClick={() => history.push(`/recursos?search=${searchText}`)}>
+                    <Button className="search-button" onClick={() => {
+                        if (searchText.length === 0) {
+                            history.push(`/recursos`)
+                        } else {
+                            history.push(`/recursos?search=${searchText}`)
+                        }
+                    }}>
                         <img src={search} alt="search" className="search-icon"/>
                     </Button>
                 </InputGroupAddon>
