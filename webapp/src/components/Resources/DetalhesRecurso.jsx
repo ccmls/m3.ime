@@ -2,11 +2,15 @@ import React, { useState, useEffect } from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
+import { useHistory } from 'react-router-dom';
 
 function DetalhesRecurso() {
 
     // State para controlar a busca
     const [searchValue, setSearchValue] = useState("");
+
+    // Objeto das rotas que representa o histórico (ele funciona como uma pilha para armazenar as rotas)
+    const history = useHistory()
 
     return (
         <Container className="home-container">
@@ -14,7 +18,7 @@ function DetalhesRecurso() {
             <Row className="home-row">
                 <Col className="home-col">
                     <div style={{display: "flex", flexDirection: "row"}}>
-                        <Button className="button" style={{marginRight: "10px"}}> 
+                        <Button className="button" style={{marginRight: "10px"}} onClick={() => history.goBack()}> 
                             <p> VOLTAR </p> 
                         </Button>
                         <RecursosEdSearch searchValue={searchValue} setSearchValue={setSearchValue}/>

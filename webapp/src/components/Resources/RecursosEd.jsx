@@ -6,6 +6,7 @@ import RecursosEdFiltros from './RecursosEdFiltros';
 import upArrow from '../../assets/up-arrow.svg';
 import m3_resources from '../../xml/m3_resources.js'
 import Pagination from './Pagination';
+import { useHistory } from 'react-router-dom';
 
 function RecursosEd() {
 
@@ -18,7 +19,7 @@ function RecursosEd() {
     // State pra controlar o colapse dos filtros
     const [filtrosOpen, setFiltrosOpen] = useState(false);
 
-    // 
+    // Função para a barra de pesquisa
     useEffect(() => {
         setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
     }, [searchValue])
@@ -30,13 +31,19 @@ function RecursosEd() {
     }
 
 
+    // Objeto das rotas que representa o histórico (ele funciona como uma pilha para armazenar as rotas)
+    const history = useHistory()
+
+
     // Parser
     const parser = new DOMParser();
     const parsedResources = parser.parseFromString(m3_resources,"text/xml");
 
+    // Array com todos os recursos
     const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")]
     console.log(rawResourcesArray)
     const resourcesArray = rawResourcesArray.map(rawResource => ({
+        id: rawResource.childNodes[1].textContent,
         title: rawResource.childNodes[7].textContent,
         m3_media_id: rawResource.childNodes[3].textContent,
         topic: rawResource.childNodes[35].textContent,
@@ -51,7 +58,7 @@ function RecursosEd() {
     function renderResources(resourcesToRender) {
         return resourcesToRender.map(resource => {
             return (
-                <div className="resources-card">
+                <div className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
                     <Row className= "resources-row">
                             <Col className= "resources-col">
                                 <h2> {resource.title} </h2>
