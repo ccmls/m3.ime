@@ -6,12 +6,9 @@ import RecursosEdFiltros from './RecursosEdFiltros';
 import upArrow from '../../assets/up-arrow.svg';
 import m3_resources from '../../xml/m3_resources.js'
 import Pagination from './Pagination';
-import { useHistory } from 'react-router-dom';
+import { useHistory, useLocation } from 'react-router-dom';
 
 function RecursosEd() {
-
-    // State para controlar a busca
-    const [searchValue, setSearchValue] = useState("");
 
     // State para controlar os recursos que serão renderizados
     const [filteredResourcesArray, setFilteredResourcesArray] = useState([])
@@ -19,20 +16,25 @@ function RecursosEd() {
     // State pra controlar o colapse dos filtros
     const [filtrosOpen, setFiltrosOpen] = useState(false);
 
+
+    // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
+    const history = useHistory()
+    const location = useLocation()
+    let params = new URLSearchParams(location.search)
+    const searchValue = params.get("search")
+
+
     // Função para a barra de pesquisa
     useEffect(() => {
         setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
     }, [searchValue])
+
 
     // Função para o botão de scroll to top
     function topFunction() {
         document.body.scrollTop = 0; // For Safari
         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     }
-
-
-    // Objeto das rotas que representa o histórico (ele funciona como uma pilha para armazenar as rotas)
-    const history = useHistory()
 
 
     // Parser
@@ -109,7 +111,7 @@ function RecursosEd() {
                 <Row className="home-row">
                     <Col className="home-col">
                         <div style={{display: "flex", flexDirection: "row"}}>
-                            <RecursosEdSearch searchValue={searchValue} setSearchValue={setSearchValue}/>
+                            <RecursosEdSearch setSearchValue={(value) => history.push(`/recursos?search=${value}`)}/>
                             <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)} style={{marginLeft: "10px"}}> 
                                 <p> FILTRAR </p> 
                             </Button>

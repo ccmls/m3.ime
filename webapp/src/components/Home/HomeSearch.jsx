@@ -1,10 +1,28 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './HomeSearch.css';
 import { InputGroup, InputGroupAddon, Button, Input } from 'reactstrap';
+import { useHistory } from 'react-router-dom';
 // IMAGENS:
 import search from '../../assets/icons - Home/search.svg'
 
 function HomeSearch() {
+
+    // State para controlar a busca
+    const [searchText, setSearchText] = useState("");
+
+
+    // Objeto das rotas que representa o histórico (ele funciona como uma pilha para armazenar as rotas)
+    const history = useHistory()
+
+    // Função para que a busca seja feita tanto apertando o botão quanto dando 'enter'no teclado
+    function handleKeyDown(event) {
+        if (event.key === "Enter") {
+            if (searchText.length === 0) {
+            history.push(`/recursos?search=${searchText}`)
+            }
+        }
+    }
+
     return (
         <>
             {/* Título */}
@@ -30,9 +48,9 @@ function HomeSearch() {
             
             {/* Barra de busca */}
             <InputGroup>
-                <Input className="home-input" placeholder="Procure algum termo (tema, conteúdo, etc.)"/>
+                <Input className="home-input" placeholder="Procure algum termo (tema, conteúdo, etc.)" onChange={(event) => setSearchText(event.target.value)} onKeyPress={event => handleKeyDown(event)}/>
                 <InputGroupAddon addonType="append">
-                    <Button className="search-button">
+                    <Button className="search-button" onClick={() => history.push(`/recursos?search=${searchText}`)}>
                         <img src={search} alt="search" className="search-icon"/>
                     </Button>
                 </InputGroupAddon>

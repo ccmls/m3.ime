@@ -2,10 +2,12 @@ import React, {useState} from 'react';
 import { InputGroup, InputGroupAddon, Button, Input } from 'reactstrap';
 import search from '../../assets/icons - Home/search.svg'
 
-function RecursosEdSearch({searchValue, setSearchValue}) {
+function RecursosEdSearch({setSearchValue}) {
 
+    // State para controlar a busca
     const [searchText, setSearchText] = useState("")
 
+    // Função para que a busca seja feita tanto apertando o botão quanto dando 'enter'no teclado
     function handleKeyDown(event) {
         if (event.key === "Enter") {
             setSearchValue(searchText)

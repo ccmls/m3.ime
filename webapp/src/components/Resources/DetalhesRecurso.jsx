@@ -6,9 +6,6 @@ import { useHistory } from 'react-router-dom';
 
 function DetalhesRecurso() {
 
-    // State para controlar a busca
-    const [searchValue, setSearchValue] = useState("");
-
     // Objeto das rotas que representa o histórico (ele funciona como uma pilha para armazenar as rotas)
     const history = useHistory()
 
@@ -21,7 +18,7 @@ function DetalhesRecurso() {
                         <Button className="button" style={{marginRight: "10px"}} onClick={() => history.goBack()}> 
                             <p> VOLTAR </p> 
                         </Button>
-                        <RecursosEdSearch searchValue={searchValue} setSearchValue={setSearchValue}/>
+                        <RecursosEdSearch setSearchValue={(value) => history.push(`/recursos?search=${value}`)}/>
                     </div>
                 </Col>
             </Row>
