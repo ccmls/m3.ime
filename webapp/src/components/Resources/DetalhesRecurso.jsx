@@ -18,7 +18,13 @@ function DetalhesRecurso() {
                         <Button className="button" style={{marginRight: "10px"}} onClick={() => history.goBack()}> 
                             <p> VOLTAR </p> 
                         </Button>
-                        <RecursosEdSearch setSearchValue={(value) => history.push(`/recursos?search=${value}`)}/>
+                        <RecursosEdSearch setSearchValue={(value) => {
+                            if (value.length === 0) {
+                                history.push(`/recursos`)
+                            } else {
+                                history.push(`/recursos?search=${value}`)
+                            }
+                        }}/>
                     </div>
                 </Col>
             </Row>

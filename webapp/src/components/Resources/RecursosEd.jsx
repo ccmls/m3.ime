@@ -21,11 +21,14 @@ function RecursosEd() {
     const history = useHistory()
     const location = useLocation()
     let params = new URLSearchParams(location.search)
-    const searchValue = params.get("search")
+    let searchValue = params.get("search")
 
 
-    // Função para a barra de pesquisa
+    // Função para a busca
     useEffect(() => {
+        if (!searchValue) {
+            searchValue = ""
+        }
         setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
     }, [searchValue])
 
@@ -58,7 +61,8 @@ function RecursosEd() {
 
     // Função pra renderizar os recursos
     function renderResources(resourcesToRender) {
-        return resourcesToRender.map(resource => {
+        // Constante com o array de cards criado
+        const resources = resourcesToRender.map(resource => {
             return (
                 <div className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
                     <Row className= "resources-row">
@@ -86,7 +90,9 @@ function RecursosEd() {
                         </Col>
                     </Row>
                 </div>
-        )})
+            )
+        })
+        return resources
     }
     
 
@@ -111,10 +117,16 @@ function RecursosEd() {
                 <Row className="home-row">
                     <Col className="home-col">
                         <div style={{display: "flex", flexDirection: "row"}}>
-                            <RecursosEdSearch setSearchValue={(value) => history.push(`/recursos?search=${value}`)}/>
-                            <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)} style={{marginLeft: "10px"}}> 
+                            <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)} style={{marginRight: "10px"}}> 
                                 <p> FILTRAR </p> 
                             </Button>
+                            <RecursosEdSearch setSearchValue={(value) => {
+                                if (value.length === 0) {
+                                    history.push(`/recursos`)
+                                } else {
+                                    history.push(`/recursos?search=${value}`)
+                                }    
+                            }}/>
                         </div>
                     </Col>
                 </Row>
@@ -125,6 +137,23 @@ function RecursosEd() {
                 </Row>
 
                 {renderResources(filteredResourcesArray)}
+                {(filteredResourcesArray.length === 0)?
+                    <div style={{marginTop: "60px", marginBottom: "30px", marginLeft: "20px"}}>
+                        <h6> A sua pesquisa não encontrou nenhum resultado. </h6>
+                            <br/>
+                        <p> 
+                            Sugestões:
+                            <br/>
+                            • Certifique-se de que nenhuma palavra contém erros ortográficos.
+                            <br/>
+                            • Tente utilizar outras palavras-chave.
+                            <br/>
+                            • Tente palavras-chave mais gerais. 
+                            <br/>
+                        </p>
+                    </div>
+                    : null
+                }
 
                 <div className="divider" style={{marginTop: "30px"}}/>
             </Container>
