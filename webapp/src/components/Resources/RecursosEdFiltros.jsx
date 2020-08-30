@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 
-function RecursosEdFiltros({filtrosOpen, numberOfResults}) {
+function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, setFilters}) {
+
+    console.log("AAAAAAAAAA", filters)
     return (
         <>
             <Collapse isOpen={filtrosOpen}>
@@ -11,6 +13,18 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults}) {
                         <Row style={{margin:"0"}}>
                             <Col lg="2" md="6" sm="12">
                                 <Row> <h6>MÍDIA</h6> </Row>
+                                <Row>
+                                    <div>
+                                        <br/>
+                                        <p onClick={() => setFilters(prevState => ({...prevState, experimentos:!prevState.experimentos}))}> Experimentos </p> 
+                                        <br/>
+                                        <p onClick={() => setFilters(prevState => ({...prevState, videos:!prevState.videos}))}> Vídeos </p> 
+                                        <br/>
+                                        <p onClick={() => setFilters(prevState => ({...prevState, softwares:!prevState.softwares}))}> Softwares </p>
+                                        <br/>
+                                        <p onClick={() => setFilters(prevState => ({...prevState, audios:!prevState.audios}))}> Áudios </p>
+                                    </div>
+                                </Row>
                             </Col>
 
                             <Col lg="4" md="6" sm="12">
@@ -41,6 +55,18 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults}) {
 
                             <Col lg="3" md="6" sm="12">
                                 <Row> <h6>GEOMETRIA E MEDIDAS</h6> </Row>
+                                <Row> 
+                                    <p>
+                                        <br/>
+                                        Geometria Plana
+                                        <br/><br/>
+                                        Trigonometria
+                                        <br/><br/>
+                                        Geometria Espacial
+                                        <br/><br/>
+                                        Geometria Analítica
+                                    </p>
+                                </Row>
                             </Col>
 
                             <Col lg="3" md="6" sm="12">
@@ -48,23 +74,31 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults}) {
                                 <Row> 
                                     <p>
                                         <br/>
-                                        Arranjo, Permutação e Combinação
+                                        Conjuntos, Lógica e Números
                                         <br/><br/>
-                                        Combinações cíclicas e com simetrias
+                                        Relações e Funções
                                         <br/><br/>
-                                        Binômio de Newton e Triângulo de Pascal
+                                        Razão e Proporção
                                         <br/><br/>
-                                        Grafos
+                                        Função Afim
                                         <br/><br/>
-                                        Probabilidade
+                                        Função Quadrática
                                         <br/><br/>
-                                        Estatística
+                                        Função Exponencial
                                         <br/><br/>
-                                        Interpretação de gráficos e dados
+                                        Função Logaritmo
                                         <br/><br/>
-                                        Planejamento de Experimentos
+                                        Sequências
                                         <br/><br/>
-                                        Elementos de Amostragem
+                                        Funções trigonométricas
+                                        <br/><br/>
+                                        Sistemas Lineares
+                                        <br/><br/>
+                                        Matrizes
+                                        <br/><br/>
+                                        Polinômios e Números Complexos
+                                        <br/><br/>
+                                        Matemática Financeira
                                     </p>
                                 </Row>
                             </Col>

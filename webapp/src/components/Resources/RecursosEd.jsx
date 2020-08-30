@@ -13,9 +13,44 @@ function RecursosEd() {
     // State para controlar os recursos que serão renderizados
     const [filteredResourcesArray, setFilteredResourcesArray] = useState([])
 
-    // State pra controlar o colapse dos filtros
+    // State pra controlar o botão collapse dos filtros
     const [filtrosOpen, setFiltrosOpen] = useState(false);
 
+    // State para controlar os filtros que estão sendo aplicados
+    const [filters, setFilters] = useState(
+        {
+            experimentos: false,
+            videos: false,
+            softwares: false,
+            audios: false,
+            arranjoPermutacaoECombinacao: false,
+            combinacoesCiclicasEComSimetrias: false,
+            binomioDeNewtonETrianguloDePascal: false,
+            grafos: false,
+            probabilidade: false,
+            estatistica: false,
+            interpretacaoDeGraficosEDados: false,
+            planejamentoDeExperimentos: false,
+            elementosDeAmostragem: false,
+            geometriaPlana: false,
+            trigonometria: false,
+            geometriaEspacial: false,
+            geometriaAnalitica: false,
+            conjuntosLogicaENumeros: false,
+            relacoesEFuncoes: false,
+            razaoEProporcao: false,
+            funcaoAfim: false,
+            funcaoQuadratica: false,
+            funcaoExponencial: false,
+            funcaoLogaritmo: false,
+            sequencias: false,
+            funcoestrigonometricas: false,
+            sistemasLineares: false,
+            matrizes: false,
+            polinomiosENmerosComplexos: false,
+            matemAticaFinanceira: false,
+        }
+    )
 
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
     const history = useHistory()
@@ -40,6 +75,7 @@ function RecursosEd() {
     }
 
 
+    // RECURSOS:
     // Parser
     const parser = new DOMParser();
     const parsedResources = parser.parseFromString(m3_resources,"text/xml");
@@ -115,7 +151,7 @@ function RecursosEd() {
                     </Col>
                 </Row>
                 <Row className="home-row">
-                    <Col className="home-col">
+                    <Col className="home-col" style={{marginBottom: "5px"}}>
                         <div style={{display: "flex", flexDirection: "row"}}>
                             <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)} style={{marginRight: "10px"}}> 
                                 <p> FILTRAR </p> 
@@ -132,7 +168,7 @@ function RecursosEd() {
                 </Row>
                 <Row className="home-row">
                     <Col style={{padding: "0px 47px"}}>
-                        <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length}/>
+                        <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length} filters={filters} setFilters={setFilters}/>
                     </Col>
                 </Row>
 
