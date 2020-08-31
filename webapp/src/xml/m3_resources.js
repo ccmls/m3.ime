@@ -4,7 +4,8 @@ const m3_resources =
   <m3_resource>
     <id>994</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A altura da árvore
@@ -46,6 +47,7 @@ published
 2012-04-08 14:45:07
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -54,24 +56,26 @@ Maria Zoraide M. C. Soares, Miriam Sampieri Santinho, Rosa Maria Machado e Wilso
     </authors>
     <conteudos>
 <![CDATA[
-Trigonometria no triângulo retângulo, 
-distâncias, 
-experimento, 
-alturas, 
-Função tangente, 
-ângulo
+Trigonometria no triângulo retângulo, distâncias, experimento, alturas, Função tangente, ângulo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+994
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
+    <m3_resource_id>994</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>995</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A Matemática dos Calendários
@@ -113,6 +117,7 @@ published
 2012-04-10 21:26:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -124,16 +129,23 @@ Samuel Rocha de Oliveira
 experimento, datas, algoritmos, calendários
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+995
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
+    <m3_resource_id>995</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>996</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Arco Capaz e navegação
@@ -176,6 +188,7 @@ published
 2012-01-24 15:06:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -184,15 +197,22 @@ Leonardo Barichello
     </authors>
     <conteudos>
 <![CDATA[
-experimento, construções com régua e compasso, geometria plana, arco capaz
+experimento, construções com régua e compasso, geometriz plana, arco capaz
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+996
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>997</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Baralhos e Torradas
@@ -233,6 +253,7 @@ published
 2012-01-24 15:06:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -244,16 +265,23 @@ Laura Leticia Ramos Rifo
 experimento, Probabilidade, probabilidade condicional
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+997
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>997</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>998</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Baralho Mágico
@@ -295,6 +323,7 @@ published
 2012-01-24 15:06:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -306,12 +335,19 @@ Marcelo Firer
 experimento, função logarítmica, cartas, truques, logaritmos, mágica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+998
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>999</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Câmara Escura
@@ -352,6 +388,7 @@ published
 2012-01-24 15:07:03
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -363,16 +400,23 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e Maria Lúcia Bontorim de
 experimento, Fotografia, proporção, Proporcionalidade inversa, Proporcionalidade direta, Razão, câmara escura
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+999
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>999</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1000</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cilindro = Cone + Esfera ÷ 2
@@ -414,6 +458,7 @@ published
 2012-01-24 15:07:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -425,12 +470,19 @@ Maria Lúcia Bontorim de Queiroz, Claudina Izepe Rodrigues e Eliane Quelho Frota
 experimento, princípio de cavalieri, geometria, espacial, cone, cilindro, esfera, volumes
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1000
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1001</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Com quantas cores posso pintar um mapa?
@@ -473,6 +525,7 @@ published
 2012-01-24 15:07:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -484,12 +537,19 @@ Cristiano Torezzan
 experimento, topologia, mapas, teorema das quatro cores
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1001
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1002</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Como economizar cadarço
@@ -531,6 +591,7 @@ published
 2012-01-24 15:07:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -542,12 +603,19 @@ Samuel Rocha de Oliveira
 experimento, Problemas de otimização., Geometria Plana
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1002
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1003</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Corrida ao 100
@@ -588,6 +656,7 @@ published
 2012-01-24 15:07:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -599,12 +668,19 @@ Carlos Roberto da Silva, Lourival Pereira Martins e Marcelo de Melo
 experimento, Sequências, Progressão Aritmética, PA.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1003
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1004</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Curvas de Nível
@@ -647,6 +723,7 @@ published
 2012-01-24 15:07:26
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -658,12 +735,19 @@ Miriam Sampieri Santinho, Rosa Maria Machado e Wilson Roberto Rodrigues
 experimento, Geometria Plana, Paralelismo entre Planos, Curvas de nível, Projeções Ortogonais, Geometria Espacial, representação
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1004
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1005</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 De quantas maneiras posso passar meu cadarço?
@@ -704,6 +788,7 @@ published
 2012-01-24 15:07:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -715,16 +800,23 @@ Leonardo Barichello, Samuel Rocha de Oliveira
 experimento, Princípio Fundamental da Contagem, Técnicas de Contagem, Combinatória
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1005
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1005</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1006</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Dinamômetro com elástico
@@ -768,6 +860,7 @@ published
 2012-01-24 15:07:28
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -785,11 +878,13 @@ experimento, Equação, elástico, dinamômetro, Aplicação., lei de hooke, Coe
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1007</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Duplicação do Cubo
@@ -832,6 +927,7 @@ published
 2012-03-10 09:56:48
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -849,11 +945,13 @@ matemática, experimento, Geometria Espacial, Geometria Métrica, volume, Númer
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1008</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Eliminando Quadrados
@@ -895,6 +993,7 @@ published
 2012-01-24 15:07:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -912,11 +1011,13 @@ experimento, Probabilidade, decaimento, Produto Cartesiano, Relações e Funçõ
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1009</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Empacotamento de latas
@@ -957,6 +1058,7 @@ published
 2012-01-24 15:07:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -974,11 +1076,13 @@ experimento, Problemas de otimização., Geometria Plana, Geometria Espacial, em
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1010</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Engenharia de Grego
@@ -1020,6 +1124,7 @@ published
 2012-01-24 15:07:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1037,11 +1142,13 @@ experimento, Geometria Plana, Semelhança de triângulos, Relações trigonomét
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1011</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Escoamento de areia
@@ -1083,6 +1190,7 @@ published
 2012-01-24 15:07:48
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1104,11 +1212,13 @@ experimento, proporção, Proporcionalidade inversa, Proporcionalidade direta, R
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1011</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1012</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Espelhos e simetrias
@@ -1151,6 +1261,7 @@ published
 2012-01-24 15:07:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1168,11 +1279,13 @@ experimento, ângulos, Geometria Plana, polígonos, Simetrias
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1013</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Esqueletos no espaço
@@ -1214,6 +1327,7 @@ published
 2012-01-24 15:07:53
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1231,11 +1345,13 @@ experimento, Geometria Espacial, sólidos, palitos, contrução, Geometria Métr
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1014</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Estátuas e dominós
@@ -1277,6 +1393,7 @@ published
 2012-01-24 15:07:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1294,11 +1411,13 @@ experimento, condição, conjuntos, Noções de Lógica., Lógica e Números, l�
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1015</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Estradas para estação
@@ -1340,6 +1459,7 @@ published
 2012-01-24 15:07:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1357,11 +1477,13 @@ distâncias, experimento, Geometria Plana, geometria analítica, reta, reflexão
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1016</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jankenpon
@@ -1405,6 +1527,7 @@ published
 2012-01-24 15:07:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1426,11 +1549,13 @@ experimento, Probabilidade, transitividade, Representação gráfica, Eventos eq
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1016</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1017</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jogo das Amebas
@@ -1472,6 +1597,7 @@ published
 2012-01-24 15:07:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1493,11 +1619,13 @@ experimento, Probabilidade, probabilidade condicional, Representação gráfica,
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1017</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1018</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jogo dos Divisores
@@ -1538,6 +1666,7 @@ published
 2012-01-24 15:07:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1555,11 +1684,13 @@ experimento, Probabilidade, divisão, Análise de Jogos., Estatística, divisore
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1019</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Mágica das cartelas
@@ -1602,6 +1733,7 @@ published
 2012-01-24 15:07:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1619,11 +1751,13 @@ experimento, mágica, base 2, truque, números binários, base binário
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1020</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Mensagens Secretas com Matrizes
@@ -1665,6 +1799,7 @@ published
 2012-05-12 10:24:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1686,11 +1821,13 @@ experimento, Matriz Inversa, Matrizes, criptografia., Determinantes, multiplica�
 números e funções
 ]]>
     </topicos>
+    <m3_resource_id>1020</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1021</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Montanhas geométricas
@@ -1732,6 +1869,7 @@ published
 2012-01-24 15:08:13
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1749,11 +1887,13 @@ distâncias, experimento, Geometria Plana, Geometria Espacial, Semelhança de tr
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1022</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Morto ou Vivo
@@ -1795,6 +1935,7 @@ published
 2012-01-24 15:08:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1812,11 +1953,13 @@ experimento, Princípio Fundamental da Contagem, Combinatória, conjuntos, lógi
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1023</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Quadrado de Koch
@@ -1858,6 +2001,7 @@ published
 2012-01-24 15:08:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1875,11 +2019,13 @@ experimento, PG, Progressão Geométrica, fractal, Sequência, Soma de Progress�
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1024</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Onde fica a lixeira?
@@ -1920,6 +2066,7 @@ published
 2012-01-24 15:08:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -1937,11 +2084,13 @@ experimento, otimização, lixeira, circuncentro, triângulo
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1025</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Polígonos e circunferências
@@ -1983,6 +2132,7 @@ published
 2012-03-10 09:58:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2000,11 +2150,13 @@ matemática, experimento, Geometria Plana, Perímetro, isoperimétrico., Funçã
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1026</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Polígonos regulares e ladrilhos
@@ -2046,6 +2198,7 @@ published
 2012-01-24 15:08:29
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2063,11 +2216,13 @@ experimento, Geometria Plana, ladrilhamento, polígonos, Simetrias, recobrimento
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1027</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 População versus amostra
@@ -2109,6 +2264,7 @@ published
 2012-01-24 15:08:30
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2130,11 +2286,13 @@ experimento, Estatística, inferência., Análise de dados
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1027</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1028</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quadrado Mágico Aditivo
@@ -2176,6 +2334,7 @@ published
 2012-01-24 15:08:31
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2193,11 +2352,13 @@ experimento, Progressão Aritmética, quadrados mágicos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1029</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Qual é a área do quadrilátero?
@@ -2239,6 +2400,7 @@ published
 2012-01-24 15:08:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2256,11 +2418,13 @@ experimento, Geometria Plana, Áreas, Perímetros., Quadriláteros, teorema de p
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1030</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Qual é o cone com maior volume?
@@ -2302,6 +2466,7 @@ published
 2012-01-24 15:08:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2319,11 +2484,13 @@ experimento, cone, Geometria Espacial, otimização, setor circular., volume
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1031</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Qual é o prisma com maior volume?
@@ -2365,6 +2532,7 @@ published
 2012-01-24 15:08:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2382,11 +2550,13 @@ experimento, Geometria Plana, Geometria Espacial, otimização, Prisma., Áreas 
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1032</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quanto você tem de pele?
@@ -2428,6 +2598,7 @@ published
 2012-10-17 17:11:31
 ]]>
     </modified>
+    <image_id>18010</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2457,11 +2628,13 @@ Geometria Plana, Geometria Espacial, Áreas, sólidos, superfícies
 geometria e medidas
 ]]>
     </topicos>
+    <m3_resource_id>1032</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1033</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A roda-gigante
@@ -2501,6 +2674,7 @@ published
 2012-04-10 21:28:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2522,11 +2696,13 @@ experimento, função periódica, máximos e mínimos., oscilação
 números e funções
 ]]>
     </topicos>
+    <m3_resource_id>1033</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1034</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Séries Temporais
@@ -2569,6 +2745,7 @@ published
 2012-01-24 15:08:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2590,11 +2767,13 @@ experimento, Estatística, Interpretação de Gráficos e Dados.
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1034</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1035</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Táxi e combinatória
@@ -2637,6 +2816,7 @@ published
 2012-01-24 15:08:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2662,11 +2842,13 @@ experimento, geometria do táxi, binômio de newton, geometria do taxista, Combi
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1035</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1036</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Otimização da Cerca
@@ -2707,6 +2889,7 @@ published
 2012-07-19 22:17:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2738,11 +2921,13 @@ função quadrática, otimização, gráfico
 geometria e medidas, números e funções
 ]]>
     </topicos>
+    <m3_resource_id>1036</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1037</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Transformações de Möbius
@@ -2786,6 +2971,7 @@ published
 2012-01-24 15:08:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2806,11 +2992,13 @@ experimento, Números complexos, Argand-Gauss, dilatação, translação, rotaç
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1038</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Variáveis antropométricas
@@ -2852,6 +3040,7 @@ published
 2012-01-24 15:08:44
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2873,11 +3062,13 @@ experimento, Representação gráfica, Estatística, Correlação.
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1038</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1039</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Volume de Pirâmides
@@ -2919,6 +3110,7 @@ published
 2012-01-24 15:08:46
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -2936,11 +3128,13 @@ experimento, princípio de cavalieri, Geometria Espacial, Volume de Pirâmides, 
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1040</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 3, 2, 1 - mistério
@@ -2979,6 +3173,7 @@ published
 2012-04-10 21:30:31
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 2pP9aR4nkQc
@@ -3016,11 +3211,13 @@ princípio de cavalieri, volumes, Áreas, sólidos, prismas
 geometria e medidas
 ]]>
     </topicos>
+    <m3_resource_id>1040</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1041</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 À espera da meia-noite
@@ -3058,6 +3255,7 @@ published
 2012-03-19 07:51:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 j9Hg5Fx6zO4
@@ -3091,11 +3289,13 @@ noções de cálculo, limite de funções, Paradoxo de Zenão, Paradoxo de Zenon
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1042</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Abelhas Matemáticas
@@ -3132,6 +3332,7 @@ published
 2012-05-28 09:01:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 AY--UJdipZI
@@ -3168,11 +3369,13 @@ prismas, figuras geometricas
 geometria e medidas
 ]]>
     </topicos>
+    <m3_resource_id>1042</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1043</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Ação, reação e correlação
@@ -3211,6 +3414,7 @@ published
 2012-03-17 14:14:46
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 73NjtJsNJes
@@ -3249,11 +3453,13 @@ Correlação., causalidade, estatística descritiva, fator de confusão
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1043</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1044</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Eu acho que vi um coelhinho
@@ -3291,6 +3497,7 @@ published
 2012-03-19 07:18:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 T0fa5TEYjdQ
@@ -3324,11 +3531,13 @@ Seqüência de Fibonacci, números de Pell e arazão prateada., númerode ouro
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1045</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Afogando em zeros
@@ -3366,6 +3575,7 @@ published
 2012-03-20 19:21:53
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 GHgri9urkgs
@@ -3400,11 +3610,13 @@ estimativas, notação científica, Potências de 10
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1046</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Alice e algumas relações trigonométricas
@@ -3441,6 +3653,7 @@ published
 2012-03-15 15:00:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 XCELO2tbrXY
@@ -3474,11 +3687,13 @@ relações trigonometricas, Trigonometria
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1047</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Alice e a lei dos cossenos
@@ -3515,6 +3730,7 @@ published
 2012-03-13 11:15:15
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 qSa4Bv039jk
@@ -3548,11 +3764,13 @@ relações trigonometricas, Trigonometria, cosseno
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1048</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Alice e o cosseno da diferença de arcos.
@@ -3589,6 +3807,7 @@ published
 2012-03-15 13:43:50
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 nwgXkfW7aX8
@@ -3622,11 +3841,13 @@ Trigonometria, Cosseno da diferença
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1049</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Amuleto mágico
@@ -3664,6 +3885,7 @@ published
 2012-05-25 07:11:22
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 KQqO400olEI
@@ -3701,11 +3923,13 @@ Progressão Aritmética, propriedade comutativa da soma, Simetria, Quadrado Mág
 análise de dados e probabilidade
 ]]>
     </topicos>
+    <m3_resource_id>1049</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1050</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A aparição
@@ -3743,6 +3967,7 @@ published
 2012-04-10 21:31:10
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ju13iGDTIBs
@@ -3780,12 +4005,13 @@ Logaritmo
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1050</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1051</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Arte e Matemática
@@ -3822,6 +4048,7 @@ published
 2012-03-21 16:24:31
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 XQb7GEd7Zgk
@@ -3856,11 +4083,13 @@ polinomiais, fractais.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1052</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Atleticano x Rio-Grandense
@@ -3899,6 +4128,7 @@ published
 2012-05-25 07:09:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 jHHGnhECkyw
@@ -3936,12 +4166,13 @@ desvio padrão., média
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1052</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1053</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Uma aventura de RPG
@@ -3979,6 +4210,7 @@ published
 2012-03-20 23:00:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 1N1_S3M0lik
@@ -4016,12 +4248,13 @@ Probabilidade, dados
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1053</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1054</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras de Radix
@@ -4059,6 +4292,7 @@ published
 2012-03-29 23:03:52
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 INi9ywXD2j4
@@ -4092,11 +4326,13 @@ Geometria esférica
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1055</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Bombons a granel
@@ -4133,6 +4369,7 @@ published
 2012-03-19 07:34:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 3nOqZWYU5rk
@@ -4166,11 +4403,13 @@ multiplicação de matrizes
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1056</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Brasil x Argentina
@@ -4207,6 +4446,7 @@ published
 2012-03-15 09:42:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 HKg3tuq0uj4
@@ -4244,12 +4484,13 @@ Probabilidade, decisão, análise subjetiva
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1056</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1057</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Breve Relato do Fim
@@ -4288,6 +4529,7 @@ published
 2012-03-20 11:25:25
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 PR3qYQb2FdM
@@ -4322,11 +4564,13 @@ Função Exponencial.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1058</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Os caçadores de sons de Fibonacci
@@ -4362,6 +4606,7 @@ published
 2012-03-15 10:22:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 0OK8fmzey_c
@@ -4396,11 +4641,13 @@ de ouro, secção áurea, sequência de Fibonacci
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1059</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cada gráfico no seu galho
@@ -4437,6 +4684,7 @@ published
 2012-04-04 17:19:09
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 cN1l2te79Ck
@@ -4474,12 +4722,13 @@ Gráficos, gráfico de barras, gráfico de pizza
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1059</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1060</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Um caminho para combater a dengue
@@ -4516,6 +4765,7 @@ published
 2012-03-21 13:34:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 STibMZa6OoY
@@ -4549,11 +4799,13 @@ grafos, caminhos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1061</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Um caminho para o curral
@@ -4591,6 +4843,7 @@ published
 2012-03-13 09:58:15
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 t1yxIlaraQg
@@ -4624,11 +4877,13 @@ Semelhança de triângulos, Trigonometria, teorema de pitágoras
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1062</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cara ou coroa
@@ -4666,6 +4921,7 @@ published
 2012-03-20 22:57:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 E5Ais7qIDrk
@@ -4703,12 +4959,13 @@ Probabilidade, Combinação, História da matemática, Problema dos pontos
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1062</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1063</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Carro Flex
@@ -4746,6 +5003,7 @@ published
 2012-12-01 09:32:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 UhIbDZaObfQ
@@ -4783,12 +5041,13 @@ domínio de uma função, coeficiente angular, Função inversa, Funções
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1063</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1064</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A Carta
@@ -4825,6 +5084,7 @@ published
 2012-04-24 11:10:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 zdZ2fLruuns
@@ -4862,12 +5122,13 @@ criptografia.
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1064</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1065</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A Cartomante
@@ -4905,6 +5166,7 @@ published
 2012-03-20 09:02:10
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 sBZQOGEtyT0
@@ -4942,12 +5204,13 @@ Combinação, permutação, fatorial, arranjo, análise combinatóra
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1065</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1066</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Um certo fator de escala
@@ -4985,6 +5248,7 @@ published
 2012-03-18 21:17:06
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 6x8FWty5w6I
@@ -5018,11 +5282,13 @@ razão de semelhança, proporcionalidade
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1067</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A César o que é de Cesar
@@ -5061,6 +5327,7 @@ published
 2012-10-17 17:00:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 5mPAmnqlPEs
@@ -5098,12 +5365,13 @@ criptografia., História
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1067</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1068</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cloro na piscina
@@ -5142,6 +5410,7 @@ published
 2012-03-21 13:31:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 vMF9ck24m4A
@@ -5176,11 +5445,13 @@ piscina, Sequências numéricas, limite de sequências, porcentagem, cloro, padr
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1069</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O código Pascal
@@ -5219,6 +5490,7 @@ published
 2012-03-12 17:52:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 5U_cnlC1d0k
@@ -5252,11 +5524,13 @@ Sequências numéricas, Conjuntos dos números naturais
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1070</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Coisa de passarinho
@@ -5293,6 +5567,7 @@ published
 2012-03-15 09:40:13
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 EuPGf5ul6y0
@@ -5330,12 +5605,13 @@ Probabilidade, experimentos equiprováveis, fenômenos aleatórios
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1070</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1071</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Coisas do amor
@@ -5373,6 +5649,7 @@ published
 2012-03-14 14:51:01
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 lyoIz-Hzdko
@@ -5410,12 +5687,13 @@ probabilidade condicional
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1071</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1072</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Colmeia Global
@@ -5453,6 +5731,7 @@ published
 2012-03-21 06:32:31
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 rXgSrKrN6gQ
@@ -5486,11 +5765,13 @@ Progressões Aritméticas, Esfera e fusos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1073</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Comendo Números
@@ -5528,6 +5809,7 @@ published
 2012-03-12 17:52:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 z7u3353dwvk
@@ -5561,11 +5843,13 @@ sistemas lineares, eliminação de Gauss
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1074</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A Comunidade
@@ -5602,6 +5886,7 @@ published
 2012-10-04 16:23:31
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 r45Xh1ncDxQ
@@ -5639,12 +5924,13 @@ circuncentro, Pontos notáveis do triângulo
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1074</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1075</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Conclusões Precipitadas
@@ -5682,6 +5968,7 @@ published
 2012-05-25 07:10:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 b5idEuLvdLU
@@ -5719,12 +6006,13 @@ lógica, Teoria dos conjuntos, Raciocínio dedutivo
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1075</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1076</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cooperativa de leite
@@ -5762,6 +6050,7 @@ published
 2012-03-12 17:52:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 AXiNp1o88jA
@@ -5795,11 +6084,13 @@ Matrizes, tabelas, solução de problemas
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1077</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cozinha Científica
@@ -5839,6 +6130,7 @@ published
 2012-03-17 15:04:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 W-bfyjBOxMg
@@ -5876,12 +6168,13 @@ Estatística, ovo de colombo, planejamento de experimentos
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1077</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1078</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Criador e Criatura
@@ -5918,6 +6211,7 @@ published
 2012-03-20 15:02:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 O3xVBcpqCEE
@@ -5951,11 +6245,13 @@ h2. Revisores
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1079</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O crime da rua do gasômetro
@@ -5992,6 +6288,7 @@ published
 2012-03-14 14:38:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 19-qORHHWq8
@@ -6029,12 +6326,13 @@ Probabilidade, probabilidade condicional
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1079</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1080</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A dança do Sol
@@ -6077,6 +6375,7 @@ published
 2013-04-02 21:13:09
 ]]>
     </modified>
+    <image_id>18114</image_id>
     <youtube_link>
 <![CDATA[
 vGY3eEigJ-4
@@ -6114,12 +6413,13 @@ geometria analítica, Trigonometria, geografia, astronomia
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1080</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1081</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A dança do embaralhamento
@@ -6157,6 +6457,7 @@ published
 2012-03-21 16:27:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ZRC9QaTMY_w
@@ -6190,11 +6491,13 @@ permutação, mmc, mínimo múltiplo comum.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1082</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Dando IBOPE
@@ -6231,6 +6534,7 @@ published
 2012-03-17 15:46:10
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 MfHSQKdk6SQ
@@ -6268,12 +6572,13 @@ Estatística e Amostragem
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1082</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1083</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 De malas prontas
@@ -6314,6 +6619,7 @@ published
 2012-03-12 17:51:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 hlGLhnhVu7Q
@@ -6347,11 +6653,13 @@ Princípio Fundamental da Contagem, Combinatória, fatorial
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1084</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O desafio das correlações espúrias
@@ -6389,6 +6697,7 @@ published
 2012-03-17 14:13:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 jMXsAQTOMD0
@@ -6426,12 +6735,13 @@ Estatística, Correlação., correlações espúrias
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1084</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1085</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Desejos
@@ -6467,6 +6777,7 @@ published
 2012-03-20 09:05:15
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 hjgwnbBn9bM
@@ -6504,12 +6815,13 @@ Combinação
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1085</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1086</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Desenhando ondas
@@ -6548,6 +6860,7 @@ published
 2012-03-15 16:37:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 wbEV9axS2X4
@@ -6581,11 +6894,13 @@ Função seno. Soma de senóides. Funções períodicas.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1087</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Desvendando o calendário
@@ -6624,6 +6939,7 @@ published
 2012-03-21 13:26:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 1cLv9GKz1BQ
@@ -6657,11 +6973,13 @@ divisão, anos bissextos, algoritmo de Euclides
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1088</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As Desventuras de mãe Joana
@@ -6698,6 +7016,7 @@ published
 2012-08-31 15:24:13
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 mia9QU1JXxM
@@ -6735,12 +7054,13 @@ Função Decrescente, Função Quadrática, função periódica, função par, f
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1088</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1089</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Dilema do Prisioneiro
@@ -6777,6 +7097,7 @@ published
 2012-03-17 16:58:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 4ByCjdOJwvw
@@ -6810,11 +7131,13 @@ lógica, Teoria dos Jogos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1090</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Dinâmica de Grupo
@@ -6851,6 +7174,7 @@ published
 2012-03-20 09:08:12
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 -gIRfRSFFJI
@@ -6884,11 +7208,13 @@ Sequências, números de Catalan
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1091</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Direitos do consumidor
@@ -6926,6 +7252,7 @@ published
 2012-03-20 09:14:53
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ELdip5YBzso
@@ -6960,11 +7287,13 @@ Função Afim, função linear
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1092</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 E agora José?
@@ -7001,6 +7330,7 @@ published
 2012-03-21 06:34:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 niWmgMSAYek
@@ -7035,11 +7365,13 @@ Financeira, Progressões geométricas, Juros.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1093</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Em Equilíbrio
@@ -7076,6 +7408,7 @@ published
 2012-03-20 14:06:28
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 lJJWVawQoU0
@@ -7109,11 +7442,13 @@ Geometria Plana, baricentro, centro de massa.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1094</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Embalagens
@@ -7150,6 +7485,7 @@ published
 2013-09-14 22:35:42
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 iOcdL33DOKs
@@ -7188,12 +7524,13 @@ polinomiais, Polinômio
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1094</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1095</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Encontro inusitado
@@ -7231,6 +7568,7 @@ published
 2012-03-19 20:37:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 R9n8x6lP1GE
@@ -7268,12 +7606,13 @@ Equação quadrática, Polya, Proporção Áurea, Descartes, Resolução de Prob
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1095</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1096</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Entrando pelo túnel
@@ -7314,6 +7653,7 @@ published
 2013-09-23 21:23:52
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 QIwZ-IR3c-o
@@ -7351,12 +7691,13 @@ Semelhança de triângulos, Eupalinos
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1096</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1097</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Esse tal de Bhaskara
@@ -7393,6 +7734,7 @@ published
 2012-03-19 20:00:52
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 pozKHQxvFSo
@@ -7430,12 +7772,13 @@ Equação quadrática, raízes de uma função quadrática, Viète, Bhaskara
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1097</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1098</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A experiência
@@ -7473,6 +7816,7 @@ published
 2012-03-20 10:27:25
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 mZ9dzeXP_jw
@@ -7510,12 +7854,13 @@ experimento, tese, hipótese, método científico
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1098</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1099</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Fórmula mágica
@@ -7553,6 +7898,7 @@ published
 2012-03-20 21:57:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 xk5LOAi6ccM
@@ -7588,11 +7934,13 @@ cubagem, volume de cilindro, volume de cone
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1100</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Gabarito secreto
@@ -7629,6 +7977,7 @@ published
 2012-03-19 07:31:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Jr83wILbRaM
@@ -7662,11 +8011,13 @@ Matrizes, criptografia.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1101</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Gasolina ou Álcool
@@ -7703,6 +8054,7 @@ published
 2012-03-19 07:38:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Pb5G87-Ni6k
@@ -7736,11 +8088,13 @@ Sistemas de Equações Lineares;Balanceamento de reaçõesquímicas;
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1102</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras do Geodetetive 1: A circunferência da Terra
@@ -7777,6 +8131,7 @@ published
 2012-03-20 15:18:22
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 PnMg41A-0xI
@@ -7810,11 +8165,13 @@ Geometria da Terra, circunferência da Terra
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1103</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras do Geodetetive 2: Latitude e Longitude
@@ -7851,6 +8208,7 @@ published
 2012-03-20 19:19:07
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 2eJI_7UxwGM
@@ -7884,11 +8242,13 @@ Geometria da Terra, longitude, latitude
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1104</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras do Geodetetive 3: Por que aqui é mais quente do que lá?
@@ -7926,6 +8286,7 @@ published
 2012-03-21 13:41:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 8GHAOSOLv0E
@@ -7959,11 +8320,13 @@ Geometria da Terra, temperatura, movimentos da Terra
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1105</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras do Geodetetive 4: As quatro estações
@@ -8001,6 +8364,7 @@ published
 2012-05-24 22:31:09
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 x1DQXJQk2u0
@@ -8038,12 +8402,13 @@ Geometria da Terra, movimentos da Terra, estações do ano
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1105</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1106</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras do Geodetetive 5: Como viajar e chegar no dia anterior
@@ -8080,6 +8445,7 @@ published
 2012-03-21 14:10:13
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 oCA07Tk75XM
@@ -8113,11 +8479,13 @@ Geometria da Terra, fusos horários
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1107</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As aventuras do Geodetetive 6: GPS
@@ -8155,6 +8523,7 @@ published
 2012-03-21 16:19:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 2jEgSZwm-nk
@@ -8186,11 +8555,13 @@ Geometria da Terra, GPS.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1108</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Golpe
@@ -8227,6 +8598,7 @@ published
 2012-03-21 13:38:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 cP03AyI46sU
@@ -8260,11 +8632,13 @@ criptografia.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1109</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Grande Hotel
@@ -8301,6 +8675,7 @@ published
 2012-03-19 07:54:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Cen2gGh0gww
@@ -8334,11 +8709,13 @@ conjuntos infinitos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1110</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Grande Hotel 2
@@ -8377,6 +8754,7 @@ published
 2012-03-19 08:08:38
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 MTAB1-nM4F8
@@ -8414,12 +8792,13 @@ Probabilidade, probabilidade condicional
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1110</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1111</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Grilo Cantante
@@ -8456,6 +8835,7 @@ published
 2012-03-15 12:13:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 rnCIBJSm1DU
@@ -8491,11 +8871,13 @@ h2. Revisores
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1112</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Guardador de águas
@@ -8533,6 +8915,7 @@ published
 2012-03-12 17:51:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 C_rS3VTK0FE
@@ -8566,11 +8949,13 @@ Matrizes, Sistemas de equações lineares
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1113</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Halloween
@@ -8608,6 +8993,7 @@ published
 2012-03-21 05:36:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 MIVIX5lZUVA
@@ -8645,12 +9031,13 @@ cone, planificação.
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1113</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1114</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Herança de família
@@ -8687,6 +9074,7 @@ published
 2012-03-21 05:39:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 nqFDSTJjHcs
@@ -8720,11 +9108,13 @@ coordenadas cartesianas, geometria na esfera, Coordenadas geográficas
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1115</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A história de Mussaraf
@@ -8763,6 +9153,7 @@ published
 2012-03-21 16:50:30
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 EANe0OJlw8c
@@ -8796,11 +9187,13 @@ proporção, Frações, Razão
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1116</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O hit dos bits
@@ -8838,6 +9231,7 @@ published
 2012-03-20 14:08:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 cN_J5FqnHGw
@@ -8871,11 +9265,13 @@ representação hexadecimal, bases numéricas, representação binária
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1117</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Hotel de Hilbert
@@ -8912,6 +9308,7 @@ published
 2012-03-19 08:11:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 BsS0Kt1f8QY
@@ -8945,11 +9342,13 @@ Infinito., paradoxo, Hilbert
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1118</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Huguinho e Zezinho
@@ -8986,6 +9385,7 @@ published
 2012-03-17 15:55:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 kXmEqyr9PGk
@@ -9020,11 +9420,13 @@ Financeira, poupança, empréstimo, juros compostos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1119</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A Incrível Piritipoca da Serra
@@ -9062,6 +9464,7 @@ published
 2012-03-17 16:11:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 I6CVCDDkAD0
@@ -9095,11 +9498,13 @@ modelagem matemática, Fundamentos da economia
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1120</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Os Infinitos de Cantor
@@ -9138,6 +9543,7 @@ published
 2012-03-21 10:44:07
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 YXt8QzTNLcw
@@ -9171,11 +9577,13 @@ conjuntos infinitos, Cardinalidade, infinitos, Redução ao Absurdo, Diagonal de
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1121</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jardim de números
@@ -9213,6 +9621,7 @@ published
 2012-03-18 22:30:16
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 rPrWPs7gtEs
@@ -9247,11 +9656,13 @@ geometria analítica, pontos, sistema cartesiano
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1122</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Jogo de Dados de Mozart
@@ -9288,6 +9699,7 @@ published
 2012-03-15 09:48:15
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Ubp0MzAhezM
@@ -9325,12 +9737,13 @@ Probabilidade, Análise Combinatória, música, Mozart
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1122</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1123</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jogos
@@ -9367,6 +9780,7 @@ published
 2012-03-18 10:34:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 zKjVjQl-eB0
@@ -9404,12 +9818,13 @@ Teoria dos Jogos
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1123</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1124</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Juros divididos, dívida crescente
@@ -9447,6 +9862,7 @@ published
 2012-03-20 09:00:05
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Pgh5eLVTjg4
@@ -9481,11 +9897,13 @@ Juros., convergência de seqüências numéricas, funções exponenciais
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1125</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Lembranças de Sofia
@@ -9523,6 +9941,7 @@ published
 2012-03-17 14:29:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Ie6PQblaYWc
@@ -9560,12 +9979,13 @@ Estatística e Amostragem
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1125</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1126</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A lenda de dido
@@ -9604,6 +10024,7 @@ published
 2012-03-18 14:14:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 SSaOcnmYt6I
@@ -9637,11 +10058,13 @@ problema isoperimétrico, área máxima
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1127</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A lógica de Alice
@@ -9678,6 +10101,7 @@ published
 2012-03-19 07:40:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 _CvKrd8qQWA
@@ -9711,11 +10135,13 @@ Alice, Lógica formal, lógica informal
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1128</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A loira do banheiro
@@ -9753,6 +10179,7 @@ published
 2012-05-25 17:45:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 SD_G-kxc3oY
@@ -9791,12 +10218,13 @@ criptografia., fatorial, sorteio, segurança de
 análise de dados e probabilidade, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1128</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1129</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Luthier de Proporções
@@ -9833,6 +10261,7 @@ published
 2012-03-15 09:53:00
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 _r3DqAJhqMs
@@ -9866,11 +10295,13 @@ logaritmos, música, Proporções, Luthier
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1130</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A mãe
@@ -9907,6 +10338,7 @@ published
 2012-03-19 07:20:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 OWZ-dbolngw
@@ -9940,11 +10372,13 @@ Funções descontínuas
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1131</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Magico das Arábias
@@ -9983,6 +10417,7 @@ published
 2012-03-15 10:30:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 1Gi0u09DC0s
@@ -10018,11 +10453,13 @@ h2. Revisores
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1132</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A maldição da pirâmide
@@ -10058,6 +10495,7 @@ published
 2012-03-20 14:11:41
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 awhISinN_eg
@@ -10091,11 +10529,13 @@ volume de pirâmide, tronco de pirâmide
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1133</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A mancha
@@ -10133,6 +10573,7 @@ published
 2012-03-12 17:51:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 hz4BDf7sZbM
@@ -10166,11 +10607,13 @@ Matrizes, Sistemas de equações lineares, multiplição de matriz por vetor
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1134</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Medindo a Terra
@@ -10207,6 +10650,7 @@ published
 2012-03-21 13:24:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Z9BNtH69TCI
@@ -10240,11 +10684,13 @@ geometria, circunferência., trigonometria do triângulo, sistema métrico
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1135</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Música quase por acaso
@@ -10283,6 +10729,7 @@ published
 2012-03-15 15:44:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 y_aYom1HY0o
@@ -10300,7 +10747,7 @@ h2. Revisores
 				
 *conteudo* Samuel Rocha de Oliveira
 *roteiro* Frederico Gualberto de Souza, Sarah Yakhni
-*guia* Adolfo Maia Jr. , Jonatas Manzolli
+*guia* Adolfo Maia Jr., Jonatas Manzolli
 *graficos_formulas* Raphael Garcia
 
 ]]>
@@ -10320,12 +10767,13 @@ Probabilidade, probabilidade condicional, Estatística, Matrizes, música, Marko
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1135</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1136</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Musica quase sem compositor
@@ -10364,6 +10812,7 @@ published
 2012-03-15 16:05:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 crQwLoJ2YTE
@@ -10397,11 +10846,13 @@ Sequências, Funções, iteração., repetição
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1137</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Na cauda do cometa
@@ -10437,6 +10888,7 @@ published
 2012-03-18 22:49:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 CeiKM7ftRR4
@@ -10470,11 +10922,13 @@ geometria analítica, astronomia, hipérbole, parábola, cônicas, elipse
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1138</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Naturalmente
@@ -10511,6 +10965,7 @@ published
 2012-03-18 14:12:42
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ug_KVJPUR7E
@@ -10546,11 +11001,13 @@ geometria, Trigonometria, otimização de formas geométricas, matemática na na
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1139</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Noite de Forró
@@ -10589,6 +11046,7 @@ published
 2012-03-14 14:37:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ldeFoWS6lac
@@ -10626,12 +11084,13 @@ Eventos Complementares, Regra do Produto, Probabilidade de Eventos
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1139</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1140</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Sonho
@@ -10669,6 +11128,7 @@ published
 2012-03-18 11:18:11
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 bHaGjxLdGzo
@@ -10703,11 +11163,13 @@ populacional.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1141</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O sonho continua
@@ -10746,6 +11208,7 @@ published
 2012-03-20 14:04:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 3GohuvXDlk8
@@ -10783,12 +11246,13 @@ História dos números complexos, Números complexos, Conjuntos Numéricos, form
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1141</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1142</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O sonho não acabou
@@ -10827,6 +11291,7 @@ published
 2012-03-20 14:01:25
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 JlOiio5UZ0w
@@ -10864,12 +11329,13 @@ Adição e multiplicação de números complexos, Números complexos e sua hist�
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1142</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1143</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Oferenda musical de Bach
@@ -10910,6 +11376,7 @@ published
 2012-03-15 09:55:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 O9gaEFCIgBk
@@ -10943,11 +11410,13 @@ geometria, Simetria, música, isometrias no plano, arte
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1144</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Olha o Sanduiche
@@ -10986,6 +11455,7 @@ published
 2012-03-20 11:21:00
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 cNrsSbQwcng
@@ -11024,12 +11494,13 @@ Estatística, gráfico de
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1144</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1145</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Os ângulos e as torres
@@ -11066,6 +11537,7 @@ published
 2012-03-13 09:43:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ZC26SOg5LZY
@@ -11099,11 +11571,13 @@ triângulo, Trigonometria, comprimento, lado
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1146</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Osso duro de roer
@@ -11140,6 +11614,7 @@ published
 2012-03-20 11:39:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 DT__6lu4TYc
@@ -11174,11 +11649,13 @@ Função exponencial decrescente
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1147</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Overdose
@@ -11216,6 +11693,7 @@ published
 2012-03-21 05:41:28
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 i4ZfqvN1Ivo
@@ -11249,11 +11727,13 @@ função logarítmica, Função Exponencial., porcentagem, meia-vida
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1148</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Pandemia
@@ -11291,6 +11771,7 @@ published
 2012-03-20 09:21:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 19XXQTCXP-I
@@ -11324,11 +11805,13 @@ Função Exponencial., Progressão Geométrica
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1149</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Panquecas da dona Glória
@@ -11366,6 +11849,7 @@ published
 2012-03-20 09:13:06
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 9yK-PJ_1wIw
@@ -11399,11 +11883,13 @@ Função Afim, Função Exponencial., conjuntos, Função Quadrática, Funções
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1150</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Para Correr a São Silvestre
@@ -11441,6 +11927,7 @@ published
 2012-03-18 23:08:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 0u8zuOPz-n4
@@ -11474,11 +11961,13 @@ Seqüência, Progressões Aritméticas
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1151</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Para salvar o Mundo
@@ -11516,6 +12005,7 @@ published
 2012-03-19 07:16:22
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 b0bjS6vxqDs
@@ -11549,11 +12039,13 @@ Progressão Geométrica
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1152</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Alice, os paradoxos e a formalização
@@ -11592,6 +12084,7 @@ published
 2013-09-14 22:30:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 6EqjQmUz5G0
@@ -11629,12 +12122,13 @@ lógica, Alice, paradoxos
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1152</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1153</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A parte do leão
@@ -11672,6 +12166,7 @@ published
 2012-08-15 15:21:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Vl1duxB_jEs
@@ -11709,12 +12204,13 @@ função por partes, função modular
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1153</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1154</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Pelas lentes da Matemática
@@ -11752,6 +12248,7 @@ published
 2012-03-21 13:20:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 LKwT0xUgME0
@@ -11785,11 +12282,13 @@ Geometria Plana, Geometria Espacial, semelhança, homotetia
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1155</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Perdido no globo
@@ -11828,6 +12327,7 @@ published
 2012-03-19 07:27:12
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ryFUMTULI_Q
@@ -11861,11 +12361,13 @@ esfera, Trigonometria, paralelismo, ângulo entre retas no plano.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1156</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Um poema, três quebra-cabeças
@@ -11902,6 +12404,7 @@ published
 2012-03-18 14:29:30
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 C_8QntZKExg
@@ -11935,11 +12438,13 @@ prismas, pirâmides, Volume de sólidos, tronco de pirâmides
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1157</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Um ponto de vista
@@ -11976,6 +12481,7 @@ published
 2012-03-18 22:08:09
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ytLhe6zMo70
@@ -12009,11 +12515,13 @@ plano cartesiano, pontilhismo
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1158</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Pra lá de Bagdá
@@ -12052,6 +12560,7 @@ published
 2012-03-20 14:15:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 kHD6oy0RjpQ
@@ -12089,12 +12598,13 @@ Função Exponencial., Progressão Geométrica, Xadrez, Lenda
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1158</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1159</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Principe de Sofia
@@ -12132,6 +12642,7 @@ published
 2012-03-21 10:47:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 APPW-hO26v4
@@ -12169,12 +12680,13 @@ Probabilidade, probabilidade condicional
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1159</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1160</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Problema da Cerca
@@ -12213,6 +12725,7 @@ published
 2012-03-19 20:39:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 8td2WIlc7lg
@@ -12246,11 +12759,13 @@ máximos e mínimos., Funções quadráticas
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1161</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Procurando Xenakis
@@ -12288,6 +12803,7 @@ published
 2012-03-15 15:21:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 qcpZ4xESPZw
@@ -12321,11 +12837,13 @@ Teoria dos Números, Crivo de Eratóstenes, Teorema da Infinitude dos Primos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1162</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Prova de alternativas
@@ -12363,6 +12881,7 @@ published
 2012-10-04 16:19:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 _TrPjfaHczY
@@ -12400,12 +12919,13 @@ Probabilidade, probabilidade condicional, equiprobabilidade
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1162</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1163</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quadra poliesportiva
@@ -12441,6 +12961,7 @@ published
 2012-04-10 21:26:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 EVEnXOLlY_g
@@ -12478,12 +12999,13 @@ proporcionalidade, função modular, figuras geometricas, gráficos de funções
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1163</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1164</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Qual o melhor caminho?
@@ -12522,6 +13044,7 @@ published
 2012-03-21 10:46:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 9l1UqhgRjdI
@@ -12559,12 +13082,13 @@ Combinatória, métrica do taxista, permutação com repetição
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1164</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1165</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Que saco!
@@ -12601,6 +13125,7 @@ published
 2012-03-20 14:13:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Y3Z0kuQ-IPc
@@ -12634,11 +13159,13 @@ Aplicação de logaritmos;, Contagem, potência
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1166</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Que a força esteja com você
@@ -12677,6 +13204,7 @@ published
 2012-03-12 17:51:03
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 nP8-61p6Qho
@@ -12710,11 +13238,13 @@ Matrizes, Sistemas de equações lineares, multiplicação de matriz por vetor
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1167</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quem quer ser um milionário?
@@ -12753,6 +13283,7 @@ published
 2012-03-21 10:50:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 alxVjJ_n4xw
@@ -12786,11 +13317,13 @@ Paradoxo de São Petersburgo, cálculo de esperança, valor esperado, média
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1168</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A razão dos irracionais
@@ -12828,6 +13361,7 @@ published
 2012-03-21 16:22:38
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 7Kaa9ssioAY
@@ -12861,11 +13395,13 @@ Números irracionais.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1169</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A revanche de Alice
@@ -12903,6 +13439,7 @@ published
 2012-03-19 07:42:29
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 490H84FIQv8
@@ -12936,11 +13473,13 @@ lógica, Alice
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1170</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Revendo a moratória
@@ -12977,6 +13516,7 @@ published
 2012-03-21 16:26:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 CaJey0iLg8w
@@ -13014,12 +13554,13 @@ valor esperado, esperança, Probabilidde
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1170</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1171</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Roda roda
@@ -13058,6 +13599,7 @@ published
 2012-03-20 09:06:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 9Rxuk8_cgVc
@@ -13091,11 +13633,13 @@ fatorial, arranjo, Permutação cíclica
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1172</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Roda de samba
@@ -13134,6 +13678,7 @@ published
 2012-03-18 13:19:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 DXPHL7IU-hk
@@ -13150,7 +13695,7 @@ h2. Autores
 h2. Revisores
 				
 *conteudo* REVISORES Otilia Terezinha W. Paques
-*roteiro* Frederico Gualberto de Souza , Sarah Yakhni
+*roteiro* Frederico Gualberto de Souza, Sarah Yakhni
 *guia* Samuel Rocha de Oliveira, José Plínio dos Santos
 *graficos_formulas* Raphael Garcia
 
@@ -13167,11 +13712,13 @@ Função Quadrática
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1173</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Roda do sonho
@@ -13186,7 +13733,7 @@ O programa faz uso dos personagens Pablo e Arquimedes para abordar inicialmente 
     <objectives>
 <![CDATA[
 Apresentar o problema do cálculo da área de um círculo e conexões com outros resultados de geometria plana;
-Apresentar e motivar a busca por aspectos históricos,  em particular deduções da geometria grega e trabalhos de Arquimedes, que foram fundamentais no desenvolvimento da matemática.
+Apresentar e motivar a busca por aspectos históricos, em particular deduções da geometria grega e trabalhos de Arquimedes, que foram fundamentais         no desenvolvimento da matemática.
 
 ]]>
     </objectives>
@@ -13209,6 +13756,7 @@ published
 2012-03-18 13:29:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 R52ZZ6uKxRI
@@ -13242,11 +13790,13 @@ número pi, Área de um círculo
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1174</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Salvador, o hipocondríaco
@@ -13284,6 +13834,7 @@ published
 2012-05-25 07:09:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 EfbqbizUxiM
@@ -13322,12 +13873,13 @@ Função Exponencial., meia-vida, concentração de remédios, decaimento
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1174</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1175</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Se eu fosse você
@@ -13364,6 +13916,7 @@ published
 2012-03-12 17:50:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 8BsEAc2YJ7M
@@ -13397,11 +13950,13 @@ grafos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1176</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Sem discriminação
@@ -13438,6 +13993,7 @@ published
 2012-03-21 13:17:01
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 1NqJvNA57UM
@@ -13475,12 +14031,13 @@ Estatística, amostragem, correlações, Paradoxo de Simpson
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1176</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1177</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Sinfonia de Poliedros
@@ -13517,6 +14074,7 @@ published
 2012-03-17 13:34:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 WG0e57Dpe_g
@@ -13550,11 +14108,13 @@ Simetria, sólidos de Platão
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1178</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O sonho dourado
@@ -13592,6 +14152,7 @@ published
 2012-03-17 16:58:01
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 B6l9q5c16ZI
@@ -13626,11 +14187,13 @@ Financeira, Juros simples e compostos, Análise e viabilidade de transações fi
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1179</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Surpresa para os calouros
@@ -13669,6 +14232,7 @@ published
 2012-03-21 13:29:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ugbXK8oYvSk
@@ -13702,11 +14266,13 @@ divisibilidade, quadrados perfeitos, múltiplos
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1180</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Os suspeitos
@@ -13745,6 +14311,7 @@ published
 2012-03-18 10:37:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Vy36aCdV35s
@@ -13778,11 +14345,13 @@ Equação, decaimento, exponencial, Logaritmo
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1181</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tempos de guerra
@@ -13821,6 +14390,7 @@ published
 2012-03-20 14:59:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 yzQ_VL8SYQY
@@ -13854,11 +14424,13 @@ criptografia.
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1182</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Terremoto brasileiro
@@ -13896,6 +14468,7 @@ published
 2012-03-18 11:02:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Q6c_LR8-qqg
@@ -13929,11 +14502,13 @@ Logaritmo, escala Richter, terremoto
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1183</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tesouro cartesiano
@@ -13971,6 +14546,7 @@ published
 2012-03-21 13:23:06
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 1v88ziWM9QA
@@ -14005,11 +14581,13 @@ geometria analítica, sistema de coordenadas cartesianas, plano cartesiano
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1184</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Teste de Gravidez
@@ -14048,6 +14626,7 @@ published
 2012-03-14 13:59:52
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ewA4K_zOsVw
@@ -14085,12 +14664,13 @@ probabilidade condicional, Árvore de Probabilidades, Princípio Multiplicativo
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1184</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1185</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Triangular é preciso
@@ -14128,6 +14708,7 @@ published
 2012-03-18 22:04:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 rF0XzMn99R8
@@ -14161,11 +14742,13 @@ Geometria Plana, áreas de polígono, área de triângulo, triangulação
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1186</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tudo que você sempre quis perguntar
@@ -14203,6 +14786,7 @@ published
 2012-03-15 13:42:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 3WqedJZh2aA
@@ -14236,11 +14820,13 @@ potência de expoente zero, potências de expoente negativo, Propriedade Fundame
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1187</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Um sonho complexo
@@ -14249,7 +14835,7 @@ Um sonho complexo
     <duration></duration>
     <synopsis>
 <![CDATA[
-O Jovem Hans se depara com as palavras complexo e imaginário e fica muito incomodado pois para ele , matemática deveria ser real, concreta e exata. Resolve         dormir e sonha com um personagem estranho, que tem meia barba, usa bermudas e fraque e é uma         mistura dos dois personagens do livro O Médico e o monstro o qual representa uma dualidade do mundo. Ao acordar entende que o sonho mostrou um pouco da magia dos números complexos.
+O Jovem Hans se depara com as palavras complexo e imaginário e fica muito incomodado pois para ele, matemática deveria ser real, concreta e exata. Resolve         dormir e sonha com um personagem estranho, que tem meia barba, usa bermudas e fraque e é uma         mistura dos dois personagens do livro O Médico e o monstro o qual representa uma dualidade do mundo. Ao acordar entende que o sonho mostrou um pouco da magia dos números complexos.
 ]]>
     </synopsis>
     <objectives>
@@ -14279,6 +14865,7 @@ published
 2012-03-20 13:58:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 6KTwK0aTwr0
@@ -14316,12 +14903,13 @@ Números complexos, Argand-Gauss, plano complexo
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1187</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1188</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Você disse Cristalografia?
@@ -14359,6 +14947,7 @@ published
 2012-03-21 13:18:30
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 53K9PP7ij-E
@@ -14392,11 +14981,13 @@ Simetrias, formas geométricas
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1189</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A velha história das multidões
@@ -14434,6 +15025,7 @@ published
 2012-03-20 19:17:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 dlqVJTQoiY4
@@ -14473,12 +15065,13 @@ regra de três simples, cálculo
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1189</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1190</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Venda Segura
@@ -14517,6 +15110,7 @@ published
 2012-03-21 13:36:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 d3b7qE7cnOk
@@ -14550,11 +15144,13 @@ criptografia., chave privada, chave pública
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1191</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Vou de táxi
@@ -14592,6 +15188,7 @@ published
 2012-03-19 07:30:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 m12RKnmLbXY
@@ -14625,11 +15222,13 @@ distâncias, geometria, Números, valor absoluto de números reais, sistema de c
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1192</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A voz do interior
@@ -14666,6 +15265,7 @@ published
 2012-03-19 07:36:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 UNQ440ibWkU
@@ -14699,11 +15299,13 @@ solução de problemas, Álgebra, sistema de equações, malba tahan
 ]]>
     </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1193</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Xeque-mate
@@ -14740,6 +15342,7 @@ published
 2012-03-12 17:50:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Rl8TfCkAYac
@@ -14777,12 +15380,13 @@ permutação, arranjo
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1193</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1194</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Profissões</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Administradora e Contador
@@ -14821,6 +15425,7 @@ published
 2012-03-22 12:54:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 CtZ5h5w-1BA 
@@ -14851,12 +15456,13 @@ matemática, Profissão, contabilidade, administração
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1194</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1195</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Advogado e Engenheiro Elétrico
@@ -14895,6 +15501,7 @@ published
 2012-03-22 12:56:06
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 kEllOxh7ztg 
@@ -14925,12 +15532,13 @@ matemática, Profissão, engenhenharia elétrica, direito, advocacia
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1195</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1196</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Agrimensor e Geólogo
@@ -14969,6 +15577,7 @@ published
 2012-03-22 22:37:05
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 b9bvE_z5eIU
@@ -14999,12 +15608,13 @@ matemática, Profissão, geologia, agrimensor, agrimensura, geólogo
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1196</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1197</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Agrônomo e Fisioterapeuta
@@ -15043,6 +15653,7 @@ published
 2012-03-22 13:18:53
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Ceof3V6ui10 
@@ -15073,12 +15684,13 @@ matemática, Profissão, fisioterapia, agronomia
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1197</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1198</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Analista de sistemas e engenheiro da computação
@@ -15116,6 +15728,7 @@ published
 2012-03-22 13:33:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 c_p2nR35qRY
@@ -15146,12 +15759,13 @@ matemática, Profissão, engenharia da computação, analista de sistemas
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1198</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1199</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Arquiteto e Engenheiro Civil
@@ -15190,6 +15804,7 @@ published
 2012-03-22 23:02:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 nLyd8wSTaps 
@@ -15220,12 +15835,13 @@ matemática, Profissão, arquitetura, engenharia civil, engenheiro civil, arquit
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1199</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1200</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Artista plástico e Designer gráfico
@@ -15264,6 +15880,7 @@ published
 2012-03-22 13:51:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 _c-vNrT6QH4 
@@ -15294,12 +15911,13 @@ matemática, Profissão, Artes plásticas, Designer gráfico, desenho industrial
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1200</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1201</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Astrônomo e Físico
@@ -15338,6 +15956,7 @@ published
 2012-03-22 14:11:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 xnB7w0MKxhA 
@@ -15368,12 +15987,13 @@ astronomia, Profissão, Física
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1201</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1202</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Atuário e Estatística
@@ -15412,6 +16032,7 @@ published
 2012-03-22 14:45:25
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 YebD8tAWwEw
@@ -15442,12 +16063,13 @@ matemática, Profissão, estatístico, atuário
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1202</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1203</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Biólogo e Nutricionista
@@ -15486,6 +16108,7 @@ published
 2012-03-22 23:04:05
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 iHhNMUSjIG8 
@@ -15516,12 +16139,13 @@ matemática, Profissão, nutrição, bióloga, nutricionista, biologia
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1203</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1204</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Chef de cozinha e Estilista
@@ -15559,6 +16183,7 @@ published
 2012-03-22 14:52:48
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 40Zo52EMnWk
@@ -15589,12 +16214,13 @@ matemática, Profissão, chef de cozinha, moda, estilista
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1204</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1205</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Comerciante e Corretor de Imóveis
@@ -15632,6 +16258,7 @@ published
 2012-03-22 15:10:53
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 cLpr17Rum1o
@@ -15662,12 +16289,13 @@ matemática, Profissão, corretor, comércio, imobiliária
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1205</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1206</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Controlador de tráfego aéreo e Piloto de helicóptero
@@ -15706,6 +16334,7 @@ published
 2012-03-22 15:34:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 11e0mUQv6Eo
@@ -15726,17 +16355,23 @@ h2. Autores
 matemática, Profissão, Piloto de helicóptero, Controlador de tráfego aéreo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1206
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1206</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1207</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Economista e Comércio Exterior
@@ -15774,6 +16409,7 @@ published
 2012-03-22 15:51:00
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 D3m2bivfk3A
@@ -15794,17 +16430,23 @@ h2. Autores
 matemática, Profissão, economia, comércio exterior
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1207
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1207</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1208</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Engenheira de alimentos e Químico
@@ -15842,6 +16484,7 @@ published
 2012-03-22 16:08:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 t1aQjfnCIs4
@@ -15862,17 +16505,23 @@ h2. Autores
 matemática, Profissão, engenharia de alimentos, química
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1208
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1208</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1209</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Esportista e Fotógrafo
@@ -15911,6 +16560,7 @@ published
 2012-03-22 16:29:01
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 er5dZib0Dfc
@@ -15931,17 +16581,23 @@ h2. Autores
 Profissão, Fotografia, Educação Física
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1209
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1209</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1210</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Farmacêutica e Produtora de Eventos
@@ -15980,6 +16636,7 @@ published
 2012-03-22 22:12:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 6pK-ErVdOT4
@@ -16000,17 +16657,23 @@ h2. Autores
 matemática, Profissão, eventos, farmácia
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1210
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1210</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1211</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Hotelaria e Logística
@@ -16048,6 +16711,7 @@ published
 2012-03-22 23:20:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 olEiMVAwzEA 
@@ -16068,17 +16732,23 @@ h2. Autores
 matemática, Profissão, hotelaria, logística
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1211
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1211</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1212</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Matemático e Músico
@@ -16117,6 +16787,7 @@ published
 2012-03-22 22:14:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 ry7gYmJOLQ8
@@ -16137,17 +16808,23 @@ h2. Autores
 matemática, Profissão, matemático, músico
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1212
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1212</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1213</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Meteorologista e Turismóloga
@@ -16186,6 +16863,7 @@ published
 2012-03-22 22:15:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 mHnM-DnIcmk
@@ -16206,17 +16884,23 @@ h2. Autores
 matemática, Profissão, Turismo, Meteorlogia
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1213
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1213</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1214</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Odontologia e Medicina
@@ -16254,6 +16938,7 @@ published
 2012-03-22 23:34:00
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 aYVqTkbR31M 
@@ -16274,17 +16959,23 @@ h2. Autores
 matemática, Profissão, odontologia, médico, medicina, dentista
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1214
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1214</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1215</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Produtor de cinema e Publicitário
@@ -16327,6 +17018,7 @@ published
 2012-03-22 22:17:26
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16343,17 +17035,23 @@ h2. Autores
 matemática, Profissão, produtor de cinema, publicitário
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1215
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1215</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1216</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Professor e pesquisador universitário e Bancária
@@ -16392,6 +17090,7 @@ published
 2012-03-22 22:19:38
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 yqDvrLUkPwI
@@ -16412,17 +17111,23 @@ h2. Autores
 matemática, Profissão, pesquisador, professor universitário
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1216
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1216</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1217</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Secretária e Engenheiro de Telecomunicações
@@ -16461,6 +17166,7 @@ published
 2012-03-22 22:21:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Ifl-U4Um9rA
@@ -16481,17 +17187,23 @@ h2. Autores
 matemática, Profissão, engenharia de telecomunicações, secretariado
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1217
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1217</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1218</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Profissões</m3_serie_id>
+    <m3_serie_id>3</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Zootecnia e Veterinária
@@ -16529,6 +17241,7 @@ published
 2012-03-23 07:46:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Zr5TLazAdhw
@@ -16549,17 +17262,23 @@ h2. Autores
 matemática, Profissão, veterinária, zootécnico, zootecnia, veterinário
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1218
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1218</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1219</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Janelas em Arco Ferradura
@@ -16602,6 +17321,7 @@ published
 2012-11-10 11:40:49
 ]]>
     </modified>
+    <image_id>18077</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16617,17 +17337,23 @@ Sueli Costa, Cristiano Torrezan, Claudina I. Rodrigues
 otimização, Perímetro, Área, problema isoperimétrico, máximo, janela, software educacional
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1219
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1219</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1220</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Janelas em Arco Romano
@@ -16670,6 +17396,7 @@ published
 2012-11-10 12:17:45
 ]]>
     </modified>
+    <image_id>18081</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16685,17 +17412,23 @@ Sueli I. R. Costa, Leonardo Barichello
 geometria, Perímetro, Função., software educacional, quadrática, áreas de figuras planas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1220
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1220</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1221</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Aviões e Matrizes
@@ -16738,6 +17471,7 @@ published
 2012-03-31 14:17:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16753,17 +17487,23 @@ Marcelo Firer
 Matrizes, grafos, matriz de adjacência, malhas aéreas, produto de matrizes
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1221
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1221</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1222</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Gráficos estatísticos: barras e setores
@@ -16805,6 +17545,7 @@ published
 2012-05-28 08:25:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16820,17 +17561,23 @@ Leonardo Barichello, Matias R. Costa, Laura Leticia Ramos Rigo
 Estatística, gráfico de barras, variáveis quantitativas, gráfico de setores, variáveis qualitativas, variáveis aleatórias
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1222
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1222</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1223</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Casas, Pombos e Matemática
@@ -16872,6 +17619,7 @@ published
 2012-01-24 15:40:35
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16887,17 +17635,23 @@ Marcelo Firer
 software educacional, princípio da casa dos pombos, príncipio das gavetas de dirichilet
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1223
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1223</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1224</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Como montar sua dieta
@@ -16940,6 +17694,7 @@ published
 2012-04-15 10:18:11
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -16955,17 +17710,23 @@ Leonardo Barichello, Cristiano Torezzan e Sueli R. Costa
 Equação, inequação, desigualdade, programação linear
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1224
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1224</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1225</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Corrida no Lago
@@ -17006,6 +17767,7 @@ published
 2013-10-01 20:13:58
 ]]>
     </modified>
+    <image_id>18139</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17021,17 +17783,23 @@ Leonardo Barichello
 Geometria Plana, otimização, Funções, Física, software educacional, corrida, cinemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1225
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1225</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1226</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Determinantes e Áreas
@@ -17073,6 +17841,7 @@ published
 2012-05-18 18:01:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17088,17 +17857,23 @@ Marcelo Firer
 Matrizes, Determinantes, Área, paralelogramo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1226
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1226</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1227</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Determinantes e Polígonos
@@ -17140,6 +17915,7 @@ published
 2013-04-22 09:36:58
 ]]>
     </modified>
+    <image_id>18012</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17155,17 +17931,23 @@ Marcelo Firer
 polígonos, Matrizes, Determinantes, Área
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1227
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1227</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1228</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Embaralhando imagens
@@ -17208,6 +17990,7 @@ published
 2012-01-24 15:40:44
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17223,12 +18006,19 @@ Marcelo Firer
 software educacional, mmc, permutações, grupo, embaralhamento
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1228
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1229</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Grafos e Matrizes
@@ -17270,6 +18060,7 @@ published
 2012-03-31 14:29:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17285,12 +18076,19 @@ Leonardo Barichello, Matias Costa
 multiplicação, potência, ferramenta, soma, grafo, matriz, adjacência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1229
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1230</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Forma e Volume de Sólidos de Revolução
@@ -17331,6 +18129,7 @@ published
 2012-11-10 17:26:50
 ]]>
     </modified>
+    <image_id>18095</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17345,17 +18144,23 @@ Matias Costa
 cone, cilindro, volume, software educacional, sólidos revolução
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1230
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1230</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1231</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Geometria do Táxi - Distâncias
@@ -17397,6 +18202,7 @@ published
 2013-05-21 23:08:29
 ]]>
     </modified>
+    <image_id>18132</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17412,17 +18218,23 @@ Leonardo Barichello, Claudina Izepe Rodrigues e Sueli I. Costa
 distâncias, geometria, software educacional, táxi, métrica, taxista
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1231
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1231</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1232</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Medidas do Corpo: Gráfico de Dispersão
@@ -17465,6 +18277,7 @@ published
 2012-01-24 15:40:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17480,17 +18293,23 @@ Laura letícia Ramos Rifo
 Estatística, Interpretação de Gráﬁcos, gráﬁco de dispersão, Coeﬁciente de correlação linear., Gráﬁcos bivariados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1232
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1232</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1233</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Medidas do Corpo - Gráficos Univariados
@@ -17533,6 +18352,7 @@ published
 2012-01-24 15:40:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17548,17 +18368,23 @@ Laura Leticia Ramos Rifo
 Estatística, Gráficos, software educacional, corpo humano
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1233
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1233</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1234</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Gráficos estatísticos: histograma
@@ -17601,6 +18427,7 @@ published
 2012-01-24 15:40:57
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17616,12 +18443,19 @@ Leonardo Barichello, Matias R. Costa, Laura Leticia Ramos Rigo
 moda, média, histograma, mediana, quantil
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1234
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1235</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jogo dos Polinômios
@@ -17663,6 +18497,7 @@ published
 2012-03-31 14:30:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17678,17 +18513,23 @@ Cristiano Torezzan
 Gráficos, jogo, raízes, polinômios, expressão algébrica, multiplicidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1235
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1235</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1236</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Como comprar sua moto
@@ -17730,6 +18571,7 @@ published
 2012-03-31 14:19:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17746,17 +18588,23 @@ Sequências, Progressão Geométrica, Matemática
 Financeira, Juros., juros compostos, compra, financiamento, dívida
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1236
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1236</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1237</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Explorando o Jogo do Máximo
@@ -17796,6 +18644,7 @@ published
 2012-04-02 07:14:03
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17811,12 +18660,19 @@ Laura Letícia Ramos Rifo, Leonardo Barichello
 Probabilidade, jogo, dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1237
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1238</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Medidas do Corpo: Box plot
@@ -17859,6 +18715,7 @@ published
 2012-01-24 15:41:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17874,17 +18731,23 @@ Laura Leticia Ramos Rifo
 software educacional
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1238
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1238</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1239</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Movimentos Complexos
@@ -17927,6 +18790,7 @@ published
 2012-09-10 17:05:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -17940,12 +18804,19 @@ Claudina Izepe Rodrigues, Leonardo Barichello e Rita Guimarães
 Simetrias, Números complexos, transformações no plano, números imaginários, isometria
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1239
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1240</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Ondas Trigonométricas
@@ -17987,6 +18858,7 @@ published
 2013-04-06 20:04:45
 ]]>
     </modified>
+    <image_id>18116</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18002,17 +18874,23 @@ Leonardo Barichello, Samuel Rocha de Oliveira
 seno, modelagem, funções trigonométricas, fenômenos naturais, cosseno
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1240
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1240</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1241</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Otimização do cone
@@ -18055,6 +18933,7 @@ published
 2012-01-24 15:41:10
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18070,17 +18949,23 @@ Sueli I. R. Costa, Leonardo Barichello e Cristiano Torezzan
 cone, otimização, volume, Função., software educacional, geratriz, disco
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1241
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1241</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1242</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Otimização de Janelas com Topo Triangular
@@ -18123,6 +19008,7 @@ published
 2012-01-24 15:41:11
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18138,17 +19024,23 @@ Sueli I. R. Costa
 otimização, triângulo, Perímetro, Função Quadrática, Área, parábola, software educacional, vértice da parábola., janelas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1242
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1242</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1243</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Otimização de Janelas
@@ -18191,6 +19083,7 @@ published
 2012-11-10 12:29:32
 ]]>
     </modified>
+    <image_id>18085</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18206,17 +19099,23 @@ Sueli I. R. Costa
 otimização, Perímetro, Função Quadrática, Área, parábola, software educacional, vértice da parábola., janelas, retângulo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1243
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1243</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1244</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Crescimento Populacional
@@ -18259,6 +19158,7 @@ published
 2012-03-31 14:21:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18275,17 +19175,23 @@ exponencial, Verhulst, Malthus, crescimento
 populacional., modelagem, modelo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1244
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1244</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1245</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Probabilidade com urnas
@@ -18332,6 +19238,7 @@ published
 2012-03-11 13:11:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18347,17 +19254,23 @@ Laura Letícia Ramos Rifo, Mariana Sacrini Ayres Ferraz
 Probabilidade, software educacional, urna com reposição, urna sem reposição, urna de polya, bolinhas, urnas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1245
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1245</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1246</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title></title>
     <duration></duration>
     <synopsis></synopsis>
@@ -18381,15 +19294,19 @@ draft
 2012-03-23 16:37:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors></authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1247</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Geometria do Táxi - Contagem
@@ -18430,6 +19347,7 @@ published
 2012-01-24 15:41:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18445,17 +19363,23 @@ Sueli I. R. Costa, Claudina I. Rodrigues
 distâncias, Princípio Fundamental da Contagem, Contagem, software educacional, geomtria do taxista, Combinações
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1247
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1247</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1248</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Geometria do Táxi - Formas Geométricas
@@ -18496,6 +19420,7 @@ published
 2012-03-31 14:28:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18511,12 +19436,19 @@ Leonardo Barichello, Claudina Izepe Rodrigues, Sueli I. R. Costa
 geometria do táxi, circunferência., métrica, taxista, distância, círculo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1248
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1249</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Trigonometria e Halos
@@ -18557,6 +19489,7 @@ published
 2012-01-24 15:41:22
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18572,17 +19505,23 @@ Samuel Rocha de Oliveira, Leonardo Barichello
 Trigonometria, software educacional, seno, halos, lei de snell, refração, raios luminosos, lunares, solares
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1249
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1249</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1250</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Trigonometria e Raios Luminosos
@@ -18623,6 +19562,7 @@ published
 2012-01-24 15:41:24
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18638,17 +19578,23 @@ Samuel Rocha de Oliveira, Leonardo Barichello
 Trigonometria, software educacional, seno, lei de snell, refração, raios luminosos, princípio de fermat
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1250
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1250</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1251</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Embaralhando Sherlock Holmes
@@ -18685,6 +19631,7 @@ published
 2012-03-29 22:03:00
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18706,12 +19653,19 @@ h2. Revisores
 Sequências numéricas, Sequênciade Fibonacci
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1251
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1252</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 História da Estatística
@@ -18749,6 +19703,7 @@ published
 2012-03-18 23:07:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18770,17 +19725,23 @@ h2. Revisores
 História da estatística.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1252
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1252</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1253</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 História da Probabilidade
@@ -18818,6 +19779,7 @@ published
 2012-03-18 23:12:48
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18839,17 +19801,23 @@ h2. Revisores
 História da probabilidade.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1253
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1253</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1254</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Minhocando
@@ -18885,6 +19853,7 @@ published
 2012-03-29 22:16:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18906,12 +19875,19 @@ h2. Revisores
 estimativas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1254
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1255</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Mundos imaginários
@@ -18948,6 +19924,7 @@ published
 2012-03-29 22:18:16
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -18969,12 +19946,19 @@ h2. Revisores
 Números complexos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1255
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1256</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Pensando em Progressão Aritmética
@@ -19011,6 +19995,7 @@ published
 2012-05-25 07:26:24
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19032,17 +20017,23 @@ h2. Revisores
 Progressão Aritmética
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1256
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1256</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1257</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Pensando em Progressão Geométrica
@@ -19080,6 +20071,7 @@ published
 2012-03-30 07:01:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19101,17 +20093,23 @@ h2. Revisores
 Progressão Geométrica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1257
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1257</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1258</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As pontes de Königsberg
@@ -19153,6 +20151,7 @@ published
 2012-04-24 11:07:30
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19174,17 +20173,23 @@ h2. Revisores
 grafos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1258
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1258</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1259</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Problemas Gregos
@@ -19221,6 +20226,7 @@ published
 2012-05-25 11:49:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19242,17 +20248,23 @@ h2. Revisores
 Trissecção de ângulos, Geometria Euclidiana, Construção com régua e compasso, Duplicação do cubo, quadratura do círculo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1259
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1259</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1260</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Vampiros
@@ -19289,6 +20301,7 @@ published
 2012-05-25 11:50:46
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19311,17 +20324,23 @@ exponencial, Progressão Geométrica, crescimento
 populacional.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1260
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1260</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1261</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cultura</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Verdade e Mentira
@@ -19358,6 +20377,7 @@ published
 2012-05-24 20:01:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19379,17 +20399,23 @@ h2. Revisores
 lógica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1261
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1261</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1262</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cumpadis</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 6 graus de separação
@@ -19426,6 +20452,7 @@ published
 2012-04-24 11:09:26
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19447,17 +20474,23 @@ h2. Revisores
 Função Exponencial.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1262
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1262</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1263</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cumpadis</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 H1N1
@@ -19494,6 +20527,7 @@ published
 2012-03-30 07:04:11
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19515,17 +20549,23 @@ h2. Revisores
 Análise de dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1263
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1263</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1264</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cumpadis</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tremores
@@ -19562,6 +20602,7 @@ published
 2012-03-30 07:04:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19583,17 +20624,23 @@ h2. Revisores
 Logaritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1264
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1264</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1265</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cumpadis</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Universo
@@ -19630,6 +20677,7 @@ published
 2012-03-30 07:05:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19651,12 +20699,19 @@ h2. Revisores
 Função Afim, função linear
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1265
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1266</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cumpadis</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Violência e Matemática
@@ -19693,6 +20748,7 @@ published
 2012-03-30 07:05:52
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19714,17 +20770,23 @@ h2. Revisores
 Análise de dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1266
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1266</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1267</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Animais na Natureza
@@ -19762,6 +20824,7 @@ published
 2012-03-29 20:46:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19783,17 +20846,23 @@ h2. Revisores
 Estimativa, proporção, regra de três.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1267
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1267</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1268</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Combinações
@@ -19831,6 +20900,7 @@ published
 2012-03-29 21:02:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19852,12 +20922,19 @@ h2. Revisores
 Combinação, ordem de grandeza, complexidade computacional.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1268
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1269</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Combustíveis
@@ -19895,6 +20972,7 @@ published
 2012-03-29 20:59:41
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19916,12 +20994,19 @@ h2. Revisores
 Estimativa, proporção, regra de três.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1269
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1270</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Estimativas do corpo humano
@@ -19959,6 +21044,7 @@ published
 2012-03-29 22:04:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -19981,12 +21067,19 @@ Estimativa, proporção, conversão
 de unidades
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1270
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1271</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Distâncias
@@ -20025,6 +21118,7 @@ published
 2012-03-29 21:54:03
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20046,12 +21140,19 @@ h2. Revisores
 Estimativa, proporção, conversãode unidades
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1271
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1272</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Matemática das esferas
@@ -20089,6 +21190,7 @@ published
 2012-03-29 22:15:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20110,12 +21212,19 @@ h2. Revisores
 estimativas, áreas e volumes., empacotamento esférico.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1272
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1273</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Lixo
@@ -20153,6 +21262,7 @@ published
 2012-03-30 18:20:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20174,17 +21284,23 @@ h2. Revisores
 volume, Estimativa, proporção, densidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1273
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1273</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1274</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Massa e Idade
@@ -20222,6 +21338,7 @@ published
 2012-03-30 18:22:32
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20243,17 +21360,23 @@ h2. Revisores
 Estimativa, média, limitante
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1274
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1274</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1275</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Estimativas</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Hábitos alimentares
@@ -20290,6 +21413,7 @@ published
 2012-03-30 18:23:21
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20311,17 +21435,23 @@ h2. Revisores
 estimativas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1275
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1275</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1276</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Infinito 1
@@ -20358,6 +21488,7 @@ published
 2012-03-29 22:11:53
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20379,12 +21510,19 @@ h2. Revisores
 Infinito., História dos  conjuntos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1276
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1277</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Infinito 2
@@ -20422,6 +21560,7 @@ published
 2012-03-29 22:13:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20443,17 +21582,23 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1277
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1277</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1278</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Segredos, Intrigas e Equações Cúbicas
@@ -20490,6 +21635,7 @@ published
 2012-03-30 18:24:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20511,17 +21657,23 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1278
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1278</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1279</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A criação dos logaritmos
@@ -20558,6 +21710,7 @@ published
 2012-03-29 20:43:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20579,12 +21732,19 @@ h2. Revisores
 Logaritmo, História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1279
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1280</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Negativos
@@ -20622,6 +21782,7 @@ published
 2012-03-29 22:19:31
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20643,12 +21804,19 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1280
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1281</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Newton e os Números
@@ -20685,6 +21853,7 @@ published
 2012-03-29 22:20:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20706,17 +21875,23 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1281
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1281</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1282</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Ópera complexa
@@ -20753,6 +21928,7 @@ published
 2012-03-30 18:25:22
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20774,17 +21950,23 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1282
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1282</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1283</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Quatro é um Quadrado
@@ -20822,6 +22004,7 @@ published
 2012-03-29 22:22:22
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20843,17 +22026,23 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1283
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1283</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1284</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Senos
@@ -20890,6 +22079,7 @@ published
 2012-03-30 18:26:50
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20911,12 +22101,19 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1284
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1285</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Matema</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Zero, sim, mas com muito orgulho
@@ -20953,6 +22150,7 @@ published
 2012-03-30 18:29:38
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -20974,17 +22172,23 @@ h2. Revisores
 História da matemática
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1285
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1285</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1286</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é baricentro?
@@ -21021,6 +22225,7 @@ published
 2012-05-26 17:25:46
 ]]>
     </modified>
+    <image_id>17753</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21042,17 +22247,23 @@ h2. Revisores
 baricentro
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1286
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1286</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1287</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é elipse?
@@ -21088,6 +22299,7 @@ published
 2012-05-24 21:04:33
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21109,17 +22321,23 @@ h2. Revisores
 elipse
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1287
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1287</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1288</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é margem de erro?
@@ -21157,6 +22375,7 @@ published
 2012-03-30 18:33:46
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21178,17 +22397,23 @@ h2. Revisores
 Amostragem; inferência estatística; margem de erro.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1288
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1288</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1289</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é exponencial?
@@ -21224,6 +22449,7 @@ published
 2012-05-24 20:44:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21245,17 +22471,23 @@ h2. Revisores
 exponencial
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1289
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1289</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1290</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é hipérbole?
@@ -21292,6 +22524,7 @@ published
 2012-05-25 11:37:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21313,17 +22546,23 @@ h2. Revisores
 hipérbole
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1290
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1290</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1291</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é hipotenusa
@@ -21360,6 +22599,7 @@ published
 2012-03-29 22:24:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21381,12 +22621,19 @@ h2. Revisores
 triângulo retângulo, teorema de pitágoras, hipotenusa
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1291
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1292</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é logarítmo
@@ -21423,6 +22670,7 @@ published
 2012-05-24 20:37:42
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21444,17 +22692,23 @@ h2. Revisores
 Logaritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1292
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1292</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1293</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é parábola?
@@ -21490,6 +22744,7 @@ published
 2012-05-25 11:58:26
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21511,17 +22766,23 @@ h2. Revisores
 parábola
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1293
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1293</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1294</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é paralelogramo
@@ -21558,6 +22819,7 @@ published
 2012-03-30 18:40:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21579,12 +22841,19 @@ h2. Revisores
 hipotenusa, quadrilátero, parelelogramo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1294
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1295</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é permutação?
@@ -21622,6 +22891,7 @@ published
 2012-03-30 18:41:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21643,17 +22913,23 @@ h2. Revisores
 permutação, Contagem
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1295
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1295</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1296</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é poliedro
@@ -21662,7 +22938,7 @@ O que é poliedro
     <duration></duration>
     <synopsis>
 <![CDATA[
-Neste programa, o apresentador discute com um convidado especial, contando com algumas participações de ouvintes, o significado da palavra poliedro no  	contexto da Matemática.
+Neste programa, o apresentador discute com um convidado especial, 	contando com algumas participações de ouvintes, o significado da palavra poliedro no  	contexto da Matemática.
 ]]>
     </synopsis>
     <objectives>
@@ -21690,6 +22966,7 @@ published
 2012-03-30 18:42:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21711,12 +22988,19 @@ h2. Revisores
 geometria, sólidos, polígono, Poliedro
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1296
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1297</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é polinômio
@@ -21752,6 +23036,7 @@ published
 2012-03-30 18:43:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21773,12 +23058,19 @@ h2. Revisores
 Polinômio, splines
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1297
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1298</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é número primo
@@ -21815,6 +23107,7 @@ published
 2012-03-30 18:44:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21836,17 +23129,23 @@ h2. Revisores
 criptografia., Números primos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1298
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1298</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1299</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>O que é?</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O que é Radiano?
@@ -21883,6 +23182,7 @@ published
 2012-03-30 18:46:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21904,12 +23204,19 @@ h2. Revisores
 ângulos, Geometria Plana, Radiano
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1299
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1300</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Vinte e um divisores naturais
@@ -21945,6 +23252,7 @@ published
 2012-03-30 18:51:59
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -21966,17 +23274,23 @@ h2. Revisores
 Função Afim
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1300
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1300</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1301</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Inveja dos anéis de Saturno
@@ -22012,6 +23326,7 @@ published
 2012-03-30 18:47:11
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22033,12 +23348,19 @@ h2. Revisores
 comprimento de circunferência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1301
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1302</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Bifes na Chapa
@@ -22074,6 +23396,7 @@ published
 2012-03-29 20:42:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22095,12 +23418,19 @@ h2. Revisores
 Proporções, regra de três simples
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1302
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1303</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Calçadas
@@ -22137,6 +23467,7 @@ published
 2012-03-30 18:48:39
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22158,12 +23489,19 @@ h2. Revisores
 Geometria Plana, teorema de pitágoras
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1303
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1304</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Herança de camelos
@@ -22199,6 +23537,7 @@ published
 2012-03-29 22:09:10
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22220,12 +23559,19 @@ h2. Revisores
 Frações, números racionais.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1304
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1305</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Caminhões de açúcar
@@ -22263,6 +23609,7 @@ published
 2012-03-29 20:58:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22284,17 +23631,23 @@ h2. Revisores
 Probabilidade, probabilidade condicional
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1305
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1305</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1306</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Como descobrir a verdade
@@ -22331,6 +23684,7 @@ published
 2012-03-30 18:49:16
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22352,17 +23706,23 @@ h2. Revisores
 tabela verdade, lógica binária
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1306
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1306</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1307</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quanto custa a energia
@@ -22399,6 +23759,7 @@ published
 2012-05-25 11:39:52
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22420,17 +23781,23 @@ h2. Revisores
 função linear, proporção, função definida por partes
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1307
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1307</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1308</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Contagem de passos
@@ -22468,6 +23835,7 @@ published
 2012-03-29 21:04:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22491,12 +23859,19 @@ resolução de sistemas de
 equações lineares.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1308
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1309</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Dados não-transitivos
@@ -22533,6 +23908,7 @@ published
 2012-03-29 21:52:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22554,17 +23930,23 @@ h2. Revisores
 Probabilidade, transitividade, Independência de eventos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1309
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1309</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1310</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A diferença dos primos
@@ -22600,6 +23982,7 @@ published
 2012-03-29 20:41:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22621,12 +24004,19 @@ h2. Revisores
 Números primos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1310
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1311</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Como dividir um bolo
@@ -22662,6 +24052,7 @@ published
 2012-03-30 18:51:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22683,17 +24074,23 @@ h2. Revisores
 lógica, divisão sem inveja
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1311
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1311</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1312</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Formação triangular
@@ -22729,6 +24126,7 @@ published
 2012-03-29 22:06:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22752,12 +24150,19 @@ h2. Revisores
 Progressões Aritméticas, Números triangulares
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1312
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1313</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Fraude 171
@@ -22794,6 +24199,7 @@ published
 2012-05-25 08:02:41
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22815,17 +24221,23 @@ h2. Revisores
 Probabilidade, Função Exponencial.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1313
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1313</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1314</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Gasolina adulterada
@@ -22861,6 +24273,7 @@ published
 2012-05-25 08:44:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22882,17 +24295,23 @@ h2. Revisores
 Função Afim, porcentagem, Razão e proporção
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1314
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1314</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1315</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Médias que interessam
@@ -22930,6 +24349,7 @@ published
 2012-01-24 15:43:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -22951,17 +24371,23 @@ h2. Revisores
 médias, médias ponderadas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1315
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1315</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1316</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Mais mortos ou mais vivos?
@@ -22998,6 +24424,7 @@ published
 2012-05-25 10:24:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23020,17 +24447,23 @@ Sequências, Progressão Geométrica, crescimento
 populacional.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1316
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1316</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1317</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Permutação
@@ -23072,6 +24505,7 @@ published
 2012-01-24 15:43:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23093,17 +24527,23 @@ h2. Revisores
 permutação
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1317
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1317</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1318</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Onde está o peso extra?
@@ -23140,6 +24580,7 @@ published
 2012-05-25 11:39:07
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23161,17 +24602,23 @@ h2. Revisores
 lógica, peso, balança de pratos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1318
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1318</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1319</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Herança e testamento ruins
@@ -23207,6 +24654,7 @@ published
 2012-03-29 22:08:16
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23228,12 +24676,19 @@ h2. Revisores
 Proporções
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1319
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1320</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Subconjuntos
@@ -23275,6 +24730,7 @@ published
 2012-01-24 15:44:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23296,12 +24752,19 @@ h2. Revisores
 Conjuntos; Subconjuntos; Contagem.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1320
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1321</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tamanho da mesa
@@ -23339,6 +24802,7 @@ published
 2012-01-24 15:44:09
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23360,12 +24824,19 @@ h2. Revisores
 Perímetro de circufererência, formas geométricas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1321
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1322</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tamanho da terra
@@ -23403,6 +24874,7 @@ published
 2012-01-24 15:44:12
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23424,12 +24896,19 @@ h2. Revisores
 Trigonometria
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1322
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1323</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Sequência de Titius-Bode
@@ -23466,6 +24945,7 @@ published
 2012-01-24 15:44:14
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23483,17 +24963,19 @@ h2. Revisores
 ]]>
     </authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1323</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1324</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Triângulo ímpar
@@ -23530,6 +25012,7 @@ published
 2012-05-25 11:42:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23552,17 +25035,23 @@ Geometria Plana, teorema de pitágoras, números ímpares, números
         pares
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1324
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1324</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1325</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tudo começa em pizza
@@ -23600,6 +25089,7 @@ published
 2012-01-24 15:44:18
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23621,12 +25111,19 @@ h2. Revisores
 Relação entre a área e o diâmetrode uma circunferência.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1325
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1326</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Volume, cones e cilindros
@@ -23664,6 +25161,7 @@ published
 2012-01-24 15:44:19
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23685,12 +25183,19 @@ h2. Revisores
 Volumes de cones e cilindros e arelação entre volumes e alturasde cones semelhantes.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1326
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1327</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 37% Namorados
@@ -23727,6 +25232,7 @@ published
 2012-10-09 11:41:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23748,17 +25254,23 @@ h2. Revisores
 Probabilidade, Contagem
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1327
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1327</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1328</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 3x + 1
@@ -23796,6 +25308,7 @@ published
 2012-10-09 11:42:04
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23817,17 +25330,23 @@ h2. Revisores
 conjuntos, lógica, Conjectura, Números Naturais
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1328
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1328</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1329</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 6 Graus de conexões
@@ -23864,6 +25383,7 @@ published
 2012-03-29 17:27:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23885,12 +25405,19 @@ h2. Revisores
 Função Exponencial.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1329
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1330</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Células-tronco
@@ -23927,6 +25454,7 @@ published
 2012-03-29 20:54:42
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -23948,12 +25476,19 @@ h2. Revisores
 Matrizes
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1330
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1331</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Conteúdo do Universo
@@ -23990,6 +25525,7 @@ published
 2012-03-29 20:12:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24011,12 +25547,19 @@ h2. Revisores
 Função Afim, função linear
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1331
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1332</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Curva do Sino
@@ -24053,6 +25596,7 @@ published
 2012-03-29 20:13:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24075,17 +25619,23 @@ Probabilidade, Estatística, Gaussiana., Função
 distribuição de probabilidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1332
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1332</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1333</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 O Peso da Dúvida
@@ -24124,6 +25674,7 @@ published
 2012-03-29 20:24:27
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24145,12 +25696,19 @@ h2. Revisores
 Estatística, desvio padrão.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1333
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1334</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Esfera com cabelo e nanotecnologia
@@ -24187,6 +25745,7 @@ published
 2012-03-29 20:14:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24208,12 +25767,19 @@ h2. Revisores
 medidas.., Geometria da esfera
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1334
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1335</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Exoplanetas e Probabilidades
@@ -24249,6 +25815,7 @@ published
 2012-03-29 20:15:24
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24270,17 +25837,23 @@ h2. Revisores
 Probabilidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1335
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1335</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1336</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Formigas
@@ -24317,6 +25890,7 @@ published
 2012-01-24 15:44:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24338,12 +25912,19 @@ h2. Revisores
 Aritmética.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1336
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1337</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Genoma longevo
@@ -24381,6 +25962,7 @@ published
 2012-03-29 20:16:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24402,12 +25984,19 @@ h2. Revisores
 Combinatória, Contagem, Números e funções, Exponenciais
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1337
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1338</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Gravidez na adolescência
@@ -24443,6 +26032,7 @@ published
 2012-03-29 20:17:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24464,17 +26054,23 @@ h2. Revisores
 Estatística, Análise de dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1338
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1338</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1339</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Horário de Verão
@@ -24512,6 +26108,7 @@ published
 2012-03-11 13:34:48
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24533,12 +26130,19 @@ h2. Revisores
 geometria, área do triângulo.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1339
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1340</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 IMC, obesidade e IAC
@@ -24574,6 +26178,7 @@ published
 2012-03-29 20:18:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24595,12 +26200,19 @@ h2. Revisores
 Função.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1340
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1341</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Infinitos Racionais
@@ -24636,6 +26248,7 @@ published
 2012-05-25 11:53:21
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24657,17 +26270,23 @@ h2. Revisores
 números racionais., Números Naturais
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1341
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1341</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1342</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Máquina do Tempo
@@ -24704,6 +26323,7 @@ published
 2012-03-29 20:19:17
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24725,17 +26345,23 @@ h2. Revisores
 Probabilidade, Função Exponencial.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1342
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1342</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1343</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Mudanças Climáticas e Pitágoras
@@ -24774,6 +26400,7 @@ published
 2012-03-29 20:22:16
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24795,12 +26422,19 @@ h2. Revisores
 teorema de pitágoras, Progressões.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1343
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1344</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Nós, laços e emaranhados
@@ -24836,6 +26470,7 @@ published
 2012-03-29 20:23:21
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24857,17 +26492,23 @@ h2. Revisores
 Análise de dados, Funções e números, Geometria e medidas.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1344
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1344</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1345</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Números Primos
@@ -24904,6 +26545,7 @@ published
 2012-01-24 15:44:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24925,12 +26567,19 @@ h2. Revisores
 Números primos, Aritmética.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1345
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1346</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Olimpiadas - Previsões e Apostas
@@ -24966,6 +26615,7 @@ published
 2012-03-29 20:26:45
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -24987,17 +26637,23 @@ h2. Revisores
 Probabilidade, Estatística
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1346
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1346</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1347</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Primos Gêmeos
@@ -25034,6 +26690,7 @@ published
 2012-03-29 20:28:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25055,12 +26712,19 @@ h2. Revisores
 Números primos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1347
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1348</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Redes de distribuição
@@ -25097,6 +26761,7 @@ published
 2012-03-29 20:27:51
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25118,12 +26783,19 @@ h2. Revisores
 números binários, Geometria esférica, Funcão potência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1348
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1349</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Redes e Sólidos
@@ -25161,6 +26833,7 @@ published
 2012-05-25 11:41:09
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25182,17 +26855,23 @@ h2. Revisores
 números binários, Teorema de Euler., Funcão potência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1349
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade, geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1349</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1350</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Sexo do Bebê
@@ -25228,6 +26907,7 @@ published
 2012-03-29 20:33:06
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25249,17 +26929,23 @@ h2. Revisores
 Estatística, desvio padrão.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1350
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1350</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1351</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Sólidos convexos
@@ -25296,6 +26982,7 @@ published
 2012-05-25 11:54:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25317,17 +27004,23 @@ h2. Revisores
 Sólidos convexos, Teorema de Euler.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1351
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1351</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1352</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tamanho do Proton
@@ -25364,6 +27057,7 @@ published
 2012-03-29 20:34:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25386,12 +27080,19 @@ geometria, Problemas de otimização no
 plano., Áreas e perímetros
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1352
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1353</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tempestades Solares
@@ -25428,6 +27129,7 @@ published
 2012-03-29 20:36:29
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25449,12 +27151,19 @@ h2. Revisores
 funções trigonométricas, Números e funções. Funções periódicas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1353
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1354</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Terremotos
@@ -25491,6 +27200,7 @@ published
 2012-03-29 20:35:40
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25512,12 +27222,19 @@ h2. Revisores
 Logaritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1354
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1355</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tijolo de Euler
@@ -25553,6 +27270,7 @@ published
 2012-03-29 20:37:08
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25575,12 +27293,19 @@ Geometria Espacial, Diagonal de
 um paralelepípedo.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1355
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1356</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Moléculas em Titã
@@ -25617,6 +27342,7 @@ published
 2012-03-29 20:20:58
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25638,12 +27364,19 @@ h2. Revisores
 geometria, Simetrias, Geometria Métrica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1356
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1357</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Tubarões e Fractais
@@ -25679,6 +27412,7 @@ published
 2012-03-29 20:37:47
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25700,17 +27434,23 @@ h2. Revisores
 fractais., Funções e números, Geometria e medidas.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1357
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1357</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1358</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Útil DNA inútil
@@ -25748,6 +27488,7 @@ published
 2012-03-29 20:38:30
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25769,17 +27510,23 @@ h2. Revisores
 criptografia., Análise de dados
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1358
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1358</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1359</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Vênus e trigonometria
@@ -25816,6 +27563,7 @@ published
 2012-03-29 20:39:38
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25837,12 +27585,19 @@ h2. Revisores
 Trigonometria, Logaritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1359
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1360</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Vulcões e probabilidade
@@ -25878,6 +27633,7 @@ published
 2012-05-25 11:56:28
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25899,17 +27655,23 @@ h2. Revisores
 Probabilidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1360
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1360</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1361</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Torres de Hanói
@@ -25955,6 +27717,7 @@ published
 2012-04-08 14:40:50
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -25966,12 +27729,19 @@ Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende e Maria Lúcia Bontorim de
 matemática, experimento, Sequências, Aplicação., Função Exponencial., Torres de Hanói, Torre de Hanói
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1361
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1362</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Radio</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 A conjectura de Goldbach
@@ -26008,6 +27778,7 @@ published
 2012-03-29 22:39:02
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26029,17 +27800,23 @@ h2. Revisores
 conjuntos, Números primos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1362
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1362</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1363</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Construção de sólidos de revolução
@@ -26084,6 +27861,7 @@ published
 2012-11-10 17:23:29
 ]]>
     </modified>
+    <image_id>18073</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26098,17 +27876,23 @@ Matias Costa
 geometria analítica, Sólidos de Revolução
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1363
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas
 ]]>
     </topicos>
-     
+    <m3_resource_id>1363</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1364</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Atividades</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Avalanches
@@ -26150,6 +27934,7 @@ published
 2012-03-23 13:29:05
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 Fph7lLTwEpE 
@@ -26166,12 +27951,19 @@ Patrícia Roman
 Logaritmo, avalanche, desmoronamento, radiciação, potenciação
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1364
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1365</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Apostas no relógio
@@ -26213,6 +28005,7 @@ published
 2012-03-10 12:33:56
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26225,17 +28018,23 @@ Felipe Mascagna Bittencourt Lima
 Representação gráfica, Independência, Interpretação geométrica de probabilidade
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1365
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1365</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1366</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Avalanches
@@ -26277,6 +28076,7 @@ published
 2012-03-10 12:33:49
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26289,17 +28089,23 @@ Mariana Sacrini Ayres Ferraz
 Logaritmos e suas aplicações
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1366
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1366</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1367</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Caixa de papel
@@ -26339,6 +28145,7 @@ published
 2012-03-10 12:33:43
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26351,12 +28158,19 @@ Thaisa Aluani
 Polinômios – Funções polinomiais,  Unidades de medida, Geometria espacial – Problemas de otimização, Gráficos e Propriedades
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1367
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1368</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Caminhos e grafos
@@ -26397,6 +28211,7 @@ published
 2012-03-10 12:33:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26409,17 +28224,23 @@ Rafael Santos de Oliveira Alves
 Combinatória, grafos
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1368
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1368</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1369</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Cortar cubos
@@ -26460,6 +28281,7 @@ published
 2012-03-10 12:33:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26472,12 +28294,19 @@ Felipe Mascagna Bittencourt Lima
 Geometria Espacial, Relação de Euler
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1369
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1370</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Dobra a língua e coça a orelha
@@ -26518,6 +28347,7 @@ published
 2012-03-10 12:33:16
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26530,17 +28360,23 @@ Luiz Fernando Giolo Alves
 Estatística, Elementos de Amostragem, Interpretação de gráficos.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1370
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1370</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1371</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Monte carlo
@@ -26582,6 +28418,7 @@ published
 2012-03-10 12:33:05
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26595,17 +28432,23 @@ Felipe Mascagna Bittencourt Lima
 Razão e proporção, Proporcionalidade direta, Probabilidade Geométrica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1371
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1371</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1372</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quadrado mágico multiplicativo
@@ -26646,6 +28489,7 @@ published
 2012-07-19 22:06:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26658,17 +28502,23 @@ Mariana Sacrini Ayres Ferraz
 conjuntos, Progressão Geométrica, Sequência
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1372
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1372</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1373</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Quantos peixes há no lago?
@@ -26708,6 +28558,7 @@ published
 2012-03-10 12:32:41
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26721,17 +28572,23 @@ Felipe Mascagna Bittencourt Lima
 Estatística, Razão e proporção, Proporcionalidade direta, Estimação
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1373
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1373</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1374</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Que curva é essa chamada elipse?
@@ -26773,6 +28630,7 @@ published
 2012-03-10 12:32:29
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26788,12 +28646,19 @@ Wilson Roberto Rodrigues
 geometria analítica, cônicas, elipse
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1374
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1375</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Desenhando padrões no plano
@@ -26839,6 +28704,7 @@ published
 2012-11-10 10:42:29
 ]]>
     </modified>
+    <image_id>18068</image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26851,17 +28717,23 @@ Samuel Rocha de Oliveira
 Geometria Plana, Simetrias, lógica, vetores
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1375
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1375</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1376</id>
     <m3_media_id>Software</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 As curvas de Lissajous
@@ -26907,6 +28779,7 @@ published
 2012-04-15 10:17:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26918,17 +28791,23 @@ Leonardo Barichello
 funções trigonométricas, Funções periódicas, Gráficos de funções, Curvas parametrizadas
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1376
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 geometria e medidas, números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1376</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1377</id>
     <m3_media_id>Áudio</m3_media_id>
     <m3_serie_id>Cumpadis</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Verão
@@ -26970,6 +28849,7 @@ published
 2012-03-30 06:56:41
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -26982,12 +28862,19 @@ Samuel Rocha de Oliveira
 Geometria Plana, área do triângulo.
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1377
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1378</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id>Problemas e Soluções</m3_serie_id>
+    <m3_serie_id>5</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Escalas de temperatura
@@ -27027,6 +28914,7 @@ published
 2012-03-30 06:55:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -27040,17 +28928,23 @@ Marcelo de Mello
 Função Afim
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1378
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 números e funções
 ]]>
     </topicos>
-     
+    <m3_resource_id>1378</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1379</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Atividades</m3_serie_id>
+    <m3_serie_id>2</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Caixa de papel
@@ -27090,6 +28984,7 @@ draft
 2012-11-02 18:03:06
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -27098,12 +28993,15 @@ Patrícia Roman
 ]]>
     </authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1380</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Jogo da trilha
@@ -27145,6 +29043,7 @@ published
 2012-03-23 16:10:37
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -27157,17 +29056,23 @@ Fabricio de Paula Silva
 probabilidade condicional, Representação gráfica, Eventos equiprováveis, Permutação e combinação
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1380
+]]>
+    </foreign_key>
     <topicos>
 <![CDATA[
 análise de dados e probabilidade
 ]]>
     </topicos>
-     
+    <m3_resource_id>1380</m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1381</id>
     <m3_media_id>Áudio</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title></title>
     <duration></duration>
     <synopsis></synopsis>
@@ -27191,15 +29096,19 @@ draft
 2012-03-12 18:07:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors></authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1382</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Atividades</m3_serie_id>
+    <m3_serie_id>2</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Caixa de papel
@@ -27235,6 +29144,7 @@ published
 2012-03-23 16:09:36
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 _8M7Su-gK3o
@@ -27252,12 +29162,19 @@ Problemas de otimização., Geometria Espacial, funções
 polinomiais, polinômios,  Unidades de medida, Gráficos e Propriedades
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1382
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1383</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Atividades</m3_serie_id>
+    <m3_serie_id>2</m3_serie_id>
+    <date></date>
     <title></title>
     <duration></duration>
     <synopsis></synopsis>
@@ -27281,15 +29198,19 @@ draft
 2012-03-23 16:37:34
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors></authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1384</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Atividades</m3_serie_id>
+    <m3_serie_id>2</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Montanhas geométricas
@@ -27326,6 +29247,7 @@ published
 2012-03-23 16:09:20
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 f2kBia-jNfg
@@ -27342,12 +29264,19 @@ Patricia Roman
 distâncias, Geometria Plana, Semelhança de triângulos, geometria analítica
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1384
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1385</id>
     <m3_media_id>Vídeo</m3_media_id>
-    <m3_serie_id>Atividades</m3_serie_id>
+    <m3_serie_id>2</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Padrões no plano
@@ -27384,6 +29313,7 @@ published
 2012-03-23 16:09:07
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 TM1XRbw_G3k
@@ -27400,12 +29330,19 @@ Patricia Roman
 Simetrias, Padrões matemáticos, Algoritmo
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1385
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1386</id>
     <m3_media_id>Experimento</m3_media_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Padrões no plano
@@ -27452,6 +29389,7 @@ published
 2012-03-23 16:32:54
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors>
 <![CDATA[
@@ -27464,12 +29402,19 @@ Thaisa Aluani
 vetores, Geometria Analítica, Rotações, Translações
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1386
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1387</id>
     <m3_media_id>Vídeo</m3_media_id>
     <m3_serie_id>Matemática na Escola</m3_serie_id>
+    <date></date>
     <title>
 <![CDATA[
 Descobrindo o algoritmo de Guido
@@ -27507,6 +29452,7 @@ published
 2012-12-02 17:27:55
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link>
 <![CDATA[
 HCr6Ys0zvr8
@@ -27531,12 +29477,19 @@ Adolfo Maia
 conjuntos, Funções, relações
 ]]>
     </conteudos>
+    <foreign_key>
+<![CDATA[
+1387
+]]>
+    </foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1388</id>
-    <m3_media_id_id></m3_media_id_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_media_id></m3_media_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title></title>
     <duration></duration>
     <synopsis></synopsis>
@@ -27560,15 +29513,19 @@ draft
 2012-11-23 19:19:23
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors></authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1389</id>
-    <m3_media_id_id></m3_media_id_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_media_id></m3_media_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title></title>
     <duration></duration>
     <synopsis></synopsis>
@@ -27592,15 +29549,19 @@ draft
 2012-11-23 23:28:42
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors></authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
   <m3_resource>
     <id>1390</id>
-    <m3_media_id_id></m3_media_id_id>
-    <m3_serie_id></m3_serie_id>
+    <m3_media_id></m3_media_id>
+    <m3_serie_id>null</m3_serie_id>
+    <date></date>
     <title></title>
     <duration></duration>
     <synopsis></synopsis>
@@ -27624,11 +29585,14 @@ draft
 2012-12-02 15:04:13
 ]]>
     </modified>
+    <image_id></image_id>
     <youtube_link></youtube_link>
     <authors></authors>
     <conteudos></conteudos>
+    <foreign_key></foreign_key>
     <topicos></topicos>
+    <m3_resource_id></m3_resource_id>
   </m3_resource>
-</m3_resources> `
+</m3_resources>`
 
 export default m3_resources

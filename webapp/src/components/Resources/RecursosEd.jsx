@@ -1,12 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import './Recursos.css';
-import { Container, Row, Col, Button } from 'reactstrap';
+import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
 import RecursosEdFiltros from './RecursosEdFiltros';
 import upArrow from '../../assets/up-arrow.svg';
 import m3_resources from '../../xml/m3_resources.js'
 import Pagination from './Pagination';
 import { useHistory, useLocation } from 'react-router-dom';
+// IMAGENS:
+import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
+import iconVideos from '../../assets/icons - Home/icon-videos.png';
+import iconSoftwares from '../../assets/icons - Home/icon-softwares.png';
+import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
 function RecursosEd() {
 
@@ -85,13 +90,13 @@ function RecursosEd() {
     console.log(rawResourcesArray)
     const resourcesArray = rawResourcesArray.map(rawResource => ({
         id: rawResource.childNodes[1].textContent,
-        title: rawResource.childNodes[7].textContent,
+        title: rawResource.childNodes[9].textContent,
         m3_media_id: rawResource.childNodes[3].textContent,
-        topic: rawResource.childNodes[35].textContent,
+        topic: rawResource.childNodes[41].textContent,
         serie: rawResource.childNodes[5].textContent,
-        synopsis: rawResource.childNodes[11].textContent,
-        objectives: rawResource.childNodes[13].textContent,
-        tags: rawResource.childNodes[33].textContent,
+        synopsis: rawResource.childNodes[13].textContent,
+        objectives: rawResource.childNodes[15].textContent,
+        tags: rawResource.childNodes[37].textContent,
     }))
 
 
@@ -102,14 +107,72 @@ function RecursosEd() {
             return (
                 <div className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
                     <Row className= "resources-row">
-                            <Col className= "resources-col">
+                            <Col md="10" sm="12" className= "resources-col">
                                 <h2> {resource.title} </h2>
-                                <div  style={{marginTop: "10px"}}>
-                                    <p style={{color: "#ee2d32"}}> {resource.topic} </p>
+                                <div  style={{marginTop: "10px", marginBottom: "-15px"}}>
+                                    {
+                                        // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
+                                        resource.serie === "null"?
+                                            <p> 
+                                                <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                            </p>
+                                        :
+                                            <p> 
+                                                <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                                <span> • Série: {resource.serie} </span> 
+                                            </p>
+                                    }
                                 </div>
                             </Col>
-                            <Col className= "resources-col">
-                                <p style={{marginLeft: "auto"}}> {resource.m3_media_id} </p>
+                            <Col md="2" sm="12" className= "resources-col icon-alignment">
+                                {/* Experimentos */}
+                                {
+                                    resource.m3_media_id === "Experimento"?
+                                        <>
+                                            <img id="exp-icon" className="midia-icon" src={iconExperimentos} alt="experimentos"/>
+                                            <UncontrolledTooltip placement="bottom" target="exp-icon">
+                                                Experimento
+                                            </UncontrolledTooltip>
+                                        </>
+                                    :
+                                        null
+                                }
+                                {/* Vídeo */}
+                                {
+                                    resource.m3_media_id === "Vídeo"?
+                                        <>
+                                            <img id="vid-icon" className="midia-icon" src={iconVideos} alt="videos"/>
+                                            <UncontrolledTooltip placement="bottom" target="vid-icon">
+                                                Vídeo
+                                            </UncontrolledTooltip>
+                                        </>
+                                    :
+                                        null
+                                }
+                                {/* Software */}
+                                {
+                                    resource.m3_media_id === "Software"?
+                                        <>
+                                            <img id="sof-icon" className="midia-icon" src={iconSoftwares} alt="software"/>
+                                            <UncontrolledTooltip placement="bottom" target="sof-icon">
+                                                Software
+                                            </UncontrolledTooltip>
+                                        </>
+                                    :
+                                        null
+                                }
+                                {/* Áudio */}
+                                {
+                                    resource.m3_media_id === "Áudio"?
+                                        <>
+                                            <img id="aud-icon" className="midia-icon" src={iconAudios} alt="audios"/>
+                                            <UncontrolledTooltip placement="bottom" target="aud-icon">
+                                                Áudio
+                                            </UncontrolledTooltip>
+                                        </>
+                                    :
+                                        null
+                                }
                             </Col>
                     </Row>
                     <Row className= "resources-row">

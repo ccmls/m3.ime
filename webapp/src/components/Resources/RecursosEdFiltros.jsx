@@ -1,8 +1,12 @@
 import React, { useState } from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
+import { useLocation } from 'react-router-dom';
 
 function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, setFilters}) {
+
+    const location = useLocation()
+    console.log("BBBBBBBBBB", location)
 
     console.log("AAAAAAAAAA", filters)
     return (

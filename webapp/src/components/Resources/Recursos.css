@@ -39,6 +39,24 @@
     padding-right: 20px;
 }
 
+/* Ícones das mídias */
+
+.midia-icon {
+    height: 40px;
+    width: auto;
+}
+
+.icon-alignment {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+@media only screen and (max-width: 760px) {
+    .icon-alignment {
+        display: flex;
+        flex-direction: row;
+    }
+}
 
 /* Botões */
 
