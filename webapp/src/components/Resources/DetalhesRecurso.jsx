@@ -37,13 +37,15 @@ function DetalhesRecurso() {
                         <p style={{color: "#ee2d32", textTransform: "uppercase"}}> Tema tema tema tema </p>
                     </div>
                 </Col>
-                <Col className= "home-col">
+                <Col className= "home-col icon-alignment">
                     <p style={{marginLeft: "auto"}}> imagem da mídia </p>
                 </Col>
             </Row>
             <div className="divider" style={{marginTop: "-15px", marginBottom: "30px"}}/>
 
+
             <Row className="home-row">
+
                 {/* Card de sinopse, objetivos, conteúdos, créditos */}
                 <Col md="5" sm="12" className= "home-col">
                     <div className="details-card">
@@ -83,6 +85,8 @@ function DetalhesRecurso() {
                         </p>
                     </div>
                 </Col>
+
+                {/* Card com arquivos, guia do professor e como usar */}
                 <Col md="7" sm="12" className= "home-col">
                 </Col>
             </Row>

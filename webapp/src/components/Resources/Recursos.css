@@ -81,6 +81,16 @@
     transition-duration: 0.3s;
 }
 
+@media only screen and (max-width: 960px) {
+    .button:hover {
+        background-color: #ED1C24 !important;
+    }
+
+    .button:active {
+        background-color: #000000 !important;
+    }
+}
+
 /* Botão de scroll to top */
 
 .scroll-to-top-button {
@@ -121,5 +131,9 @@
 @media only screen and (max-width: 960px) {
     .scroll-to-top-button:hover {
         background-color: #ED1C24;
+    }
+
+    .scroll-to-top-button:active {
+        background-color: #000000 !important;
     }
 }
