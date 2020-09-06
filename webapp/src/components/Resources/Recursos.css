@@ -137,3 +137,27 @@
         background-color: #000000 !important;
     }
 }
+
+.downloads-area {
+    padding: 0px 47px 0px 0px !important;
+    margin-top: 30px !important;
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 960px) {
+    .downloads-area {
+        padding: 0px 47px !important;
+        margin-top: 30px !important;
+        margin-bottom: 30px;
+    }
+}
+
+.downloads-area a {
+    color: #202020;
+    text-decoration: underline !important;
+    text-decoration-color: #ED1C24 !important;
+}
+
+.downloads-area a:hover {
+    color: #ED1C24;
+}

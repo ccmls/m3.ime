@@ -19,7 +19,7 @@ function Home() {
                 </Col>
             </Row>
 
-            <div className="divider" style={{marginTop: "46px"}}/>
+            <div className="divider" style={{marginTop: "30px", marginBottom:"30px"}}/>
 
             {/* 2º seção: explicativo sobre as mídias */}
             <Midias/>

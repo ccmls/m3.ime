@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
@@ -21,48 +21,50 @@ function RecursosEd() {
     // State pra controlar o botão collapse dos filtros
     const [filtrosOpen, setFiltrosOpen] = useState(false);
 
-    // State para controlar os filtros que estão sendo aplicados
-    const [filters, setFilters] = useState(
-        {
-            experimentos: false,
-            videos: false,
-            softwares: false,
-            audios: false,
-            arranjoPermutacaoECombinacao: false,
-            combinacoesCiclicasEComSimetrias: false,
-            binomioDeNewtonETrianguloDePascal: false,
-            grafos: false,
-            probabilidade: false,
-            estatistica: false,
-            interpretacaoDeGraficosEDados: false,
-            planejamentoDeExperimentos: false,
-            elementosDeAmostragem: false,
-            geometriaPlana: false,
-            trigonometria: false,
-            geometriaEspacial: false,
-            geometriaAnalitica: false,
-            conjuntosLogicaENumeros: false,
-            relacoesEFuncoes: false,
-            razaoEProporcao: false,
-            funcaoAfim: false,
-            funcaoQuadratica: false,
-            funcaoExponencial: false,
-            funcaoLogaritmo: false,
-            sequencias: false,
-            funcoestrigonometricas: false,
-            sistemasLineares: false,
-            matrizes: false,
-            polinomiosENmerosComplexos: false,
-            matemAticaFinanceira: false,
-        }
-    )
+    //State para controlar os filtros que estão sendo aplicados
+    // const [filters, setFilters] = useState(
+    //     {
+    //         experimentos: false,
+    //         videos: false,
+    //         softwares: false,
+    //         audios: false,
+    //         arranjoPermutacaoECombinacao: false,
+    //         combinacoesCiclicasEComSimetrias: false,
+    //         binomioDeNewtonETrianguloDePascal: false,
+    //         grafos: false,
+    //         probabilidade: false,
+    //         estatistica: false,
+    //         interpretacaoDeGraficosEDados: false,
+    //         planejamentoDeExperimentos: false,
+    //         elementosDeAmostragem: false,
+    //         geometriaPlana: false,
+    //         trigonometria: false,
+    //         geometriaEspacial: false,
+    //         geometriaAnalitica: false,
+    //         conjuntosLogicaENumeros: false,
+    //         relacoesEFuncoes: false,
+    //         razaoEProporcao: false,
+    //         funcaoAfim: false,
+    //         funcaoQuadratica: false,
+    //         funcaoExponencial: false,
+    //         funcaoLogaritmo: false,
+    //         sequencias: false,
+    //         funcoestrigonometricas: false,
+    //         sistemasLineares: false,
+    //         matrizes: false,
+    //         polinomiosENmerosComplexos: false,
+    //         matemAticaFinanceira: false,
+    //     }
+    // )
+    const [filters, setFilters] = useState("")
+
 
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
     const history = useHistory()
     const location = useLocation()
     let params = new URLSearchParams(location.search)
     let searchValue = params.get("search")
-
+    let filterValue = params.get("filter")
 
     // Função para a busca
     useEffect(() => {
@@ -71,6 +73,29 @@ function RecursosEd() {
         }
         setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
     }, [searchValue])
+
+
+    // Função para os filtros
+    useEffect(() => {
+        if (searchValue) {
+            history.push(location.pathname.concat("?search=" + searchValue + "&filter=" + filters));
+        } else {
+            history.push(location.pathname.concat("?filter=" + filters));
+        }
+    }, [filters])
+
+    // Função para mudar a rota referente aos filtros (ele altera tudo que vem imediatamente depois de ?search=blabla&filter=)
+    function URLtoggler(filter) {
+        if (!filterValue) {
+            setFilters(filter);
+        } else if (filterValue.includes(filter)) {
+            const filterValuesArray = filterValue.split(" ");
+            filterValuesArray.splice(filterValuesArray.indexOf(filter), 1);
+            setFilters(filterValuesArray.join(" "));
+        } else {
+            setFilters(filterValue.concat(" " + filter));
+        }
+    }
 
 
     // Função para o botão de scroll to top
@@ -231,7 +256,7 @@ function RecursosEd() {
                 </Row>
                 <Row className="home-row">
                     <Col style={{padding: "0px 47px"}}>
-                        <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length} filters={filters} setFilters={setFilters}/>
+                        <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length} filters={filters} URLtoggler={URLtoggler}/>
                     </Col>
                 </Row>
 

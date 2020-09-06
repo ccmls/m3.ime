@@ -3,12 +3,9 @@ import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 import { useLocation } from 'react-router-dom';
 
-function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, setFilters}) {
+function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) {
 
     const location = useLocation()
-    console.log("BBBBBBBBBB", location)
-
-    console.log("AAAAAAAAAA", filters)
     return (
         <>
             <Collapse isOpen={filtrosOpen}>
@@ -20,13 +17,13 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, setFilters}) 
                                 <Row>
                                     <div>
                                         <br/>
-                                        <p onClick={() => setFilters(prevState => ({...prevState, experimentos:!prevState.experimentos}))}> Experimentos </p> 
+                                        <p onClick={() => URLtoggler("experimentos")}> {filters.includes("experimentos") ? 'cinza claro com o x no final':'Experimentos'} </p>
                                         <br/>
-                                        <p onClick={() => setFilters(prevState => ({...prevState, videos:!prevState.videos}))}> Vídeos </p> 
+                                        <p onClick={() => URLtoggler("videos")}> Vídeos </p> 
                                         <br/>
-                                        <p onClick={() => setFilters(prevState => ({...prevState, softwares:!prevState.softwares}))}> Softwares </p>
+                                        <p onClick={() => URLtoggler("softwares")}> Softwares </p>
                                         <br/>
-                                        <p onClick={() => setFilters(prevState => ({...prevState, audios:!prevState.audios}))}> Áudios </p>
+                                        <p onClick={() => URLtoggler("audios")}> Áudios </p>
                                     </div>
                                 </Row>
                             </Col>
