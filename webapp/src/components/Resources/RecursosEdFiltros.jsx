@@ -17,13 +17,17 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                 <Row>
                                     <div>
                                         <br/>
-                                        <p onClick={() => URLtoggler("experimentos")}> {filters.includes("experimentos") ? 'cinza claro com o x no final':'Experimentos'} </p>
+                                        <p onClick={() => URLtoggler("experimentos")}> {filters.includes("experimentos") ? 
+                                            <span style={{color: "#202020"}}> Experimentos⠀✕ </span> :'Experimentos'} </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("videos")}> Vídeos </p> 
+                                        <p onClick={() => URLtoggler("videos")}> {filters.includes("videos") ? 
+                                            <span style={{color: "#202020"}}> Vídeos⠀✕ </span> :'Vídeos'} </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("softwares")}> Softwares </p>
+                                        <p onClick={() => URLtoggler("softwares")}> {filters.includes("softwares") ? 
+                                            <span style={{color: "#202020"}}> Softwares⠀✕ </span> :'Softwares'} </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("audios")}> Áudios </p>
+                                        <p onClick={() => URLtoggler("audios")}> {filters.includes("audios") ? 
+                                            <span style={{color: "#202020"}}> Áudios⠀✕ </span> :'Áudios'} </p>
                                     </div>
                                 </Row>
                             </Col>

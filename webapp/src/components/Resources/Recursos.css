@@ -161,3 +161,8 @@
 .downloads-area a:hover {
     color: #ED1C24;
 }
+
+.card-body p {
+    color: #838383;
+    cursor: pointer;
+}

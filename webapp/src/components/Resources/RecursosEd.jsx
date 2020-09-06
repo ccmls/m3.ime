@@ -74,10 +74,12 @@ function RecursosEd() {
         setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
     }, [searchValue])
 
-
+    
     // Função para os filtros
     useEffect(() => {
-        if (searchValue) {
+        if (!filters) {
+            history.push(location.pathname)
+        } else if (searchValue) {
             history.push(location.pathname.concat("?search=" + searchValue + "&filter=" + filters));
         } else {
             history.push(location.pathname.concat("?filter=" + filters));
