@@ -22,42 +22,7 @@ function RecursosEd() {
     const [filtrosOpen, setFiltrosOpen] = useState(false);
 
     //State para controlar os filtros que estão sendo aplicados
-    // const [filters, setFilters] = useState(
-    //     {
-    //         experimentos: Experimentos,
-    //         videos: Vídeos,
-    //         softwares: Softwares,
-    //         audios: Áudios,
-    //         arranjoPermutacaoECombinacao: Arranjo, Permutação e Combinação,
-    //         combinacoesCiclicasEComSimetrias: Combinações Cíclicas e com Simetrias,
-    //         binomioDeNewtonETrianguloDePascal: Binômio de Newton e Triângulo de Pascal,
-    //         grafos: Grafos,
-    //         probabilidade: Probabilidade,
-    //         estatistica: Estatística,
-    //         interpretacaoDeGraficosEDados: Interpretação de Gráficos e Dados,
-    //         planejamentoDeExperimentos: Planejamento de Experimentos,
-    //         elementosDeAmostragem: Elementos de Amostragem,
-    //         geometriaPlana: Geometria Plana,
-    //         trigonometria: Trigonometria,
-    //         geometriaEspacial: Geometria Espacial,
-    //         geometriaAnalitica: Geometria Analítica,
-    //         conjuntosLogicaENumeros: Conjuntos, Lógica e Números,
-    //         relacoesEFuncoes: Relações e Funções,
-    //         razaoEProporcao: Razão e Proporção,
-    //         funcaoAfim: Função Afim,
-    //         funcaoQuadratica: Função Quadrática,
-    //         funcaoExponencial: Função Exponencial,
-    //         funcaoLogaritmo: Função Logaritmo,
-    //         sequencias: Sequências,
-    //         funcoesTrigonometricas: Funções Trigonométricas,
-    //         sistemasLineares: Sistemas Lineares,
-    //         matrizes: Matrizes,
-    //         polinomiosENumerosComplexos: Polinômios e Números Complexos,
-    //         matematicaFinanceira: Matemática Financeira,
-    //     }
-    // )
     const [filters, setFilters] = useState("")
-
 
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
     const history = useHistory();
