@@ -38,7 +38,7 @@ function FooterMobile() {
                         Site inicialmente desenhado pela <a href="http://www.preface.com.br" target="_blank" rel="noopener noreferrer"> Preface Design </a>
                         <br/>
                         <br/>
-                        Redesenhado e reconstruído por <a href="http://c-mls.weebly.com/" target="_blank" rel="noopener noreferrer"> Camila Porfírio </a>
+                        Redesenhado e reconstruído por <a href="https://linktr.ee/ccmls" target="_blank" rel="noopener noreferrer"> Camila Porfírio </a>
                     </p>
                 </div>
 

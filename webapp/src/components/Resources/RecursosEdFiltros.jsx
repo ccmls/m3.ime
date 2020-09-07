@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
-import { useLocation } from 'react-router-dom';
+import { useLocation,  } from 'react-router-dom';
 
 function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) {
 
     const location = useLocation()
+    
     return (
         <>
             <Collapse isOpen={filtrosOpen}>
@@ -46,7 +47,7 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("combinacoesCiclicasEComSimetrias")}> {filters.includes("combinacoesCiclicasEComSimetrias") ? 
-                                            <span style={{color: "#202020"}}> Combinações cíclicas e com simetrias⠀✕ </span> :'Combinações cíclicas e com simetrias'} 
+                                            <span style={{color: "#202020"}}> Combinações Cíclicas e com Simetrias⠀✕ </span> :'Combinações Cíclicas e com Simetrias'} 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("binomioDeNewtonETrianguloDePascal")}> {filters.includes("binomioDeNewtonETrianguloDePascal") ? 
@@ -66,7 +67,7 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("interpretacaoDeGraficosEDados")}> {filters.includes("interpretacaoDeGraficosEDados") ? 
-                                            <span style={{color: "#202020"}}> Interpretação de gráficos e dados⠀✕ </span> :'Interpretação de gráficos e dados'} 
+                                            <span style={{color: "#202020"}}> Interpretação de Gráficos e Dados⠀✕ </span> :'Interpretação de Gráficos e Dados'} 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("planejamentoDeExperimentos")}> {filters.includes("planejamentoDeExperimentos") ? 
@@ -141,8 +142,8 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                             <span style={{color: "#202020"}}> Sequências⠀✕ </span> :'Sequências'} 
                                         </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("funcoestrigonometricas")}> {filters.includes("funcoestrigonometricas") ?
-                                            <span style={{color: "#202020"}}> Funções trigonométricas⠀✕ </span> :'Funções trigonométricas'} 
+                                        <p onClick={() => URLtoggler("funcoesTrigonometricas")}> {filters.includes("funcoesTrigonometricas") ?
+                                            <span style={{color: "#202020"}}> Funções Trigonométricas⠀✕ </span> :'Funções Trigonométricas'} 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("sistemasLineares")}> {filters.includes("sistemasLineares") ?
@@ -153,7 +154,7 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                             <span style={{color: "#202020"}}> Matrizes⠀✕ </span> :'Matrizes'} 
                                         </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("polinomiosENmerosComplexos")}> {filters.includes("polinomiosENmerosComplexos") ?
+                                        <p onClick={() => URLtoggler("polinomiosENumerosComplexos")}> {filters.includes("polinomiosENumerosComplexos") ?
                                             <span style={{color: "#202020"}}> Polinômios e Números Complexos⠀✕ </span> :'Polinômios e Números Complexos'} 
                                         </p>
                                         <br/>

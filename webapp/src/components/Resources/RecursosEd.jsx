@@ -24,47 +24,47 @@ function RecursosEd() {
     //State para controlar os filtros que estão sendo aplicados
     // const [filters, setFilters] = useState(
     //     {
-    //         experimentos: false,
-    //         videos: false,
-    //         softwares: false,
-    //         audios: false,
-    //         arranjoPermutacaoECombinacao: false,
-    //         combinacoesCiclicasEComSimetrias: false,
-    //         binomioDeNewtonETrianguloDePascal: false,
-    //         grafos: false,
-    //         probabilidade: false,
-    //         estatistica: false,
-    //         interpretacaoDeGraficosEDados: false,
-    //         planejamentoDeExperimentos: false,
-    //         elementosDeAmostragem: false,
-    //         geometriaPlana: false,
-    //         trigonometria: false,
-    //         geometriaEspacial: false,
-    //         geometriaAnalitica: false,
-    //         conjuntosLogicaENumeros: false,
-    //         relacoesEFuncoes: false,
-    //         razaoEProporcao: false,
-    //         funcaoAfim: false,
-    //         funcaoQuadratica: false,
-    //         funcaoExponencial: false,
-    //         funcaoLogaritmo: false,
-    //         sequencias: false,
-    //         funcoestrigonometricas: false,
-    //         sistemasLineares: false,
-    //         matrizes: false,
-    //         polinomiosENmerosComplexos: false,
-    //         matemAticaFinanceira: false,
+    //         experimentos: Experimentos,
+    //         videos: Vídeos,
+    //         softwares: Softwares,
+    //         audios: Áudios,
+    //         arranjoPermutacaoECombinacao: Arranjo, Permutação e Combinação,
+    //         combinacoesCiclicasEComSimetrias: Combinações Cíclicas e com Simetrias,
+    //         binomioDeNewtonETrianguloDePascal: Binômio de Newton e Triângulo de Pascal,
+    //         grafos: Grafos,
+    //         probabilidade: Probabilidade,
+    //         estatistica: Estatística,
+    //         interpretacaoDeGraficosEDados: Interpretação de Gráficos e Dados,
+    //         planejamentoDeExperimentos: Planejamento de Experimentos,
+    //         elementosDeAmostragem: Elementos de Amostragem,
+    //         geometriaPlana: Geometria Plana,
+    //         trigonometria: Trigonometria,
+    //         geometriaEspacial: Geometria Espacial,
+    //         geometriaAnalitica: Geometria Analítica,
+    //         conjuntosLogicaENumeros: Conjuntos, Lógica e Números,
+    //         relacoesEFuncoes: Relações e Funções,
+    //         razaoEProporcao: Razão e Proporção,
+    //         funcaoAfim: Função Afim,
+    //         funcaoQuadratica: Função Quadrática,
+    //         funcaoExponencial: Função Exponencial,
+    //         funcaoLogaritmo: Função Logaritmo,
+    //         sequencias: Sequências,
+    //         funcoesTrigonometricas: Funções Trigonométricas,
+    //         sistemasLineares: Sistemas Lineares,
+    //         matrizes: Matrizes,
+    //         polinomiosENumerosComplexos: Polinômios e Números Complexos,
+    //         matematicaFinanceira: Matemática Financeira,
     //     }
     // )
     const [filters, setFilters] = useState("")
 
 
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
-    const history = useHistory()
-    const location = useLocation()
-    let params = new URLSearchParams(location.search)
-    let searchValue = params.get("search")
-    let filterValue = params.get("filter")
+    const history = useHistory();
+    const location = useLocation();
+    let params = new URLSearchParams(location.search);
+    let searchValue = params.get("search");
+    let filterValue = params.get("filter");
 
     // Função para a busca
     useEffect(() => {
@@ -72,34 +72,42 @@ function RecursosEd() {
             searchValue = ""
         }
         setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
-    }, [searchValue])
+    }, [searchValue]);
 
     
     // Função para os filtros
     useEffect(() => {
-        if (!filters) {
-            history.push(location.pathname)
-        } else if (searchValue) {
-            history.push(location.pathname.concat("?search=" + searchValue + "&filter=" + filters));
-        } else {
-            history.push(location.pathname.concat("?filter=" + filters));
-        }
-    }, [filters])
-
-    // Função para mudar a rota referente aos filtros (ele altera tudo que vem imediatamente depois de ?search=blabla&filter=)
-    function URLtoggler(filter) {
         if (!filterValue) {
-            setFilters(filter);
+            setFilters("");
+        } else {
+            setFilters(filterValue);
+        }
+    }, [filterValue]);
+
+
+        // Função para mudar a rota referente aos filtros (ele altera tudo que vem imediatamente depois de ?search=blabla&filter=)
+    function URLtoggler(filter) {
+        let auxFilter = "";
+        if (!filterValue) {
+            auxFilter = filter;
         } else if (filterValue.includes(filter)) {
             const filterValuesArray = filterValue.split(" ");
             filterValuesArray.splice(filterValuesArray.indexOf(filter), 1);
-            setFilters(filterValuesArray.join(" "));
+            auxFilter = filterValuesArray.join(" ");
         } else {
-            setFilters(filterValue.concat(" " + filter));
+            auxFilter = filterValue.concat(" " + filter);
+        }
+
+        if (!auxFilter) {
+            history.push(location.pathname);
+        } else if (searchValue) {
+            history.push(location.pathname.concat("?search=" + searchValue + "&filter=" + auxFilter));
+        } else {
+            history.push(location.pathname.concat("?filter=" + auxFilter));
         }
     }
 
-
+ 
     // Função para o botão de scroll to top
     function topFunction() {
         document.body.scrollTop = 0; // For Safari
@@ -248,9 +256,14 @@ function RecursosEd() {
                             </Button>
                             <RecursosEdSearch setSearchValue={(value) => {
                                 if (value.length === 0) {
-                                    history.push(`/recursos`)
+                                    history.push(`/recursos`);
                                 } else {
-                                    history.push(`/recursos?search=${value}`)
+                                    if (filters === "") {
+                                        history.push(`/recursos?search=${value}`);
+                                    } else {
+                                        history.push(`/recursos?search=${value}&filter=${filters}`)
+                                    }
+                                    
                                 }    
                             }}/>
                         </div>

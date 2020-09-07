@@ -72,7 +72,7 @@ function Colaboradores() {
                         <br/>
                         <span style={{color: "#ee2d32"}}>REVISÃO DE LAYOUT <br/> & CÓDIGO</span>
                         <br/>
-                        <a href="http://c-mls.weebly.com/" target="_blank" rel="noopener noreferrer"> Camila Porfírio </a>
+                        <a href="https://linktr.ee/ccmls" target="_blank" rel="noopener noreferrer"> Camila Porfírio </a>
                     </p>
                 </Col>
 
