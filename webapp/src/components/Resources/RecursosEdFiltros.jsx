@@ -2,75 +2,11 @@ import React, { useState } from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 import { useLocation,  } from 'react-router-dom';
+import { filtersMapping } from './FiltersMapping';
 
 function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) {
 
     const location = useLocation()
-
-    // Objeto com o mapeamento de filtros
-    const filtersMapping = {
-        // Mídias
-        experimentos: "Experimentos",
-        videos: "Vídeos",
-        softwares: "Softwares",
-        audios: "Áudios",
-        // Análise de Dados e Probabilidade
-        representacaoEAnaliseDeDados: "Representação e análise de dados",
-        mediasModaEMediana: "Médias, moda e mediana",
-        desviosEVariancia: "Desvios e variância",
-        planejamentoDeExperimentos: "Planejamento de experimentos",
-        elementosDeAmostragem: "Elementos de amostragem",
-        probabilidade: "Probabilidade",
-        principiosDeContagem: "Princípios de contagem",
-        arranjoPermutacaoECombinacao: "Arranjo, permutação e combinação",
-        binomioDeNewtonETrianguloDePascal: "Binômio de Newton e triângulo de Pascal",
-        // Geometria e Medidas
-        caracteristicasDasFigurasGeometricasPlanasEEspaciais: "Características das figuras geométricas planas e espaciais",
-        grandezasUnidadesDeMedidaEEscalas: "Grandezas, unidades de medida e escalas",
-        comprimentosAreasEVolumes: "Comprimentos, áreas e volumes",
-        angulos: "Ângulos",
-        posicoesDeRetas: "Posições de retas",
-        simetriasDeFigurasPlanasOuEspaciais: "Simetrias de figuras planas ou espaciais",
-        congruenciaESemelhancaDeTriangulos: "Congruência e semelhança de triângulos",
-        teoremaDeTales: "Teorema de Tales",
-        relacoesMetricasNosTriangulos: "Relações métricas nos triângulos",
-        trigonometriaDoAnguloAgudo: "Trigonometria do ângulo agudo",
-        geometriaEspacial: "Geometria Espacial",
-        geometriaAnalitica: "Geometria Analítica",
-        planoCartesiano: "Plano cartesiano",
-        retas: "Retas",
-        circunferencias: "Circunferências",
-        paralelismoEPerpendicularidade: "Paralelismo e perpendicularidade",
-        // Números e Funções
-        logicaERaciocinioLogico: "Lógica e raciocínio lógico",
-        operacoesEmConjuntosNumericos: "Operações em conjuntos numéricos",
-        desigualdades: "Desigualdades",
-        divisibilidadeFatoracao: "Divisibilidade, fatoração",
-        razoesEProporcoes: "Razões e proporções",
-        porcentagemEJuros: "Porcentagem e juros",
-        matematicaFinanceira: "Matemática Financeira",
-        relacoesDeDependenciaEntreGrandezas: "Relações de dependência entre grandezas",
-        SequenciasEProgressoes: "Sequências e progressões",
-        graficosEFuncoes: "Gráficos e funções",
-        funcoesDo1GrauFuncoesLinearesFuncoesAfim: "Funções do 1º grau / Funções lineares / Funções afim",
-        funcoesDo2GrauFuncoesQuadraticas: "Funções do 2º grau / Funções quadráticas",
-        polinomiosEFuncoesPolinomiais: "Polinômios e funções polinomiais",
-        funcoesRacionais: "Funções racionais",
-        funcoesExponenciaisELogaritmicas: "Funções exponenciais e logarítmicas",
-        equacoesEInequacoes: "Equações e inequações",
-        relacoesNoCicloTrigonometricoEFuncoesTrigonometricas: "Relações no ciclo trigonométrico e funções trigonométricas",
-        sistemasDeEquacoes: "Sistemas de equações",
-        matrizes: "Matrizes",
-        determinante: "Determinante",
-        // Tópicos Avançados e Temas Transversais
-        grafos: "Grafos",
-        criptografia: "Criptografia",
-        computacao: "Computação",
-        numerosComplexos: "Números Complexos",
-        conicas: "Cônicas",
-        historiaDaMatematica: "História da Matemática",
-        outros: "Outros",
-    }
     
     return (
         <>

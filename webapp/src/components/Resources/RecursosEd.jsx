@@ -3,6 +3,7 @@ import './Recursos.css';
 import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
 import RecursosEdFiltros from './RecursosEdFiltros';
+import { filtersMapping } from './FiltersMapping';
 import upArrow from '../../assets/up-arrow.svg';
 import m3_resources from '../../xml/m3_resources.js'
 import Pagination from './Pagination';
@@ -30,26 +31,6 @@ function RecursosEd() {
     let params = new URLSearchParams(location.search);
     let searchValue = params.get("search");
     let filterValue = params.get("filter");
- 
-    
-    // Função para a busca
-    useEffect(() => {
-        var returnArray = resourcesArray;
-        if (!searchValue) {
-            searchValue = ""
-        }
-        searchValue.split(' ').forEach(
-            function(value) {
-                returnArray = returnArray.filter(element =>
-                    element.m3_media_id.toLowerCase().includes(value.toLowerCase()) ||
-                    element.title.toLowerCase().includes(value.toLowerCase()) ||
-                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
-                    element.objectives.toLowerCase().includes(value.toLowerCase())
-                )
-            }
-        )
-        setFilteredResourcesArray(prevState => returnArray)
-    }, [searchValue])
 
     
     // Função para os filtros
@@ -62,7 +43,7 @@ function RecursosEd() {
     }, [filterValue]);
 
 
-        // Função para mudar a rota referente aos filtros (ele altera tudo que vem imediatamente depois de ?search=blabla&filter=)
+    // Função para mudar a rota referente aos filtros (ele altera tudo que vem imediatamente depois de ?search=blabla&filter=)
     function URLtoggler(filter) {
         let auxFilter = "";
         if (!filterValue) {
@@ -83,6 +64,40 @@ function RecursosEd() {
             history.push(location.pathname.concat("?filter=" + auxFilter));
         }
     }
+
+    // Função para a busca e aplicação dos filtros
+    useEffect(() => {
+        var returnArray = resourcesArray;
+        if (!searchValue) {
+            searchValue = ""
+        }
+        searchValue.split(' ').forEach(
+            function(value) {
+                returnArray = returnArray.filter(element =>
+                    element.m3_media_id.toLowerCase().includes(value.toLowerCase()) ||
+                    element.title.toLowerCase().includes(value.toLowerCase()) ||
+                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
+                    element.objectives.toLowerCase().includes(value.toLowerCase()) ||
+                    element.tags.toLowerCase().includes(value.toLowerCase()) ||
+                    element.topic.toLowerCase().includes(value.toLowerCase()) ||
+                    element.serie.toLowerCase().includes(value.toLowerCase())
+                )
+            }
+        )
+        
+        if (filterValue) {
+            filterValue.split(' ').forEach(
+                function(value) {
+                    returnArray = returnArray.filter(element => 
+                        element.m3_media_id.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
+                        element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
+                    )
+                }
+            )
+        }
+
+        setFilteredResourcesArray(prevState => returnArray)
+    }, [searchValue, filterValue])
 
  
     // Função para o botão de scroll to top
