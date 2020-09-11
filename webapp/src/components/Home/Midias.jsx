@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './Midias.css';
+import { useHistory } from "react-router-dom";
 import { Row, Col } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
 import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
@@ -9,6 +10,9 @@ import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
 
 function Midias() {
+
+    // O history funciona como uma pilha para armazenar as rotas
+    const history = useHistory();
 
     // States para controlar os botões de collapse:
     const [videosOpen, setVideosOpen] = useState(false);
@@ -31,7 +35,7 @@ function Midias() {
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
-                    <div className="filter-link"> Experimentos </div>
+                    <div className="filter-link" onClick={() => history.push("/recursos?filter=experimentos")}> Experimentos </div>
                 </h3>
                 <p>
                     <br/>
@@ -52,7 +56,7 @@ function Midias() {
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
-                    <div className="filter-link"> Vídeos </div>
+                    <div className="filter-link" onClick={() => history.push("/recursos?filter=videos")}> Vídeos </div>
                 </h3>
                 <p>
                     <br/>
@@ -72,7 +76,7 @@ function Midias() {
                     <Collapse isOpen={videosOpen}>
                         <Card style={{borderColor: "#f5f5f5", height: "305px", overflowY: "scroll"}}>
                             <CardBody>
-                                <p>
+                                <p> 
                                     <b> Matemática na Escola </b>
                                     <br/>
                                     A série Matemática na Escola aborda o conteúdo de matemática do ensino médio através de 
@@ -108,7 +112,7 @@ function Midias() {
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
-                    <div className="filter-link"> Softwares </div>
+                    <div className="filter-link" onClick={() => history.push("/recursos?filter=softwares")}> Softwares </div>
                 </h3>
                 <p>
                     <br/>
@@ -124,7 +128,7 @@ function Midias() {
             </Col>
             <Col md="10" sm="12" className="home-col">
                 <h3>
-                    <div className="filter-link"> Áudios </div>
+                    <div className="filter-link" onClick={() => history.push("/recursos?filter=audios")}> Áudios </div>
                 </h3>
                 <p>
                     <br/>

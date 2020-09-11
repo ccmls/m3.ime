@@ -82,6 +82,8 @@
     border-top-right-radius: 0rem !important;
     border-bottom-right-radius: 0.3rem !important;
     border-bottom-left-radius: 0.3rem !important;
+    max-height: 350px;
+    overflow-y: scroll;
 }
 
 .header-dropdown-menu button {
@@ -91,6 +93,13 @@
     line-height: 25px !important;
     letter-spacing: 0.03em !important;
     font-weight: 400 !important;
+}
+
+.dropdown-item{
+    white-space: normal !important;
+    max-width: 400px;
+    min-width: 300px;
+    overflow-wrap: break-word;
 }
 
 .header-dropdown-menu button:focus, .header-dropdown-menu button:active {

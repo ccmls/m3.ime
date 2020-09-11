@@ -16,9 +16,9 @@
 }
 
 
-/* Função para que a TopHeader suma quando a tela tiver um tamanho <= 960px */
+/* Função para que a TopHeader suma quando a tela tiver um tamanho <= 1024px */
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1024px) {
     .imagem-topheader {
         display: none;
     }

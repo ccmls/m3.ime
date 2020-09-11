@@ -11,6 +11,7 @@ function Header() {
     const [probDropdownOpen, setProbDropdownOpen] = useState(false);
     const [geoDropdownOpen, setGeoDropdownOpen] = useState(false);
     const [numDropdownOpen, setNumDropdownOpen] = useState(false);
+    const [outrosDropdownOpen, setOutrosDropdownOpen] = useState(false);
 
 
     // O history funciona como uma pilha para armazenar as rotas
@@ -67,30 +68,41 @@ function Header() {
                     </Dropdown>
                 </li>
                 
-                {/* Botão dropdown com os conteúdos de Análise de Dados e Probabilidade */}
-                <li>
+                 {/* Botão dropdown com os conteúdos de Números e Funções */}
+                <li> 
                     <Dropdown 
-                        onMouseOver={() => setProbDropdownOpen(true)} 
-                        onMouseLeave={() => setProbDropdownOpen(false)}
-                        isOpen={probDropdownOpen} 
-                        toggle={() => setProbDropdownOpen(!probDropdownOpen)}
+                        onMouseOver={() => setNumDropdownOpen(true)} 
+                        onMouseLeave={() => setNumDropdownOpen(false)}
+                        isOpen={numDropdownOpen} 
+                        toggle={() => setNumDropdownOpen(!numDropdownOpen)}
                     >
-                        <DropdownToggle className={classNames("header-dropdown-toggle", probDropdownOpen? "dropdownOpen":"")}> 
-                            Análise de dados e probabilidade
+                        <DropdownToggle className={classNames("header-dropdown-toggle", numDropdownOpen? "dropdownOpen":"")}> 
+                            Números e funções
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">
-                            <DropdownItem onClick={() => history.push("/recursos?filter=arranjoPermutacaoECombinacao")}> Arranjo, Permutação e Combinação </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=combinacoesCiclicasEComSimetrias")}> Combinações Cíclicas e com Simetrias </DropdownItem>
-                            <DropdownItem onClick={() => history.push("/recursos?filter=binomioDeNewtonETrianguloDePascal")}> Binômio de Newton e Triângulo de Pascal </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=grafos")}> Grafos </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=probabilidade")}> Probabilidade </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=estatistica")}> Estatística </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=interpretacaoDeGraficosEDados")}> Interpretação de Gráficos e Dados </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=planejamentoDeExperimentos")}> Planejamento de Experimentos </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=elementosDeAmostragem")}> Elementos de Amostragem </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=logicaERaciocinioLogico")}> Lógica e raciocínio lógico </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=operacoesEmConjuntosNumericos")}> Operações em conjuntos numéricos </DropdownItem>
+                            <DropdownItem onClick={() => history.push("/recursos?filter=desigualdades")}> Desigualdades </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=divisibilidadeFatoracao")}> Divisibilidade, fatoração </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=razoesEProporcoes")}> Razões e proporções </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=porcentagemEJuros")}> Porcentagem e juros </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=matematicaFinanceira")}> Matemática Financeira </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=relacoesDeDependenciaEntreGrandezas")}> Relações de dependência entre grandezas </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=SequenciasEProgressoes")}> Sequências e progressões </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=graficosEFuncoes")}> Gráficos e funções </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=funcoesDo1GrauFuncoesLinearesFuncoesAfim")}> Funções do 1º grau / Funções lineares / Funções afim </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=funcoesDo2GrauFuncoesQuadraticas")}> Funções do 2º grau / Funções quadráticas </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=polinomiosEFuncoesPolinomiais")}> Polinômios e funções polinomiais </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=funcoesRacionais")}> Funções racionais </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=funcoesExponenciaisELogaritmicas")}> Funções exponenciais e logarítmicas </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=equacoesEInequacoes")}> Equações e inequações </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=relacoesNoCicloTrigonometricoEFuncoesTrigonometricas")}> Relações no ciclo trigonométrico e funções trigonométricas </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=sistemasDeEquacoes")}> Sistemas de equações </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=matrizes")}> Matrizes </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=determinante")}> Determinante </DropdownItem>
                         </DropdownMenu>
                     </Dropdown>
-                </li> 
+                </li>
                 
                 {/* Botão dropdown com os conteúdos de Geometria e Medidas */}
                 <li>
@@ -104,39 +116,71 @@ function Header() {
                             Geometria e medidas
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu">
-                            <DropdownItem onClick={() => history.push("/recursos?filter=geometriaPlana")}> Geometria Plana </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=trigonometria")}> Trigonometria </DropdownItem>
-                            <DropdownItem onClick={() => history.push("/recursos?filter=geometriaEspacial")}> Geometria Espacial </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=geometriaAnalitica")}> Geometria Analítica </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=caracteristicasDasFigurasGeometricasPlanasEEspaciais")}> Características das figuras geométricas planas e espaciais </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=grandezasUnidadesDeMedidaEEscalas")}> Grandezas, unidades de medida e escalas </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=comprimentosAreasEVolumes")}> Comprimentos, áreas e volumes </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=angulos")}> Ângulos </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=posicoesDeRetas")}> Posições de retas </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=simetriasDeFigurasPlanasOuEspaciais")}> Simetrias de figuras planas ou espaciais </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=congruenciaESemelhancaDeTriangulos")}> Congruência e semelhança de triângulos </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=teoremaDeTales")}> Teorema de Tales </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=relacoesMetricasNosTriangulos")}> Relações métricas nos triângulos </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=trigonometriaDoAnguloAgudo")}> Trigonometria do ângulo agudo </DropdownItem>  
+                                <DropdownItem onClick={() => history.push("/recursos?filter=geometriaEspacial")}> Geometria Espacial </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=geometriaAnalitica")}> Geometria Analítica </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=planoCartesiano")}> Plano cartesiano </DropdownItem> 
+                                <DropdownItem onClick={() => history.push("/recursos?filter=retas")}> Retas </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=circunferencias")}> Circunferências </DropdownItem>
+                                <DropdownItem onClick={() => history.push("/recursos?filter=paralelismoEPerpendicularidade")}> Paralelismo e perpendicularidade </DropdownItem> 
                         </DropdownMenu>
                     </Dropdown>
                 </li>  
                 
-                {/* Botão dropdown com os conteúdos de Números e Funções */}
-                <li> 
+                {/* Botão dropdown com os conteúdos de Análise de Dados e Probabilidade */}
+                <li>
                     <Dropdown 
-                        onMouseOver={() => setNumDropdownOpen(true)} 
-                        onMouseLeave={() => setNumDropdownOpen(false)}
-                        isOpen={numDropdownOpen} 
-                        toggle={() => setNumDropdownOpen(!numDropdownOpen)}
+                        onMouseOver={() => setProbDropdownOpen(true)} 
+                        onMouseLeave={() => setProbDropdownOpen(false)}
+                        isOpen={probDropdownOpen} 
+                        toggle={() => setProbDropdownOpen(!probDropdownOpen)}
                     >
-                        <DropdownToggle className={classNames("header-dropdown-toggle", numDropdownOpen? "dropdownOpen":"")}> 
-                            Números e funções
+                        <DropdownToggle className={classNames("header-dropdown-toggle", probDropdownOpen? "dropdownOpen":"")}> 
+                            Análise de dados e probabilidade
+                        </DropdownToggle>
+                        <DropdownMenu className="header-dropdown-menu">
+                            <DropdownItem onClick={() => history.push("/recursos?filter=representacaoEAnaliseDeDados")}> Representação e análise de dados </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=mediasModaEMediana")}> Médias, moda e mediana </DropdownItem>
+                            <DropdownItem onClick={() => history.push("/recursos?filter=desviosEVariancia")}> Desvios e variância </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=planejamentoDeExperimentos")}> Planejamento de experimentos </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=elementosDeAmostragem")}> Elementos de amostragem </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=probabilidade")}> Probabilidade </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=principiosDeContagem")}> Princípios de contagem </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=arranjoPermutacaoECombinacao")}> Arranjo, permutação e combinação </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=binomioDeNewtonETrianguloDePascal")}> Binômio de Newton e triângulo de Pascal </DropdownItem> 
+                        </DropdownMenu>
+                    </Dropdown>
+                </li>
+
+                {/* Botão dropdown com as Tópicos Avançados e Temas Transversais */}
+                <li>
+                    <Dropdown
+                        onMouseOver={() => setOutrosDropdownOpen(true)} 
+                        onMouseLeave={() => setOutrosDropdownOpen(false)} 
+                        isOpen={outrosDropdownOpen} 
+                        toggle={() => setOutrosDropdownOpen(!outrosDropdownOpen)}
+                    >
+                        <DropdownToggle 
+                            className={classNames("header-dropdown-toggle", outrosDropdownOpen? "dropdownOpen":"")}> 
+                            Outros
                         </DropdownToggle>
                         <DropdownMenu className="header-dropdown-menu" right>
-                            <DropdownItem onClick={() => history.push("/recursos?filter=conjuntosLogicaENumeros")}> Conjuntos, Lógica e Números </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=relacoesEFuncoes")}> Relações e Funções </DropdownItem>
-                            <DropdownItem onClick={() => history.push("/recursos?filter=razaoEProporcao")}> Razão e Proporção </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=funcaoAfim")}> Função Afim </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=funcaoQuadratica")}> Função Quadrática </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=funcaoExponencial")}> Função Exponencial </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=funcaoLogaritmo")}> Função Logaritmo </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=sequencias")}> Sequências </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=funcoesTrigonometricas")}> Funções Trigonométricas </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=sistemasLineares")}> Sistemas Lineares </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=matrizes")}> Matrizes </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=polinomiosENumerosComplexos")}> Polinômios e Números Complexos </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=matematicaFinanceira")}> Matemática Financeira </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=grafos")}> Grafos </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=criptografia")}> Criptografia </DropdownItem>
+                            <DropdownItem onClick={() => history.push("/recursos?filter=computacao")}> Computação </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=numerosComplexos")}> Números Complexos </DropdownItem>
+                            <DropdownItem onClick={() => history.push("/recursos?filter=conicas")}> Cônicas </DropdownItem>
+                            <DropdownItem onClick={() => history.push("/recursos?filter=historiaDaMatematica")}> História da Matemática </DropdownItem> 
+                            <DropdownItem onClick={() => history.push("/recursos?filter=outros")}> Números Outros </DropdownItem>  
                         </DropdownMenu>
                     </Dropdown>
                 </li>

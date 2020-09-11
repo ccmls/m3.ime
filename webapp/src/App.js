@@ -29,14 +29,15 @@ function App() {
     const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {
-            if(window.innerWidth > 960) {
+            console.log("innerWidth:", window.innerWidth)
+            if(window.innerWidth > 1024) {
                 setIsMobile(false);
             } else {
                 setIsMobile(true);
             }
 
         window.addEventListener("resize", () => {
-            if(window.innerWidth > 960) {
+            if(window.innerWidth > 1024) {
                 setIsMobile(false);
             } else {
                 setIsMobile(true);
@@ -48,6 +49,7 @@ function App() {
     <Router>
         <ScrollToTop />
             {/* HEADER */}
+            {console.log("isMobile:",isMobile)}
             <div>
                 {isMobile? null:<TopHeader/>}
                 {isMobile? <HeaderMobile/>:<Header/>}

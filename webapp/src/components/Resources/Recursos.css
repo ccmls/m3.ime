@@ -81,7 +81,7 @@
     transition-duration: 0.3s;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1024px) {
     .button:hover {
         background-color: #ED1C24 !important;
     }
@@ -128,7 +128,7 @@
     }
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1024px) {
     .scroll-to-top-button:hover {
         background-color: #ED1C24;
     }
@@ -144,7 +144,7 @@
     margin-bottom: 30px;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1024px) {
     .downloads-area {
         padding: 0px 47px !important;
         margin-top: 30px !important;
@@ -162,17 +162,22 @@
     color: #ED1C24;
 }
 
-.card-body {
+.filters-card-body {
     padding-top: 0px !important;
 }
 
-.card-body p {
+.filters-card-body p {
     color: #838383;
     cursor: pointer;
 }
 
-@media only screen and (min-width: 960px) {
-    .card-body p:hover {
+@media only screen and (min-width: 1024px) {
+    .filters-card-body p:hover {
         color: #ED1C24;
     }
+}
+
+.collapse {
+    max-height: 500px;
+    overflow-y: scroll;
 }
