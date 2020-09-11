@@ -30,14 +30,26 @@ function RecursosEd() {
     let params = new URLSearchParams(location.search);
     let searchValue = params.get("search");
     let filterValue = params.get("filter");
-
+ 
+    
     // Função para a busca
     useEffect(() => {
+        var returnArray = resourcesArray;
         if (!searchValue) {
             searchValue = ""
         }
-        setFilteredResourcesArray(prevState => resourcesArray.filter(element => element.m3_media_id.toLowerCase().includes(searchValue.toLowerCase()) || element.title.toLowerCase().includes(searchValue.toLowerCase()) || element.synopsis.toLowerCase().includes(searchValue.toLowerCase()) || element.objectives.toLowerCase().includes(searchValue.toLowerCase())))
-    }, [searchValue]);
+        searchValue.split(' ').forEach(
+            function(value) {
+                returnArray = returnArray.filter(element =>
+                    element.m3_media_id.toLowerCase().includes(value.toLowerCase()) ||
+                    element.title.toLowerCase().includes(value.toLowerCase()) ||
+                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
+                    element.objectives.toLowerCase().includes(value.toLowerCase())
+                )
+            }
+        )
+        setFilteredResourcesArray(prevState => returnArray)
+    }, [searchValue])
 
     
     // Função para os filtros
