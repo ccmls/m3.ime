@@ -2,15 +2,44 @@ import React, { useState, useEffect } from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
-import { useHistory } from 'react-router-dom';
-import { TwitterShareButton } from 'react-twitter-embed';
+import { useHistory, useParams } from 'react-router-dom';
 // React Twitter Embed:
+import { TwitterShareButton } from 'react-twitter-embed';
 // https://www.npmjs.com/package/react-twitter-embed
+import m3_resources from '../../xml/m3_resources.js'
 
 function DetalhesRecurso() {
 
-    // Objeto das rotas que representa o histórico (ele funciona como uma pilha para armazenar as rotas)
+    // O history funciona como uma pilha para armazenar as rotas e o params contém as informações da rota atual
     const history = useHistory()
+    const {idRecurso} = useParams()
+     
+
+
+    // INFORMAÇÕES SOBRE O RECURSO:
+    // Parser
+    const parser = new DOMParser();
+    const parsedResources = parser.parseFromString(m3_resources,"text/xml");
+
+    // Array com todos os recursos
+    const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")]
+    console.log(rawResourcesArray)
+    const resourcesArray = rawResourcesArray.map(rawResource => ({
+        id: rawResource.childNodes[1].textContent,
+        title: rawResource.childNodes[9].textContent,
+        m3_media_id: rawResource.childNodes[3].textContent,
+        topic: rawResource.childNodes[41].textContent,
+        serie: rawResource.childNodes[5].textContent,
+        synopsis: rawResource.childNodes[13].textContent,
+        objectives: rawResource.childNodes[15].textContent,
+        tags: rawResource.childNodes[37].textContent,
+        duration: rawResource.childNodes[11].textContent,
+        authors: rawResource.childNodes[35].textContent,
+        youtube_link: rawResource.childNodes[33].textContent,
+    }))
+
+    // Objeto do recurso específico com todas as suas informações
+    const resource = resourcesArray.find(resource => resource.id === idRecurso);
 
     return (
         <Container className="home-container">
@@ -35,13 +64,24 @@ function DetalhesRecurso() {
             {/* Cabeçalho: título, tema, série e mídia */}
             <Row className= "home-row">
                 <Col className= "home-col">
-                    <h2> Título do Recurso </h2>
+                    <h2> {resource.title} </h2>
                     <div  style={{marginTop: "10px"}}>
-                        <p style={{color: "#ee2d32", textTransform: "uppercase"}}> Tema tema tema tema </p>
+                        {
+                            // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
+                            resource.serie === "null"?
+                                <p> 
+                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                </p>
+                            :
+                                <p> 
+                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                    <span> • Série: {resource.serie} </span> 
+                                </p>
+                        }
                     </div>
                 </Col>
                 <Col className= "home-col icon-alignment">
-                    <p style={{marginLeft: "auto"}}> imagem da mídia </p>
+                    <p style={{marginLeft: "auto"}}> {resource.m3_media_id} </p>
                 </Col>
             </Row>
             <div className="divider" style={{marginTop: "-15px", marginBottom: "30px"}}/>
@@ -52,81 +92,51 @@ function DetalhesRecurso() {
                 {/* Card de sinopse, objetivos, conteúdos, créditos */}
                 <Col md="5" sm="12" className= "home-col">
                     <div className="details-card">
-                        <h3> Sinopse </h3>
-                        <p> 
-                            Inserir aqui o texto da sinopse e inserir aqui o texto 
-                            da sinopse e inserir aqui o texto 
-                            da sinopse e inserir aqui o texto 
-                            da sinopse e inserir aqui o texto 
-                            da sinopse.
-                        </p>
+
                         <h3> Duração </h3>
-                        <p> 
-                            Inserir aqui o texto.
-                        </p>
+                        <p> {resource.duration} </p>
                         <h3> Objetivos </h3>
-                        <p> 
-                            Inserir aqui o texto dos objetivos e inserir aqui o texto 
-                            dos objetivos e inserir aqui o texto 
-                            dos objetivos e inserir aqui o texto 
-                            dos objetivos e inserir aqui o texto 
-                            dos objetivos.
-                        </p>
+                        <p> {resource.objectives} </p>
                         <h3> Conteúdos </h3>
-                        <p> 
-                            Inserir aqui o texto dos conteúdos e inserir aqui o texto 
-                            dos conteúdos e inserir aqui o texto 
-                            dos conteúdos e inserir aqui o texto 
-                            dos conteúdos e inserir aqui o texto 
-                            dos conteúdos.
-                        </p>
+                        <p> {resource.tags} </p>
                         <h3> Créditos </h3>
-                        <p style={{paddingBottom: "20px"}}> 
-                            Autores
-                            <br/>
-                            CONTEÚDO Sueli Irene Rodrigues Costa
-                            <br/>
-                            ROTEIRO Roberto Limberger
-                            <br/>
-                            GUIA Sueli Irene Rodrigues Costa e Claudina Izepe Rodrigues
-                        </p>
+                        <p style={{paddingBottom: "20px"}}> {resource.authors} </p>
                     </div>
                 </Col>
 
                 {/* Card com arquivos, guia do professor e como usar */}
+                {/* O card exibido depende de qual é a mídia do recurso específico */}
                 <Col md="7" sm="12" className="downloads-area">
-                    <h3 style={{paddingTop: "20px"}}> Os arquivos </h3>
-                    <p> 
-                        Inserir aqui o texto da sinopse e inserir aqui o texto 
-                        da sinopse e inserir aqui o texto 
-                        da sinopse e inserir aqui o texto 
-                        da sinopse e inserir aqui o texto 
-                        da sinopse.
-                    </p>
-                    <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
-                    <p> 
-                        Duas versões. A primeira, adequada para impressão caseira.
-                        A segunda, para visualização em tela:
-                        <br/>
-                        — <a href="https://anchor.fm/matematica-multimidia" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
-                        <br/>
-                        — <a href="https://anchor.fm/matematica-multimidia" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
-                    </p>
-                    <h3 style={{paddingTop: "40px"}}> Como usar os arquivos? </h3>
-                    <p> 
-                    Aqui você pode baixar o vídeo e o seu respectivo Guia do Professor com alguns aprofundamentos de conteúdo e sugestões de atividades que podem ser utilizadas antes ou depois a exibição do vídeo.
-                    <br/>
-                    O vídeo de apresentação está no formato leve do YouTube, mas o vídeo original em formato mpg é de boa resolução e tem aproximadamente 100 Mb, portanto recomendamos que se faça primeiro o download para o seu computador e depois seja feita a visualização com, por exemplo, o software VLC. O Pacote completo é um arquivo comprimido (zip) com o vídeo em mpg e o Guia do Professor em pdf.
-                        da sinopse.
-                    </p>
+                    {/* Experimentos */}
+                    {
+                        resource.m3_media_id === "Experimento"?
+                            <DetalhesExperimento resource={resource}/>
+                        :
+                            null
+                    }
+                    {/* Vídeos */}
+                    {
+                        resource.m3_media_id === "Vídeo"?
+                            <DetalhesVideo resource={resource}/>
+                        :
+                            null
+                    }
+                    {/* Softwares */}
+                    {
+                        resource.m3_media_id === "Software"?
+                            <DetalhesSoftware resource={resource}/>
+                        :
+                            null
+                    }
 
+                    {/* Botão de compartilhamento do twitter */}
                     <div className="centerContent" style={{paddingTop: "40px"}}>
                         <div className="selfCenter">
-                        <TwitterShareButton url="https://m3.ime.unicamp.br/" options={{
-                            text: '#M3',
-                            via: 'matematicam3',
-                            size: 'large',
-                        }} placeholder="Loading" />
+                            <TwitterShareButton url="https://m3.ime.unicamp.br/" options={{
+                                text: '#M3',
+                                via: 'matematicam3',
+                                size: 'large',
+                            }} placeholder="Loading" />
                         </div>
                     </div>
                 </Col>
@@ -135,6 +145,113 @@ function DetalhesRecurso() {
 
             <div className="divider" style={{marginTop: "30px"}}/>
         </Container>
+    )
+}
+
+const DetalhesExperimento = ({resource}) => {
+    return(
+        <>
+            <h3 style={{paddingTop: "20px"}}> Sinopse </h3>
+            <p> {resource.synopsis} </p>
+
+            <h3 style={{paddingTop: "40px"}}> Roteiro do Experimento </h3>
+            <p> 
+                Duas versões. A primeira, adequada para impressão caseira.
+                <br/>
+                A segunda, para visualização em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+            </p>
+
+            <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
+            <p> 
+                Duas versões. A primeira, adequada para impressão caseira.
+                <br/>
+                A segunda, para visualização em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+            </p>
+
+            <h3 style={{paddingTop: "40px"}}> Folha do aluno </h3>
+            <p> 
+                Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+            </p>
+        </>
+    )
+}
+
+const DetalhesVideo = ({resource}) => {
+    return(
+        <>
+            <div class="iframe-container">
+                <iframe 
+                    width="560" 
+                    height="315" 
+                    src={`https://www.youtube.com/embed/${resource.youtube_link}`}
+                    frameborder="0" 
+                    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                </iframe>
+            </div>
+
+            <h3 style={{paddingTop: "40px"}}> Sinopse </h3>
+            <p> {resource.synopsis} </p>
+
+            <h3 style={{paddingTop: "40px"}}> Vídeo </h3>
+            <p> 
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> vídeo completo </a>
+            </p>
+
+            <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
+            <p> 
+                Apenas uma versão para visualização em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+            </p>
+        </>
+    )
+}
+
+const DetalhesSoftware = ({resource}) => {
+    return(
+        <>
+            <h3 style={{paddingTop: "20px"}}> Sinopse </h3>
+            <p> {resource.synopsis} </p>
+
+            <h3 style={{paddingTop: "40px"}}> Roteiro do Experimento </h3>
+            <p> 
+                Duas versões. A primeira, adequada para impressão caseira.
+                <br/>
+                A segunda, para visualização em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+            </p>
+
+            <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
+            <p> 
+                Duas versões. A primeira, adequada para impressão caseira.
+                <br/>
+                A segunda, para visualização em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+            </p>
+
+            <h3 style={{paddingTop: "40px"}}> Folha do aluno </h3>
+            <p> 
+                Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+            </p>
+        </>
     )
 }
 
