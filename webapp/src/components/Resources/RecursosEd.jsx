@@ -134,7 +134,7 @@ function RecursosEd() {
             return (
                 <div className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
                     <Row className= "resources-row">
-                            <Col md="10" sm="12" className= "resources-col">
+                            <Col md="10" sm="12" className="resources-col">
                                 <h2> {resource.title} </h2>
                                 <div  style={{marginTop: "10px", marginBottom: "-15px"}}>
                                     {
@@ -202,17 +202,29 @@ function RecursosEd() {
                                 }
                             </Col>
                     </Row>
+
                     <Row className= "resources-row">
                         <Col md="5" sm="12" className= "resources-col">
                             <p> {resource.synopsis} </p>
                         </Col>
+
                         <Col md="4" sm="12" className= "resources-col">
                             <h6> Objetivos: </h6>
-                            <p> {resource.objectives} </p>
+                            <ol style={{margin: "0px", paddingInlineStart: "20px"}}>
+                                {resource.objectives.split(';').map((element) => 
+                                    <p><li>{element}</li></p>
+                                )}
+                            </ol>
                         </Col>
+
                         <Col md="3" sm="12" className= "resources-col">
                             <h6> Conteúdos: </h6>
-                            <p> {resource.tags} </p>
+                            <ul style={{margin: "0px", paddingInlineStart: "20px"}}>
+                            {/* TROCAR AQUI PRA ; ASSIM QUE EU ALTERAR O BANCO */}
+                            {resource.tags.split(',').map((element) => 
+                                <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                            )}
+                        </ul>
                         </Col>
                     </Row>
                 </div>

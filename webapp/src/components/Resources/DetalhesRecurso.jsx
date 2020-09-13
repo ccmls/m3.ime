@@ -1,12 +1,18 @@
 import React, { useState, useEffect } from 'react';
 import './Recursos.css';
-import { Container, Row, Col, Button } from 'reactstrap';
+import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
 import { useHistory, useParams } from 'react-router-dom';
 // React Twitter Embed:
-import { TwitterShareButton } from 'react-twitter-embed';
 // https://www.npmjs.com/package/react-twitter-embed
+import { TwitterShareButton } from 'react-twitter-embed';
+// XML
 import m3_resources from '../../xml/m3_resources.js'
+// IMAGENS:
+import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
+import iconVideos from '../../assets/icons - Home/icon-videos.png';
+import iconSoftwares from '../../assets/icons - Home/icon-softwares.png';
+import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
 function DetalhesRecurso() {
 
@@ -62,10 +68,10 @@ function DetalhesRecurso() {
             </Row>
 
             {/* Cabeçalho: título, tema, série e mídia */}
-            <Row className= "home-row">
-                <Col className= "home-col">
+            <Row className= "resources-row">
+                <Col className="resources-col">
                     <h2> {resource.title} </h2>
-                    <div  style={{marginTop: "10px"}}>
+                    <div  md="10" sm="12" style={{marginTop: "10px"}}>
                         {
                             // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
                             resource.serie === "null"?
@@ -80,11 +86,59 @@ function DetalhesRecurso() {
                         }
                     </div>
                 </Col>
-                <Col className= "home-col icon-alignment">
-                    <p style={{marginLeft: "auto"}}> {resource.m3_media_id} </p>
+
+                <Col md="2" sm="12" className= "resources-col icon-alignment">
+                    {/* Experimentos */}
+                    {
+                        resource.m3_media_id === "Experimento"?
+                            <>
+                                <img id="exp-icon" style={{height: "53px", width: "auto"}} src={iconExperimentos} alt="experimentos"/>
+                                <UncontrolledTooltip placement="bottom" target="exp-icon">
+                                    Experimento
+                                </UncontrolledTooltip>
+                            </>
+                        :
+                            null
+                    }
+                    {/* Vídeo */}
+                    {
+                        resource.m3_media_id === "Vídeo"?
+                            <>
+                                <img id="vid-icon" style={{height: "53px", width: "auto"}} src={iconVideos} alt="videos"/>
+                                <UncontrolledTooltip placement="bottom" target="vid-icon">
+                                    Vídeo
+                                </UncontrolledTooltip>
+                            </>
+                        :
+                            null
+                    }
+                    {/* Software */}
+                    {
+                        resource.m3_media_id === "Software"?
+                            <>
+                                <img id="sof-icon" style={{height: "53px", width: "auto"}} src={iconSoftwares} alt="software"/>
+                                <UncontrolledTooltip placement="bottom" target="sof-icon">
+                                    Software
+                                </UncontrolledTooltip>
+                            </>
+                        :
+                            null
+                    }
+                    {/* Áudio */}
+                    {
+                        resource.m3_media_id === "Áudio"?
+                            <>
+                                <img id="aud-icon" style={{height: "53px", width: "auto"}} src={iconAudios} alt="audios"/>
+                                <UncontrolledTooltip placement="bottom" target="aud-icon">
+                                    Áudio
+                                </UncontrolledTooltip>
+                            </>
+                        :
+                            null
+                    }
                 </Col>
             </Row>
-            <div className="divider" style={{marginTop: "-15px", marginBottom: "30px"}}/>
+            <div className="divider" style={{marginBottom: "30px"}}/>
 
 
             <Row className="home-row">
@@ -92,13 +146,24 @@ function DetalhesRecurso() {
                 {/* Card de sinopse, objetivos, conteúdos, créditos */}
                 <Col md="5" sm="12" className= "home-col">
                     <div className="details-card">
-
                         <h3> Duração </h3>
                         <p> {resource.duration} </p>
+
                         <h3> Objetivos </h3>
-                        <p> {resource.objectives} </p>
+                        <ol style={{margin: "0px"}}>
+                            {resource.objectives.split(';').map((element) => 
+                                <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                            )}
+                        </ol>
+                        
                         <h3> Conteúdos </h3>
-                        <p> {resource.tags} </p>
+                        <ul style={{margin: "0px"}}>
+                            {/* TROCAR AQUI PRA ; ASSIM QUE EU ALTERAR O BANCO */}
+                            {resource.tags.split(',').map((element) => 
+                                <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                            )}
+                        </ul>
+                    
                         <h3> Créditos </h3>
                         <p style={{paddingBottom: "20px"}}> {resource.authors} </p>
                     </div>
