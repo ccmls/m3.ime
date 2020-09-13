@@ -65,7 +65,7 @@ function Colaboradores() {
                         Samuel Oliveira
                         <br/>
                         <br/>
-                        <span style={{color: "#ee2d32"}}>LAYOUT & DESIGN</span>
+                        <span style={{color: "#ee2d32"}}>PROJETO ORIGINAL</span>
                         <br/>
                         <a href="http://www.preface.com.br" target="_blank" rel="noopener noreferrer"> Preface Design </a>
                         <br/>

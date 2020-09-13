@@ -128,11 +128,18 @@ function DetalhesRecurso() {
                         :
                             null
                     }
+                    {/* Áudios */}
+                    {
+                        resource.m3_media_id === "Áudio"?
+                            <DetalhesAudio resource={resource}/>
+                        :
+                            null
+                    }
 
                     {/* Botão de compartilhamento do twitter */}
                     <div className="centerContent" style={{paddingTop: "40px"}}>
                         <div className="selfCenter">
-                            <TwitterShareButton url="https://m3.ime.unicamp.br/" options={{
+                            <TwitterShareButton url={`https://m3.ime.unicamp.br/recursos/${resource.id}`} options={{
                                 text: '#M3',
                                 via: 'matematicam3',
                                 size: 'large',
@@ -220,19 +227,17 @@ const DetalhesVideo = ({resource}) => {
 const DetalhesSoftware = ({resource}) => {
     return(
         <>
-            <h3 style={{paddingTop: "20px"}}> Sinopse </h3>
-            <p> {resource.synopsis} </p>
-
-            <h3 style={{paddingTop: "40px"}}> Roteiro do Experimento </h3>
-            <p> 
-                Duas versões. A primeira, adequada para impressão caseira.
-                <br/>
-                A segunda, para visualização em tela.
-                <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
-                <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+            <a href={`https://m3.ime.unicamp.br/media/software/${resource.id}/`} target="_blank" rel="noopener noreferrer">
+                <Button className="button" style={{paddingTop: "20px"}}> 
+                    <p> USAR NA INTERNET </p> 
+                </Button>
+            </a>
+            <p style={{paddingTop: "10px"}}>
+                Clique acima para entrar no software agora mesmo.
             </p>
+
+            <h3 style={{paddingTop: "40px"}}> Sinopse </h3>
+            <p> {resource.synopsis} </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
@@ -244,12 +249,40 @@ const DetalhesSoftware = ({resource}) => {
                 <br/>
                 — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
             </p>
+        </>
+    )
+}
 
-            <h3 style={{paddingTop: "40px"}}> Folha do aluno </h3>
+const DetalhesAudio = ({resource}) => {
+    return(
+        <>  
+            <h6> Primeiro módulo </h6>
+            <audio controls style={{paddingTop: "10px"}}>
+                <source src="horse.mp3" type="audio/mpeg"/>
+                Your browser does not support the audio element.
+            </audio>
+
+            <h6 style={{paddingTop: "20px"}}> Segundo módulo </h6>
+            <audio controls style={{paddingTop: "10px"}}>
+                <source src="horse.mp3" type="audio/mpeg"/>
+                Your browser does not support the audio element.
+            </audio>
+
+            <h3 style={{paddingTop: "40px"}}> Sinopse </h3>
+            <p> {resource.synopsis} </p>
+
+            <h3 style={{paddingTop: "40px"}}> Áudios </h3>
             <p> 
-                Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> primeiro módulo </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> segundo módulo </a>
+            </p>
+
+            <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
+            <p> 
+                Apenas uma versão para visualização em tela
+                <br/>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
             </p>
         </>
     )
