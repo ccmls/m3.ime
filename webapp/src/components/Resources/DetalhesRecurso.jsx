@@ -47,6 +47,52 @@ function DetalhesRecurso() {
     // Objeto do recurso específico com todas as suas informações
     const resource = resourcesArray.find(resource => resource.id === idRecurso);
 
+    // Função para diagramar os créditos no card
+    function renderCredits() {
+        const arrayCredits = resource.authors.split('\n').join(' ').split(' ')
+        let title = false;
+        let names = "";
+        let namesAux = "";
+        return arrayCredits.map((element, index) => 
+            {
+                if (element === "h2.") {
+                    title = true;
+                    return null;
+                }
+                else if (title) {
+                    title = false;
+                    namesAux = names;
+                    names = "";
+                    return (
+                        <>
+                            <p> {namesAux} </p>
+                            <h6 style={{paddingLeft: "20px", paddingTop: "15px"}}>{element}</h6>
+                        </>
+                    )
+                }
+                else if (element[0] === "*") {
+                    namesAux = names;
+                    names = "";
+                    return (
+                        <>
+                            <p> {namesAux} </p>
+                            <p style={{textTransform: "uppercase", color: "#ee2d32", paddingTop: "8px"}}> {element.replaceAll("*", "")} </p>
+                        </>
+                    )
+                }
+                else if (index === arrayCredits.length - 1) {
+                    return <p> {names} </p>
+                }
+                else {
+                    names = names.concat(" " + element);
+                    return null;
+                }
+            }
+        )
+
+    }
+
+
     return (
         <Container className="home-container">
             {/* Voltar + Busca*/}
@@ -165,7 +211,9 @@ function DetalhesRecurso() {
                         </ul>
                     
                         <h3> Créditos </h3>
-                        <p style={{paddingBottom: "20px"}}> {resource.authors} </p>
+                        <div style={{paddingBottom: "20px", marginTop: "-14px"}}>
+                            {renderCredits()}
+                        </div>
                     </div>
                 </Col>
 
@@ -232,9 +280,9 @@ const DetalhesExperimento = ({resource}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
@@ -243,16 +291,16 @@ const DetalhesExperimento = ({resource}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Folha do aluno </h3>
             <p> 
                 Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
             </p>
         </>
     )
@@ -276,14 +324,14 @@ const DetalhesVideo = ({resource}) => {
 
             <h3 style={{paddingTop: "40px"}}> Vídeo </h3>
             <p> 
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> vídeo completo </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Vídeo completo </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
                 Apenas uma versão para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
@@ -310,9 +358,9 @@ const DetalhesSoftware = ({resource}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para impressão </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
@@ -338,16 +386,16 @@ const DetalhesAudio = ({resource}) => {
 
             <h3 style={{paddingTop: "40px"}}> Áudios </h3>
             <p> 
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> primeiro módulo </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Primeiro módulo </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> segundo módulo </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Segundo módulo </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
                 Apenas uma versão para visualização em tela
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> versão para tela </a>
+                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
