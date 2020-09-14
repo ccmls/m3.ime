@@ -1,4 +1,4 @@
-// Objeto com o mapeamento de filtros
+// Objeto com o mapeamento de filtros (associa a string da URL ao nome do filtro)
 export const filtersMapping = {
     // Mídias
     experimentos: "Experimento",

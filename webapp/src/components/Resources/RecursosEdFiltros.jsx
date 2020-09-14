@@ -1,11 +1,13 @@
 import React, { useState } from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, Button, CardBody, Card } from 'reactstrap';
-import { useLocation,  } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import { filtersMapping } from './FiltersMapping';
 
+// Componente para o collapse de filtros que aparece na página de recursos
 function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) {
 
+    // O location contém as informações da rota atual
     const location = useLocation()
     
     return (
@@ -13,6 +15,7 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
             <Collapse isOpen={filtrosOpen}>
                 <Card style={{borderColor: "#f5f5f5", backgroundColor:"#f5f5f5"}}>
                     <CardBody className="filters-card-body">
+
                         {/* Mídias */}
                         <Row style={{paddingRight: "25px", paddingLeft: "25px", paddingBottom: "20px"}}> 
                             <h6 style={{paddingTop: "20px"}}>MÍDIA:</h6>
@@ -33,8 +36,11 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                 <span style={{color: "#202020"}}> Áudios⠀✕ </span> :'Áudios'} 
                             </p>
                         </Row>
+
                         <hr style={{margin:"0"}}/>
+
                         <Row style={{margin:"0"}}>
+
                             {/* Números e Funções */}
                             <Col lg="3" md="6" sm="12" style={{paddingTop: "20px"}}>
                                 <Row style={{paddingRight: "10px", paddingLeft: "10px"}}> <h6>NÚMEROS E FUNÇÕES  ⠀⠀⠀⠀⠀⠀⠀⠀</h6> </Row>
@@ -286,7 +292,9 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                     </CardBody>
                 </Card>
             </Collapse>
+
             <br/>
+            
             <p> Mostrando {numberOfResults} resultados. </p>
             {filters? <p> Filtrando por: {filters.split(" ").map(element => filtersMapping[element]).join(" / ") } </p> : null}
         </>

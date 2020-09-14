@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import { InputGroup, InputGroupAddon, Button, Input } from 'reactstrap';
+// IMAGEM:
 import search from '../../assets/icons - Home/search.svg'
 
 function RecursosEdSearch({setSearchValue}) {

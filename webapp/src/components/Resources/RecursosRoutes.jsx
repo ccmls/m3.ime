@@ -9,6 +9,7 @@ import {
 import RecursosEd from './RecursosEd';
 import DetalhesRecurso from './DetalhesRecurso';
 
+// Componente usado para controlar as rotas dos recursos (chamado em App.js)
 function RecursosRoutes() {
     return (
         <Switch>

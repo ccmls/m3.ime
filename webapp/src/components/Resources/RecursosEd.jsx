@@ -6,7 +6,6 @@ import RecursosEdFiltros from './RecursosEdFiltros';
 import { filtersMapping } from './FiltersMapping';
 import upArrow from '../../assets/up-arrow.svg';
 import m3_resources from '../../xml/m3_resources.js'
-import Pagination from './Pagination';
 import { useHistory, useLocation } from 'react-router-dom';
 // IMAGENS:
 import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';

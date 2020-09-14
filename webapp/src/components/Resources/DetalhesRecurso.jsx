@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
-import RecursosEdSearch from './RecursosEdSearch';
 import { useHistory, useParams } from 'react-router-dom';
+import RecursosEdSearch from './RecursosEdSearch';
 // React Twitter Embed:
 // https://www.npmjs.com/package/react-twitter-embed
 import { TwitterShareButton } from 'react-twitter-embed';
@@ -16,10 +16,9 @@ import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
 function DetalhesRecurso() {
 
-    // O history funciona como uma pilha para armazenar as rotas e o params contém as informações da rota atual
+    // O history funciona como uma pilha para armazenar as rotas e o params contém o id informado na rota atual
     const history = useHistory()
     const {idRecurso} = useParams()
-     
 
 
     // INFORMAÇÕES SOBRE O RECURSO:
@@ -46,6 +45,7 @@ function DetalhesRecurso() {
 
     // Objeto do recurso específico com todas as suas informações
     const resource = resourcesArray.find(resource => resource.id === idRecurso);
+
 
     // Função para diagramar os créditos no card
     function renderCredits() {
@@ -89,9 +89,7 @@ function DetalhesRecurso() {
                 }
             }
         )
-
     }
-
 
     return (
         <Container className="home-container">
@@ -112,6 +110,7 @@ function DetalhesRecurso() {
                     </div>
                 </Col>
             </Row>
+
 
             {/* Cabeçalho: título, tema, série e mídia */}
             <Row className= "resources-row">
@@ -189,7 +188,7 @@ function DetalhesRecurso() {
 
             <Row className="home-row">
 
-                {/* Card de sinopse, objetivos, conteúdos, créditos */}
+                {/* Card de duração, objetivos, conteúdos e créditos */}
                 <Col md="5" sm="12" className= "home-col">
                     <div className="details-card">
                         <h3> Duração </h3>
@@ -217,7 +216,7 @@ function DetalhesRecurso() {
                     </div>
                 </Col>
 
-                {/* Card com arquivos, guia do professor e como usar */}
+                {/* Card com sinopse, arquivos e guia do professor */}
                 {/* O card exibido depende de qual é a mídia do recurso específico */}
                 <Col md="7" sm="12" className="downloads-area">
                     {/* Experimentos */}
@@ -264,6 +263,7 @@ function DetalhesRecurso() {
 
 
             <div className="divider" style={{marginTop: "30px"}}/>
+            
         </Container>
     )
 }
