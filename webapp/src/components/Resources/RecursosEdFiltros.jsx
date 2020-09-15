@@ -12,7 +12,7 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
     
     return (
         <>
-            <Collapse isOpen={filtrosOpen}>
+            <Collapse isOpen={filtrosOpen} className="filter-collapse">
                 <Card style={{borderColor: "#f5f5f5", backgroundColor:"#f5f5f5"}}>
                     <CardBody className="filters-card-body">
 

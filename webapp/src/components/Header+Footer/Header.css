@@ -86,6 +86,12 @@
     overflow-y: scroll;
 }
 
+@media only screen and (max-width: 1024px) {
+    .header-dropdown-menu {
+        max-height: none;
+    }
+}
+
 .header-dropdown-menu button {
     color: #202020 !important;
     font-family: 'Signika', sans-serif !important;
