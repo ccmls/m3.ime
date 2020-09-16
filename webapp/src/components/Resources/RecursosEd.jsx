@@ -132,12 +132,14 @@ function RecursosEd() {
         const resources = resourcesToRender.map(resource => {
             return (
                 <div className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
+
                     <Row className= "resources-row">
+                            {/* Título, tema e série */}
                             <Col md="10" sm="12" className="resources-col">
                                 <h2> {resource.title} </h2>
                                 <div  style={{marginTop: "10px", marginBottom: "-15px"}}>
                                     {
-                                        // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
+                                        // Lembrar que dei replace no banco de <serie></serie> para <serie>null</serie>
                                         resource.serie === "null"?
                                             <p> 
                                                 <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
@@ -150,6 +152,8 @@ function RecursosEd() {
                                     }
                                 </div>
                             </Col>
+                            
+                            {/* Mídia */}
                             <Col md="2" sm="12" className= "resources-col icon-alignment">
                                 {/* Experimentos */}
                                 {
@@ -202,6 +206,7 @@ function RecursosEd() {
                             </Col>
                     </Row>
 
+                    {/* Sinopse, objetivos e conteúdos */}
                     <Row className= "resources-row">
                         <Col md="5" sm="12" className= "resources-col">
                             <p> {resource.synopsis} </p>
@@ -254,7 +259,7 @@ function RecursosEd() {
 
             <Container className="home-container">
 
-                {/* 1º seção: busca + filtros */}
+                {/* Busca + filtros */}
                 <Row className="home-row">
                     <Col className="home-col">
                         <h2> 
@@ -289,7 +294,10 @@ function RecursosEd() {
                     </Col>
                 </Row>
 
+                {/* Cards com os recursos */}
                 {renderResources(filteredResourcesArray)}
+
+                {/* Caso a busca/filtragem não encontre resultado */}
                 {(filteredResourcesArray.length === 0)?
                     <div style={{marginTop: "60px", marginBottom: "30px", marginLeft: "20px"}}>
                         <h6> A sua pesquisa não encontrou nenhum resultado. </h6>
@@ -305,7 +313,8 @@ function RecursosEd() {
                             <br/>
                         </p>
                     </div>
-                    : null
+                    : 
+                    null
                 }
 
                 <div className="divider" style={{marginTop: "30px"}}/>

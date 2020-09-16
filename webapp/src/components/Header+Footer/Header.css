@@ -86,6 +86,10 @@
     overflow-y: scroll;
 }
 
+.header-dropdown-menu:focus {
+    outline: none !important;
+}
+
 @media only screen and (max-width: 1024px) {
     .header-dropdown-menu {
         max-height: none;
@@ -101,17 +105,17 @@
     font-weight: 400 !important;
 }
 
+.header-dropdown-menu button:focus, .header-dropdown-menu button:active {
+    background-color: #ED1C24 !important;
+    color: white !important;
+    outline: none !important;
+}
+
 .dropdown-item{
     white-space: normal !important;
     max-width: 400px;
     min-width: 300px;
     overflow-wrap: break-word;
-}
-
-.header-dropdown-menu button:focus, .header-dropdown-menu button:active {
-    background-color: #ED1C24 !important;
-    color: white !important;
-    outline: none !important;
 }
 
 .dropdownOpen::after {

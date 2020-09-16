@@ -59,6 +59,21 @@
     }
 }
 
+
+/* Collapse do filtro */
+
+.filter-collapse {
+    max-height: 500px;
+    overflow-y: scroll;
+}
+
+@media only screen and (max-width: 1024px) {
+    .collapse {
+        
+    }
+}
+
+
 /* Botões */
 
 .button {
@@ -142,7 +157,28 @@
 
 
 
+/* NOS DETALHES:  */
 
+/* Card em cinza com duração, objetivos, conteúdos e créditos */
+
+.filters-card-body {
+    padding-top: 0px !important;
+}
+
+.filters-card-body p {
+    color: #838383;
+    cursor: pointer;
+}
+
+@media only screen and (min-width: 1024px) {
+    .filters-card-body p:hover {
+        color: #ED1C24;
+    }
+}
+
+
+
+/* Div onde ficam os links de download */
 
 .downloads-area {
     padding: 0px 47px 0px 0px !important;
@@ -168,31 +204,8 @@
     color: #ED1C24;
 }
 
-.filters-card-body {
-    padding-top: 0px !important;
-}
 
-.filters-card-body p {
-    color: #838383;
-    cursor: pointer;
-}
-
-@media only screen and (min-width: 1024px) {
-    .filters-card-body p:hover {
-        color: #ED1C24;
-    }
-}
-
-.filter-collapse {
-    max-height: 500px;
-    overflow-y: scroll;
-}
-
-@media only screen and (max-width: 1024px) {
-    .collapse {
-        
-    }
-}
+/* Para a exibição dos vídeos */
 
 .iframe-container {
   overflow: hidden;
