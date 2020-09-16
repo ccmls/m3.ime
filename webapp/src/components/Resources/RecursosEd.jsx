@@ -73,12 +73,12 @@ function RecursosEd() {
         searchValue.split(' ').forEach(
             function(value) {
                 returnArray = returnArray.filter(element =>
-                    element.m3_media_id.toLowerCase().includes(value.toLowerCase()) ||
+                    element.media.toLowerCase().includes(value.toLowerCase()) ||
                     element.title.toLowerCase().includes(value.toLowerCase()) ||
                     element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
                     element.objectives.toLowerCase().includes(value.toLowerCase()) ||
                     element.tags.toLowerCase().includes(value.toLowerCase()) ||
-                    element.topic.toLowerCase().includes(value.toLowerCase()) ||
+                    element.theme.toLowerCase().includes(value.toLowerCase()) ||
                     element.serie.toLowerCase().includes(value.toLowerCase())
                 )
             }
@@ -88,7 +88,7 @@ function RecursosEd() {
             filterValue.split(' ').forEach(
                 function(value) {
                     returnArray = returnArray.filter(element => 
-                        element.m3_media_id.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
+                        element.media.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
                         element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
                     )
                 }
@@ -116,13 +116,13 @@ function RecursosEd() {
     console.log(rawResourcesArray)
     const resourcesArray = rawResourcesArray.map(rawResource => ({
         id: rawResource.childNodes[1].textContent,
-        title: rawResource.childNodes[9].textContent,
-        m3_media_id: rawResource.childNodes[3].textContent,
-        topic: rawResource.childNodes[41].textContent,
+        media: rawResource.childNodes[3].textContent,
         serie: rawResource.childNodes[5].textContent,
-        synopsis: rawResource.childNodes[13].textContent,
-        objectives: rawResource.childNodes[15].textContent,
-        tags: rawResource.childNodes[37].textContent,
+        title: rawResource.childNodes[7].textContent,
+        synopsis: rawResource.childNodes[11].textContent,
+        objectives: rawResource.childNodes[13].textContent,
+        tags: rawResource.childNodes[19].textContent,
+        theme: rawResource.childNodes[21].textContent,
     }))
 
 
@@ -140,11 +140,11 @@ function RecursosEd() {
                                         // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
                                         resource.serie === "null"?
                                             <p> 
-                                                <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                                <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
                                             </p>
                                         :
                                             <p> 
-                                                <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                                <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
                                                 <span> • Série: {resource.serie} </span> 
                                             </p>
                                     }
@@ -153,7 +153,7 @@ function RecursosEd() {
                             <Col md="2" sm="12" className= "resources-col icon-alignment">
                                 {/* Experimentos */}
                                 {
-                                    resource.m3_media_id === "Experimento"?
+                                    resource.media === "Experimento"?
                                         <>
                                             <img id="exp-icon" className="midia-icon" src={iconExperimentos} alt="experimentos"/>
                                             <UncontrolledTooltip placement="bottom" target="exp-icon">
@@ -165,7 +165,7 @@ function RecursosEd() {
                                 }
                                 {/* Vídeo */}
                                 {
-                                    resource.m3_media_id === "Vídeo"?
+                                    resource.media === "Vídeo"?
                                         <>
                                             <img id="vid-icon" className="midia-icon" src={iconVideos} alt="videos"/>
                                             <UncontrolledTooltip placement="bottom" target="vid-icon">
@@ -177,7 +177,7 @@ function RecursosEd() {
                                 }
                                 {/* Software */}
                                 {
-                                    resource.m3_media_id === "Software"?
+                                    resource.media === "Software"?
                                         <>
                                             <img id="sof-icon" className="midia-icon" src={iconSoftwares} alt="software"/>
                                             <UncontrolledTooltip placement="bottom" target="sof-icon">
@@ -189,7 +189,7 @@ function RecursosEd() {
                                 }
                                 {/* Áudio */}
                                 {
-                                    resource.m3_media_id === "Áudio"?
+                                    resource.media === "Áudio"?
                                         <>
                                             <img id="aud-icon" className="midia-icon" src={iconAudios} alt="audios"/>
                                             <UncontrolledTooltip placement="bottom" target="aud-icon">
@@ -210,8 +210,14 @@ function RecursosEd() {
                         <Col md="4" sm="12" className= "resources-col">
                             <h6> Objetivos: </h6>
                             <ol style={{margin: "0px", paddingInlineStart: "20px"}}>
-                                {resource.objectives.split(';').map((element) => 
-                                    <p><li>{element}</li></p>
+                                {resource.objectives.split(';').map((element, index) => 
+                                    {
+                                        if (index != resource.objectives.split(';').length - 1) {
+                                            return <p><li>{element};</li></p>
+                                        } else {
+                                            return <p><li>{element}</li></p>
+                                        }
+                                    }
                                 )}
                             </ol>
                         </Col>
@@ -219,9 +225,14 @@ function RecursosEd() {
                         <Col md="3" sm="12" className= "resources-col">
                             <h6> Conteúdos: </h6>
                             <ul style={{margin: "0px", paddingInlineStart: "20px"}}>
-                            {/* TROCAR AQUI PRA ; ASSIM QUE EU ALTERAR O BANCO */}
-                            {resource.tags.split(',').map((element) => 
-                                <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                            {resource.tags.split(';').map((element, index) => 
+                                {
+                                    if (index != resource.tags.split(';').length - 1) {
+                                        return <p><li>{element};</li></p>
+                                    } else {
+                                        return <p><li>{element}.</li></p>
+                                    }
+                                }
                             )}
                         </ul>
                         </Col>

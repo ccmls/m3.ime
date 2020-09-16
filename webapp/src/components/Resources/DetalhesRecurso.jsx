@@ -31,16 +31,16 @@ function DetalhesRecurso() {
     console.log(rawResourcesArray)
     const resourcesArray = rawResourcesArray.map(rawResource => ({
         id: rawResource.childNodes[1].textContent,
-        title: rawResource.childNodes[9].textContent,
-        m3_media_id: rawResource.childNodes[3].textContent,
-        topic: rawResource.childNodes[41].textContent,
+        media: rawResource.childNodes[3].textContent,
         serie: rawResource.childNodes[5].textContent,
-        synopsis: rawResource.childNodes[13].textContent,
-        objectives: rawResource.childNodes[15].textContent,
-        tags: rawResource.childNodes[37].textContent,
-        duration: rawResource.childNodes[11].textContent,
-        authors: rawResource.childNodes[35].textContent,
-        youtube_link: rawResource.childNodes[33].textContent,
+        title: rawResource.childNodes[7].textContent,
+        duration: rawResource.childNodes[9].textContent,
+        synopsis: rawResource.childNodes[11].textContent,
+        objectives: rawResource.childNodes[13].textContent,
+        youtube_link: rawResource.childNodes[15].textContent,
+        authors: rawResource.childNodes[17].textContent,
+        tags: rawResource.childNodes[19].textContent,
+        theme: rawResource.childNodes[21].textContent,
     }))
 
     // Objeto do recurso específico com todas as suas informações
@@ -53,7 +53,8 @@ function DetalhesRecurso() {
         let title = false;
         let names = "";
         let namesAux = "";
-        return arrayCredits.map((element, index) => 
+        if (arrayCredits.includes("h2.")) {
+            return arrayCredits.map((element, index) => 
             {
                 if (element === "h2.") {
                     title = true;
@@ -76,7 +77,7 @@ function DetalhesRecurso() {
                     return (
                         <>
                             <p> {namesAux} </p>
-                            <p style={{textTransform: "uppercase", color: "#ee2d32", paddingTop: "8px"}}> {element.replaceAll("*", "")} </p>
+                            <p style={{textTransform: "uppercase", color: "#ee2d32", paddingTop: "8px", marginBottom: "-8px !important"}}> {element.replaceAll("*", "")} </p>
                         </>
                     )
                 }
@@ -88,7 +89,12 @@ function DetalhesRecurso() {
                     return null;
                 }
             }
-        )
+            )
+        } else {
+            return <p style={{paddingTop: "15px"}}> {resource.authors} </p>
+        }
+
+        
     }
 
     return (
@@ -121,11 +127,11 @@ function DetalhesRecurso() {
                             // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
                             resource.serie === "null"?
                                 <p> 
-                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
                                 </p>
                             :
                                 <p> 
-                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.topic}  </span>
+                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
                                     <span> • Série: {resource.serie} </span> 
                                 </p>
                         }
@@ -135,7 +141,7 @@ function DetalhesRecurso() {
                 <Col md="2" sm="12" className= "resources-col icon-alignment">
                     {/* Experimentos */}
                     {
-                        resource.m3_media_id === "Experimento"?
+                        resource.media === "Experimento"?
                             <>
                                 <img id="exp-icon" style={{height: "53px", width: "auto"}} src={iconExperimentos} alt="experimentos"/>
                                 <UncontrolledTooltip placement="bottom" target="exp-icon">
@@ -147,7 +153,7 @@ function DetalhesRecurso() {
                     }
                     {/* Vídeo */}
                     {
-                        resource.m3_media_id === "Vídeo"?
+                        resource.media === "Vídeo"?
                             <>
                                 <img id="vid-icon" style={{height: "53px", width: "auto"}} src={iconVideos} alt="videos"/>
                                 <UncontrolledTooltip placement="bottom" target="vid-icon">
@@ -159,7 +165,7 @@ function DetalhesRecurso() {
                     }
                     {/* Software */}
                     {
-                        resource.m3_media_id === "Software"?
+                        resource.media === "Software"?
                             <>
                                 <img id="sof-icon" style={{height: "53px", width: "auto"}} src={iconSoftwares} alt="software"/>
                                 <UncontrolledTooltip placement="bottom" target="sof-icon">
@@ -171,7 +177,7 @@ function DetalhesRecurso() {
                     }
                     {/* Áudio */}
                     {
-                        resource.m3_media_id === "Áudio"?
+                        resource.media === "Áudio"?
                             <>
                                 <img id="aud-icon" style={{height: "53px", width: "auto"}} src={iconAudios} alt="audios"/>
                                 <UncontrolledTooltip placement="bottom" target="aud-icon">
@@ -196,16 +202,27 @@ function DetalhesRecurso() {
 
                         <h3> Objetivos </h3>
                         <ol style={{margin: "0px"}}>
-                            {resource.objectives.split(';').map((element) => 
-                                <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                            {resource.objectives.split(';').map((element, index) => 
+                                {
+                                    if (index != resource.objectives.split(';').length - 1) {
+                                        return <p style={{paddingLeft: "0px"}}><li>{element};</li></p>
+                                    } else {
+                                        return <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                                    }
+                                }
                             )}
                         </ol>
                         
                         <h3> Conteúdos </h3>
                         <ul style={{margin: "0px"}}>
-                            {/* TROCAR AQUI PRA ; ASSIM QUE EU ALTERAR O BANCO */}
-                            {resource.tags.split(',').map((element) => 
-                                <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                            {resource.tags.split(';').map((element, index) => 
+                                {
+                                    if (index != resource.tags.split(';').length - 1) {
+                                        return <p style={{paddingLeft: "0px"}}><li>{element};</li></p>
+                                    } else {
+                                        return <p style={{paddingLeft: "0px"}}><li>{element}.</li></p>
+                                    }
+                                }
                             )}
                         </ul>
                     
@@ -221,28 +238,28 @@ function DetalhesRecurso() {
                 <Col md="7" sm="12" className="downloads-area">
                     {/* Experimentos */}
                     {
-                        resource.m3_media_id === "Experimento"?
+                        resource.media === "Experimento"?
                             <DetalhesExperimento resource={resource}/>
                         :
                             null
                     }
                     {/* Vídeos */}
                     {
-                        resource.m3_media_id === "Vídeo"?
+                        resource.media === "Vídeo"?
                             <DetalhesVideo resource={resource}/>
                         :
                             null
                     }
                     {/* Softwares */}
                     {
-                        resource.m3_media_id === "Software"?
+                        resource.media === "Software"?
                             <DetalhesSoftware resource={resource}/>
                         :
                             null
                     }
                     {/* Áudios */}
                     {
-                        resource.m3_media_id === "Áudio"?
+                        resource.media === "Áudio"?
                             <DetalhesAudio resource={resource}/>
                         :
                             null
