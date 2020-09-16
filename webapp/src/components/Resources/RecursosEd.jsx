@@ -16,13 +16,13 @@ import iconAudios from '../../assets/icons - Home/icon-audios.png';
 function RecursosEd() {
 
     // State para controlar os recursos que serão renderizados
-    const [filteredResourcesArray, setFilteredResourcesArray] = useState([])
+    const [filteredResourcesArray, setFilteredResourcesArray] = useState([]);
 
     // State pra controlar o botão collapse dos filtros
     const [filtrosOpen, setFiltrosOpen] = useState(false);
 
     //State para controlar os filtros que estão sendo aplicados
-    const [filters, setFilters] = useState("")
+    const [filters, setFilters] = useState("");
 
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
     const history = useHistory();
@@ -68,7 +68,7 @@ function RecursosEd() {
     useEffect(() => {
         var returnArray = resourcesArray;
         if (!searchValue) {
-            searchValue = ""
+            searchValue = "";
         }
         searchValue.split(' ').forEach(
             function(value) {
@@ -112,8 +112,8 @@ function RecursosEd() {
     const parsedResources = parser.parseFromString(m3_resources,"text/xml");
 
     // Array com todos os recursos
-    const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")]
-    console.log(rawResourcesArray)
+    const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")];
+    // console.log("Recursos", rawResourcesArray);
     const resourcesArray = rawResourcesArray.map(rawResource => ({
         id: rawResource.childNodes[1].textContent,
         media: rawResource.childNodes[3].textContent,

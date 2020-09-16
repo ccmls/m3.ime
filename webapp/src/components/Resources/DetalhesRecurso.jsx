@@ -8,6 +8,7 @@ import RecursosEdSearch from './RecursosEdSearch';
 import { TwitterShareButton } from 'react-twitter-embed';
 // XML
 import m3_resources from '../../xml/m3_resources.js'
+import files from '../../xml/files.js'
 // IMAGENS:
 import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
 import iconVideos from '../../assets/icons - Home/icon-videos.png';
@@ -17,18 +18,18 @@ import iconAudios from '../../assets/icons - Home/icon-audios.png';
 function DetalhesRecurso() {
 
     // O history funciona como uma pilha para armazenar as rotas e o params contém o id informado na rota atual
-    const history = useHistory()
-    const {idRecurso} = useParams()
+    const history = useHistory();
+    const {idRecurso} = useParams();
 
 
     // INFORMAÇÕES SOBRE O RECURSO:
     // Parser
     const parser = new DOMParser();
     const parsedResources = parser.parseFromString(m3_resources,"text/xml");
+    const parsedFiles = parser.parseFromString(files,"text/xml");
 
     // Array com todos os recursos
-    const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")]
-    console.log(rawResourcesArray)
+    const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")];
     const resourcesArray = rawResourcesArray.map(rawResource => ({
         id: rawResource.childNodes[1].textContent,
         media: rawResource.childNodes[3].textContent,
@@ -41,7 +42,19 @@ function DetalhesRecurso() {
         authors: rawResource.childNodes[17].textContent,
         tags: rawResource.childNodes[19].textContent,
         theme: rawResource.childNodes[21].textContent,
+    }));
+
+    // Array com todos os arquivos para download
+    const rawFilesArray = [...parsedFiles.getElementsByTagName("file")];
+    // console.log("Arquivos", rawFilesArray);
+    const filesArray = rawFilesArray.map(rawFile => ({
+        id_resource: rawFile.childNodes[1].textContent,
+        id_file: rawFile.childNodes[3].textContent,
+        type: rawFile.childNodes[5].textContent,
+        dirname: rawFile.childNodes[7].textContent,
+        basename: rawFile.childNodes[9].textContent,
     }))
+
 
     // Objeto do recurso específico com todas as suas informações
     const resource = resourcesArray.find(resource => resource.id === idRecurso);
@@ -49,7 +62,7 @@ function DetalhesRecurso() {
 
     // Função para diagramar os créditos no card
     function renderCredits() {
-        const arrayCredits = resource.authors.split('\n').join(' ').split(' ')
+        const arrayCredits = resource.authors.split('\n').join(' ').split(' ');
         let title = false;
         let names = "";
         let namesAux = "";

@@ -1,5 +1,5 @@
-const files = `
-<?xml version="1.0" encoding="UTF-8" ?>
+const files = 
+`<?xml version="1.0" encoding="UTF-8" ?>
 <files>
     <file>
         <id_resource>1007</id_resource>
@@ -7533,7 +7533,6 @@ const files = `
         <dirname>aud</dirname>
         <basename>5068d7e87ec7a3.00488069.mp3</basename>
     </file>
-</files>
-`
+</files>`
 
 export default files
