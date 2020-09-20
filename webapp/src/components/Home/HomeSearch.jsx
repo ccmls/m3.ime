@@ -45,7 +45,7 @@ function HomeSearch() {
                 <br/>
                 <br/>
                 Para encontrar um recurso que atenda ao que você procura, use a 
-                busca ao lado ou selecione uma mídia ou tema.
+                busca abaixo ou selecione uma mídia ou conteúdo.
             </p>
             
             {/* Barra de busca */}
