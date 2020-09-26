@@ -263,21 +263,21 @@ function DetalhesRecurso() {
                     {/* Vídeos */}
                     {
                         resource.media === "Vídeo"?
-                            <DetalhesVideo resource={resource}/>
+                            <DetalhesVideo resource={resource} resourceFiles={resourceFiles}/>
                         :
                             null
                     }
                     {/* Softwares */}
                     {
                         resource.media === "Software"?
-                            <DetalhesSoftware resource={resource}/>
+                            <DetalhesSoftware resource={resource} resourceFiles={resourceFiles}/>
                         :
                             null
                     }
                     {/* Áudios */}
                     {
                         resource.media === "Áudio"?
-                            <DetalhesAudio resource={resource}/>
+                            <DetalhesAudio resource={resource}  resourceFiles={resourceFiles}/>
                         :
                             null
                     }
@@ -356,7 +356,16 @@ const DetalhesExperimento = ({resource, resourceFiles}) => {
     )
 }
 
-const DetalhesVideo = ({resource}) => {
+const DetalhesVideo = ({resource, resourceFiles}) => {
+
+    console.log(resourceFiles)
+
+    const dirnameType6 = resourceFiles.find(file => file.type === "6").dirname;
+    const basenameType6 = resourceFiles.find(file => file.type === "6").basename;
+
+    const dirnameType7 = resourceFiles.find(file => file.type === "7").dirname;
+    const basenameType7 = resourceFiles.find(file => file.type === "7").basename;
+
     return(
         <>
             <div class="iframe-container">
@@ -374,20 +383,20 @@ const DetalhesVideo = ({resource}) => {
 
             <h3 style={{paddingTop: "40px"}}> Vídeo </h3>
             <p> 
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Vídeo completo </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType6}/${basenameType6}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Vídeo completo </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
                 Apenas uma versão para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
 }
 
-const DetalhesSoftware = ({resource}) => {
+const DetalhesSoftware = ({resource, resourceFiles}) => {
     return(
         <>
             <a href={`https://m3.ime.unicamp.br/media/software/${resource.id}/`} target="_blank" rel="noopener noreferrer">
@@ -416,7 +425,17 @@ const DetalhesSoftware = ({resource}) => {
     )
 }
 
-const DetalhesAudio = ({resource}) => {
+const DetalhesAudio = ({resource, resourceFiles}) => {
+
+    const dirnameType7 = resourceFiles.find(file => file.type === "7").dirname;
+    const basenameType7 = resourceFiles.find(file => file.type === "7").basename;
+
+    const dirnameType8 = resourceFiles.find(file => file.type === "8").dirname;
+    const basenameType8 = resourceFiles.find(file => file.type === "8").basename;
+
+    const dirnameType9 = resourceFiles.find(file => file.type === "9").dirname;
+    const basenameType9 = resourceFiles.find(file => file.type === "9").basename;
+
     return(
         <>  
             <h6> Primeiro módulo </h6>
@@ -436,16 +455,16 @@ const DetalhesAudio = ({resource}) => {
 
             <h3 style={{paddingTop: "40px"}}> Áudios </h3>
             <p> 
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Primeiro módulo </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType8}/${basenameType8}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Primeiro módulo </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Segundo módulo </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType9}/${basenameType9}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Segundo módulo </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
                 Apenas uma versão para visualização em tela
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
