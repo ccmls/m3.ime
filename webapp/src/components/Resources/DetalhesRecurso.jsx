@@ -60,6 +60,10 @@ function DetalhesRecurso() {
     const resource = resourcesArray.find(resource => resource.id === idRecurso);
 
 
+    // Array de objetos do recurso específico com todos os seus arquivos
+    const resourceFiles = filesArray.filter(file => file.id_resource === idRecurso);
+
+    
     // Função para diagramar os créditos no card
     function renderCredits() {
         const arrayCredits = resource.authors.split('\n').join(' ').split(' ');
@@ -217,7 +221,7 @@ function DetalhesRecurso() {
                         <ol style={{margin: "0px"}}>
                             {resource.objectives.split(';').map((element, index) => 
                                 {
-                                    if (index != resource.objectives.split(';').length - 1) {
+                                    if (index !== resource.objectives.split(';').length - 1) {
                                         return <p style={{paddingLeft: "0px"}}><li>{element};</li></p>
                                     } else {
                                         return <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
@@ -230,7 +234,7 @@ function DetalhesRecurso() {
                         <ul style={{margin: "0px"}}>
                             {resource.tags.split(';').map((element, index) => 
                                 {
-                                    if (index != resource.tags.split(';').length - 1) {
+                                    if (index !== resource.tags.split(';').length - 1) {
                                         return <p style={{paddingLeft: "0px"}}><li>{element};</li></p>
                                     } else {
                                         return <p style={{paddingLeft: "0px"}}><li>{element}.</li></p>
@@ -252,7 +256,7 @@ function DetalhesRecurso() {
                     {/* Experimentos */}
                     {
                         resource.media === "Experimento"?
-                            <DetalhesExperimento resource={resource}/>
+                            <DetalhesExperimento resource={resource} resourceFiles={resourceFiles}/>
                         :
                             null
                     }
@@ -298,7 +302,23 @@ function DetalhesRecurso() {
     )
 }
 
-const DetalhesExperimento = ({resource}) => {
+const DetalhesExperimento = ({resource, resourceFiles}) => {
+
+    const dirnameType1 = resourceFiles.find(file => file.type === "1").dirname;
+    const basenameType1 = resourceFiles.find(file => file.type === "1").basename;
+
+    const dirnameType2 = resourceFiles.find(file => file.type === "2").dirname;
+    const basenameType2 = resourceFiles.find(file => file.type === "2").basename;
+
+    const dirnameType3 = resourceFiles.find(file => file.type === "3").dirname;
+    const basenameType3 = resourceFiles.find(file => file.type === "3").basename;
+
+    const dirnameType4 = resourceFiles.find(file => file.type === "4").dirname;
+    const basenameType4 = resourceFiles.find(file => file.type === "4").basename;
+
+    const dirnameType5 = resourceFiles.find(file => file.type === "5").dirname;
+    const basenameType5 = resourceFiles.find(file => file.type === "5").basename;
+
     return(
         <>
             <h3 style={{paddingTop: "20px"}}> Sinopse </h3>
@@ -310,9 +330,9 @@ const DetalhesExperimento = ({resource}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType1}/${basenameType1}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType2}/${basenameType2}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
@@ -321,16 +341,16 @@ const DetalhesExperimento = ({resource}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType3}/${basenameType3}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType4}/${basenameType4}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Folha do aluno </h3>
             <p> 
                 Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType5}/${basenameType5}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
             </p>
         </>
     )
