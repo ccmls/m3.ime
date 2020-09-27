@@ -7,7 +7,7 @@ function TwitterTimeline() {
     return (
         <>
             <TwitterTimelineEmbed
-                sourceType="timeline"
+                sourceType="profile"
                 userId="1260929987768549381"
                 theme="light"
                 noScrollbar

@@ -1,10 +1,7 @@
 import React from 'react';
 import {
-    BrowserRouter as Router,
     Switch,
     Route,
-    Link,
-    Redirect
 } from "react-router-dom";
 import RecursosEd from './RecursosEd';
 import DetalhesRecurso from './DetalhesRecurso';

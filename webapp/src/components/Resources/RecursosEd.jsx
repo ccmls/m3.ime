@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
@@ -24,11 +24,17 @@ function RecursosEd() {
     //State para controlar os filtros que estão sendo aplicados
     const [filters, setFilters] = useState("");
 
+    // State para preservar o valor do returnArray (vetor com todos os recursos filtrados) entre os renders
+    const returnArrayRef = useRef()
+
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
     const history = useHistory();
     const location = useLocation();
     let params = new URLSearchParams(location.search);
     let searchValue = params.get("search");
+    if (!searchValue) {
+        searchValue = "";
+    }
     let filterValue = params.get("filter");
 
     
@@ -64,40 +70,6 @@ function RecursosEd() {
         }
     }
 
-    // Função para a busca e aplicação dos filtros
-    useEffect(() => {
-        var returnArray = resourcesArray;
-        if (!searchValue) {
-            searchValue = "";
-        }
-        searchValue.split(' ').forEach(
-            function(value) {
-                returnArray = returnArray.filter(element =>
-                    element.media.toLowerCase().includes(value.toLowerCase()) ||
-                    element.title.toLowerCase().includes(value.toLowerCase()) ||
-                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
-                    element.objectives.toLowerCase().includes(value.toLowerCase()) ||
-                    element.tags.toLowerCase().includes(value.toLowerCase()) ||
-                    element.theme.toLowerCase().includes(value.toLowerCase()) ||
-                    element.serie.toLowerCase().includes(value.toLowerCase())
-                )
-            }
-        )
-        
-        if (filterValue) {
-            filterValue.split(' ').forEach(
-                function(value) {
-                    returnArray = returnArray.filter(element => 
-                        element.media.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
-                        element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
-                    )
-                }
-            )
-        }
-
-        setFilteredResourcesArray(prevState => returnArray)
-    }, [searchValue, filterValue])
-
  
     // Função para o botão de scroll to top
     function topFunction() {
@@ -113,7 +85,7 @@ function RecursosEd() {
 
     // Array com todos os recursos
     const rawResourcesArray = [...parsedResources.getElementsByTagName("m3_resource")];
-    // console.log("Recursos", rawResourcesArray);
+
     const resourcesArray = rawResourcesArray.map(rawResource => ({
         id: rawResource.childNodes[1].textContent,
         media: rawResource.childNodes[3].textContent,
@@ -126,12 +98,44 @@ function RecursosEd() {
     }))
 
 
+    // Função para a busca e aplicação dos filtros
+    returnArrayRef.current = resourcesArray;
+    useEffect(() => {
+        searchValue.split(' ').forEach(
+            function search(value) {
+                returnArrayRef.current = returnArrayRef.current.filter(element =>
+                    element.media.toLowerCase().includes(value.toLowerCase()) ||
+                    element.title.toLowerCase().includes(value.toLowerCase()) ||
+                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
+                    element.objectives.toLowerCase().includes(value.toLowerCase()) ||
+                    element.tags.toLowerCase().includes(value.toLowerCase()) ||
+                    element.theme.toLowerCase().includes(value.toLowerCase()) ||
+                    element.serie.toLowerCase().includes(value.toLowerCase())
+                )
+            }
+        )
+        
+        if (filterValue) {
+            filterValue.split(' ').forEach(
+                function(value) {
+                    returnArrayRef.current = returnArrayRef.current.filter(element => 
+                        element.media.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
+                        element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
+                    )
+                }
+            )
+        }
+
+        setFilteredResourcesArray(() => returnArrayRef.current)
+    }, [searchValue, filterValue])
+
+
     // Função pra renderizar os recursos
     function renderResources(resourcesToRender) {
         // Constante com o array de cards criado
         const resources = resourcesToRender.map(resource => {
             return (
-                <div className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
+                <div key={resource.id} className="resources-card" onClick={() => history.push(`/recursos/${resource.id}`)}>
 
                     <Row className= "resources-row">
                             {/* Título, tema e série */}
@@ -217,10 +221,10 @@ function RecursosEd() {
                             <ol style={{margin: "0px", paddingInlineStart: "20px"}}>
                                 {resource.objectives.split(';').map((element, index) => 
                                     {
-                                        if (index != resource.objectives.split(';').length - 1) {
-                                            return <p><li>{element};</li></p>
+                                        if (index !== resource.objectives.split(';').length - 1) {
+                                            return <p key={element}><li>{element};</li></p>
                                         } else {
-                                            return <p><li>{element}</li></p>
+                                            return <p key={element}><li>{element}</li></p>
                                         }
                                     }
                                 )}
@@ -232,10 +236,10 @@ function RecursosEd() {
                             <ul style={{margin: "0px", paddingInlineStart: "20px"}}>
                             {resource.tags.split(';').map((element, index) => 
                                 {
-                                    if (index != resource.tags.split(';').length - 1) {
-                                        return <p><li>{element};</li></p>
+                                    if (index !== resource.tags.split(';').length - 1) {
+                                        return <p key={element}><li>{element};</li></p>
                                     } else {
-                                        return <p><li>{element}.</li></p>
+                                        return <p key={element}><li>{element}.</li></p>
                                     }
                                 }
                             )}

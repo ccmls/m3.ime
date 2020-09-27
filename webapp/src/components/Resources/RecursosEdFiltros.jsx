@@ -1,15 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Col, Row } from 'reactstrap';
-import { Collapse, Button, CardBody, Card } from 'reactstrap';
-import { useLocation } from 'react-router-dom';
+import { Collapse, CardBody, Card } from 'reactstrap';
 import { filtersMapping } from './FiltersMapping';
 
 // Componente para o collapse de filtros que aparece na página de recursos
 function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) {
-
-    // O location contém as informações da rota atual
-    const location = useLocation()
-    
+ 
     return (
         <>
             <Collapse isOpen={filtrosOpen} className="filter-collapse">

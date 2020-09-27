@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import { useHistory, useParams } from 'react-router-dom';
@@ -46,7 +46,7 @@ function DetalhesRecurso() {
 
     // Array com todos os arquivos para download
     const rawFilesArray = [...parsedFiles.getElementsByTagName("file")];
-    // console.log("Arquivos", rawFilesArray);
+
     const filesArray = rawFilesArray.map(rawFile => ({
         id_resource: rawFile.childNodes[1].textContent,
         id_file: rawFile.childNodes[3].textContent,
@@ -82,24 +82,24 @@ function DetalhesRecurso() {
                     namesAux = names;
                     names = "";
                     return (
-                        <>
+                        <div key={element+index}>
                             <p> {namesAux} </p>
                             <h6 style={{paddingLeft: "20px", paddingTop: "15px"}}>{element}</h6>
-                        </>
+                        </div>
                     )
                 }
                 else if (element[0] === "*") {
                     namesAux = names;
                     names = "";
                     return (
-                        <>
+                        <div key={element+index}>
                             <p> {namesAux} </p>
                             <p style={{textTransform: "uppercase", color: "#ee2d32", paddingTop: "8px", marginBottom: "-8px !important"}}> {element.replaceAll("*", "")} </p>
-                        </>
+                        </div>
                     )
                 }
                 else if (index === arrayCredits.length - 1) {
-                    return <p> {names} </p>
+                    return <p key={element+index}> {names} </p>
                 }
                 else {
                     names = names.concat(" " + element);
@@ -222,9 +222,9 @@ function DetalhesRecurso() {
                             {resource.objectives.split(';').map((element, index) => 
                                 {
                                     if (index !== resource.objectives.split(';').length - 1) {
-                                        return <p style={{paddingLeft: "0px"}}><li>{element};</li></p>
+                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element};</li></p>
                                     } else {
-                                        return <p style={{paddingLeft: "0px"}}><li>{element}</li></p>
+                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element}</li></p>
                                     }
                                 }
                             )}
@@ -235,9 +235,9 @@ function DetalhesRecurso() {
                             {resource.tags.split(';').map((element, index) => 
                                 {
                                     if (index !== resource.tags.split(';').length - 1) {
-                                        return <p style={{paddingLeft: "0px"}}><li>{element};</li></p>
+                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element};</li></p>
                                     } else {
-                                        return <p style={{paddingLeft: "0px"}}><li>{element}.</li></p>
+                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element}.</li></p>
                                     }
                                 }
                             )}
@@ -358,8 +358,6 @@ const DetalhesExperimento = ({resource, resourceFiles}) => {
 
 const DetalhesVideo = ({resource, resourceFiles}) => {
 
-    console.log(resourceFiles)
-
     const dirnameType6 = resourceFiles.find(file => file.type === "6").dirname;
     const basenameType6 = resourceFiles.find(file => file.type === "6").basename;
 
@@ -368,13 +366,14 @@ const DetalhesVideo = ({resource, resourceFiles}) => {
 
     return(
         <>
-            <div class="iframe-container">
-                <iframe 
+            <div className="iframe-container">
+                <iframe
+                    title={`https://www.youtube.com/embed/${resource.youtube_link}`}
                     width="560" 
                     height="315" 
                     src={`https://www.youtube.com/embed/${resource.youtube_link}`}
-                    frameborder="0" 
-                    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    frameBorder="0" 
+                    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
                 </iframe>
             </div>
 
