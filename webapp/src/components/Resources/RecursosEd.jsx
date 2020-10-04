@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './Recursos.css';
 import { Container, Row, Col, Button, UncontrolledTooltip } from 'reactstrap';
 import RecursosEdSearch from './RecursosEdSearch';
@@ -24,8 +24,6 @@ function RecursosEd() {
     //State para controlar os filtros que estão sendo aplicados
     const [filters, setFilters] = useState("");
 
-    // State para preservar o valor do returnArray (vetor com todos os recursos filtrados) entre os renders
-    const returnArrayRef = useRef()
 
     // O history funciona como uma pilha para armazenar as rotas e o location contém as informações da rota atual
     const history = useHistory();
@@ -70,6 +68,41 @@ function RecursosEd() {
         }
     }
 
+
+    // Função para a busca e aplicação dos filtros
+    useEffect(() => {
+        var returnArray = resourcesArray;
+        if (!searchValue) {
+            searchValue = "";
+        }
+        searchValue.split(' ').forEach(
+            function(value) {
+                returnArray = returnArray.filter(element =>
+                    element.media.toLowerCase().includes(value.toLowerCase()) ||
+                    element.title.toLowerCase().includes(value.toLowerCase()) ||
+                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
+                    element.objectives.toLowerCase().includes(value.toLowerCase()) ||
+                    element.tags.toLowerCase().includes(value.toLowerCase()) ||
+                    element.theme.toLowerCase().includes(value.toLowerCase()) ||
+                    element.serie.toLowerCase().includes(value.toLowerCase())
+                )
+            }
+        )
+
+        if (filterValue) {
+            filterValue.split(' ').forEach(
+                function(value) {
+                    returnArray = returnArray.filter(element => 
+                        element.media.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
+                        element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
+                    )
+                }
+            )
+        }
+
+        setFilteredResourcesArray(prevState => returnArray)
+    }, [searchValue, filterValue])
+
  
     // Função para o botão de scroll to top
     function topFunction() {
@@ -96,38 +129,6 @@ function RecursosEd() {
         tags: rawResource.childNodes[19].textContent,
         theme: rawResource.childNodes[21].textContent,
     }))
-
-
-    // Função para a busca e aplicação dos filtros
-    returnArrayRef.current = resourcesArray;
-    useEffect(() => {
-        searchValue.split(' ').forEach(
-            function search(value) {
-                returnArrayRef.current = returnArrayRef.current.filter(element =>
-                    element.media.toLowerCase().includes(value.toLowerCase()) ||
-                    element.title.toLowerCase().includes(value.toLowerCase()) ||
-                    element.synopsis.toLowerCase().includes(value.toLowerCase()) ||
-                    element.objectives.toLowerCase().includes(value.toLowerCase()) ||
-                    element.tags.toLowerCase().includes(value.toLowerCase()) ||
-                    element.theme.toLowerCase().includes(value.toLowerCase()) ||
-                    element.serie.toLowerCase().includes(value.toLowerCase())
-                )
-            }
-        )
-        
-        if (filterValue) {
-            filterValue.split(' ').forEach(
-                function(value) {
-                    returnArrayRef.current = returnArrayRef.current.filter(element => 
-                        element.media.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
-                        element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
-                    )
-                }
-            )
-        }
-
-        setFilteredResourcesArray(() => returnArrayRef.current)
-    }, [searchValue, filterValue])
 
 
     // Função pra renderizar os recursos
