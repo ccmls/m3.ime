@@ -94,7 +94,7 @@ function DetalhesRecurso() {
                     return (
                         <div key={element+index}>
                             <p> {namesAux} </p>
-                            <p style={{textTransform: "uppercase", color: "#ee2d32", paddingTop: "8px", marginBottom: "-8px !important"}}> {element.replaceAll("*", "")} </p>
+                            <p style={{textTransform: "uppercase", paddingTop: "8px", marginBottom: "-8px !important"}}> {element.replaceAll("*", "")} </p>
                         </div>
                     )
                 }
@@ -138,7 +138,7 @@ function DetalhesRecurso() {
             {/* Cabeçalho: título, tema, série e mídia */}
             <Row className= "resources-row">
                 <Col className="resources-col">
-                    <h2> {resource.title} </h2>
+                    <h1> {resource.title} </h1>
                     <div  md="10" sm="12" style={{marginTop: "10px"}}>
                         {
                             // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
@@ -214,9 +214,6 @@ function DetalhesRecurso() {
                 {/* Card de duração, objetivos, conteúdos e créditos */}
                 <Col md="5" sm="12" className= "home-col">
                     <div className="details-card">
-                        <h3> Duração </h3>
-                        <p> {resource.duration} </p>
-
                         <h3> Objetivos </h3>
                         <ol style={{margin: "0px"}}>
                             {resource.objectives.split(';').map((element, index) => 
@@ -242,6 +239,9 @@ function DetalhesRecurso() {
                                 }
                             )}
                         </ul>
+
+                        <h3> Duração </h3>
+                        <p> {resource.duration} </p>
                     
                         <h3> Créditos </h3>
                         <div style={{paddingBottom: "20px", marginTop: "-14px"}}>
@@ -382,13 +382,11 @@ const DetalhesVideo = ({resource, resourceFiles}) => {
 
             <h3 style={{paddingTop: "40px"}}> Vídeo </h3>
             <p> 
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType6}/${basenameType6}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Vídeo completo </a>
+                — <a href={`https://m3.ime.unicamp.br/${dirnameType6}/${basenameType6}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Baixar vídeo completo </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
-                Apenas uma versão para visualização em tela.
-                <br/>
                 — <a href={`https://m3.ime.unicamp.br/${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
@@ -400,12 +398,9 @@ const DetalhesSoftware = ({resource, resourceFiles}) => {
         <>
             <a href={`https://m3.ime.unicamp.br/media/software/${resource.id}/`} target="_blank" rel="noopener noreferrer">
                 <Button className="button" style={{paddingTop: "20px"}}> 
-                    <p> USAR NA INTERNET </p> 
+                    <p> ACESSAR O SOFTWARE </p> 
                 </Button>
             </a>
-            <p style={{paddingTop: "10px"}}>
-                Clique acima para entrar no software agora mesmo.
-            </p>
 
             <h3 style={{paddingTop: "40px"}}> Sinopse </h3>
             <p> {resource.synopsis} </p>
@@ -416,9 +411,9 @@ const DetalhesSoftware = ({resource, resourceFiles}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`https://m3.ime.unicamp.br/${resource.id}/guia/impressao.pdf`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href="null" target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`https://m3.ime.unicamp.br/${resource.id}/guia/tela.pdf`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
@@ -461,8 +456,6 @@ const DetalhesAudio = ({resource, resourceFiles}) => {
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
-                Apenas uma versão para visualização em tela
-                <br/>
                 — <a href={`https://m3.ime.unicamp.br/${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>

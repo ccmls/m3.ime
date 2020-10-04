@@ -15,6 +15,8 @@ import {
 import { useHistory, useLocation } from "react-router-dom";
 import './Header.css';
 import { useEffect } from 'react';
+// IMAGEM:
+import logom3mobile from '../../assets/logo-m3-mobile.png';
 
 function HeaderMobile() {
 
@@ -35,7 +37,10 @@ function HeaderMobile() {
     return(
         <div>
             <Navbar fixed="top" dark expand={false}>
-                <NavbarBrand href="/" className="header-dropdown-toggle-mobile">MATEMÁTICA MULTIMÍDIA</NavbarBrand>
+                <NavbarBrand href="/" className="header-dropdown-toggle-mobile">
+                    <img src={logom3mobile} alt="m3" style={{height: "30px", width: "auto", paddingRight: "15px"}}/>
+                    MATEMÁTICA MULTIMÍDIA
+                </NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
