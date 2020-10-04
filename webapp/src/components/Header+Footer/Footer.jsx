@@ -15,7 +15,7 @@ function Footer() {
             <div className="license">
                 <h6> LICENÇA </h6>
                 <p> Esta obra está licenciada sob uma licença Creative Commons 
-                    <img src={copyrights} className="copyrights" alt="copyrights" />
+                    <img src={copyrights} className="copyrights" alt="CC-BY-SA-NC" />
                 </p>
             </div>
             <div className="gov">

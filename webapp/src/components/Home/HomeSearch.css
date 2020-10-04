@@ -5,6 +5,16 @@
     margin-bottom: 55px !important;
 }
 
+.home-p a {
+    color: #202020;
+    text-decoration: underline !important;
+    text-decoration-color: #ED1C24 !important;
+}
+
+.home-p a:hover {
+    color: #ED1C24;
+}
+
 
 /* Estilos da barra de busca */
 

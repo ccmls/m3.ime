@@ -39,7 +39,11 @@ function HomeSearch() {
                 de Matemática para o Ensino Médio.
                 <br/>
                 Você pode acompanhar as atualizações referentes ao portal 
-                no nosso Twitter, @matematicam3. Clique ao lado para se 
+                no nosso Twitter, 
+                <a href="https://twitter.com/matematicam3" target="_blank" rel="noopener noreferrer">
+                    @matematicam3
+                </a>. 
+                Clique para se 
                 redirecionar diretamente ao nosso perfil e ficar por dentro 
                 das últimas novidades!
                 <br/>

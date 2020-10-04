@@ -68,12 +68,11 @@ function RecursosEd() {
         }
     }
 
-
     // Função para a busca e aplicação dos filtros
     useEffect(() => {
         var returnArray = resourcesArray;
-        if (!searchValue) {
-            searchValue = "";
+        if (searchValue == null) {
+            searchValue = ""
         }
         searchValue.split(' ').forEach(
             function(value) {
