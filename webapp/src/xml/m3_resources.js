@@ -1,6 +1,6 @@
 const m3_resources = 
 `<?xml version="1.0" encoding="UTF-8" ?>
-<m3_resources>
+<root>
     <m3_resource>
         <id>994</id>
         <media>Experimento</media>
@@ -265,7 +265,7 @@ Planejar, construir e avaliar um projeto
         <duration>Uma aula dupla</duration>
         <synopsis>Usando areia e garrafas pet, os alunos serão direcionados a identificar algumas relações que descrevem o escoamento de areia em funis com diferentes tamanhos de bocais. Essas relações são bastante significativas em vários fenômenos na física.</synopsis>
         <objectives>Desenvolver no aluno a capacidade de extrair informações a partir de dados brutos; 
-Estimular o uso de tabelas e gráficos de frequências para analisar dados sobre características físicas; 
+Estimular o uso de tabelas e gráficos de frequências para analisar dados sobre características físicas.
 </objectives>
         <youtube_link></youtube_link>
         <authors>Samuel Rocha de Oliveira</authors>
@@ -782,7 +782,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Abelhas Matemáticas</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>O adolescente Caio assiste ao programa Animais Curiosos apresentado por James Calafrio. James fala sobre as abelhas, sua organização social e, em especial, sobre a forma hexagonal dos alvéolos. Utilizando conceitos matemáticos, ele mostra que a forma dos alvéolos construídos pelas abelhas é a que apresenta maior capacidade usando uma determinada quantidade de cera.</synopsis>
         <objectives>Mostrar que os alvéolos hexagonais das abelhas têm a forma ótima em relação à capacidade para armazenar mel; 
 Interpretar uma situação contextualizada utilizando conceitos matemáticos.</objectives>
@@ -865,7 +865,7 @@ de ouro; Espiral de Fibonacci; Problema dos Coelhos; Sequências e progressões;
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Afogando em zeros</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Alana é uma roteirista está a escrever uma ficção científica, mas ela tem dificuldades em expressar suas ideias de reduzir o seu personagem principal às escalas nanométricas. Fazendo jus à ficção científica, o seu personagem explica a Alana que ela deve         usar notação científica para conseguir terminar o roteiro com um final feliz.</synopsis>
         <objectives>Introduzir o conceito de notação científica; 
 Mostrar a utilidade de potências de dez para medições; 
@@ -886,14 +886,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>notação científica; estimativas; Potências de 10</tags>
-        <theme></theme>
+        <theme>Análise de dados e Probabilidade</theme>
     </m3_resource>
     <m3_resource>
         <id>1046</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Alice e algumas relações trigonométricas</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>A jovem Alice dorme e sonha com o senhor Josué, que demonstra, no sonho, algumas relações trigonométricas. No sonho também aparece um cantor que ajuda Josué na demonstração com uma linda melodia. Alice acorda e percebe que entendeu estas relações trigonométricas.</synopsis>
         <objectives>Apresentar várias relações trigonométricas com suas demonstrações.
 </objectives>
@@ -919,7 +919,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Alice e a lei dos cossenos</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>A jovem Alice sonha com o senhor Josué, que demonstra no a lei dos cossenos de uma  maneira divertida. No sonho também aparece um cantor que ajuda Josué na demonstração com uma linda melodia. Alice acorda e percebe que entendeu a demonstração da lei dos cossenos.</synopsis>
         <objectives>Apresentar uma demonstração da Lei dos Cossenos
 </objectives>
@@ -945,7 +945,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Alice e o cosseno da diferença de arcos.</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>A jovem Alice tem um encontro com seu professor imaginário, que  dá os         principais passos para a demonstraçao da fórmula da difereança de arcos.</synopsis>
         <objectives>Deduzir a fórmula da diferença de arcos
 </objectives>
@@ -964,14 +964,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Cosseno da diferença; Trigonometria</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1049</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Amuleto mágico</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Uma jovem recebe um belo amuleto de presente de um amigo que explica algumas propriedades do quadrado mágico que o amuleto ostenta.</synopsis>
         <objectives>Apresentar os quadrados mágicos, suas propriedades e curiosidades; 
 Trabalhar noções de equivalência algébrica e simetrias; 
@@ -1218,7 +1218,7 @@ Frota Rezende e  Maria Lucia Bontorim de Queiroz
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Os caçadores de sons de Fibonacci</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem liga o seu computador num estúdio de música, e vê na tela um aviso de que um vírus está prestes a atuar. Ele tem que solucionar três enigmas, que estão relacionados com uma música intitulada Tocata de Fibonacci (a partitura está passando na tela). O jovem telefona para um amigo que é professor de Matemática. Os dois conseguem finalmente resolver os enigmas relacionados com a sequência de Fibonacci.</synopsis>
         <objectives>Apresentar a sequência de Fibonacci por  meio de uma música.</objectives>
         <youtube_link>0OK8fmzey_c</youtube_link>
@@ -1237,7 +1237,7 @@ h2. Revisores
 </authors>
         <tags>sequência de Fibonacci; secção áurea; número
 de ouro</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1059</id>
@@ -1299,7 +1299,7 @@ h2. Revisores
         <duration>10 min</duration>
         <synopsis>Um fazendeiro, preocupado em determinar uma rota alternativa para o curral, procura a  ajuda de seu afilhado que mora na cidade. O Jovem por sua vez, com ajuda de conceitos geométricos  intrínsecos ao triângulo retângulo, consegue determinar tal rota.</synopsis>
         <objectives>Revisar Teorema de Pitágoras e semelhança de triângulos; 
-Iniciar o estudo da Trigonometria no triângulo retângulo; </objectives>
+Iniciar o estudo da Trigonometria no triângulo retângulo. </objectives>
         <youtube_link>t1yxIlaraQg</youtube_link>
         <authors>h2. Autores
 				
@@ -1322,7 +1322,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Cara ou coroa</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Em um cenário fictício, Fermat e Pascal se encontram e Pascal propõe um jogo de cara ou coroa, mas o sono toma conta de Fermat quase no fim do jogo e então se coloca a pergunta: como dividir o prêmio? Eles iniciam então uma interessante discussão sobre essa questão, que ficou conhecida posteriormente como o problema dos pontos.</synopsis>
         <objectives>Mostrar um problema envolvendo conceitos de análise combinatória; 
 Apresentar as origens da teoria das probabilidades por meio da história de dois matemáticos.
@@ -1782,7 +1782,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O crime da rua do gasômetro</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Uma pessoa é acusada de ter cometido um crime, mas todo mundo é inocente até que se         prove o contrário. Como utilizar as provas encontradas para este julgamento? Os conceitos de         probabilidade e probabilidade condicional podem ser úteis neste processo de         decisão</synopsis>
         <objectives>Abordar um problema de decisão através de probabilidades, Entender e aplicar o         conceito de probabilidade condicional
 </objectives>
@@ -1915,7 +1915,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O desafio das correlações espúrias</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Mulheres com mais filhos têm pressão mais alta. A causa disto são os filhos? Cidades com mais cegonhas têm mais nascimentos. As cegonhas é que trazem as crianças? Um repentista responde esta e outras perguntas para uma estudante.</synopsis>
         <objectives>Apresentar o conceito de correlação; 
 Discutir correlação entre variáveis.
@@ -2023,7 +2023,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>As Desventuras de mãe Joana</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Mãe Joana passa por problemas financeiros e não consegue atrair mais seus antigos clientes. Um espírito, através de sua bola de cristal, sugere a ela uma análise dos eventos que culminaram na situação atual.</synopsis>
         <objectives>Interpretar variações de dados através de funções crescentes e decrescentes.
 </objectives>
@@ -2397,7 +2397,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>As aventuras do Geodetetive 1: A circunferência da Terra</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Arnaldo é um jovem muito curioso e sempre está à procura de conhecimento. À noite mergulha nos livros, assume uma nova identidade e se transforma no Geodetetive. Em uma dessas noites, Eratóstenes aparece para ajudá-lo a entender como fez para determinar, há mais de dois mil anos, a medida da circunferência da Terra. Este é um exemplo de como a observação, raciocínio lógico e experimentação são importantes para resolver problemas e para o desenvolvimento da ciência</synopsis>
         <objectives>Apresentar o método de Eratóstenes para o cálculo da circunferência da Terra.
 </objectives>
@@ -2442,7 +2442,7 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Geometria Espacial; Geometria da Terra; latitude; longitude</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1104</id>
@@ -2529,7 +2529,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>As aventuras do Geodetetive 6: GPS</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Arnaldo é um jovem muito curioso e sempre está à procura do saber. À noite mergulha nos livros, assume uma nova identidade, se transforma no Geodetetive e conta com colaboração de seu assistente Sagan em suas investigações. Certa noite, o Geodetetive conversa com o engenheiro agrícola Luis Gustavo que conhece todo o funcionamento de um GPS e a matemática envolvida em sua programação.</synopsis>
         <objectives>Explicar o funcionamento do GPS; 
 Apresentar a matemática envolvida na programação do GPS.
@@ -2554,7 +2554,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O Golpe</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um possível golpe milionário aos cofres públicos está sendo planejado supostamente por bandidos, que trocam mensagens via e-mail. Guto investiga o caso, porém encontra dificuldades em obter informações dos suspeitos, pois suas mensagens são criptografadas e, portanto, difíceis de desvendar. A única saída está no futuro dos computadores.</synopsis>
         <objectives>Apresentar o conceito de criptografia; 
 Contextualizar o assunto através de exemplos práticos.</objectives>
@@ -2573,7 +2573,7 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>criptografia.</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1109</id>
@@ -2768,7 +2768,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O hit dos bits</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Após gravar uma música, Janis pergunta a seu produtor, Celsão, se é possível levar em seu pen drive o arquivo com a gravação. A partir daí, Celsão explica como é  armazenada a informação contida na música. Para isso, ele fala do sistema binário de         numeração e ensina que os computadores atuais trabalham com este sistema para processar e         armazenar dados.</synopsis>
         <objectives>Apresentar o sistema de numeração binário; 
 Mostrar aplicações de sistemas de numeração diferentes do decimal.
@@ -2874,7 +2874,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Os Infinitos de Cantor</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>O vídeo mostra a conversa do matemático George Cantor com seu amigo Lukas Zweig. Cantor muito animado com sua nova descoberta explica ao amigo o seu hoje famoso Método da Diagonal para demonstrar um fato até então impensável: que existem infinitos maiores do que outros!</synopsis>
         <objectives>Aprofundar a noção de conjuntos numéricos infinitos e cardinalidade; 
 Dar um exemplo do Método de Lógica : “Redução ao Absurdo”; 
@@ -2895,14 +2895,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Cardinalidade; Diagonal de Cantor; conjuntos infinitos; Redução ao Absurdo; infinitos</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1121</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Jardim de números</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Kátia precisa construir para um cliente um jardim que tenha a forma da bandeira brasileira. Para isso ela conta com a ajuda de Liliane, que explica que o problema  da construção do jardim pode ser resolvido através da geometria analítica, fazendo a         identificação do jardim com um plano cartesiano.</synopsis>
         <objectives>Introduzir plano cartesiano; 
 Marcar pontos e traçar objetos geométricos simples em um plano cartesiano.
@@ -2923,14 +2923,14 @@ Maria Lucia de Queiroz
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>geometria analítica; pontos; sistema cartesiano</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1122</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O Jogo de Dados de Mozart</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Com a ajuda de Luciano, seu amigo e professor, o estudante Luís descobre brincando que é possível e bastante fácil compor músicas usando apenas dois dados.</synopsis>
         <objectives>Relacionar música e matemática, apresentando, para isso, os fundamentos de análise combinatória e probabilidade
 </objectives>
@@ -2956,7 +2956,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Jogos</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Beto diz a Heitor que está estudando a Teoria dos Jogos e passa a lhe exemplificar conceitos básicos dessa teoria.</synopsis>
         <objectives>Apresentar conceitos básicos e classificação da Teoria dos Jogos
 </objectives>
@@ -3171,7 +3171,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O Magico das Arábias</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>A jovem Fabiana assistindo a um programa de tv onde tem um mágico que usa mudança de base para fazer suas mágicas e descobrir os números em que ela pensa.</synopsis>
         <objectives>Apresentar uma aplicação curiosa de operações aritméticas, 
 Reforçar o sistema decimal,  
@@ -3194,7 +3194,7 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>base numerica; Álgebra</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1132</id>
@@ -3226,7 +3226,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>A mancha</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Preoucupado com uma mancha de poluentes químicos que se aproxima de sua cidade,  um agricultor procura a ajuda de um amigo para evitar uma catástrofe. O amigo por sua vez sugere um modelo matemático para analisar o problema</synopsis>
         <objectives>Dar um exemplo de modelagem matemática
 Iniciar o conceito de matrizes e sistemas com mais de duas variáveis
@@ -3335,7 +3335,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Na cauda do cometa</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Dois jovens estudiosos de astronomia discutem as técnicas e teorias empregadas para entender as órbitas dos corpos celestes e prever suas localizações no céu.</synopsis>
         <objectives>Motivar estudo das cônicas para a astronomia.</objectives>
         <youtube_link>CeiKM7ftRR4</youtube_link>
@@ -3416,7 +3416,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O Sonho</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>A Dona Laura se lamenta com o aumento da população no Brasil: Muitas pessoas em todos os lugares! Ela liga a TV e um demógrafo lhe explica sobre o crescimento populacional no Brasil e a sua taxa de crescimento.</synopsis>
         <objectives>Apresentar dois modelos matemáticos para o crescimento populacional humano, com a  função exponencial e a função logística; 
 Analisar o crescimento populacional nas últimas         décadas versus a taxa de crescimento populacional (em porcentagem) no Brasil.
@@ -3437,14 +3437,14 @@ h2. Revisores
 </authors>
         <tags>Verhulst; Função Exponencial.; Malthus; Função Afim; Função e gráficos; crescimento
 populacional.</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1141</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O sonho continua</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Este é o terceiro video da série sobre os números complexos. Hans, o jovem estudante sonha novamente com Morfeu, que lhe conta sobre a fórmula de Euler e sobre os conjuntos numéricos.</synopsis>
         <objectives>Apresentar o número complexo; 
 Mostrar a fórmula trigonométrica de Euler; 
@@ -3472,7 +3472,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O sonho não acabou</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Este é o segundo vídeo sobre os números complexos com o mesmo personagem Hans, Um jovem estudante. Hans vai dormir e sonha com outro jovem. Agora é o  Morfeu, o deus dos sonhos. Morfeu explica direitinho ao jovem sobre a história dos números         complexos, chegando à fórmula de De Moivre.</synopsis>
         <objectives>Apresentar uma breve historia dos números complexos; 
 Apresentar a fórmula de De Moivre, para potencias inteiras de números complexos; 
@@ -3500,7 +3500,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Oferenda musical de Bach</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Num estúdio de filmagem, a jovem Lúcia está tocando uma música em um cravo: Oferenda         Musical, de Bach. Ela e o diretor João conversam sobre detalhes da gravação quando as folhas         da partitura caem e se espalham no chão. Ao pegar as folhas do chão ela percebe que as notas         do começo ao fim são as mesmas do fim para o começo, de uma folha. Ela conversa com João que         explica a ela como Bach usou no seu universo as simetrias.</synopsis>
         <objectives>Estudar as isometrias:
  no plano; 
@@ -3523,14 +3523,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>música; isometrias no plano; arte; Simetria; geometria</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1144</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Olha o Sanduiche</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Uma garota resolve iniciar vendas de sanduíche e, não tendo sucesso, recorre ao tio para que ele possa avaliar a eficiência da sua pesquisa de mercado. Nesta         avaliação, ficará mostrada como a falta de conhecimento estatístico básico pode levar dados         corretos a conclusões erradas.</synopsis>
         <objectives>Definir alguns conceitos básicos de Estatística: média, moda e mediana; 
 Mostrar como o tratamento da informação é relevante à vida cotidiana; 
@@ -3559,7 +3559,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Os ângulos e as torres</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Jovem recebe uma carta do namorado onde contém fotos de lugares históricos da Alemanha, onde alguns desses monumentos encontram-se inclinados.</synopsis>
         <objectives>Noção de adição e subtração de ângulos
 </objectives>
@@ -3578,14 +3578,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>triângulo; lado; Trigonometria; comprimento</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1146</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Osso duro de roer</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Uma candidata ao curso de Paleontologia procura ajuda de um professor para obter informação sobre o curso. O professor, por sua vez, mostra que é possível determinar a idade de fósseis, da terra e de corpos humanos através do estudo da função exponencial         decrescente.</synopsis>
         <objectives>Introduzir o conceito de função exponencial.
 </objectives>
@@ -3605,14 +3605,14 @@ Maria Lucia B DE Queiroz
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Função exponencial decrescente</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1147</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Overdose</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Uma jovem, Marcela, está no seu quarto assistindo TV quando ouve uma noticia: a cantora mais famosa do momento está num hospital em Los Angeles, devido ao uso excessivo de cigarros. A cunhada da Marcela, que é médica (e deve entender de Matemática) liga para ela no momento e lhe explica como a nicotina é eliminada da corrente sanguinea de uma pessoa. Ela conhece a função que modela a quantidade de nicotina no sangue de um fumante, que é uma função exponencial decrescente, por partes, ao fumar muitos cigarros continuamente.</synopsis>
         <objectives>Analisar um problema muito interessante sobre drogas, modelado matematicamente por funções exponenciais; 
 Introduzir o termo meia-vida e com ele obter a função exponencial que modela a quantidade de nicotina no corpo de um fumante.
@@ -3632,14 +3632,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>função logarítmica; porcentagem; meia-vida; Função Exponencial.</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1148</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Pandemia</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Diante da possibilidade de uma pandemia de uma doença viral, dois pesquisadores, um brasileiro e outro alemão, discutem a velocidade de propagação da doença em seus respectivos países para descobrir quanto tempo têm para encontar uma vacina. Para modelar matematicamente o problema, usam as funções logaritmo e exponencial.</synopsis>
         <objectives>Mostrar uma ficção sobre epidemia com o crescimento e a função exponencial; 
 Trabalhar as propriedades da exponencial e sua inversa, o logaritmo.
@@ -3659,14 +3659,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Função Exponencial.; Progressão Geométrica</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1149</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Panquecas da dona Glória</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>A dona Glória vai iniciar uma panquecaria e conversa com Fernando que já tem um  pequeno negócio. Durante a rápida conversa entre os dois, os conceitos de relação entre conjuntos, funções, função afim, quadrática e exponencial são abordados. Com estas         informações a dona Glória sente-se mais segura para iniciar sua pequena empresa.</synopsis>
         <objectives>Motivar e introduzir o conceito de relação e função; 
 Mostrar  aplicações de funções afim, quadrática e exponencial; 
@@ -3686,14 +3686,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>conjuntos; Funções; Função Exponencial.; Função Quadrática; Função Afim</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1150</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Para Correr a São Silvestre</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem que pretende ser um atleta amador se         questiona sobre o planejamento da distribuição de água para os atletas durante a corrida.         Então, o próprio São Silvestre aparece para esclarecer a questão e mostrar como o problema é  resolvido usando a fórmula do termo geral de uma P.A.</synopsis>
         <objectives>Apresentar as progressões aritméticas; 
 Desenvolver a fórmula do termo geral de uma P.A.
@@ -3713,14 +3713,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Seqüência; Progressões Aritméticas</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1151</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Para salvar o Mundo</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>JR recebe uma mensagem urgente de X7. Preocupado, entra em contato com o amigo que explica a situação de risco de uma pandemia. Eles então têm que traçar um plano para que a gripe aviária não se torne uma ameaça mundial. Para isso vão fazer uso da progressão geométrica e correr para controlar a situação.</synopsis>
         <objectives>Apresentar o conteúdo de progressão geométrica através de situações problemas; 
 Apresentar os diferentes tipos de progressão geométrica: crescente, decrescente etc.
@@ -3740,14 +3740,14 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Progressão Geométrica</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1152</id>
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Alice, os paradoxos e a formalização</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Os personagens principais do vídeo são Alice, Sir Carrol e o gato de Cheshire que aparece e desaparece. Alice também conversa com a carta J do baralho. O assunto agora  são os paradoxos e a formalização do raciocinio matemático.</synopsis>
         <objectives>Apresentar exemplos de lógica matemática; 
 Introduzir a noção de paradoxos; 
@@ -3802,7 +3802,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Pelas lentes da Matemática</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>O jovem Pedro recebe de presente em seu aniversário uma máquina fotográfica e, sendo muito curioso, deseja saber como funciona. Gabriel, fotógrafo profissional de moda, aparece para ajudá-lo a entender o princípio de funcionamento da máquina e mostrar sua origem.</synopsis>
         <objectives>Apresentar idéias intuitivas de homotetia e semelhança; 
 Interpretar uma situação contextualizada utilizando conceitos matemáticos.
@@ -3822,7 +3822,7 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>homotetia; Geometria Plana; semelhança; Geometria Espacial</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1155</id>
@@ -3937,7 +3937,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O Principe de Sofia</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>O programa apresenta uma versão do paradoxo dos três prisioneiros. O vídeo mostra um príncipe que enfrenta dois adversários na fase final de um concurso cujo prêmio é se casar com a princesa Sofia. Nesta fase, cada candidato é trancado em um quarto. Vence quem estiver no quarto sorteado pela princesa. O príncipe então busca, com o auxílio de seu anjo da guarda e do cálculo de probabilidades, aumentar suas chances de ser sorteado.</synopsis>
         <objectives>Apresentar o Paradoxo dos três prisioneiros; 
 Trabalhar o conteúdo de Probabilidade.
@@ -3964,7 +3964,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O Problema da Cerca</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Seu Joaquim deseja construir uma cerca para seu jardim. Como só pode comprar arame suficiente para 120 metros de cerca, pede ajuda a Janete sobre qual a melhor forma de dispor o arame de modo a cercar a maior parte possível do terreno, usando apenas ângulos retos.</synopsis>
         <objectives>Estudar máximo de funções quadráticas através de uma aplicação; 
 Analisar funções definidas por partes; 
@@ -3985,7 +3985,7 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>máximos e mínimos.; Funções quadráticas</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1161</id>
@@ -4012,7 +4012,7 @@ h2. Revisores
 *gráficos_fórmulas* Raphael Garcia
 </authors>
         <tags>Crivo de Eratóstenes; Teoria dos Números; Teorema da Infinitude dos Primos; outros</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1162</id>
@@ -4208,7 +4208,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>A revanche de Alice</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>O gato de Cheshire, do livro Alice no país das maravilhas, aparece e  desaparece, a rainha faz jogos de palavras com a Alice. Algumas vezes a Alice rebate as  provocações da rainha. Sir Carrol explica então à Alice os conectivos lógicos usados pela rainha.</synopsis>
         <objectives>Apresentar exemplos de lógica matemática; 
 Motivar o estudo de cálculo proposicional e tabelas verdade.
@@ -4391,7 +4391,7 @@ h2. Revisores
 *gráficos_fórmulas* Raphael Garcia
 </authors>
         <tags>grafos</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1176</id>
@@ -4450,7 +4450,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>O sonho dourado</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>O casal Fabrício e Luana está de mudança para a casa nova, e 	precisa comprar os móveis e eletrodomésticos necessários, mas se depara  	com as compras parceladas e juros altos. E agora, o que fazer? Comprar o 	necessário pagando juros ou guardar o dinheiro para a compra à vista?</synopsis>
         <objectives>Identificar de modo claro os conceitos de fluxo monetário,  tempo e equivalência financeira; 
 Reconhecer e analisar critérios para resolução de situações problemas envolvendo a matemática financeira em diferentes contextos.
@@ -4471,7 +4471,7 @@ h2. Revisores
 </authors>
         <tags>Análise e viabilidade de transações financeiras.; Juros simples e compostos; Matemática
 Financeira</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1179</id>
@@ -4506,7 +4506,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>Os suspeitos</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Delegado procura  ajuda de um médico legista para determinar a hora exata do assassinato de uma dona de casa. O legista, por sua vez, mostra que é possível determinar este momento através dos conceitos matemáticos de função exponencial e logaritmo.</synopsis>
         <objectives>Introduzir o conceito de funções exponenciais decrescentes; 
 Utilizar as propriedades de logaritmo para resolver uma situação problema; 
@@ -4527,7 +4527,7 @@ h2. Revisores
 *graficos_formulas* Raphael Garcia
 </authors>
         <tags>Logaritmo; decaimento; exponencial; Equação</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1181</id>
@@ -4555,7 +4555,7 @@ h2. Revisores
 *gráficos_fórmulas* Raphael Garcia
 </authors>
         <tags>criptografia.</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1182</id>
@@ -4751,7 +4751,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Matemática na Escola</serie>
         <title>A velha história das multidões</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Gilberto escreve uma matéria sobre o Círio de Nazaré, mas acredita que a estimativa de pessoas presentes no evento esteja errada e, por isso, pede a ajuda de uma amiga.</synopsis>
         <objectives>Revelar como é feita a estimativa do número de pessoas em um evento; 
 Mostrar como cálculos matemáticos simples nos auxiliam a confrontar dados reais.
@@ -4887,7 +4887,7 @@ h2. Revisores
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Administradora e Contador</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma administradora e um contador sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de uma administradora de empresas e de um contador; 
 Mostrar a presença da matemática nestas profissões; 
@@ -4908,7 +4908,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Advogado e Engenheiro Elétrico</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com advogado e um engenheiro elétrico sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de um advogado e de um engenheiro elétrico; 
 Mostrar a presença da matemática nestas profissões; 
@@ -4929,7 +4929,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Agrimensor e Geólogo</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um Agrimensor e um geólogo sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais da agrimensura e da geologia; 
 Mostrar a presença da matemática nestas profissões; 
@@ -4950,7 +4950,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Agrônomo e Fisioterapeuta</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um agrônomo e e uma fisioterapeuta sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de um agrônomo e de uma fisioterapeuta; 
 Mostrar a presença da matemática nestas profissões; 
@@ -4971,7 +4971,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Analista de sistemas e engenheiro da computação</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma analista de sistemas de informática e um engenheiro da computação sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de análise de sistemas e engenharia da computação; Mostrar a presença da matemática nestas profissões; 
 Incentivar o estudo para a profissionalização.
@@ -4991,7 +4991,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Arquiteto e Engenheiro Civil</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um arquiteto e um engenheiro civil sobre suas respectivas profissões</synopsis>
         <objectives>Apresentar algumas características profissionais de arquitetura e engenharia civil; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5012,7 +5012,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Artista plástico e Designer gráfico</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um Artista plástico e  um Designer gráfico sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais  de um Artista plástico e de um Designer gráfico; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5033,7 +5033,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Astrônomo e Físico</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um astrônomo e um físico sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de física e astronomia; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5054,7 +5054,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Atuário e Estatística</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um atuário e uma estatística sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de atuário e de uma estatística; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5075,7 +5075,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Biólogo e Nutricionista</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma bióloga e uma nutricionista sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de biologia e nutrição; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5096,7 +5096,7 @@ Incentivar o estudo para a profissionalização;
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Chef de cozinha e Estilista</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma chef de cozinha e com um estilista sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de uma chef de cozinha e de um estilista; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5116,7 +5116,7 @@ Incentivar o estudo para a profissionalização.</objectives>
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Comerciante e Corretor de Imóveis</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma comerciante e um corretor de Imóveis sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais uma comerciante e de um corretor de Imóveis; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5136,7 +5136,7 @@ Incentivar o estudo para a  profissionalização.</objectives>
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Controlador de tráfego aéreo e Piloto de helicóptero</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um Controlador de tráfego aéreo e um Piloto de  helicóptero sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de um Controlador de tráfego aéreo e de um Piloto de helicóptero; 
 Mostrar a presença da matemática nestas         profissões; 
@@ -5157,7 +5157,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Economista e Comércio Exterior</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma economista e um comerciante internacional sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de uma economista e um comerciante internacional; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5177,7 +5177,7 @@ Incentivar o estudo para a profissionalização.</objectives>
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Engenheira de alimentos e Químico</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma engenheira de alimentos e com um químico sobre suas respectivas profissões</synopsis>
         <objectives>Apresentar algumas características profissionais de uma engenheira de alimentos e de um químico; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5197,7 +5197,7 @@ Incentivar o estudo para a profissionalização.</objectives>
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Esportista e Fotógrafo</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um esportista e um fotógrafo sobre suas respectivas profissões</synopsis>
         <objectives>Apresentar algumas características profissionais de esportista e fotógrafo; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5218,7 +5218,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Farmacêutica e Produtora de Eventos</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma produtora de eventos e uma farmacêutica sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de uma Farmacêutica e de uma Produtora de Eventos; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5239,7 +5239,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Hotelaria e Logística</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um agente de hotelaria e um profissional de logística sobre suas respectivas profissões</synopsis>
         <objectives>Apresentar algumas características profissionais da hotelaria e da logística; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5259,7 +5259,7 @@ Incentivar o estudo para a profissionalização.</objectives>
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Matemático e Músico</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um matemático e um músico sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de um matemático e de um músico; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5280,7 +5280,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Meteorologista e Turismóloga</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um Meteorologista e uma Turismóloga sobre suas respectivas profissões</synopsis>
         <objectives>Apresentar algumas características profissionais de um Meteorologista e uma Turismóloga; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5301,7 +5301,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Odontologia e Medicina</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma dentista e um médico sobre suas respectivas profissões</synopsis>
         <objectives>Apresentar algumas características profissionais da odontologia e da medicina; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5342,7 +5342,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Professor e pesquisador universitário e Bancária</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com um professor universitário e uma bancária sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de um professor universitário e de uma bancária; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5363,7 +5363,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Secretária e Engenheiro de Telecomunicações</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma Secretária e um Engenheiro de Telecomunicações sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais de uma Secretária e um Engenheiro de Telecomunicações; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5384,7 +5384,7 @@ Incentivar o estudo para a profissionalização.
         <media>Vídeo</media>
         <serie>Profissões</serie>
         <title>Zootecnia e Veterinária</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Um jovem conversa com uma zootécnica e uma veterinária sobre suas respectivas profissões.</synopsis>
         <objectives>Apresentar algumas características profissionais da zootecnia e da veterinária; 
 Mostrar a presença da matemática nestas profissões; 
@@ -5399,26 +5399,7 @@ Incentivar o estudo para a profissionalização.</objectives>
         <tags>veterinário; zootécnico; Profissão; zootecnia; matemática; veterinária</tags>
         <theme>análise de dados e probabilidade</theme>
     </m3_resource>
-    <m3_resource>
-        <id>1219</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Janelas em Arco Ferradura</title>
-        <duration></duration>
-        <synopsis>Este software ilustra um processo de otimização, utilizando polinômios do segundo grau. Considerada uma situação hipotética, o objetivo é encontrar, dentre as janelas com um determinado formato e de perímetro ﬁxo, aquela que tem a maior área. O formato aqui proposto para ser investigado é o de janelas com base retangular e topo em forma de arco ferradura. A área dessas janelas pode ser estabelecida como uma função que é um polinômio do segundo grau com domínio restrito. O caminho de investigação proposto parte da percepção visual dos valores através de gráﬁcos dinâmicos e induz ao “modelamento” do problema por funções.</synopsis>
-        <objectives>Despertar a percepção da variação de valores da função de uma variável
-Modelar matematicamente uma situação por meio de uma função, determinando restrições de seu domínio
-Investigar o comportamento de uma função polinomial do segundo grau – seus valores máximos e mínimos
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Sueli Costa, Cristiano Torrezan, Claudina I. Rodrigues
-
-</authors>
-        <tags>problema isoperimétrico; máximo; software educacional; Área; janela; Perímetro; otimização</tags>
-        <theme>geometria e medidas</theme>
-    </m3_resource>
+    
     <m3_resource>
         <id>1220</id>
         <media>Software</media>
@@ -5444,7 +5425,7 @@ Sueli I. R. Costa, Leonardo Barichello
         <media>Software</media>
         <serie>null</serie>
         <title>Aviões e Matrizes</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Você consegue imaginar que relações existem entre matrizes e rotas aéreas? Neste software, seus alunos verão que as matrizes podem ser utilizadas na análise e na elaboração de malhas aéreas, aplicação que constitui um exemplo prático do produto de matrizes. Além disso, para estabelecer essas relações de maneira simplificada, será introduzido o conceito de grafo.</synopsis>
         <objectives>Mostrar uma aplicação muito importante de matrizes à análise de grafos; 
 Reforçar o significado da multiplicação de matrizes
@@ -5460,49 +5441,11 @@ Marcelo Firer
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
-        <id>1222</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Gráficos Estatísticos: Barras e Setores</title>
-        <duration></duration>
-        <synopsis>Este software permite a construção de gráficos de barras e de setores a partir de uma tabela de dados digitada pelo usuário.</synopsis>
-        <objectives>Representar variáveis graficamente
-Construir e interpretar gráficos de barras e de setores
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Leonardo Barichello, Matias R. Costa, Laura Leticia Ramos Rigo
-
-</authors>
-        <tags>variáveis quantitativas; variáveis aleatórias; gráfico de setores; variáveis qualitativas; gráfico de barras; Estatística</tags>
-        <theme>análise de dados e probabilidade</theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1223</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Casas, Pombos e Matemática</title>
-        <duration></duration>
-        <synopsis>Neste software apresentamos o Princípio da Casa dos Pombos e sugerimos três atividades com aplicações variadas: uma aplicação geométrica, uma aplicação combinatória e outra em contexto de Teoria dos Números elementar.</synopsis>
-        <objectives>Apresentar aos alunos o Princípio da Casa dos Pombos na versão simples e generalizada
-Apresentar uma variedade não trivial de aplicações desse princípio em contextos diversiﬁcados
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Marcelo Firer
-
-</authors>
-        <tags>príncipio das gavetas de dirichilet; software educacional; princípio da casa dos pombos</tags>
-        <theme>análise de dados e probabilidade</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1224</id>
         <media>Software</media>
         <serie>null</serie>
         <title>Como montar sua dieta</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software aprenderemos a resolver alguns problemas de programação linear. Tratam-se de problemas bastante úteis em diversas aplicações práticas, pois permitem determinar o valor máximo ou mínimo de funções que modelam problemas reais, por exemplo, o cálculo do menor custo possível para determinada dieta.</synopsis>
         <objectives>Entender o que é um problema de programação linear e como resolvê-lo através da inspeção de seus vértices; 
 Aprender como escrever restrições lineares utilizando desigualdades; 
@@ -5522,7 +5465,7 @@ Leonardo Barichello, Cristiano Torezzan e Sueli R. Costa
         <media>Software</media>
         <serie>null</serie>
         <title>Corrida no Lago</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Utilizar conhecimentos de Funções, Geometria Plana e Física para resolver um problema de otimização.</synopsis>
         <objectives>Utilizar conhecimentos de Funções, Geometria Plana e Física para resolver um problema de otimização
 </objectives>
@@ -5540,7 +5483,7 @@ Leonardo Barichello
         <media>Software</media>
         <serie>null</serie>
         <title>Determinantes e Áreas</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Este software permite aos alunos interpretarem geometricamente o conceito de determinantes de matrizes 2×2, aproximando-se da deﬁnição de determinantes de matrizes como forma de medir volumes de paralelepípedos.</synopsis>
         <objectives>Veriﬁcar a relação entre áreas e determinantes; 
 Investigar como as operações elementares com linhas de matrizes afetam a área de paralelogramos representados por estas matrizes.
@@ -5578,7 +5521,7 @@ Marcelo Firer
         <media>Software</media>
         <serie>null</serie>
         <title>Embaralhando Imagens</title>
-        <duration>2 aulas</duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Partindo de um exemplo simples, um quebra-cabeças com 9 peças, exploramos o conceito de permutação, não do ponto de vista de contagem, mas da sua estrutura interna de ciclos. A partir dessa estrutura, vemos o que se pode aprender sobre a ordem da permutação, ou seja, sobre o número de vezes que ela tem de ser repetida para se retornar a posição inicial.</synopsis>
         <objectives>Analisar permutações de elementos do ponto de vista de sua estrutura interna
 Introduzir de maneira sutil a noção de grupo de permutação
@@ -5591,69 +5534,14 @@ Marcelo Firer
 
 </authors>
         <tags>grupo; permutações; mmc; software educacional; embaralhamento</tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1229</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Grafos e Matrizes</title>
-        <duration></duration>
-        <synopsis>Este software é capaz de exibir dinamicamente a matriz de adjacência, suas potências e somas de potências, de um grafo montado pelo usuário.</synopsis>
-        <objectives>Permitir aos alunos investigar a relação entre grafos e matrizes; 
-Analisar grafos através de sua matriz de adjacência, suas potências e somas de potências; 
-Resolver problemas envolvendo grafos.</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Leonardo Barichello, Matias Costa
-
-</authors>
-        <tags>grafo; multiplicação; matriz; adjacência; ferramenta; soma; potência</tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1230</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Forma e Volume de Sólidos de Revolução</title>
-        <duration></duration>
-        <synopsis>De maneira bastante intuitiva, o software possibilita o desenho de um sólido de revolução cujo perfil bidimensional (geratriz) é formado pela união de segmentos de reta. É também apresentada uma maneira de calcular o volume deste sólido utilizando as fórmulas para o volume do cone e do cilindro.</synopsis>
-        <objectives>Apresentar uma maneira de construir e de calcular o volume de um sólido de revolução cuja geratriz é formada pela união de segmentos de reta
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-
-Leonardo Barichello
-Matias Costa</authors>
-        <tags>cilindro; software educacional; volume; cone; sólidos revolução</tags>
-        <theme>geometria e medidas</theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1231</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Geometria do Táxi - Distâncias</title>
-        <duration></duration>
-        <synopsis>O nome “geometria do táxi”, como é conhecida a geometria aqui apresentada, vem da associação com a ideia de “trafegar por ruas”. A distância entre dois pontos no plano cartesiano é calculada assumindo-se que só se possa fazer trajetos horizontais e verticais. Na sua definição a função módulo aparece de modo natural. Nas atividades propostas o aluno escolhe quais são seus pontos de referência no mapa (sua casa, a escola etc.) e é solicitado a calcular e comparar as distâncias do táxi e euclidiana entre estes pontos e outros.</synopsis>
-        <objectives>Consolidar o uso de coordenadas cartesianas no plano e introduzir uma nova noção de distância, na qual a função módulo aparece de forma natural
-Explorar a comparação entre as distâncias euclidiana e do táxi, por meio de coordenadas
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Leonardo Barichello, Claudina Izepe Rodrigues e Sueli I. Costa
-
-</authors>
-        <tags>taxista; métrica; distâncias; software educacional; táxi; geometria</tags>
-        <theme>geometria e medidas</theme>
+        <theme>Análise de dados e Probabilidade</theme>
     </m3_resource>
     <m3_resource>
         <id>1232</id>
         <media>Software</media>
         <serie>null</serie>
         <title>Medidas do Corpo: Gráfico de Dispersão</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, o aluno irá estudar análise exploratória de dados para duas variáveis: número do calçado e altura. A relação entre essas duas variáveis quantitativas será analisada através do chamado gráﬁco de dispersão e do coeﬁciente de correlação linear.</synopsis>
         <objectives>Analisar representação gráﬁca de dados estatísticos
 Familiarizar o aluno com gráﬁco de dispersão e análise estatística bivariada
@@ -5673,7 +5561,7 @@ Laura Letícia Ramos Rifo
         <media>Software</media>
         <serie>null</serie>
         <title>Medidas do Corpo - Gráficos Univariados</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, o aluno irá estudar um pouco de estatística descritiva utilizando dados de três variáveis: gênero, altura e número do calçado. Vamos explorar vários tipos diferentes de gráﬁcos de frequências para uma variável e suas características, bem como introduzir a noção de quantil. Este software faz parte de uma sequência de softwares de estatística que utilizam o mesmo conjunto de dados.</synopsis>
         <objectives>Analisar representação gráﬁca de dados estatísticos
 Familiarizar o aluno com gráﬁcos de barras, setores e histograma
@@ -5689,50 +5577,11 @@ Laura Leticia Ramos Rifo
         <theme>análise de dados e probabilidade</theme>
     </m3_resource>
     <m3_resource>
-        <id>1234</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Gráficos Estatísticos: Histograma</title>
-        <duration></duration>
-        <synopsis>Este software permite a construção de histogramas a partir de uma tabela de dados digitada pelo usuário, bem como a visualização dinâmica de algumas medidas-resumo e de quantis da amostra.</synopsis>
-        <objectives>Representar variáveis graficamente
-Construir e interpretar gráficos de barras e de setores
-Conhecer e investigar quantis
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Leonardo Barichello, Matias R. Costa, Laura Leticia Ramos Rigo
-
-</authors>
-        <tags>quantil; mediana; média; histograma; moda</tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1235</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Jogo dos Polinômios</title>
-        <duration></duration>
-        <synopsis>Este software em formato de jogo explora a relação entre o gráﬁco de funções polinomiais e sua expressão algébrica. Para marcar pontos no jogo, o aluno terá que encontrar funções polinomiais que correspondam aos gráﬁcos que aparecem na tela. As atividades estão organizadas em níveis crescentes de diﬁculdade e a qualquer momento o aluno pode solicitar uma dica para tentar responder ou mesmo suspender momentaneamente o jogo e ir para o modo aprender, onde poderá obter mais informações sobre maneiras de resolver os problemas.</synopsis>
-        <objectives>Identiﬁcar uma função polinomial através de seu gráﬁco; 
-Adquirir sensibilidade no tratamento gráﬁco de funções através da identiﬁcação de suas raízes; 
-Explorar funções polinomiais de grau maior que dois.</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Cristiano Torezzan
-
-</authors>
-        <tags>expressão algébrica; polinômios; jogo; multiplicidade; raízes; Gráficos</tags>
-        <theme>números e funções</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1236</id>
         <media>Software</media>
         <serie>null</serie>
         <title>Como comprar sua moto</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, o estudante simulará a compra de uma moto. Para isso, primeiramente será preciso guardar dinheiro na poupança e, depois, esse valor será dado como entrada na compra da moto. O restante do preço será ﬁnanciado. Para facilitar os cálculos dessa aquisição, serão necessários alguns conceitos de Progressão Geométrica.</synopsis>
         <objectives>Aplicar o conceito de juros compostos; 
 Introduzir o conceito de empréstimo sob juros; 
@@ -5751,7 +5600,7 @@ Samuel Rocha de Oliveira, Leonardo Barichello
         <media>Software</media>
         <serie>null</serie>
         <title>Explorando o Jogo do Máximo</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Esta unidade explora noções básicas do cálculo de probabilidades, tais como eventos e independência. O experimento aleatório considerado baseia-se no máximo obtido no lançamento de dois dados comuns.</synopsis>
         <objectives>Investigar, primeiramente através de uma abordagem frequentista e depois através do cálculo das probabilidades teóricas, um jogo no qual os participantes apostam na maior face obtida no lançamento de dois dados comuns.</objectives>
         <youtube_link></youtube_link>
@@ -5768,7 +5617,7 @@ Laura Letícia Ramos Rifo, Leonardo Barichello
         <media>Software</media>
         <serie>null</serie>
         <title>Medidas do Corpo: Box plot</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, o aluno irá estudar um exemplo de estatística descritiva utilizando medidas de três variáveis: gênero, altura e número do calçado. Vamos explorar a análise da relação entre duas variáveis, uma qualitativa e outra quantitativa, através do chamado gráﬁco de Box Plot.</synopsis>
         <objectives>Analisar representação gráﬁca de dados estatísticos
 Familiarizar o aluno com gráﬁco de Box Plot e análise estatística bivariada
@@ -5806,7 +5655,7 @@ Claudina Izepe Rodrigues, Leonardo Barichello e Rita Santos Guimarães</authors>
         <media>Software</media>
         <serie>null</serie>
         <title>Ondas Trigonométricas</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, estudamos fenômenos periódicos e aprendemos a modelar tais fenômenos variando os parâmetros de uma função seno do tipo f(x)=a*sen(b*x+c)+d. Os alunos verão que essa função pode ser aplicada para modelar as mais diversas situações, como, por exemplo, a rotação de uma roda gigante, as oscilações da maré ou o brilho de uma estrela.</synopsis>
         <objectives>Mostrar alguns fenômenos descritos por funções trigonométricas
 Usar dados experimentais ou observacionais e fazer ajustes aproximados a funções elementares
@@ -5821,51 +5670,11 @@ Leonardo Barichello, Samuel Rocha de Oliveira
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
-        <id>1241</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Otimização do cone</title>
-        <duration></duration>
-        <synopsis>Neste software, os alunos explorarão um problema de otimização de volume de cones primeiramente através da análise de casos especíﬁcos e, depois, através da determinação da função que fornece os volumes dos cones e a análise de seu gráﬁco.</synopsis>
-        <objectives>Explorar um problema de otimização de volume de cones construídos a partir de discos de papel
-Descrever um problema prático por meio de uma função
-Analisar gráﬁcos de funções
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Sueli I. R. Costa, Leonardo Barichello e Cristiano Torezzan
-
-</authors>
-        <tags>software educacional; volume; cone; disco; otimização; Função.; geratriz</tags>
-        <theme>análise de dados e probabilidade</theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1242</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Otimização de Janelas com Topo Triangular</title>
-        <duration></duration>
-        <synopsis>Este software ilustra um processo de otimização utilizando polinômios do segundo grau. Nele, é considerada uma situação hipotética em que o objetivo é encontrar a janela com topo triangular que tem a maior área com um perímetro ﬁxo. As funções que descrevem estas situações são polinômios do segundo grau com domínio restrito. O caminho de investigação proposto parte da percepção visual dos valores por meio de gráﬁcos dinâmicos e induz o “modelamento” do problema por funções.</synopsis>
-        <objectives>Despertar a percepção da variação de valores de uma função de uma variável
-Modelar matematicamente uma situação por meio de uma função determinando restrições de seu domínio
-Investigar o comportamento de função polinomial do segundo grau – valores máximos e mínimos
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Sueli I. R. Costa
-
-</authors>
-        <tags>vértice da parábola.; triângulo; otimização; software educacional; parábola; Função Quadrática; Área; janelas; Perímetro</tags>
-        <theme>análise de dados e probabilidade</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1243</id>
         <media>Software</media>
         <serie>null</serie>
         <title>Otimização de Janelas</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Este software ilustra um processo de otimização utilizando polinômios do segundo grau. Nele, é considerada uma situação hipotética em que o objetivo é encontrar a janela retangular que tem a maior área dentre as que tem um determinado formato e perímetro ﬁxo. As funções que descrevem estas situações são polinômios do segundo grau com domínio restrito.O caminho de investigação proposto parte da percepção visual dos valores por meio de gráﬁcos dinâmicos e induz o “modelamento” do problema por funções.</synopsis>
         <objectives>Despertar a percepção da variação de valores de uma função de uma variável
 Modelar matematicamente uma situação por meio de uma função determinando restrições de seu domínio
@@ -5885,7 +5694,7 @@ Sueli I. R. Costa
         <media>Software</media>
         <serie>null</serie>
         <title>Crescimento Populacional</title>
-        <duration>aula dupla</duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, o aluno vai explorar numérica e graficamente dois modelos matemáticos para descrever o crescimento populacional de seres vivos, o de Malthus e o de Verhulst.</synopsis>
         <objectives>Estudar dois modelos de crescimento populacional; 
 Explorar o crescimento exponencial de uma população – o modelo de Malthus; 
@@ -5902,80 +5711,11 @@ populacional.; Malthus; exponencial; modelo</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
-        <id>1245</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Probabilidade com Urnas</title>
-        <duration>aula dupla</duration>
-        <synopsis>Este software possibilita aos alunos explorar o cálculo de probabilidades envolvido em experimentos de extrações de bolinhas indistinguíveis, exceto pela cor, de uma urna. A primeira atividade, que introduz o conceito de independência entre eventos, consiste em realizar as extrações com reposição.
-Na segunda atividade, as extrações são realizadas sem reposição, sendo trabalhado o conceito de dependência entre eventos. A terceira atividade introduz um tipo específico de dependência entre os eventos através da chamada Urna de Polya.</synopsis>
-        <objectives>Investigar o comportamento aleatório de um jogo com extração de bolinhas de uma urna
-Ler e compreender gráficos de evolução temporal
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Laura Letícia Ramos Rifo, Mariana Sacrini Ayres Ferraz
-
-</authors>
-        <tags>urnas; urna sem reposição; software educacional; bolinhas; urna de polya; urna com reposição; Probabilidade</tags>
-        <theme>análise de dados e probabilidade</theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1246</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title></title>
-        <duration></duration>
-        <synopsis></synopsis>
-        <objectives></objectives>
-        <youtube_link></youtube_link>
-        <authors></authors>
-        <tags></tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1247</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Geometria do Táxi - Contagem</title>
-        <duration></duration>
-        <synopsis>O nome “geometria do táxi”, como é conhecida a geometria aqui apresentada, vem da associação com a ideia de “trafegar por ruas”. A distância entre dois pontos no plano cartesiano é medida pelo número de quadras percorridas no trajeto. Nas atividades propostas o aluno escolhe quais serão seus pontos de referência no mapa (sua casa, a escola etc.) e é solicitado a descobrir de quantas maneiras diferentes é possível se deslocar entre duas localidades fazendo um trajeto mínimo. À medida que a distância entre as localidades aumenta, a organização de contagem e ideias de combinação surgem naturalmente.</synopsis>
-        <objectives>Utilizar o sistema de coordenadas cartesianas no plano e a noção de distância do táxi para explorar de forma natural conceitos de contagem e combinatória
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Sueli I. R. Costa, Claudina I. Rodrigues
-
-</authors>
-        <tags>geomtria do taxista; Combinações; Princípio Fundamental da Contagem; software educacional; distâncias; Contagem</tags>
-        <theme>análise de dados e probabilidade</theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1248</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Geometria do Táxi - Formas Geométricas</title>
-        <duration></duration>
-        <synopsis>O nome “geometria do táxi”, como é conhecida a geometria aqui apresentada, vem da associação a trafegar por ruas. A distância entre dois pontos no plano cartesiano com uma malha quadriculada é medida pelo número de quadras percorridas no trajeto de um ponto ao outro. Nas atividades propostas o aluno escolhe no mapa as “esquinas” onde colocar quatro pontos de referência (sua casa, a escola, a casa de um amigo e a lanchonete) e é solicitado a considerar distância como o número mínimo de quadras a serem percorridas para se ir de um ponto a outro (distância do táxi). Depois é convidado a pensar no que corresponde aos conceitos de circunferência e círculo na geometria do táxi.</synopsis>
-        <objectives>Utilizar o sistema de coordenadas cartesianas no plano e a noção de distância do táxi para explorar as formas geométricas de circunferência e círculo na geometria do táxi.
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-Leonardo Barichello, Claudina Izepe Rodrigues, Sueli I. R. Costa
-
-</authors>
-        <tags>distância; taxista; métrica; circunferência.; geometria do táxi; círculo</tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
         <id>1249</id>
         <media>Software</media>
         <serie>null</serie>
         <title>Trigonometria e Halos</title>
-        <duration></duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>O software simula a emissão e refração de raios luminosos a fim de permitir a compreensão dos halos solares e lunares. Este software educacional assume como conhecida pelo usuário a Lei de Snell para refração da luz.</synopsis>
         <objectives>Investigar e compreender o fenômeno dos halos lunares e solares através de uma análise trigonométrica da refração de raios luminosos em certas formas geométricas
 </objectives>
@@ -6028,7 +5768,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 </authors>
         <tags>sequência de Fibonacci; Sequências e progressões</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1252</id>
@@ -6109,7 +5849,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cultura</serie>
         <title>Mundos imaginários</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Em uma certa noite, o garoto Morfeu adormece em sua cama, aqui na Terra, e acaba acordando em um mundo bastante diferente, em que tudo e todos têm duas naturezas que se manifestam simultaneamente e que coexistem entre si. É neste lugar que Morfeu encontra o sábio Tejaire, um hippie de meiaidade muito bem-humorado, com quem acaba descobrindo que alguns números na Matemática também contam com duas naturezas bastante distintas.</synopsis>
         <objectives>Descrever os números complexos enquanto raízes de polinômios, relacionando-os através do teorema fundamental da álgebra
 </objectives>
@@ -6126,14 +5866,14 @@ h2. Revisores
 *guia* Leonardo Barichello e Carol Bonturi
 </authors>
         <tags>Números complexos</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1256</id>
         <media>Áudio</media>
         <serie>Cultura</serie>
         <title>Pensando em Progressão Aritmética</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Esta é a história em que a jovem Alice faz amizade com um hippie chamado Tejaire. O encontro acontece quando Alice ouve uma música de Tejaire cuja letra diz respeito a outra Alice, mas muito parecida com a Alice da nossa ficção.</synopsis>
         <objectives>Desenvolver a proposta de interdisciplinaridade, relacionando conteúdos matemáticos a referências literárias; 
 Elaborar uma situação que propicie o estudo de progressões aritméticas.</objectives>
@@ -6157,7 +5897,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cultura</serie>
         <title>Pensando em Progressão Geométrica</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Alice reencontra seu mais novo amigo, o hippie Tejaire, que ela conheceu no áudio Pensando em Progressão Aritmética, e desta vez quer saber como a Alice daquela história voltou ao seu tamanho normal, após ter ficado pequeninha por ter bebido um líquido mágico.</synopsis>
         <objectives>Desenvolver a proposta de interdisciplinaridade, relacionando conteúdos matemáticos a referências literárias; 
 Elaborar uma situação que propicie o estudo de progressões geométricas
@@ -6207,7 +5947,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cultura</serie>
         <title>Problemas Gregos</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>De maneira geral, este áudio descreve três problemas geométricos famosos, ao mesmo tempo em que explora suas relações com assuntos diversos.</synopsis>
         <objectives>Descrever os três famosos problemas gregos, duplicação do cubo, quadratura do círculo e trissecção de ângulos, e um pouco da sua história
 </objectives>
@@ -6231,7 +5971,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cultura</serie>
         <title>Vampiros</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Uma moça está prestes a ser mordida por um terrível vampiro, o que fará dela uma vampira também. Apesar de não acreditar em tal transformação, ou mesmo em vampiros, a moça escuta com curiosidade aquele que a ameaça, intrigada com sua personalidade.</synopsis>
         <objectives>Estimar o crescimento populacional de uma suposta população de vampiros.
 </objectives>
@@ -6280,7 +6020,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cumpadis</serie>
         <title>6 graus de separação</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>O programa apresenta os  compadres em conversa com a  comadre Margarida sobre o a  hipótese de que todo o mundo  tem uma conexão com outro em  no máximo seis níveis de  separação.</synopsis>
         <objectives>Apresentar a famosa proposta de  que todo o mundo está  conectado em até de seis graus  interconexões.
 </objectives>
@@ -6326,7 +6066,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cumpadis</serie>
         <title>Tremores</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>O programa apresenta os compadres em conversa com a comadre Margarida sobre terremotos.</synopsis>
         <objectives>Apresentar algumas informações sobre terremotos e a escala logarítmica Richter que fornece o grau comparativo de amplitudes de terremotos
 </objectives>
@@ -6374,7 +6114,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cumpadis</serie>
         <title>Violência e Matemática</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>O programa apresenta uma  situação de assalto presenciado  por um dos compadres que  conversam sobre os dados  estatísticos da violência no Brasil.</synopsis>
         <objectives>Entender a analisar alguns  dados estatísticos
 </objectives>
@@ -6441,7 +6181,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 </authors>
         <tags>Combinação; complexidade computacional.; ordem de grandeza</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1269</id>
@@ -6466,7 +6206,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 </authors>
         <tags>proporção; Estimativa; regra de três.</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1270</id>
@@ -6517,9 +6257,8 @@ h2. Revisores
 *conteúdo* Cristiano Torezzan
 *guia* Samuel Rocha de Oliveira
 </authors>
-        <tags>conversão
-de unidades; proporção; Estimativa</tags>
-        <theme></theme>
+        <tags>conversão de unidades; proporção; Estimativa</tags>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1272</id>
@@ -6544,7 +6283,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 </authors>
         <tags>estimativas; empacotamento esférico.; áreas e volumes.</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1273</id>
@@ -7192,7 +6931,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Problemas e Soluções</serie>
         <title>Vinte e um divisores naturais</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Uma situação fictícia chama a atenção para diferentes escalas de temperatura. Ao final um pequeno problema é colocado e resolvido.</synopsis>
         <objectives>Entender e resolver um problema contextualizado sobre as diferentes escalas de temperatura.</objectives>
         <youtube_link></youtube_link>
@@ -8321,7 +8060,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Radio</serie>
         <title>Redes de distribuição</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Durante sua programação, a rádio Cangália discute sobre redes de distribuição, faz uma piada que envolve o conceito de números binários e trata de uma frase de efeito que envolve álgebra e amor..</synopsis>
         <objectives>Mostrar uma aplicação de função de potência fracionária; 
 Mostrar relações entre área e volume de uma esfera.</objectives>
@@ -8338,14 +8077,14 @@ h2. Revisores
 *guia* 
 </authors>
         <tags>Geometria esférica; Funcão potência; números binários</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1349</id>
         <media>Áudio</media>
         <serie>Radio</serie>
         <title>Redes e Sólidos</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>Durante sua programação, a rádio Cangália discute sobre as redes de distribuição, demonstra o Teorema de Euler e faz uma piada que envolve o conceito de números binários.</synopsis>
         <objectives>Mostrar a importância das funções de potência fracionária no meio científico
 Demonstrar o Teorema de Euler
@@ -8483,7 +8222,7 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Radio</serie>
         <title>Tijolo de Euler</title>
-        <duration></duration>
+        <duration>9 min</duration>
         <synopsis>O programa trata de tijolos, com  um breve histórico e suas  propriedades. Além disso, trata  de problema famoso sobre o  tijolo, no formato de um  paralelepípedo com os três lados  que tenham medidas inteiras e as  diagonais também inteiras.</synopsis>
         <objectives>Apresentar o problema de  obter um paralelepípedo com  medidas de lados e diagonais  inteiras.</objectives>
         <youtube_link></youtube_link>
@@ -8498,9 +8237,8 @@ h2. Revisores
 *conteudo* 
 *guia* Samuel Rocha de Oliveira
 </authors>
-        <tags>Diagonal de 
-um paralelepípedo.; Geometria Espacial</tags>
-        <theme></theme>
+        <tags>Diagonal de um paralelepípedo.; Geometria Espacial</tags>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1356</id>
@@ -8652,23 +8390,6 @@ h2. Revisores
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
-        <id>1363</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Construção de sólidos de revolução</title>
-        <duration>aula dupla</duration>
-        <synopsis>Este software permite que você construa sólidos de revolução a partir do seu perfil e visualize dinamicamente o objeto tridimensional resultante.
-Os perfis podem ser compostos por segmentos de reta e arcos de circunferência. Apesar de parecer pouco, com estes recursos você será capaz de construir diversos sólidos, como garrafas, embalagens, a representação de alguns edifícios, etc.</synopsis>
-        <objectives>Permitir aos alunos desenhar objetos de revolução no computador.</objectives>
-        <youtube_link></youtube_link>
-        <authors>h3. Autores
-
-Leonardo Barichello
-Matias Costa</authors>
-        <tags>geometria analítica; Sólidos de Revolução</tags>
-        <theme>geometria e medidas</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1364</id>
         <media>Vídeo</media>
         <serie>Atividades</serie>
@@ -8682,7 +8403,7 @@ Linearizar gráficos através de logaritmos. </objectives>
         <authors>Samuel Rocha de Oliveira
 Patrícia Roman</authors>
         <tags>radiciação; desmoronamento; potenciação; avalanche; Logaritmo</tags>
-        <theme></theme>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1365</id>
@@ -8843,27 +8564,11 @@ Wilson Roberto Rodrigues</authors>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
-        <id>1375</id>
-        <media>Software</media>
-        <serie>null</serie>
-        <title>Desenhando padrões no plano</title>
-        <duration>aula dupla</duration>
-        <synopsis>Este software permite desenhar padrões geométricos muito simples baseados em rotações e translações.</synopsis>
-        <objectives>Obter padrões geométricos simples a partir de rotações e translações; 
-Investigar as propriedades desses padrões; 
-Familiarizar com vetores, simetria e transformações no plano.</objectives>
-        <youtube_link></youtube_link>
-        <authors>Leonardo Barichelo
-Samuel Rocha de Oliveira</authors>
-        <tags>vetores; Simetrias; lógica; Geometria Plana</tags>
-        <theme>geometria e medidas; números e funções</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1376</id>
         <media>Software</media>
         <serie>null</serie>
         <title>As curvas de Lissajous</title>
-        <duration>aula dupla</duration>
+        <duration>Uma aula dupla</duration>
         <synopsis>Neste software, o aluno utilizará equações paramétricas para compreender como funcionam as curvas de Lissajous, que possuem um forte apelo visual. Também serão estudados os contextos em que elas podem ser aplicadas.</synopsis>
         <objectives>Entender um exemplo de combinação de funções; 
 Introduzir e interpretar curvas parametrizadas; 
@@ -8915,8 +8620,8 @@ Marcelo de Mello</authors>
         <youtube_link></youtube_link>
         <authors>Samuel Rocha de Oliveira
 Patrícia Roman</authors>
-        <tags></tags>
-        <theme></theme>
+        <tags>Funções quadráticas; Comprimentos, áreas e volumes</tags>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1380</id>
@@ -8935,52 +8640,25 @@ Fabricio de Paula Silva</authors>
         <theme>análise de dados e probabilidade</theme>
     </m3_resource>
     <m3_resource>
-        <id>1381</id>
-        <media>Áudio</media>
-        <serie>null</serie>
-        <title></title>
-        <duration></duration>
-        <synopsis></synopsis>
-        <objectives></objectives>
-        <youtube_link></youtube_link>
-        <authors></authors>
-        <tags></tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
         <id>1382</id>
         <media>Vídeo</media>
         <serie>Atividades</serie>
         <title>Caixa de papel</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Este vídeo apresenta a atividade na qual, os alunos, trabalhando em grupo, construirão no mínimo seis caixas de papel e tentarão descobrir qual delas tem maior volume. Só depois, fazendo os cálculos, verificarão se sua intuição estava certa. Por fim, eles usarão os dados coletados para esboçar um gráfico do volume obtido em função da medida x do corte usado na confecção da caixa, sendo novamente instigados a responder: qual o maior volume possível?</synopsis>
         <objectives>Discutir com o aluno o conceito de volume aliado ao comportamento de funções.</objectives>
         <youtube_link>_8M7Su-gK3o</youtube_link>
         <authors>Samuel Rocha de Oliveira
 Patricia Roman</authors>
-        <tags>funções
-polinomiais;  Unidades de medida; Problemas de otimização.; polinômios; Gráficos e Propriedades; Geometria Espacial</tags>
-        <theme></theme>
-    </m3_resource>
-    <m3_resource>
-        <id>1383</id>
-        <media>Vídeo</media>
-        <serie>Atividades</serie>
-        <title></title>
-        <duration></duration>
-        <synopsis></synopsis>
-        <objectives></objectives>
-        <youtube_link></youtube_link>
-        <authors></authors>
-        <tags></tags>
-        <theme></theme>
+        <tags>funções polinomiais;  Unidades de medida; Problemas de otimização.; polinômios; Gráficos e Propriedades; Geometria Espacial</tags>
+        <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
         <id>1384</id>
         <media>Vídeo</media>
         <serie>Atividades</serie>
         <title>Montanhas geométricas</title>
-        <duration></duration>
+        <duration>10 min</duration>
         <synopsis>Este vídeo apresenta a atividade na qual o aluno construirá diversos polígonos usando papelão e areia. O objetivo é construir o que chamaremos de “Montanhas Geométricas”. Esses polígonos possuem diversos traços peculiares, que são, na verdade, o conjunto de pontos que são centros de circunferências que tangenciam, ao menos, dois lados. A proposta é que, sem conhecerem esse resultado, os alunos construam hipóteses sobre a formação de areia. Por fim, o professor deverá discutir as hipóteses criadas pelos alunos buscando formalizá-las, utilizando para isso o conhecimento prévio que eles possuem.</synopsis>
         <objectives>Elaborar, verificar e formular hipóteses sobre um fenômeno observado; 
 Aplicar conceitos básicos de gometria plana e espacial.</objectives>
@@ -8988,14 +8666,14 @@ Aplicar conceitos básicos de gometria plana e espacial.</objectives>
         <authors>Samuel Rocha de Oliveira
 Patricia Roman</authors>
         <tags>geometria analítica; Geometria Plana; Semelhança de triângulos; distâncias</tags>
-        <theme></theme>
+        <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
         <id>1385</id>
         <media>Vídeo</media>
         <serie>Atividades</serie>
         <title>Padrões no plano</title>
-        <duration></duration>
+        <duration>10 min</duration>    
         <synopsis>O vídeo apresenta uma atividade na qual os alunos, trabalhando em grupo, deverão construir figuras em papel quadriculado a partir de sequências de comandos. Caberá ao professor relacionar as figuras com as construções vetoriais, cujas propriedades e definição podem ser explicadas matematicamente.</synopsis>
         <objectives>Obter padrões geométricos em uma malha quadriculada a partir de regras algébricas; 
 Familiarizar o aluno com o conceito de vetores no plano.</objectives>
@@ -9003,7 +8681,7 @@ Familiarizar o aluno com o conceito de vetores no plano.</objectives>
         <authors>Samuel Rocha de Oliveira
 Patricia Roman</authors>
         <tags>Algoritmo; Padrões matemáticos; Simetrias</tags>
-        <theme></theme>
+        <theme>Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1386</id>
