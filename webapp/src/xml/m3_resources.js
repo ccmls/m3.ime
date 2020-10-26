@@ -269,7 +269,7 @@ Estimular o uso de tabelas e gráficos de frequências para analisar dados sobre
 </objectives>
         <youtube_link></youtube_link>
         <authors>Samuel Rocha de Oliveira</authors>
-        <tags>Proporcionalidade direta; proporção; experimento; funil; Razão; Proporcionalidade inversa; fluidos; Princípio da Conservação; vazão; planejamento de experimentos; Áreas; volumes; Comprimentos; Geometria Espacial</tags>
+        <tags>Proporcionalidade direta; Proporção; Experimento; Funil; Razão; Proporcionalidade inversa; Fluidos; Princípio da Conservação; Vazão; Planejamento de experimentos; Áreas; Volumes; Comprimentos; Geometria Espacial</tags>
         <theme>análise de dados e probabilidade; geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -285,7 +285,7 @@ Estudar polígonos regulares e suas linhas de simetria
 </objectives>
         <youtube_link></youtube_link>
         <authors>Samuel Rocha de Oliveira, Rita Santos Guimarães</authors>
-        <tags>experimento; polígonos; ângulos; Geometria Plana; Simetrias de figuras planas ou espaciais; espelho; reflexão; arranjo de moléculas; Homem Vitruviano</tags>
+        <tags>Experimento; Polígonos; Ângulos; Geometria Plana; Simetrias de figuras planas ou espaciais; Espelho; Reflexão; Arranjo de moléculas; Homem Vitruviano</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -300,7 +300,7 @@ Explorar esqueletos de poliedros convexos, criando hipóteses sobre rigidez
 </objectives>
         <youtube_link></youtube_link>
         <authors>Cristiano Torezzan</authors>
-        <tags>Geometria Espacial; contrução; experimento; palitos; Geometria Métrica; sólidos; Teorema de Cauchy; Poliedro de Steffen; poliedros; Conjectura de Euler; Características das figuras geométricas planas e espaciais</tags>
+        <tags>Geometria Espacial; Contrução; Experimento; Palitos; Geometria Métrica; Sólidos; Teorema de Cauchy; Poliedro de Steffen; Poliedros; Conjectura de Euler; Características das figuras geométricas planas e espaciais</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -315,7 +315,7 @@ Identificar padrões
 </objectives>
         <youtube_link></youtube_link>
         <authors>Leonardo Barichello</authors>
-        <tags>Lógica e raciocínio lógico; conjuntos; condições; experimento; condição; lógica; Lógica e Números; Noções de Lógica.</tags>
+        <tags>Lógica e raciocínio lógico; Conjuntos; Condições; Experimento; Condição; Lógica; Lógica e Números; Noções de Lógica.</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -330,7 +330,7 @@ Estudar relações entre pontos e retas experimental e analiticamente
 </objectives>
         <youtube_link></youtube_link>
         <authors>Marcelo Firer, Kauan Pastini Paula Leite</authors>
-        <tags>ponto; Geometria Plana; experimento; reflexão; otimização; geometria analítica; distâncias; Características das figuras geométricas planas; retas; Relações métricas nos triângulos; perpendicularidade</tags>
+        <tags>Ponto; Geometria Plana; experimento; Reflexão; Otimização; Geometria analítica; Distâncias; Características das figuras geométricas planas; Retas; Relações métricas nos triângulos; Perpendicularidade</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>

@@ -232,9 +232,9 @@ function DetalhesRecurso() {
                             {resource.tags.split(';').map((element, index) => 
                                 {
                                     if (index !== resource.tags.split(';').length - 1) {
-                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element};</li></p>
+                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element.toLowerCase()};</li></p>
                                     } else {
-                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element}.</li></p>
+                                        return <p key={element} style={{paddingLeft: "0px"}}><li>{element.toLowerCase()}.</li></p>
                                     }
                                 }
                             )}
@@ -434,13 +434,13 @@ const DetalhesAudio = ({resource, resourceFiles}) => {
         <>  
             <h6> Primeiro módulo </h6>
             <audio controls style={{paddingTop: "10px"}}>
-                <source src="horse.mp3" type="audio/mpeg"/>
+                <source src={`https://m3.ime.unicamp.br/${dirnameType8}/${basenameType8}`} type="audio/mpeg"/>
                 Your browser does not support the audio element.
             </audio>
 
             <h6 style={{paddingTop: "20px"}}> Segundo módulo </h6>
             <audio controls style={{paddingTop: "10px"}}>
-                <source src="horse.mp3" type="audio/mpeg"/>
+                <source src={`https://m3.ime.unicamp.br/${dirnameType9}/${basenameType9}`} type="audio/mpeg"/>
                 Your browser does not support the audio element.
             </audio>
 

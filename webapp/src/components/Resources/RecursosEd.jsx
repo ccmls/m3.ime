@@ -237,9 +237,9 @@ function RecursosEd() {
                             {resource.tags.split(';').map((element, index) => 
                                 {
                                     if (index !== resource.tags.split(';').length - 1) {
-                                        return <p key={element}><li>{element};</li></p>
+                                        return <p key={element}><li>{element.toLowerCase()};</li></p>
                                     } else {
-                                        return <p key={element}><li>{element}.</li></p>
+                                        return <p key={element}><li>{element.toLowerCase()}.</li></p>
                                     }
                                 }
                             )}

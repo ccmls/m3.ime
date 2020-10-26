@@ -222,3 +222,10 @@
    top: 0;
    width: 100%;
 }
+
+
+/* Para a exibição dos players de audio */
+
+audio:focus {
+    outline: none;
+}
