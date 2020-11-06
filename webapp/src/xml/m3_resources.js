@@ -6927,29 +6927,6 @@ h2. Revisores
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
-        <id>1300</id>
-        <media>Áudio</media>
-        <serie>Problemas e Soluções</serie>
-        <title>Vinte e um divisores naturais</title>
-        <duration>9 min</duration>
-        <synopsis>Uma situação fictícia chama a atenção para diferentes escalas de temperatura. Ao final um pequeno problema é colocado e resolvido.</synopsis>
-        <objectives>Entender e resolver um problema contextualizado sobre as diferentes escalas de temperatura.</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-*conteudo* Carlos Roberto da Silva, Lorival Pereira Martins e Marcelo de Mello
-*roteiro* Gabriel Ishida
-*guia* Samuel Oliveira
-
-h2. Revisores
-				
-*conteudo* 
-*guia* Samuel Rocha de Oliveira
-</authors>
-        <tags>Função Afim</tags>
-        <theme>números e funções</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1301</id>
         <media>Áudio</media>
         <serie>Problemas e Soluções</serie>
@@ -8610,20 +8587,6 @@ Marcelo de Mello</authors>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
-        <id>1379</id>
-        <media>Vídeo</media>
-        <serie>Atividades</serie>
-        <title>Caixa de papel</title>
-        <duration>8 minutos</duration>
-        <synopsis>Este vídeo apresenta a atividade na qual, os alunos, trabalhando em grupo, construirão no mínimo seis caixas de papel e tentarão descobrir qual delas tem maior volume. Só depois, fazendo os cálculos, verificarão se sua intuição estava certa. Por fim, eles usarão os dados coletados para esboçar um gráfico do volume obtido em função da medida x do corte usado na confecção da caixa, sendo novamente instigados a responder: qual o maior volume possível?</synopsis>
-        <objectives>Discutir com o aluno o conceito de volume aliado ao comportamento de funções.</objectives>
-        <youtube_link></youtube_link>
-        <authors>Samuel Rocha de Oliveira
-Patrícia Roman</authors>
-        <tags>Funções quadráticas; Comprimentos, áreas e volumes</tags>
-        <theme>Geometria e Medidas</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1380</id>
         <media>Experimento</media>
         <serie>null</serie>
@@ -8722,7 +8685,7 @@ Adolfo Maia</authors>
         <tags>relações; conjuntos; Funções; Gráficos e funções</tags>
         <theme>números e funções</theme>
     </m3_resource>
-</m3_resources>
+</root>
 `
 
 export default m3_resources
