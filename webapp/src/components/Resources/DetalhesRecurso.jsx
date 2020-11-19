@@ -15,6 +15,11 @@ import iconVideos from '../../assets/icons - Home/icon-videos.png';
 import iconSoftwares from '../../assets/icons - Home/icon-softwares.png';
 import iconAudios from '../../assets/icons - Home/icon-audios.png';
 
+
+const {m3_site} = require('../../xml/m3_config.js');
+const {m3_site_files} = require('../../xml/m3_config.js');
+const {m3_site_software} = require('../../xml/m3_config.js');
+
 function DetalhesRecurso() {
 
     // O history funciona como uma pilha para armazenar as rotas e o params contém o id informado na rota atual
@@ -285,7 +290,7 @@ function DetalhesRecurso() {
                     {/* Botão de compartilhamento do twitter */}
                     <div className="centerContent" style={{paddingTop: "40px"}}>
                         <div className="selfCenter">
-                            <TwitterShareButton url={`https://m3.ime.unicamp.br/recursos/${resource.id}`} options={{
+                            <TwitterShareButton url={`{m3_site}/recursos/${resource.id}`} options={{
                                 text: '#M3',
                                 via: 'matematicam3',
                                 size: 'large',
@@ -330,9 +335,9 @@ const DetalhesExperimento = ({resource, resourceFiles}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType1}/${basenameType1}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`${m3_site_files}${dirnameType1}/${basenameType1}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType2}/${basenameType2}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`${m3_site_files}${dirnameType2}/${basenameType2}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
@@ -341,16 +346,16 @@ const DetalhesExperimento = ({resource, resourceFiles}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType3}/${basenameType3}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`${m3_site_files}${dirnameType3}/${basenameType3}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType4}/${basenameType4}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`${m3_site_files}${dirnameType4}/${basenameType4}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Folha do aluno </h3>
             <p> 
                 Apenas uma versão, que deve ser impressa, fotocopiada e distribuída aos alunos, mas que pode também ser visualizada em tela.
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType5}/${basenameType5}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`${m3_site_files}${dirnameType5}/${basenameType5}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
             </p>
         </>
     )
@@ -382,12 +387,12 @@ const DetalhesVideo = ({resource, resourceFiles}) => {
 
             <h3 style={{paddingTop: "40px"}}> Vídeo </h3>
             <p> 
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType6}/${basenameType6}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Baixar vídeo completo </a>
+                — <a href={`${m3_site_files}${dirnameType6}/${basenameType6}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Baixar vídeo completo </a>
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`${m3_site_files}${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
@@ -396,7 +401,7 @@ const DetalhesVideo = ({resource, resourceFiles}) => {
 const DetalhesSoftware = ({resource, resourceFiles}) => {
     return(
         <>
-            <a href={`https://m3.ime.unicamp.br/media/software/${resource.id}/`} target="_blank" rel="noopener noreferrer">
+            <a href={`${m3_site_software}${resource.id}/`} target="_blank" rel="noopener noreferrer">
                 <Button className="button" style={{paddingTop: "20px"}}> 
                     <p> ACESSAR O SOFTWARE </p> 
                 </Button>
@@ -411,9 +416,9 @@ const DetalhesSoftware = ({resource, resourceFiles}) => {
                 <br/>
                 A segunda, para visualização em tela.
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${resource.id}/guia/impressao.pdf`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
+                — <a href={`${m3_site_software}${resource.id}/guia/impressao.pdf`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para impressão </a>
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${resource.id}/guia/tela.pdf`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`${m3_site_software}${resource.id}/guia/tela.pdf`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )
@@ -421,42 +426,62 @@ const DetalhesSoftware = ({resource, resourceFiles}) => {
 
 const DetalhesAudio = ({resource, resourceFiles}) => {
 
+
+	
+
     const dirnameType7 = resourceFiles.find(file => file.type === "7").dirname;
     const basenameType7 = resourceFiles.find(file => file.type === "7").basename;
 
     const dirnameType8 = resourceFiles.find(file => file.type === "8").dirname;
     const basenameType8 = resourceFiles.find(file => file.type === "8").basename;
 
-    const dirnameType9 = resourceFiles.find(file => file.type === "9").dirname;
-    const basenameType9 = resourceFiles.find(file => file.type === "9").basename;
+	var dirnameType9 = null;
+	var basenameType9 = null;
+	var ftype9 = false;
+
+	if ( resourceFiles.findIndex(file => file.type === "9")>-1 )
+	{
+		dirnameType9 = resourceFiles.find(file => file.type === "9").dirname;
+		basenameType9 = resourceFiles.find(file => file.type === "9").basename;
+		ftype9 = true;
+	}
 
     return(
         <>  
-            <h6> Primeiro módulo </h6>
+			{ftype9 ? (<h6> Primeiro módulo </h6>) : (<h6> Módulo Único</h6> )}
             <audio controls style={{paddingTop: "10px"}}>
-                <source src={`https://m3.ime.unicamp.br/${dirnameType8}/${basenameType8}`} type="audio/mpeg"/>
+                <source src={`${m3_site_files}${dirnameType8}/${basenameType8}`} type="audio/mpeg"/>
                 Your browser does not support the audio element.
             </audio>
-
-            <h6 style={{paddingTop: "20px"}}> Segundo módulo </h6>
-            <audio controls style={{paddingTop: "10px"}}>
-                <source src={`https://m3.ime.unicamp.br/${dirnameType9}/${basenameType9}`} type="audio/mpeg"/>
-                Your browser does not support the audio element.
-            </audio>
+			{(() => {
+				if (ftype9) {
+					return (
+					<span>
+					<h6 style={{paddingTop: "20px"}}> Segundo módulo </h6>
+					<audio controls style={{paddingTop: "10px"}}>
+						<source src={`${m3_site_files}${dirnameType9}/${basenameType9}`} type="audio/mpeg"/>
+						Your browser does not support the audio element.
+					</audio>
+					</span>
+				)
+				}
+			})()}
+				
 
             <h3 style={{paddingTop: "40px"}}> Sinopse </h3>
             <p> {resource.synopsis} </p>
 
-            <h3 style={{paddingTop: "40px"}}> Áudios </h3>
+			{ ftype9 ? (<h3 style={{paddingTop: "40px"}}> Áudios </h3>) : (<h3 style={{paddingTop: "40px"}}> Áudio </h3>) }
             <p> 
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType8}/${basenameType8}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Primeiro módulo </a>
+				{!ftype9 && <span>— <a href={`${m3_site_files}${dirnameType8}/${basenameType8}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Módulo único</a></span>}
+				{ftype9 && <span>— <a href={`${m3_site_files}${dirnameType8}/${basenameType8}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Primeiro módulo </a></span>}
                 <br/>
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType9}/${basenameType9}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Segundo módulo </a>
+				{ftype9 && <span>— <a href={`${m3_site_files}${dirnameType9}/${basenameType9}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Segundo módulo </a></span>}
             </p>
 
             <h3 style={{paddingTop: "40px"}}> Guia do professor </h3>
             <p> 
-                — <a href={`https://m3.ime.unicamp.br/${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
+                — <a href={`${m3_site_files}${dirnameType7}/${basenameType7}`} target="_blank" rel="noopener noreferrer" className= "downloads"> Versão para tela </a>
             </p>
         </>
     )

@@ -89,11 +89,21 @@ function RecursosEd() {
         )
 
         if (filterValue) {
-            filterValue.split(' ').forEach(
+            /* Original 
+			filterValue.split(' ').forEach(
                 function(value) {
                     returnArray = returnArray.filter(element => 
                         element.media.toLowerCase().includes(filtersMapping[value].toLowerCase()) ||
                         element.tags.toLowerCase().includes(filtersMapping[value].toLowerCase())
+                    )
+                }
+            )
+			*/
+			filtersMapping[filterValue].split(',').forEach(
+                function(value) {
+                    returnArray = returnArray.filter(element => 
+                        element.media.toLowerCase().includes(value.trim().toLowerCase()) ||
+                        element.tags.toLowerCase().includes(value.trim().toLowerCase())
                     )
                 }
             )

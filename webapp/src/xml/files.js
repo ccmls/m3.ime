@@ -5,7274 +5,7197 @@ const files =
         <id_resource>1007</id_resource>
         <id_file>5559</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f185664a198b1.52342819.pdf</basename>
+        <dirname>1007</dirname>
+        <basename>duplicacao_do_cubo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1025</id_resource>
         <id_file>5667</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1856a3961fe6.17487794.pdf</basename>
+        <dirname>1025</dirname>
+        <basename>poligonos_e_circunferencia---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1032</id_resource>
         <id_file>5709</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1856ad8928f6.85585260.pdf</basename>
+        <dirname>1032</dirname>
+        <basename>quanto_voce_tem_de_pele---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1361</id_resource>
         <id_file>6999</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f19b3e93c86d1.84331829.pdf</basename>
+        <dirname>1361</dirname>
+        <basename>torres_de_hanoi---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>995</id_resource>
         <id_file>16323</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee526c73776.62564229.pdf</basename>
+        <dirname>995</dirname>
+        <basename>a_matematica_dos_calendarios---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>996</id_resource>
         <id_file>16329</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5279f4912.00834894.pdf</basename>
+        <dirname>996</dirname>
+        <basename>arco_capaz_e_navegacao---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>997</id_resource>
         <id_file>16335</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee52e080144.95472627.pdf</basename>
+        <dirname>997</dirname>
+        <basename>baralho_e_torradas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>998</id_resource>
         <id_file>16341</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee531f3f7d8.26469741.pdf</basename>
+        <dirname>998</dirname>
+        <basename>baralho_magico---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>999</id_resource>
         <id_file>16347</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee536c78691.61136834.pdf</basename>
+        <dirname>999</dirname>
+        <basename>camara_escura---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1000</id_resource>
         <id_file>16353</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee544cf93f7.74993892.pdf</basename>
+        <dirname>1000</dirname>
+        <basename>cilindro=cone+esfera2---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1001</id_resource>
         <id_file>16359</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee545d8ce63.61159374.pdf</basename>
+        <dirname>1001</dirname>
+        <basename>com_quantas_cores_posso_pintar_um_mapa---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1002</id_resource>
         <id_file>16365</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee546c51473.66403554.pdf</basename>
+        <dirname>1002</dirname>
+        <basename>como_economizar_cadarco---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1003</id_resource>
         <id_file>16371</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54ad17389.31820738.pdf</basename>
+        <dirname>1003</dirname>
+        <basename>corrida_ao_100---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1004</id_resource>
         <id_file>16377</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54d3e9306.71239739.pdf</basename>
+        <dirname>1004</dirname>
+        <basename>curvas_de_nivel---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1005</id_resource>
         <id_file>16383</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54eeea621.96181561.pdf</basename>
+        <dirname>1005</dirname>
+        <basename>de_quantas_maneiras_posso_passar_meu_cadarco---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1006</id_resource>
         <id_file>16389</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54fe5b440.87889111.pdf</basename>
+        <dirname>1006</dirname>
+        <basename>dinamometro_com_elastico---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1008</id_resource>
         <id_file>16401</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5553bb129.32573022.pdf</basename>
+        <dirname>1008</dirname>
+        <basename>eliminando_quadrados---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1009</id_resource>
         <id_file>16407</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5564037e5.16659943.pdf</basename>
+        <dirname>1009</dirname>
+        <basename>empacotamento_de_latas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1010</id_resource>
         <id_file>16413</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee562d82370.78151167.pdf</basename>
+        <dirname>1010</dirname>
+        <basename>engenharia_de_grego---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1011</id_resource>
         <id_file>16419</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee563e26336.84501208.pdf</basename>
+        <dirname>1011</dirname>
+        <basename>escoamento_de_areia---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1012</id_resource>
         <id_file>16425</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564a75830.41221538.pdf</basename>
+        <dirname>1012</dirname>
+        <basename>espelhos_e_simetrias---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1013</id_resource>
         <id_file>16431</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee568cc1b28.04475036.pdf</basename>
+        <dirname>1013</dirname>
+        <basename>esqueletos_no_espaco---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1014</id_resource>
         <id_file>16437</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee569de1a04.79623012.pdf</basename>
+        <dirname>1014</dirname>
+        <basename>estatuas_e_dominos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1015</id_resource>
         <id_file>16443</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56a902de2.09013193.pdf</basename>
+        <dirname>1015</dirname>
+        <basename>estradas_para_estacao---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1016</id_resource>
         <id_file>16449</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56c1fdca6.78079481.pdf</basename>
+        <dirname>1016</dirname>
+        <basename>jankenpon---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1017</id_resource>
         <id_file>16455</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56d4cb244.50654816.pdf</basename>
+        <dirname>1017</dirname>
+        <basename>jogo_das_amebas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1018</id_resource>
         <id_file>16461</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56e3ed2b1.48509266.pdf</basename>
+        <dirname>1018</dirname>
+        <basename>jogo_dos_divisores---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1019</id_resource>
         <id_file>16467</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56f1a0568.05303229.pdf</basename>
+        <dirname>1019</dirname>
+        <basename>magica_das_cartelas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1020</id_resource>
         <id_file>16473</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee570cd3ff2.26313043.pdf</basename>
+        <dirname>1020</dirname>
+        <basename>mensagens_secretas_com_matrizes---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1021</id_resource>
         <id_file>16479</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee57c1bcb68.02096654.pdf</basename>
+        <dirname>1021</dirname>
+        <basename>montanhas_geometricas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1022</id_resource>
         <id_file>16485</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5819005d8.77437275.pdf</basename>
+        <dirname>1022</dirname>
+        <basename>morto_ou_vivo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1023</id_resource>
         <id_file>16491</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5830362e8.59182601.pdf</basename>
+        <dirname>1023</dirname>
+        <basename>o_quadrado_de_koch---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1024</id_resource>
         <id_file>16497</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee583f06de3.00963235.pdf</basename>
+        <dirname>1024</dirname>
+        <basename>onde_fica_a_lixeira---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1026</id_resource>
         <id_file>16509</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58cd1c7a1.47448737.pdf</basename>
+        <dirname>1026</dirname>
+        <basename>poligonos_regulares_e_ladrilhos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1027</id_resource>
         <id_file>16515</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58dd7bbe5.88759697.pdf</basename>
+        <dirname>1027</dirname>
+        <basename>populacao_versus_amostra---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1028</id_resource>
         <id_file>16521</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58f8dc998.57138102.pdf</basename>
+        <dirname>1028</dirname>
+        <basename>quadrado_magico_aditivo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1029</id_resource>
         <id_file>16527</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5909bd6d3.53357441.pdf</basename>
+        <dirname>1029</dirname>
+        <basename>qual_e_a_area_do_quadrilatero---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1030</id_resource>
         <id_file>16533</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59186de92.94640234.pdf</basename>
+        <dirname>1030</dirname>
+        <basename>qual_e_o_cone_com_maior_volume---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1031</id_resource>
         <id_file>16539</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59284ffc9.18771412.pdf</basename>
+        <dirname>1031</dirname>
+        <basename>qual_e_o_prisma_com_maior_volume---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1034</id_resource>
         <id_file>16552</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee596b23a68.90100755.pdf</basename>
+        <dirname>1034</dirname>
+        <basename>series_temporais---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1035</id_resource>
         <id_file>16558</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5979cc3d0.69393006.pdf</basename>
+        <dirname>1035</dirname>
+        <basename>taxi_e_combinatoria---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1037</id_resource>
         <id_file>16570</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59b365564.62189815.pdf</basename>
+        <dirname>1037</dirname>
+        <basename>transformacao_de_mobius---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1038</id_resource>
         <id_file>16576</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59c34b3a9.84272601.pdf</basename>
+        <dirname>1038</dirname>
+        <basename>variaveis_antropometricas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1039</id_resource>
         <id_file>16582</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59de77621.70906258.pdf</basename>
+        <dirname>1039</dirname>
+        <basename>volume_de_piramides---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>994</id_resource>
         <id_file>17609</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5a23775bb5c7.32661990.pdf</basename>
+        <dirname>994</dirname>
+        <basename>a_altura_da_arvore---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1033</id_resource>
         <id_file>17615</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5a491d726442.17657665.pdf</basename>
+        <dirname>1033</dirname>
+        <basename>a_roda-gigante---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1365</id_resource>
         <id_file>17627</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b51b24bdc20.52809727.pdf</basename>
+        <dirname>1365</dirname>
+        <basename>apostas_no_relogio---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1366</id_resource>
         <id_file>17633</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b53e0bd6e53.07734957.pdf</basename>
+        <dirname>1366</dirname>
+        <basename>avalanches---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1367</id_resource>
         <id_file>17639</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b54ea805e28.44196983.pdf</basename>
+        <dirname>1367</dirname>
+        <basename>caixa_de_papel---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1368</id_resource>
         <id_file>17645</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b55c6aaca70.63266652.pdf</basename>
+        <dirname>1368</dirname>
+        <basename>caminhos_e_grafos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1369</id_resource>
         <id_file>17651</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b56eb5ae8d2.68012960.pdf</basename>
+        <dirname>1369</dirname>
+        <basename>cortar_cubos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1370</id_resource>
         <id_file>17657</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b579dd58b98.54446982.pdf</basename>
+        <dirname>1370</dirname>
+        <basename>dobra_a_lingua_e_coca_a_orelha---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1371</id_resource>
         <id_file>17663</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5863874807.86922717.pdf</basename>
+        <dirname>1371</dirname>
+        <basename>o_metodo_de_monte_carlo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1372</id_resource>
         <id_file>17669</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b59fab30d65.41943871.pdf</basename>
+        <dirname>1372</dirname>
+        <basename>quadrado_magico_multiplicativo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1373</id_resource>
         <id_file>17675</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5aa928b8b7.42851423.pdf</basename>
+        <dirname>1373</dirname>
+        <basename>quantos_peixes_ha_no_lago---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1374</id_resource>
         <id_file>17681</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5c24e89dd8.02209218.pdf</basename>
+        <dirname>1374</dirname>
+        <basename>que_curva_e_essa_chamada_elipse---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1380</id_resource>
         <id_file>17716</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f5e64e19336e0.11723589.pdf</basename>
+        <dirname>1380</dirname>
+        <basename>jogo_da_trilha---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1386</id_resource>
         <id_file>17746</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>4f6ccf60a16122.11404587.pdf</basename>
+        <dirname>1386</dirname>
+        <basename>padroes_no_plano---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1036</id_resource>
         <id_file>17972</id_file>
         <type>1</type>
-        <dirname>doc</dirname>
-        <basename>5008aed1ab9284.03976957.pdf</basename>
+        <dirname>1036</dirname>
+        <basename>otimizacao_da_cerca---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1007</id_resource>
         <id_file>5560</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f185664a8c960.82310505.pdf</basename>
+        <dirname>1007</dirname>
+        <basename>TELA-duplicacao_do_cubo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1025</id_resource>
         <id_file>5668</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1856a3a51539.90312729.pdf</basename>
+        <dirname>1025</dirname>
+        <basename>TELA-poligonos_e_circunferencia---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1032</id_resource>
         <id_file>5710</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1856ad94bbb4.09946627.pdf</basename>
+        <dirname>1032</dirname>
+        <basename>TELA-quanto_voce_tem_de_pele---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1361</id_resource>
         <id_file>7000</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f19b3e949e8f0.30422419.pdf</basename>
+        <dirname>1361</dirname>
+        <basename>TELA-torres_de_hanoi---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>995</id_resource>
         <id_file>16324</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee526d894c2.37468846.pdf</basename>
+        <dirname>995</dirname>
+        <basename>TELA-a_matematica_dos_calendarios---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>996</id_resource>
         <id_file>16330</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee527affb49.23346730.pdf</basename>
+        <dirname>996</dirname>
+        <basename>TELA-arco_capaz_e_navegacao---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>997</id_resource>
         <id_file>16336</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee52e1e0d31.65171021.pdf</basename>
+        <dirname>997</dirname>
+        <basename>TELA-baralho_e_torradas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>998</id_resource>
         <id_file>16342</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5320eff55.53092217.pdf</basename>
+        <dirname>998</dirname>
+        <basename>TELA-baralho_magico---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>999</id_resource>
         <id_file>16348</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee536e05e53.61832404.pdf</basename>
+        <dirname>999</dirname>
+        <basename>TELA-camara_escura---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1000</id_resource>
         <id_file>16354</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee544e59085.62409921.pdf</basename>
+        <dirname>1000</dirname>
+        <basename>TELA-cilindro=cone+esfera2---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1001</id_resource>
         <id_file>16360</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee545ecebc6.86020295.pdf</basename>
+        <dirname>1001</dirname>
+        <basename>TELA-com_quantas_cores_posso_pintar_um_mapa---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1002</id_resource>
         <id_file>16366</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee546d86391.89016689.pdf</basename>
+        <dirname>1002</dirname>
+        <basename>TELA-como_economizar_cadarco---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1003</id_resource>
         <id_file>16372</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54aee9ce8.45479330.pdf</basename>
+        <dirname>1003</dirname>
+        <basename>TELA-corrida_ao_100---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1004</id_resource>
         <id_file>16378</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54d51f547.59037313.pdf</basename>
+        <dirname>1004</dirname>
+        <basename>TELA-curvas_de_nivel---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1005</id_resource>
         <id_file>16384</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54f0e4ec7.87293072.pdf</basename>
+        <dirname>1005</dirname>
+        <basename>TELA-de_quantas_maneiras_posso_passar_meu_cadarco---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1006</id_resource>
         <id_file>16390</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5500572d2.65937384.pdf</basename>
+        <dirname>1006</dirname>
+        <basename>TELA-dinamometro_com_elastico---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1008</id_resource>
         <id_file>16402</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5554d27d1.73314362.pdf</basename>
+        <dirname>1008</dirname>
+        <basename>TELA-eliminando_quadrados---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1009</id_resource>
         <id_file>16408</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee55655cb50.65275512.pdf</basename>
+        <dirname>1009</dirname>
+        <basename>TELA-empacotamento_de_latas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1010</id_resource>
         <id_file>16414</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee562edc6b7.25448108.pdf</basename>
+        <dirname>1010</dirname>
+        <basename>TELA-engenharia_de_grego---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1011</id_resource>
         <id_file>16420</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564061378.70981434.pdf</basename>
+        <dirname>1011</dirname>
+        <basename>TELA-escoamento_de_areia---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1012</id_resource>
         <id_file>16426</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564b74911.40212560.pdf</basename>
+        <dirname>1012</dirname>
+        <basename>TELA-espelhos_e_simetrias---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1013</id_resource>
         <id_file>16432</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee568e760e0.13171518.pdf</basename>
+        <dirname>1013</dirname>
+        <basename>TELA-esqueletos_no_espaco---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1014</id_resource>
         <id_file>16438</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee569ef6439.62064671.pdf</basename>
+        <dirname>1014</dirname>
+        <basename>TELA-estatuas_e_dominos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1015</id_resource>
         <id_file>16444</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56ac7e9e5.29378365.pdf</basename>
+        <dirname>1015</dirname>
+        <basename>TELA-estradas_para_estacao---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1016</id_resource>
         <id_file>16450</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56c321a32.31051335.pdf</basename>
+        <dirname>1016</dirname>
+        <basename>TELA-jankenpon---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1017</id_resource>
         <id_file>16456</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56d614337.90445621.pdf</basename>
+        <dirname>1017</dirname>
+        <basename>TELA-jogo_das_amebas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1018</id_resource>
         <id_file>16462</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56e5355b9.64944516.pdf</basename>
+        <dirname>1018</dirname>
+        <basename>TELA-jogo_dos_divisores---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1019</id_resource>
         <id_file>16468</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56f2b71c3.05011521.pdf</basename>
+        <dirname>1019</dirname>
+        <basename>TELA-magica_das_cartelas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1020</id_resource>
         <id_file>16474</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee570de39a0.07055645.pdf</basename>
+        <dirname>1020</dirname>
+        <basename>TELA-mensagens_secretas_com_matrizes---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1021</id_resource>
         <id_file>16480</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee57c2d2157.50134589.pdf</basename>
+        <dirname>1021</dirname>
+        <basename>TELA-montanhas_geometricas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1022</id_resource>
         <id_file>16486</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee581a55216.63651057.pdf</basename>
+        <dirname>1022</dirname>
+        <basename>TELA-morto_ou_vivo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1023</id_resource>
         <id_file>16492</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5831b9816.84440055.pdf</basename>
+        <dirname>1023</dirname>
+        <basename>TELA-o_quadrado_de_koch---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1024</id_resource>
         <id_file>16498</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5844dc6c9.04696490.pdf</basename>
+        <dirname>1024</dirname>
+        <basename>TELA-onde_fica_a_lixeira---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1026</id_resource>
         <id_file>16510</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58ce6a032.71268394.pdf</basename>
+        <dirname>1026</dirname>
+        <basename>TELA-poligonos_regulares_e_ladrilhos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1027</id_resource>
         <id_file>16516</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58debefe4.20547948.pdf</basename>
+        <dirname>1027</dirname>
+        <basename>TELA-populacao_versus_amostra---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1028</id_resource>
         <id_file>16522</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58f9cc3c4.69262507.pdf</basename>
+        <dirname>1028</dirname>
+        <basename>TELA-quadrado_magico_aditivo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1029</id_resource>
         <id_file>16528</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee590afe898.79875953.pdf</basename>
+        <dirname>1029</dirname>
+        <basename>TELA-qual_e_a_area_do_quadrilatero---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1030</id_resource>
         <id_file>16534</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5919eaa56.04474924.pdf</basename>
+        <dirname>1030</dirname>
+        <basename>TELA-qual_e_o_cone_com_maior_volume---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1031</id_resource>
         <id_file>16540</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee592990511.35977094.pdf</basename>
+        <dirname>1031</dirname>
+        <basename>TELA-qual_e_o_prisma_com_maior_volume---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1034</id_resource>
         <id_file>16553</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee596c44c86.13853376.pdf</basename>
+        <dirname>1034</dirname>
+        <basename>TELA-series_temporais---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1035</id_resource>
         <id_file>16559</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee597aeb8e3.34133361.pdf</basename>
+        <dirname>1035</dirname>
+        <basename>TELA-taxi_e_combinatoria---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1037</id_resource>
         <id_file>16571</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59b4fb599.97231206.pdf</basename>
+        <dirname>1037</dirname>
+        <basename>TELA-transformacao_de_mobius---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1038</id_resource>
         <id_file>16577</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59c4c4b15.01057557.pdf</basename>
+        <dirname>1038</dirname>
+        <basename>TELA-variaveis_antropometricas---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1039</id_resource>
         <id_file>16583</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59e0aa5f1.23082696.pdf</basename>
+        <dirname>1039</dirname>
+        <basename>TELA-volume_de_piramides---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>994</id_resource>
         <id_file>17610</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5a2378757256.63768784.pdf</basename>
+        <dirname>994</dirname>
+        <basename>TELA-a_altura_da_arvore---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1033</id_resource>
         <id_file>17616</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5a491d8ac0d9.00472654.pdf</basename>
+        <dirname>1033</dirname>
+        <basename>TELA-a_roda-gigante---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1365</id_resource>
         <id_file>17628</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b51b28ff951.74827712.pdf</basename>
+        <dirname>1365</dirname>
+        <basename>TELA-apostas_no_relogio---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1366</id_resource>
         <id_file>17634</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b53e0d3a732.23483605.pdf</basename>
+        <dirname>1366</dirname>
+        <basename>TELA-avalanches---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1367</id_resource>
         <id_file>17640</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b54ea96bf87.88310872.pdf</basename>
+        <dirname>1367</dirname>
+        <basename>TELA-caixa_de_papel---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1368</id_resource>
         <id_file>17646</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b55c6c00b49.67841239.pdf</basename>
+        <dirname>1368</dirname>
+        <basename>TELA-caminhos_e_grafos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1369</id_resource>
         <id_file>17652</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b56eb750de8.55204648.pdf</basename>
+        <dirname>1369</dirname>
+        <basename>TELA-cortar_cubos---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1370</id_resource>
         <id_file>17658</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b579deb8e88.01424789.pdf</basename>
+        <dirname>1370</dirname>
+        <basename>TELA-dobra_a_lingua_e_coca_a_orelha---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1371</id_resource>
         <id_file>17664</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b58639caa97.95235739.pdf</basename>
+        <dirname>1371</dirname>
+        <basename>TELA-o_metodo_de_monte_carlo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1372</id_resource>
         <id_file>17670</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b59fac95635.82583373.pdf</basename>
+        <dirname>1372</dirname>
+        <basename>TELA-quadrado_magico_multiplicativo---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1373</id_resource>
         <id_file>17676</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5aa93dc1f0.06198846.pdf</basename>
+        <dirname>1373</dirname>
+        <basename>TELA-quantos_peixes_ha_no_lago---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1374</id_resource>
         <id_file>17682</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5c2508bf59.97219928.pdf</basename>
+        <dirname>1374</dirname>
+        <basename>TELA-que_curva_e_essa_chamada_elipse---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1380</id_resource>
         <id_file>17717</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f5e64e25a6012.99967937.pdf</basename>
+        <dirname>1380</dirname>
+        <basename>TELA-jogo_da_trilha---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1386</id_resource>
         <id_file>17747</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>4f6ccf61933228.59402985.pdf</basename>
+        <dirname>1386</dirname>
+        <basename>TELA-padroes_no_plano---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1036</id_resource>
         <id_file>17973</id_file>
         <type>2</type>
-        <dirname>doc</dirname>
-        <basename>5008aed27941d9.17533370.pdf</basename>
+        <dirname>1036</dirname>
+        <basename>TELA-otimizacao_da_cerca---o_experimento.pdf</basename>
     </file>
     <file>
         <id_resource>1007</id_resource>
         <id_file>5561</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f185664af7143.85543615.pdf</basename>
+        <dirname>1007</dirname>
+        <basename>duplicacao_do_cubo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1025</id_resource>
         <id_file>5669</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1856a3ad6086.86184963.pdf</basename>
+        <dirname>1025</dirname>
+        <basename>poligonos_e_circunferencia---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1032</id_resource>
         <id_file>5711</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1856ad9cf123.19098838.pdf</basename>
+        <dirname>1032</dirname>
+        <basename>quanto_voce_tem_de_pele---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1361</id_resource>
         <id_file>7001</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f19b3e9580e58.38194102.pdf</basename>
+        <dirname>1361</dirname>
+        <basename>torres_de_hanoi---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>995</id_resource>
         <id_file>16325</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee526ea5ac1.58725117.pdf</basename>
+        <dirname>995</dirname>
+        <basename>a_matematica_dos_calendarios---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>996</id_resource>
         <id_file>16331</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee527c05040.98985005.pdf</basename>
+        <dirname>996</dirname>
+        <basename>arco_capaz_e_navegacao---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>997</id_resource>
         <id_file>16337</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee52e3159b7.44304516.pdf</basename>
+        <dirname>997</dirname>
+        <basename>baralho_e_torradas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>998</id_resource>
         <id_file>16343</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5321e9105.32722322.pdf</basename>
+        <dirname>998</dirname>
+        <basename>baralho_magico---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>999</id_resource>
         <id_file>16349</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee536f23734.10798737.pdf</basename>
+        <dirname>999</dirname>
+        <basename>camara_escura---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1000</id_resource>
         <id_file>16355</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54502a356.74224479.pdf</basename>
+        <dirname>1000</dirname>
+        <basename>cilindro=cone+esfera2---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1001</id_resource>
         <id_file>16361</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5460a1d13.96967215.pdf</basename>
+        <dirname>1001</dirname>
+        <basename>com_quantas_cores_posso_pintar_um_mapa---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1002</id_resource>
         <id_file>16367</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee546e93992.37448184.pdf</basename>
+        <dirname>1002</dirname>
+        <basename>como_economizar_cadarco---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1003</id_resource>
         <id_file>16373</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54b0e26f2.38546423.pdf</basename>
+        <dirname>1003</dirname>
+        <basename>corrida_ao_100---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1004</id_resource>
         <id_file>16379</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54de06e53.26555754.pdf</basename>
+        <dirname>1004</dirname>
+        <basename>curvas_de_nivel---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1005</id_resource>
         <id_file>16385</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54f21b5e9.93133641.pdf</basename>
+        <dirname>1005</dirname>
+        <basename>de_quantas_maneiras_posso_passar_meu_cadarco---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1006</id_resource>
         <id_file>16391</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee550165fb1.89005944.pdf</basename>
+        <dirname>1006</dirname>
+        <basename>dinamometro_com_elastico---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1008</id_resource>
         <id_file>16403</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5555fe465.79515113.pdf</basename>
+        <dirname>1008</dirname>
+        <basename>eliminando_quadrados---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1009</id_resource>
         <id_file>16409</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee556673639.95696430.pdf</basename>
+        <dirname>1009</dirname>
+        <basename>empacotamento_de_latas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1010</id_resource>
         <id_file>16415</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5630aced2.38062048.pdf</basename>
+        <dirname>1010</dirname>
+        <basename>engenharia_de_grego---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1011</id_resource>
         <id_file>16421</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564198806.46168145.pdf</basename>
+        <dirname>1011</dirname>
+        <basename>escoamento_de_areia---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1012</id_resource>
         <id_file>16427</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564cb4a15.77354648.pdf</basename>
+        <dirname>1012</dirname>
+        <basename>espelhos_e_simetrias---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1013</id_resource>
         <id_file>16433</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56906f211.67488285.pdf</basename>
+        <dirname>1013</dirname>
+        <basename>esqueletos_no_espaco---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1014</id_resource>
         <id_file>16439</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56a0c1b71.74075600.pdf</basename>
+        <dirname>1014</dirname>
+        <basename>estatuas_e_dominos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1015</id_resource>
         <id_file>16445</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56af202b0.60594565.pdf</basename>
+        <dirname>1015</dirname>
+        <basename>estradas_para_estacao---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1016</id_resource>
         <id_file>16451</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56c433cf1.92065677.pdf</basename>
+        <dirname>1016</dirname>
+        <basename>jankenpon---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1017</id_resource>
         <id_file>16457</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56d729d38.03838557.pdf</basename>
+        <dirname>1017</dirname>
+        <basename>jogo_das_amebas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1018</id_resource>
         <id_file>16463</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56e647083.08497207.pdf</basename>
+        <dirname>1018</dirname>
+        <basename>jogo_dos_divisores---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1019</id_resource>
         <id_file>16469</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56f3db079.89137382.pdf</basename>
+        <dirname>1019</dirname>
+        <basename>magica_das_cartelas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1020</id_resource>
         <id_file>16475</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee570efa857.23874209.pdf</basename>
+        <dirname>1020</dirname>
+        <basename>mensagens_secretas_com_matrizes---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1021</id_resource>
         <id_file>16481</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee57c3ce481.99312114.pdf</basename>
+        <dirname>1021</dirname>
+        <basename>montanhas_geometricas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1022</id_resource>
         <id_file>16487</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee581c28827.67544164.pdf</basename>
+        <dirname>1022</dirname>
+        <basename>morto_ou_vivo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1023</id_resource>
         <id_file>16493</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee583305f76.26889025.pdf</basename>
+        <dirname>1023</dirname>
+        <basename>o_quadrado_de_koch---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1024</id_resource>
         <id_file>16499</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5846ca758.93211632.pdf</basename>
+        <dirname>1024</dirname>
+        <basename>onde_fica_a_lixeira---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1026</id_resource>
         <id_file>16511</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58d06ffd5.61413814.pdf</basename>
+        <dirname>1026</dirname>
+        <basename>poligonos_regulares_e_ladrilhos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1027</id_resource>
         <id_file>16517</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58e745653.78495288.pdf</basename>
+        <dirname>1027</dirname>
+        <basename>populacao_versus_amostra---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1028</id_resource>
         <id_file>16523</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58fac7ae8.10455013.pdf</basename>
+        <dirname>1028</dirname>
+        <basename>quadrado_magico_aditivo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1029</id_resource>
         <id_file>16529</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee590c0cfc6.29658183.pdf</basename>
+        <dirname>1029</dirname>
+        <basename>qual_e_a_area_do_quadrilatero---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1030</id_resource>
         <id_file>16535</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee591b641c3.03407786.pdf</basename>
+        <dirname>1030</dirname>
+        <basename>qual_e_o_cone_com_maior_volume---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1031</id_resource>
         <id_file>16541</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee592b2c081.85256082.pdf</basename>
+        <dirname>1031</dirname>
+        <basename>qual_e_o_prisma_com_maior_volume---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1034</id_resource>
         <id_file>16554</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee596d53e14.51445679.pdf</basename>
+        <dirname>1034</dirname>
+        <basename>series_temporais---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1035</id_resource>
         <id_file>16560</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee597bf9ee1.81394162.pdf</basename>
+        <dirname>1035</dirname>
+        <basename>taxi_e_combinatoria---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1037</id_resource>
         <id_file>16572</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59b65f011.93869573.pdf</basename>
+        <dirname>1037</dirname>
+        <basename>transformacao_de_mobius---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1038</id_resource>
         <id_file>16578</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59c60ac62.60723986.pdf</basename>
+        <dirname>1038</dirname>
+        <basename>variaveis_antropometricas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1039</id_resource>
         <id_file>16584</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59e204c52.35754401.pdf</basename>
+        <dirname>1039</dirname>
+        <basename>volume_de_piramides---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>994</id_resource>
         <id_file>17611</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5a2378867677.59673423.pdf</basename>
+        <dirname>994</dirname>
+        <basename>a_altura_da_arvore---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1033</id_resource>
         <id_file>17617</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5a491d9de7b6.02170296.pdf</basename>
+        <dirname>1033</dirname>
+        <basename>a_roda-gigante---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1365</id_resource>
         <id_file>17629</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b51b2a25011.90710607.pdf</basename>
+        <dirname>1365</dirname>
+        <basename>apostas_no_relogio---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1366</id_resource>
         <id_file>17635</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b53e0e689c2.73757886.pdf</basename>
+        <dirname>1366</dirname>
+        <basename>avalanches---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1367</id_resource>
         <id_file>17641</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b54eaa9af28.92055317.pdf</basename>
+        <dirname>1367</dirname>
+        <basename>caixa_de_papel---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1368</id_resource>
         <id_file>17647</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b55c6d29fc9.55203431.pdf</basename>
+        <dirname>1368</dirname>
+        <basename>caminhos_e_grafos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1369</id_resource>
         <id_file>17653</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b56eb8c2f87.78144477.pdf</basename>
+        <dirname>1369</dirname>
+        <basename>cortar_cubos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1370</id_resource>
         <id_file>17659</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b579e09a312.56781932.pdf</basename>
+        <dirname>1370</dirname>
+        <basename>dobra_a_lingua_e_coca_a_orelha---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1371</id_resource>
         <id_file>17665</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5863aefe71.01385069.pdf</basename>
+        <dirname>1371</dirname>
+        <basename>o_metodo_de_monte_carlo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1372</id_resource>
         <id_file>17671</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b59fadc2702.43252130.pdf</basename>
+        <dirname>1372</dirname>
+        <basename>quadrado_magico_multiplicativo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1373</id_resource>
         <id_file>17677</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5aa9500206.84575433.pdf</basename>
+        <dirname>1373</dirname>
+        <basename>quantos_peixes_ha_no_lago---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1374</id_resource>
         <id_file>17683</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5c2522fbd3.27211555.pdf</basename>
+        <dirname>1374</dirname>
+        <basename>que_curva_e_essa_chamada_elipse---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1380</id_resource>
         <id_file>17718</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f5e64e26d4436.49317527.pdf</basename>
+        <dirname>1380</dirname>
+        <basename>jogo_da_trilha---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1386</id_resource>
         <id_file>17748</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>4f6ccf61a56f25.66956131.pdf</basename>
+        <dirname>1386</dirname>
+        <basename>padroes_no_plano---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1036</id_resource>
         <id_file>17974</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>5008aed28c7153.18856094.pdf</basename>
+        <dirname>1036</dirname>
+        <basename>otimizacao_da_cerca---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1363</id_resource>
         <id_file>18092</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>509ea9b1721278.54936467.pdf</basename>
+        <dirname>1363</dirname>
+        <basename>guia.pdf</basename>
     </file>
     <file>
         <id_resource>1225</id_resource>
         <id_file>18152</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>52e1868ca70875.34439098.pdf</basename>
+        <dirname>1225</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1244</id_resource>
         <id_file>18169</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>52f0e34a730287.66123021.pdf</basename>
+        <dirname>1244</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1376</id_resource>
         <id_file>18198</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>5331e386f0b285.05620958.pdf</basename>
+        <dirname>1376</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1250</id_resource>
         <id_file>18207</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>534e166722ec53.81593832.pdf</basename>
+        <dirname>1250</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1249</id_resource>
         <id_file>18228</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>538516634f5d22.97942271.pdf</basename>
+        <dirname>1249</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1240</id_resource>
         <id_file>18231</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>5386bca3b2c2c6.91351699.pdf</basename>
+        <dirname>1240</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1243</id_resource>
         <id_file>18234</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>5386c25832a508.27423495.pdf</basename>
+        <dirname>1243</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1237</id_resource>
         <id_file>18243</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>53a276c3c43ea2.44168752.pdf</basename>
+        <dirname>1237</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1227</id_resource>
         <id_file>18256</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>53c4cdb5bbafe4.33039274.pdf</basename>
+        <dirname>1227</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1239</id_resource>
         <id_file>18264</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>53c84426dc74f3.99864154.pdf</basename>
+        <dirname>1239</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1224</id_resource>
         <id_file>18269</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>53d9bf54702063.12507459.pdf</basename>
+        <dirname>1224</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1220</id_resource>
         <id_file>18277</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>53fe6acd369c94.35585888.pdf</basename>
+        <dirname>1220</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1221</id_resource>
         <id_file>18285</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>540a73ddadb302.95883692.pdf</basename>
+        <dirname>1221</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1232</id_resource>
         <id_file>18296</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>54189bb4a0b0c8.04200052.pdf</basename>
+        <dirname>1232</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1238</id_resource>
         <id_file>18299</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>54189bfa700816.55811920.pdf</basename>
+        <dirname>1238</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1233</id_resource>
         <id_file>18302</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>54189c3c63f342.27704674.pdf</basename>
+        <dirname>1233</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1226</id_resource>
         <id_file>18309</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>5460c06e668d92.40524618.pdf</basename>
+        <dirname>1226</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1228</id_resource>
         <id_file>18360</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>54f3779eab1e88.60959902.pdf</basename>
+        <dirname>1228</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1236</id_resource>
         <id_file>18368</id_file>
         <type>3</type>
-        <dirname>doc</dirname>
-        <basename>5534f36267d0e3.23300686.pdf</basename>
+        <dirname>1236</dirname>
+        <basename>impressao.pdf</basename>
     </file>
     <file>
         <id_resource>1007</id_resource>
         <id_file>5562</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f185664b5ca69.34215253.pdf</basename>
+        <dirname>1007</dirname>
+        <basename>TELA-duplicacao_do_cubo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1025</id_resource>
         <id_file>5670</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1856a3b53657.95210285.pdf</basename>
+        <dirname>1025</dirname>
+        <basename>TELA-poligonos_e_circunferencia---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1032</id_resource>
         <id_file>5712</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1856ada52e13.62753545.pdf</basename>
+        <dirname>1032</dirname>
+        <basename>TELA-quanto_voce_tem_de_pele---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1361</id_resource>
         <id_file>7002</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f19b3e9654131.69581939.pdf</basename>
+        <dirname>1361</dirname>
+        <basename>TELA-torres_de_hanoi---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>995</id_resource>
         <id_file>16326</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5270647f8.07504655.pdf</basename>
+        <dirname>995</dirname>
+        <basename>TELA-a_matematica_dos_calendarios---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>996</id_resource>
         <id_file>16332</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee527d069f5.08505253.pdf</basename>
+        <dirname>996</dirname>
+        <basename>TELA-arco_capaz_e_navegacao---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>997</id_resource>
         <id_file>16338</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee52f43a459.87368374.pdf</basename>
+        <dirname>997</dirname>
+        <basename>TELA-baralho_e_torradas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>998</id_resource>
         <id_file>16344</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5322eb1f2.80367013.pdf</basename>
+        <dirname>998</dirname>
+        <basename>TELA-baralho_magico---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>999</id_resource>
         <id_file>16350</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5370f6352.54918777.pdf</basename>
+        <dirname>999</dirname>
+        <basename>TELA-camara_escura---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1000</id_resource>
         <id_file>16356</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee545138b54.44508470.pdf</basename>
+        <dirname>1000</dirname>
+        <basename>TELA-cilindro=cone+esfera2---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1001</id_resource>
         <id_file>16362</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5461ade80.20546556.pdf</basename>
+        <dirname>1001</dirname>
+        <basename>TELA-com_quantas_cores_posso_pintar_um_mapa---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1002</id_resource>
         <id_file>16368</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee547065394.57300337.pdf</basename>
+        <dirname>1002</dirname>
+        <basename>TELA-como_economizar_cadarco---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1003</id_resource>
         <id_file>16374</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54b1f2a22.40170285.pdf</basename>
+        <dirname>1003</dirname>
+        <basename>TELA-corrida_ao_100---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1004</id_resource>
         <id_file>16380</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54e00e616.15694778.pdf</basename>
+        <dirname>1004</dirname>
+        <basename>TELA-curvas_de_nivel---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1005</id_resource>
         <id_file>16386</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54f352812.38651678.pdf</basename>
+        <dirname>1005</dirname>
+        <basename>TELA-de_quantas_maneiras_posso_passar_meu_cadarco---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1006</id_resource>
         <id_file>16392</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee550274622.54030208.pdf</basename>
+        <dirname>1006</dirname>
+        <basename>TELA-dinamometro_com_elastico---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1008</id_resource>
         <id_file>16404</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee55573fd40.38350218.pdf</basename>
+        <dirname>1008</dirname>
+        <basename>TELA-eliminando_quadrados---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1009</id_resource>
         <id_file>16410</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5567a5c58.22416718.pdf</basename>
+        <dirname>1009</dirname>
+        <basename>TELA-empacotamento_de_latas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1010</id_resource>
         <id_file>16416</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5631aebf2.08533798.pdf</basename>
+        <dirname>1010</dirname>
+        <basename>TELA-engenharia_de_grego---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1011</id_resource>
         <id_file>16422</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5642cbed1.74350193.pdf</basename>
+        <dirname>1011</dirname>
+        <basename>TELA-escoamento_de_areia---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1012</id_resource>
         <id_file>16428</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564dc2e02.21065796.pdf</basename>
+        <dirname>1012</dirname>
+        <basename>TELA-espelhos_e_simetrias---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1013</id_resource>
         <id_file>16434</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56928ad71.38835579.pdf</basename>
+        <dirname>1013</dirname>
+        <basename>TELA-esqueletos_no_espaco---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1014</id_resource>
         <id_file>16440</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56a1c9e01.58133562.pdf</basename>
+        <dirname>1014</dirname>
+        <basename>TELA-estatuas_e_dominos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1015</id_resource>
         <id_file>16446</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56b113fd0.04754998.pdf</basename>
+        <dirname>1015</dirname>
+        <basename>TELA-estradas_para_estacao---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1016</id_resource>
         <id_file>16452</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56c5450c9.60422972.pdf</basename>
+        <dirname>1016</dirname>
+        <basename>TELA-jankenpon---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1017</id_resource>
         <id_file>16458</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56d83d4f8.91660035.pdf</basename>
+        <dirname>1017</dirname>
+        <basename>TELA-jogo_das_amebas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1018</id_resource>
         <id_file>16464</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56e775911.56118164.pdf</basename>
+        <dirname>1018</dirname>
+        <basename>TELA-jogo_dos_divisores---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1019</id_resource>
         <id_file>16470</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56f512d82.46814310.pdf</basename>
+        <dirname>1019</dirname>
+        <basename>TELA-magica_das_cartelas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1020</id_resource>
         <id_file>16476</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5710cf635.71825193.pdf</basename>
+        <dirname>1020</dirname>
+        <basename>TELA-mensagens_secretas_com_matrizes---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1021</id_resource>
         <id_file>16482</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee57c4bfa79.19494511.pdf</basename>
+        <dirname>1021</dirname>
+        <basename>TELA-montanhas_geometricas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1022</id_resource>
         <id_file>16488</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee581d6d8b8.03337811.pdf</basename>
+        <dirname>1022</dirname>
+        <basename>TELA-morto_ou_vivo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1023</id_resource>
         <id_file>16494</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee583441bf2.39982250.pdf</basename>
+        <dirname>1023</dirname>
+        <basename>TELA-o_quadrado_de_koch---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1024</id_resource>
         <id_file>16500</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5848159e6.12145939.pdf</basename>
+        <dirname>1024</dirname>
+        <basename>TELA-onde_fica_a_lixeira---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1026</id_resource>
         <id_file>16512</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58d1b1fd7.28770609.pdf</basename>
+        <dirname>1026</dirname>
+        <basename>TELA-poligonos_regulares_e_ladrilhos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1027</id_resource>
         <id_file>16518</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58e953f03.52384330.pdf</basename>
+        <dirname>1027</dirname>
+        <basename>TELA-populacao_versus_amostra---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1028</id_resource>
         <id_file>16524</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58fbc3869.98054028.pdf</basename>
+        <dirname>1028</dirname>
+        <basename>TELA-quadrado_magico_aditivo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1029</id_resource>
         <id_file>16530</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee590d188d6.31120911.pdf</basename>
+        <dirname>1029</dirname>
+        <basename>TELA-qual_e_a_area_do_quadrilatero---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1030</id_resource>
         <id_file>16536</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee591c8f392.88494931.pdf</basename>
+        <dirname>1030</dirname>
+        <basename>TELA-qual_e_o_cone_com_maior_volume---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1031</id_resource>
         <id_file>16542</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee592c7c513.38708588.pdf</basename>
+        <dirname>1031</dirname>
+        <basename>TELA-qual_e_o_prisma_com_maior_volume---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1034</id_resource>
         <id_file>16555</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee596e61587.28982548.pdf</basename>
+        <dirname>1034</dirname>
+        <basename>TELA-series_temporais---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1035</id_resource>
         <id_file>16561</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee597d05796.20192247.pdf</basename>
+        <dirname>1035</dirname>
+        <basename>TELA-taxi_e_combinatoria---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1037</id_resource>
         <id_file>16573</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59b7ec237.93298265.pdf</basename>
+        <dirname>1037</dirname>
+        <basename>TELA-transformacao_de_mobius---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1038</id_resource>
         <id_file>16579</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59c751136.47629820.pdf</basename>
+        <dirname>1038</dirname>
+        <basename>TELA-variaveis_antropometricas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1039</id_resource>
         <id_file>16585</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59e39be80.79145161.pdf</basename>
+        <dirname>1039</dirname>
+        <basename>TELA-volume_de_piramides---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>994</id_resource>
         <id_file>17612</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5a2378973980.72221650.pdf</basename>
+        <dirname>994</dirname>
+        <basename>TELA-a_altura_da_arvore---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1033</id_resource>
         <id_file>17618</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5a491db17fd3.25797252.pdf</basename>
+        <dirname>1033</dirname>
+        <basename>TELA-a_roda-gigante---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1365</id_resource>
         <id_file>17630</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b51b2b4ab63.80869279.pdf</basename>
+        <dirname>1365</dirname>
+        <basename>TELA-apostas_no_relogio---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1366</id_resource>
         <id_file>17636</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b53e105ee81.42340399.pdf</basename>
+        <dirname>1366</dirname>
+        <basename>TELA-avalanches---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1367</id_resource>
         <id_file>17642</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b54eac41942.07218457.pdf</basename>
+        <dirname>1367</dirname>
+        <basename>TELA-caixa_de_papel---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1368</id_resource>
         <id_file>17648</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b55c6e476e0.70862275.pdf</basename>
+        <dirname>1368</dirname>
+        <basename>TELA-caminhos_e_grafos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1369</id_resource>
         <id_file>17654</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b56eb9e8ab8.71394441.pdf</basename>
+        <dirname>1369</dirname>
+        <basename>TELA-cortar_cubos---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1370</id_resource>
         <id_file>17660</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b579e1b9625.05449270.pdf</basename>
+        <dirname>1370</dirname>
+        <basename>TELA-dobra_a_lingua_e_coca_a_orelha---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1371</id_resource>
         <id_file>17666</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5863c636a9.96514658.pdf</basename>
+        <dirname>1371</dirname>
+        <basename>TELA-o_metodo_de_monte_carlo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1372</id_resource>
         <id_file>17672</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b59faeec238.98986237.pdf</basename>
+        <dirname>1372</dirname>
+        <basename>TELA-quadrado_magico_multiplicativo---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1373</id_resource>
         <id_file>17678</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5aa96209b6.03845440.pdf</basename>
+        <dirname>1373</dirname>
+        <basename>TELA-quantos_peixes_ha_no_lago---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1374</id_resource>
         <id_file>17684</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5c253677f4.97821859.pdf</basename>
+        <dirname>1374</dirname>
+        <basename>TELA-que_curva_e_essa_chamada_elipse---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1380</id_resource>
         <id_file>17719</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f5e64e2805231.43538455.pdf</basename>
+        <dirname>1380</dirname>
+        <basename>TELA-jogo_da_trilha---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1386</id_resource>
         <id_file>17749</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>4f6ccf61b8a859.41524799.pdf</basename>
+        <dirname>1386</dirname>
+        <basename>TELA-padroes_no_plano---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1036</id_resource>
         <id_file>17975</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5008aed2a11f85.24088433.pdf</basename>
+        <dirname>1036</dirname>
+        <basename>TELA-otimizacao_da_cerca---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1363</id_resource>
         <id_file>18093</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>509ea9b185f322.93017059.pdf</basename>
+        <dirname>1363</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1225</id_resource>
         <id_file>18153</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>52e1868cba1bf9.71451974.pdf</basename>
+        <dirname>1225</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1244</id_resource>
         <id_file>18170</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>52f0e34a8d1278.69062551.pdf</basename>
+        <dirname>1244</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1376</id_resource>
         <id_file>18199</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5331e3878a8101.89648565.pdf</basename>
+        <dirname>1376</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1250</id_resource>
         <id_file>18208</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>534e1667a15f76.10134380.pdf</basename>
+        <dirname>1250</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1249</id_resource>
         <id_file>18229</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5385166427cd20.66932477.pdf</basename>
+        <dirname>1249</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1240</id_resource>
         <id_file>18232</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5386bca45b5780.81797788.pdf</basename>
+        <dirname>1240</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1243</id_resource>
         <id_file>18235</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5386c258461c36.73832802.pdf</basename>
+        <dirname>1243</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1237</id_resource>
         <id_file>18244</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>53a276c47404a0.20489744.pdf</basename>
+        <dirname>1237</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1227</id_resource>
         <id_file>18257</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>53c4cdb676a837.12350897.pdf</basename>
+        <dirname>1227</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1239</id_resource>
         <id_file>18265</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>53c84427a6a6a6.07376206.pdf</basename>
+        <dirname>1239</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1224</id_resource>
         <id_file>18270</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>53d9bf55286d35.23629923.pdf</basename>
+        <dirname>1224</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1220</id_resource>
         <id_file>18278</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>53fe6acddc33e7.24981736.pdf</basename>
+        <dirname>1220</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1221</id_resource>
         <id_file>18286</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>540a73de8556e6.47282173.pdf</basename>
+        <dirname>1221</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1232</id_resource>
         <id_file>18297</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>54189bb5970826.77750850.pdf</basename>
+        <dirname>1232</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1238</id_resource>
         <id_file>18300</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>54189bfa843e91.82196384.pdf</basename>
+        <dirname>1238</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1233</id_resource>
         <id_file>18303</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>54189c3c774863.08479728.pdf</basename>
+        <dirname>1233</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1226</id_resource>
         <id_file>18310</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5460c06e79bd42.94919750.pdf</basename>
+        <dirname>1226</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1228</id_resource>
         <id_file>18361</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>54f3779f8a9044.24762277.pdf</basename>
+        <dirname>1228</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1236</id_resource>
         <id_file>18369</id_file>
         <type>4</type>
-        <dirname>doc</dirname>
-        <basename>5534f362dde839.94648791.pdf</basename>
+        <dirname>1236</dirname>
+        <basename>tela.pdf</basename>
     </file>
     <file>
         <id_resource>1007</id_resource>
         <id_file>5563</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f185664bbe263.09863427.pdf</basename>
+        <dirname>1007</dirname>
+        <basename>duplicacao_do_cubo---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1025</id_resource>
         <id_file>5671</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1856a3bc8301.39023957.pdf</basename>
+        <dirname>1025</dirname>
+        <basename>poligonos_e_circunferencia---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1032</id_resource>
         <id_file>5713</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1856adabce42.87479220.pdf</basename>
+        <dirname>1032</dirname>
+        <basename>quanto_voce_tem_de_pele---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1361</id_resource>
         <id_file>7003</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f19b3e96f4a93.75458485.pdf</basename>
+        <dirname>1361</dirname>
+        <basename>torres_de_hanoi---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>995</id_resource>
         <id_file>16327</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee52715e359.08142282.pdf</basename>
+        <dirname>995</dirname>
+        <basename>a_matematica_dos_calendarios---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>996</id_resource>
         <id_file>16333</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee527e026e4.43703820.pdf</basename>
+        <dirname>996</dirname>
+        <basename>arco_capaz_e_navegacao---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>997</id_resource>
         <id_file>16339</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee530cfe9e1.26104583.pdf</basename>
+        <dirname>997</dirname>
+        <basename>baralho_e_torradas---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>998</id_resource>
         <id_file>16345</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5323e5721.25043237.pdf</basename>
+        <dirname>998</dirname>
+        <basename>baralho_magico---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>999</id_resource>
         <id_file>16351</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5371ffa46.53418197.pdf</basename>
+        <dirname>999</dirname>
+        <basename>camara_escura---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1000</id_resource>
         <id_file>16357</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54523b596.17138652.pdf</basename>
+        <dirname>1000</dirname>
+        <basename>cilindro=cone+esfera2---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1001</id_resource>
         <id_file>16363</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5462b7058.51756279.pdf</basename>
+        <dirname>1001</dirname>
+        <basename>com_quantas_cores_posso_pintar_um_mapa---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1002</id_resource>
         <id_file>16369</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee547166aa6.48803940.pdf</basename>
+        <dirname>1002</dirname>
+        <basename>como_economizar_cadarco---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1003</id_resource>
         <id_file>16375</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54b2fc272.81838950.pdf</basename>
+        <dirname>1003</dirname>
+        <basename>corrida_ao_100---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1004</id_resource>
         <id_file>16381</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54e118222.19354944.pdf</basename>
+        <dirname>1004</dirname>
+        <basename>curvas_de_nivel---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1005</id_resource>
         <id_file>16387</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee54f47d6f6.24688049.pdf</basename>
+        <dirname>1005</dirname>
+        <basename>de_quantas_maneiras_posso_passar_meu_cadarco---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1006</id_resource>
         <id_file>16393</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee550377c01.91292974.pdf</basename>
+        <dirname>1006</dirname>
+        <basename>dinamometro_com_elastico---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1008</id_resource>
         <id_file>16405</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee555871427.93001328.pdf</basename>
+        <dirname>1008</dirname>
+        <basename>eliminando_quadrados---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1009</id_resource>
         <id_file>16411</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5568d9906.08497378.pdf</basename>
+        <dirname>1009</dirname>
+        <basename>empacotamento_de_latas---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1010</id_resource>
         <id_file>16417</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5632ad863.03487935.pdf</basename>
+        <dirname>1010</dirname>
+        <basename>engenharia_de_grego---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1011</id_resource>
         <id_file>16423</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5643f68f8.80890558.pdf</basename>
+        <dirname>1011</dirname>
+        <basename>escoamento_de_areia---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1012</id_resource>
         <id_file>16429</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee564eb3577.49954798.pdf</basename>
+        <dirname>1012</dirname>
+        <basename>espelhos_e_simetrias---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1013</id_resource>
         <id_file>16435</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5693c7599.08795378.pdf</basename>
+        <dirname>1013</dirname>
+        <basename>esqueletos_no_espaco---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1014</id_resource>
         <id_file>16441</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56a2c7c99.79785689.pdf</basename>
+        <dirname>1014</dirname>
+        <basename>estatuas_e_dominos---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1015</id_resource>
         <id_file>16447</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56b22bdb0.42757632.pdf</basename>
+        <dirname>1015</dirname>
+        <basename>estradas_para_estacao---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1016</id_resource>
         <id_file>16453</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56c64adf9.41140556.pdf</basename>
+        <dirname>1016</dirname>
+        <basename>jankenpon---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1017</id_resource>
         <id_file>16459</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56d94a576.09347723.pdf</basename>
+        <dirname>1017</dirname>
+        <basename>jogo_das_amebas---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1018</id_resource>
         <id_file>16465</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56e87a746.25314510.pdf</basename>
+        <dirname>1018</dirname>
+        <basename>jogo_dos_divisores---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1019</id_resource>
         <id_file>16471</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee56f6403a0.79177426.pdf</basename>
+        <dirname>1019</dirname>
+        <basename>magica_das_cartelas---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1020</id_resource>
         <id_file>16477</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5711d5890.69123621.pdf</basename>
+        <dirname>1020</dirname>
+        <basename>mensagens_secretas_com_matrizes---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1021</id_resource>
         <id_file>16483</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee57cc1faa4.47021389.pdf</basename>
+        <dirname>1021</dirname>
+        <basename>montanhas_geometricas---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1022</id_resource>
         <id_file>16489</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee581e9c4f1.48229395.pdf</basename>
+        <dirname>1022</dirname>
+        <basename>morto_ou_vivo---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1023</id_resource>
         <id_file>16495</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee583588760.20291643.pdf</basename>
+        <dirname>1023</dirname>
+        <basename>o_quadrado_de_koch---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1024</id_resource>
         <id_file>16501</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5849cae83.73989686.pdf</basename>
+        <dirname>1024</dirname>
+        <basename>onde_fica_a_lixeira---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1026</id_resource>
         <id_file>16513</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58d2e6919.32590870.pdf</basename>
+        <dirname>1026</dirname>
+        <basename>poligonos_regulares_e_ladrilhos---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1027</id_resource>
         <id_file>16519</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58ea6c3f5.83446061.pdf</basename>
+        <dirname>1027</dirname>
+        <basename>populacao_versus_amostra---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1028</id_resource>
         <id_file>16525</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee58fcb61f7.48214029.pdf</basename>
+        <dirname>1028</dirname>
+        <basename>quadrado_magico_aditivo---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1029</id_resource>
         <id_file>16531</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee590e1acf3.61044525.pdf</basename>
+        <dirname>1029</dirname>
+        <basename>qual_e_a_area_do_quadrilatero---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1030</id_resource>
         <id_file>16537</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee591d978f7.92830548.pdf</basename>
+        <dirname>1030</dirname>
+        <basename>qual_e_o_cone_com_maior_volume---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1031</id_resource>
         <id_file>16543</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee592db83e8.69317439.pdf</basename>
+        <dirname>1031</dirname>
+        <basename>qual_e_o_prisma_com_maior_volume---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1034</id_resource>
         <id_file>16556</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee597028756.19575968.pdf</basename>
+        <dirname>1034</dirname>
+        <basename>series_temporais---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1035</id_resource>
         <id_file>16562</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee597e56b68.63468329.pdf</basename>
+        <dirname>1035</dirname>
+        <basename>taxi_e_combinatoria---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1037</id_resource>
         <id_file>16574</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59b942354.92782881.pdf</basename>
+        <dirname>1037</dirname>
+        <basename>transformacao_de_mobius---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1038</id_resource>
         <id_file>16580</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59c897701.01985453.pdf</basename>
+        <dirname>1038</dirname>
+        <basename>variaveis_antropometricas---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1039</id_resource>
         <id_file>16586</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee59e4e9c17.20905972.pdf</basename>
+        <dirname>1039</dirname>
+        <basename>volume_de_piramides---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>994</id_resource>
         <id_file>17613</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5a2378a808f6.48633070.pdf</basename>
+        <dirname>994</dirname>
+        <basename>a_altura_da_arvore---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1033</id_resource>
         <id_file>17619</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5a491dc35fe7.72261380.pdf</basename>
+        <dirname>1033</dirname>
+        <basename>a_roda-gigante---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1365</id_resource>
         <id_file>17631</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b51b2c68439.55507685.pdf</basename>
+        <dirname>1365</dirname>
+        <basename>apostas_no_relogio---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1366</id_resource>
         <id_file>17637</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b53e117d435.86856594.pdf</basename>
+        <dirname>1366</dirname>
+        <basename>avalanches---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1367</id_resource>
         <id_file>17643</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b54ead5fd20.69559298.pdf</basename>
+        <dirname>1367</dirname>
+        <basename>caixa_de_papel---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1368</id_resource>
         <id_file>17649</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b55c7026e06.02758635.pdf</basename>
+        <dirname>1368</dirname>
+        <basename>caminhos_e_grafos---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1369</id_resource>
         <id_file>17655</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b56ebb04ab3.55311958.pdf</basename>
+        <dirname>1369</dirname>
+        <basename>cortar_cubos---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1370</id_resource>
         <id_file>17661</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b579e2d7ad8.49139749.pdf</basename>
+        <dirname>1370</dirname>
+        <basename>dobra_a_lingua_e_coca_a_orelha---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1371</id_resource>
         <id_file>17667</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5863d86ee5.10589379.pdf</basename>
+        <dirname>1371</dirname>
+        <basename>o_metodo_de_monte_carlo---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1372</id_resource>
         <id_file>17673</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b59fb0c78b0.72901755.pdf</basename>
+        <dirname>1372</dirname>
+        <basename>quadrado_magico_multiplicativo---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1373</id_resource>
         <id_file>17679</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5aa97377b5.43793139.pdf</basename>
+        <dirname>1373</dirname>
+        <basename>quantos_peixes_ha_no_lago---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1374</id_resource>
         <id_file>17685</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5b5c25489209.49735696.pdf</basename>
+        <dirname>1374</dirname>
+        <basename>que_curva_e_essa_chamada_elipse---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1380</id_resource>
         <id_file>17720</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f5e64e2929b79.85977203.pdf</basename>
+        <dirname>1380</dirname>
+        <basename>jogo_da_trilha---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1386</id_resource>
         <id_file>17750</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>4f6ccf61ca7c26.84696221.pdf</basename>
+        <dirname>1386</dirname>
+        <basename>padroes_no_plano---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1036</id_resource>
         <id_file>17976</id_file>
         <type>5</type>
-        <dirname>doc</dirname>
-        <basename>5008aed2b4c5e3.79411015.pdf</basename>
+        <dirname>1036</dirname>
+        <basename>otimizacao_da_cerca---folha_do_aluno.pdf</basename>
     </file>
     <file>
         <id_resource>1040</id_resource>
         <id_file>16588</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5a22156c1.09100612.mpg</basename>
+        <dirname>1040</dirname>
+        <basename>3 2 1 - Misterio.mpg</basename>
     </file>
     <file>
         <id_resource>1041</id_resource>
         <id_file>16591</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5b0a00e17.70650338.mpg</basename>
+        <dirname>1041</dirname>
+        <basename>078. A Espera da Meia-Noite.mpg</basename>
     </file>
     <file>
         <id_resource>1042</id_resource>
         <id_file>16594</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5bacd7402.21007102.mpg</basename>
+        <dirname>1042</dirname>
+        <basename>149. Abelhas Matematicas.mpg</basename>
     </file>
     <file>
         <id_resource>1043</id_resource>
         <id_file>16597</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5bfa2d504.45129172.mpg</basename>
+        <dirname>1043</dirname>
+        <basename>038. Acao, Reacao e Correlacao.mpg</basename>
     </file>
     <file>
         <id_resource>1044</id_resource>
         <id_file>16600</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5c98c52e3.98336575.mpg</basename>
+        <dirname>1044</dirname>
+        <basename>065. Eu Acho que Vi um Coelhinho.mpg</basename>
     </file>
     <file>
         <id_resource>1045</id_resource>
         <id_file>16603</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5d2b75c97.35393237.mpg</basename>
+        <dirname>1045</dirname>
+        <basename>119. Afogando em Zeros.mpg</basename>
     </file>
     <file>
         <id_resource>1046</id_resource>
         <id_file>16606</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5db045f88.26160814.mpg</basename>
+        <dirname>1046</dirname>
+        <basename>031. Alice e Algumas Relacoes Trigonometricas.mpg</basename>
     </file>
     <file>
         <id_resource>1047</id_resource>
         <id_file>16609</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5e56ff7e6.46364788.mpg</basename>
+        <dirname>1047</dirname>
+        <basename>014. Alice e a Lei dos Cossenos.mpg</basename>
     </file>
     <file>
         <id_resource>1048</id_resource>
         <id_file>16612</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5f34484a8.08470088.mpg</basename>
+        <dirname>1048</dirname>
+        <basename>030. Alice e o Cosseno da Diferenca de Arcos.mpg</basename>
     </file>
     <file>
         <id_resource>1049</id_resource>
         <id_file>16615</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee5fb606635.22278704.mpg</basename>
+        <dirname>1049</dirname>
+        <basename>123. Amuleto Magico.mpg</basename>
     </file>
     <file>
         <id_resource>1050</id_resource>
         <id_file>16618</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6075e1573.96643560.mpg</basename>
+        <dirname>1050</dirname>
+        <basename>047. A Aparicao.mpg</basename>
     </file>
     <file>
         <id_resource>1051</id_resource>
         <id_file>16621</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee60c6e27b5.63388848.mpg</basename>
+        <dirname>1051</dirname>
+        <basename>151. Arte e Matematica.mpg</basename>
     </file>
     <file>
         <id_resource>1052</id_resource>
         <id_file>16624</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee61a3db808.88681674.mpg</basename>
+        <dirname>1052</dirname>
+        <basename>096.-Atleticano-x-Rio-Grandense.mpg</basename>
     </file>
     <file>
         <id_resource>1053</id_resource>
         <id_file>16627</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee623765043.23454132.mpg</basename>
+        <dirname>1053</dirname>
+        <basename>122. Uma Aventura de RPG.mpg</basename>
     </file>
     <file>
         <id_resource>1054</id_resource>
         <id_file>16630</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee62f0b4467.09064001.mpg</basename>
+        <dirname>1054</dirname>
+        <basename>010. As Aventuras de Radix.mpg</basename>
     </file>
     <file>
         <id_resource>1055</id_resource>
         <id_file>16633</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee633c606b8.37156053.mpg</basename>
+        <dirname>1055</dirname>
+        <basename>072. Bombons a Granel.mpg</basename>
     </file>
     <file>
         <id_resource>1056</id_resource>
         <id_file>16636</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6406c9833.79076399.mpg</basename>
+        <dirname>1056</dirname>
+        <basename>021. Brasil x Argentina.mpg</basename>
     </file>
     <file>
         <id_resource>1057</id_resource>
         <id_file>16639</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee64967e4b7.70139762.mpg</basename>
+        <dirname>1057</dirname>
+        <basename>101. Breve Relato do Fim.mpg</basename>
     </file>
     <file>
         <id_resource>1058</id_resource>
         <id_file>16642</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee652ce53b0.11446277.mpg</basename>
+        <dirname>1058</dirname>
+        <basename>026. Os Cacadores de Sons de Fibonacci.mpg</basename>
     </file>
     <file>
         <id_resource>1059</id_resource>
         <id_file>16645</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6592ac128.90551216.mpg</basename>
+        <dirname>1059</dirname>
+        <basename>098. Cada Grafico no Seu Galho.mpg</basename>
     </file>
     <file>
         <id_resource>1060</id_resource>
         <id_file>16648</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee66145e545.15619573.mpg</basename>
+        <dirname>1060</dirname>
+        <basename>142. Um Caminho para Combater a Dengue.mpg</basename>
     </file>
     <file>
         <id_resource>1061</id_resource>
         <id_file>16651</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee66b392a70.91857487.mpg</basename>
+        <dirname>1061</dirname>
+        <basename>013. Um Caminho para o Curral.mpg</basename>
     </file>
     <file>
         <id_resource>1062</id_resource>
         <id_file>16654</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee676793ad8.88257988.mpg</basename>
+        <dirname>1062</dirname>
+        <basename>121. Cara ou Coroa.mpg</basename>
     </file>
     <file>
         <id_resource>1064</id_resource>
         <id_file>16660</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee682987335.51990365.mpg</basename>
+        <dirname>1064</dirname>
+        <basename>113. A Carta.mpg</basename>
     </file>
     <file>
         <id_resource>1065</id_resource>
         <id_file>16663</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee68bab6660.98213743.mpg</basename>
+        <dirname>1065</dirname>
+        <basename>086. A Cartomante.mpg</basename>
     </file>
     <file>
         <id_resource>1066</id_resource>
         <id_file>16666</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee69782bda7.45208581.mpg</basename>
+        <dirname>1066</dirname>
+        <basename>057. Um Certo Fator de Escala.mpg</basename>
     </file>
     <file>
         <id_resource>1067</id_resource>
         <id_file>16669</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6a25873c4.98702475.mpg</basename>
+        <dirname>1067</dirname>
+        <basename>112. A Cesar o que E de Cesar.mpg</basename>
     </file>
     <file>
         <id_resource>1068</id_resource>
         <id_file>16672</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6ab4db760.73132625.mpg</basename>
+        <dirname>1068</dirname>
+        <basename>141.-Cloro-na-Piscina.mpg</basename>
     </file>
     <file>
         <id_resource>1069</id_resource>
         <id_file>16675</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6b7c01515.84905261.mpg</basename>
+        <dirname>1069</dirname>
+        <basename>008. O Codigo Pascal.mpg</basename>
     </file>
     <file>
         <id_resource>1070</id_resource>
         <id_file>16678</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6c2723766.32498246.mpg</basename>
+        <dirname>1070</dirname>
+        <basename>020. Coisa de Passarinho.mpg</basename>
     </file>
     <file>
         <id_resource>1071</id_resource>
         <id_file>16681</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6cc8e0f06.99054258.mpg</basename>
+        <dirname>1071</dirname>
+        <basename>019. Coisas do Amor.mpg</basename>
     </file>
     <file>
         <id_resource>1072</id_resource>
         <id_file>16684</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6d7ebe155.37969010.mpg</basename>
+        <dirname>1072</dirname>
+        <basename>128.-Colmeia-Global.mpg</basename>
     </file>
     <file>
         <id_resource>1073</id_resource>
         <id_file>16687</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6e28a6520.10734174.mpg</basename>
+        <dirname>1073</dirname>
+        <basename>003. Comendo Numeros.mpg</basename>
     </file>
     <file>
         <id_resource>1074</id_resource>
         <id_file>16690</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6ebbb8b38.66407920.mpg</basename>
+        <dirname>1074</dirname>
+        <basename>108.-A-Comunidade.mpg</basename>
     </file>
     <file>
         <id_resource>1076</id_resource>
         <id_file>16694</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee6feb05be4.92958747.mpg</basename>
+        <dirname>1076</dirname>
+        <basename>001. A Cooperativa de Leite.mpg</basename>
     </file>
     <file>
         <id_resource>1077</id_resource>
         <id_file>16697</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee706731782.24339473.mpg</basename>
+        <dirname>1077</dirname>
+        <basename>040. Cozinha Cientifica.mpg</basename>
     </file>
     <file>
         <id_resource>1078</id_resource>
         <id_file>16700</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee710afa689.14001496.mpg</basename>
+        <dirname>1078</dirname>
+        <basename>115. Criador e Criatura.mpg</basename>
     </file>
     <file>
         <id_resource>1079</id_resource>
         <id_file>16703</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee71d16aaf6.68772332.mpg</basename>
+        <dirname>1079</dirname>
+        <basename>018. O Crime da Rua do Gasometro.mpg</basename>
     </file>
     <file>
         <id_resource>1080</id_resource>
         <id_file>16706</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7312101b0.07398937.mpg</basename>
+        <dirname>1080</dirname>
+        <basename>155. A Danca do Sol.mpg</basename>
     </file>
     <file>
         <id_resource>1081</id_resource>
         <id_file>16709</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee73d2e0c65.30694148.mpg</basename>
+        <dirname>1081</dirname>
+        <basename>154.-A-Danca-do-Embaralhamento.mpg</basename>
     </file>
     <file>
         <id_resource>1082</id_resource>
         <id_file>16712</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee745dcb271.13289510.mpg</basename>
+        <dirname>1082</dirname>
+        <basename>041. Dando Ibope.mpg</basename>
     </file>
     <file>
         <id_resource>1083</id_resource>
         <id_file>16715</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee74b5fdac5.42109356.mpg</basename>
+        <dirname>1083</dirname>
+        <basename>009. De Malas Prontas.mpg</basename>
     </file>
     <file>
         <id_resource>1084</id_resource>
         <id_file>16718</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee757a2ffc1.02946391.mpg</basename>
+        <dirname>1084</dirname>
+        <basename>037. O Desafio das Correlacoes Espurias.mpg</basename>
     </file>
     <file>
         <id_resource>1085</id_resource>
         <id_file>16721</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee75d728774.35748481.mpg</basename>
+        <dirname>1085</dirname>
+        <basename>087. Desejos.mpg</basename>
     </file>
     <file>
         <id_resource>1086</id_resource>
         <id_file>16724</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee76652acf0.87054700.mpg</basename>
+        <dirname>1086</dirname>
+        <basename>035. Desenhando Ondas.mpg</basename>
     </file>
     <file>
         <id_resource>1087</id_resource>
         <id_file>16727</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee76deef450.66189242.mpg</basename>
+        <dirname>1087</dirname>
+        <basename>139. Desvendando o Calendario.mpg</basename>
     </file>
     <file>
         <id_resource>1088</id_resource>
         <id_file>16730</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee77620a4c4.38618641.mpg</basename>
+        <dirname>1088</dirname>
+        <basename>094. As Desventuras da Mae Joana.mpg</basename>
     </file>
     <file>
         <id_resource>1089</id_resource>
         <id_file>16733</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7822d5a73.03768501.mpg</basename>
+        <dirname>1089</dirname>
+        <basename>045.-O-Dilema-do-Prisioneiro.mpg</basename>
     </file>
     <file>
         <id_resource>1090</id_resource>
         <id_file>16736</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee78a0d6008.92355973.mpg</basename>
+        <dirname>1090</dirname>
+        <basename>089. Dinamica de Grupos.mpg</basename>
     </file>
     <file>
         <id_resource>1091</id_resource>
         <id_file>16739</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee793a504a3.01000290.mpg</basename>
+        <dirname>1091</dirname>
+        <basename>092. Direitos do Consumidor.mpg</basename>
     </file>
     <file>
         <id_resource>1092</id_resource>
         <id_file>16742</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee79cb7b950.19125219.mpg</basename>
+        <dirname>1092</dirname>
+        <basename>129. E Agora, Jose.mpg</basename>
     </file>
     <file>
         <id_resource>1093</id_resource>
         <id_file>16745</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7a9709c80.15183708.mpg</basename>
+        <dirname>1093</dirname>
+        <basename>106.-Em-Equilibrio.mpg</basename>
     </file>
     <file>
         <id_resource>1094</id_resource>
         <id_file>16748</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7b147e986.24157399.mpg</basename>
+        <dirname>1094</dirname>
+        <basename>090. Embalagens.mpg</basename>
     </file>
     <file>
         <id_resource>1095</id_resource>
         <id_file>16751</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7bb5dc498.65444463.mpg</basename>
+        <dirname>1095</dirname>
+        <basename>083. Um Encontro Inusitado.mpg</basename>
     </file>
     <file>
         <id_resource>1096</id_resource>
         <id_file>16754</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7c482cc88.58369923.mpg</basename>
+        <dirname>1096</dirname>
+        <basename>058. Entrando pelo Tunel.mpg</basename>
     </file>
     <file>
         <id_resource>1097</id_resource>
         <id_file>16757</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7cb2349e7.02045701.mpg</basename>
+        <dirname>1097</dirname>
+        <basename>082. Esse tal de Bhaskara.mpg</basename>
     </file>
     <file>
         <id_resource>1098</id_resource>
         <id_file>16760</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7d9b55973.84180843.mpg</basename>
+        <dirname>1098</dirname>
+        <basename>097. A Experiencia.mpg</basename>
     </file>
     <file>
         <id_resource>1099</id_resource>
         <id_file>16763</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7e8db3ea3.89168019.mpg</basename>
+        <dirname>1099</dirname>
+        <basename>120. Formula Magica.mpg</basename>
     </file>
     <file>
         <id_resource>1100</id_resource>
         <id_file>16766</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7f2961c89.26957734.mpg</basename>
+        <dirname>1100</dirname>
+        <basename>071. O Gabarito Secreto.mpg</basename>
     </file>
     <file>
         <id_resource>1101</id_resource>
         <id_file>16769</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee7faeaefa8.04886987.mpg</basename>
+        <dirname>1101</dirname>
+        <basename>074. Gasolina ou Alcool.mpg</basename>
     </file>
     <file>
         <id_resource>1102</id_resource>
         <id_file>16772</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8086635d6.93210474.mpg</basename>
+        <dirname>1102</dirname>
+        <basename>116.-As-Aventuras-do-Geodetetive-1.mpg</basename>
     </file>
     <file>
         <id_resource>1103</id_resource>
         <id_file>16775</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee81eaa1851.25464241.mpg</basename>
+        <dirname>1103</dirname>
+        <basename>117.-As-Aventuras-do-Geodetetive-2.mpg</basename>
     </file>
     <file>
         <id_resource>1104</id_resource>
         <id_file>16778</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8285a75e5.30388821.mpg</basename>
+        <dirname>1104</dirname>
+        <basename>145.-As-Aventuras-do-Geodetetive-3.mpg</basename>
     </file>
     <file>
         <id_resource>1106</id_resource>
         <id_file>16782</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8373c20c4.28873728.mpg</basename>
+        <dirname>1106</dirname>
+        <basename>147.-As-Aventuras-do-Geodetetive-5.mpg</basename>
     </file>
     <file>
         <id_resource>1107</id_resource>
         <id_file>16785</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8412e19c4.50774648.mpg</basename>
+        <dirname>1107</dirname>
+        <basename>148.-As-Aventuras-do-Geodetetive-6.mpg</basename>
     </file>
     <file>
         <id_resource>1108</id_resource>
         <id_file>16788</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee856e4fcb5.35204089.mpg</basename>
+        <dirname>1108</dirname>
+        <basename>144.-O-Golpe.mpg</basename>
     </file>
     <file>
         <id_resource>1109</id_resource>
         <id_file>16791</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee86308dc88.13570482.mpg</basename>
+        <dirname>1109</dirname>
+        <basename>079. Grande Hotel.mpg</basename>
     </file>
     <file>
         <id_resource>1110</id_resource>
         <id_file>16794</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee86fb7b6d2.46097393.mpg</basename>
+        <dirname>1110</dirname>
+        <basename>080. Grande Hotel 2.mpg</basename>
     </file>
     <file>
         <id_resource>1111</id_resource>
         <id_file>16797</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee87c347c98.50585145.mpg</basename>
+        <dirname>1111</dirname>
+        <basename>028. O Grilo Cantante.mpg</basename>
     </file>
     <file>
         <id_resource>1112</id_resource>
         <id_file>16800</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee885369533.60844018.mpg</basename>
+        <dirname>1112</dirname>
+        <basename>004. O Guardador de Aguas.mpg</basename>
     </file>
     <file>
         <id_resource>1113</id_resource>
         <id_file>16803</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee88f688c25.40127872.mpg</basename>
+        <dirname>1113</dirname>
+        <basename>124. Halloween.mpg</basename>
     </file>
     <file>
         <id_resource>1114</id_resource>
         <id_file>16806</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee899d83967.07731629.mpg</basename>
+        <dirname>1114</dirname>
+        <basename>125. Heranca de Familia.mpg</basename>
     </file>
     <file>
         <id_resource>1115</id_resource>
         <id_file>16809</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8a44bace2.51765475.mpg</basename>
+        <dirname>1115</dirname>
+        <basename>152. A Historia de Mussaraf.mpg</basename>
     </file>
     <file>
         <id_resource>1116</id_resource>
         <id_file>16812</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8b1bd8506.00557318.mpg</basename>
+        <dirname>1116</dirname>
+        <basename>107.-O-Hit-dos-Bits.mpg</basename>
     </file>
     <file>
         <id_resource>1117</id_resource>
         <id_file>16815</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8ba45acc3.32359056.mpg</basename>
+        <dirname>1117</dirname>
+        <basename>081. Hotel de Hilbert.mpg</basename>
     </file>
     <file>
         <id_resource>1118</id_resource>
         <id_file>16818</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8c284bc67.74478180.mpg</basename>
+        <dirname>1118</dirname>
+        <basename>042. Huguinho e Zezinho.mpg</basename>
     </file>
     <file>
         <id_resource>1119</id_resource>
         <id_file>16821</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8cef1c4c2.31248640.mpg</basename>
+        <dirname>1119</dirname>
+        <basename>043. A Incrivel Piritipoca da Serra.mpg</basename>
     </file>
     <file>
         <id_resource>1120</id_resource>
         <id_file>16824</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8db3754d4.45707832.mpg</basename>
+        <dirname>1120</dirname>
+        <basename>130. Os Infinitos de Cantor.mpg</basename>
     </file>
     <file>
         <id_resource>1121</id_resource>
         <id_file>16827</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8e6391c06.09044652.mpg</basename>
+        <dirname>1121</dirname>
+        <basename>061. Jardim de Numeros.mpg</basename>
     </file>
     <file>
         <id_resource>1122</id_resource>
         <id_file>16830</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8f127ec94.99252177.mpg</basename>
+        <dirname>1122</dirname>
+        <basename>023. O Jogo de Dados de Mozart.mpg</basename>
     </file>
     <file>
         <id_resource>1123</id_resource>
         <id_file>16833</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8fa6517b2.52276399.mpg</basename>
+        <dirname>1123</dirname>
+        <basename>046. Jogos.mpg</basename>
     </file>
     <file>
         <id_resource>1124</id_resource>
         <id_file>16836</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee8ff2bc051.66870553.mpg</basename>
+        <dirname>1124</dirname>
+        <basename>085. Juros Divididos Divida Crescente.mpg</basename>
     </file>
     <file>
         <id_resource>1125</id_resource>
         <id_file>16839</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee90ad30fe3.64372152.mpg</basename>
+        <dirname>1125</dirname>
+        <basename>039. Lembrancas de Sofia.mpg</basename>
     </file>
     <file>
         <id_resource>1126</id_resource>
         <id_file>16842</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9146e96f8.41078187.mpg</basename>
+        <dirname>1126</dirname>
+        <basename>055. A Lenda de Dido.mpg</basename>
     </file>
     <file>
         <id_resource>1127</id_resource>
         <id_file>16845</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee91d2e9870.35865878.mpg</basename>
+        <dirname>1127</dirname>
+        <basename>075. Logica de Alice.mpg</basename>
     </file>
     <file>
         <id_resource>1128</id_resource>
         <id_file>16848</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9295e74a2.87079311.mpg</basename>
+        <dirname>1128</dirname>
+        <basename>011. A Loira do Banheiro.mpg</basename>
     </file>
     <file>
         <id_resource>1129</id_resource>
         <id_file>16851</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee93542d6b6.94334897.mpg</basename>
+        <dirname>1129</dirname>
+        <basename>024. Lutie de Proporcoes.mpg</basename>
     </file>
     <file>
         <id_resource>1130</id_resource>
         <id_file>16854</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee93e975893.42754766.mpg</basename>
+        <dirname>1130</dirname>
+        <basename>066. A Mae.mpg</basename>
     </file>
     <file>
         <id_resource>1131</id_resource>
         <id_file>16857</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee946e4ee48.57322774.mpg</basename>
+        <dirname>1131</dirname>
+        <basename>027. O Magico das Arabias.mpg</basename>
     </file>
     <file>
         <id_resource>1132</id_resource>
         <id_file>16860</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee950ed0fc1.60846567.mpg</basename>
+        <dirname>1132</dirname>
+        <basename>109. A Maldicao da Piramide.mpg</basename>
     </file>
     <file>
         <id_resource>1133</id_resource>
         <id_file>16863</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee958bc1b44.43484269.mpg</basename>
+        <dirname>1133</dirname>
+        <basename>002. A Mancha.mpg</basename>
     </file>
     <file>
         <id_resource>1134</id_resource>
         <id_file>16866</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee960318e74.49751205.mpg</basename>
+        <dirname>1134</dirname>
+        <basename>138. Medindo a Terra.mpg</basename>
     </file>
     <file>
         <id_resource>1135</id_resource>
         <id_file>16869</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee968a89d04.30983482.mpg</basename>
+        <dirname>1135</dirname>
+        <basename>033. Musica Quase por Acaso.mpg</basename>
     </file>
     <file>
         <id_resource>1136</id_resource>
         <id_file>16872</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee97eaad665.60029495.mpg</basename>
+        <dirname>1136</dirname>
+        <basename>034. Musica Quase sem Compositor.mpg</basename>
     </file>
     <file>
         <id_resource>1137</id_resource>
         <id_file>16875</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9885038e1.59769306.mpg</basename>
+        <dirname>1137</dirname>
+        <basename>062. Na Cauda do Cometa.mpg</basename>
     </file>
     <file>
         <id_resource>1138</id_resource>
         <id_file>16878</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee991c87bd8.56936286.mpg</basename>
+        <dirname>1138</dirname>
+        <basename>054. Naturalmente.mpg</basename>
     </file>
     <file>
         <id_resource>1139</id_resource>
         <id_file>16881</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee99beb6da0.51441207.mpg</basename>
+        <dirname>1139</dirname>
+        <basename>017. Noite de Forro.mpg</basename>
     </file>
     <file>
         <id_resource>1140</id_resource>
         <id_file>16884</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9a9765061.50570972.mpg</basename>
+        <dirname>1140</dirname>
+        <basename>050. O Sonho.mpg</basename>
     </file>
     <file>
         <id_resource>1141</id_resource>
         <id_file>16887</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9b1e5c3a1.21758418.mpg</basename>
+        <dirname>1141</dirname>
+        <basename>105. O Sonho Continua.mpg</basename>
     </file>
     <file>
         <id_resource>1142</id_resource>
         <id_file>16890</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9c0452a08.47569938.mpg</basename>
+        <dirname>1142</dirname>
+        <basename>104. O Sonho nao Acabou.mpg</basename>
     </file>
     <file>
         <id_resource>1143</id_resource>
         <id_file>16893</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9cb1893d1.92512523.mpg</basename>
+        <dirname>1143</dirname>
+        <basename>025. Oferenda Musical de Bach.mpg</basename>
     </file>
     <file>
         <id_resource>1144</id_resource>
         <id_file>16896</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9d72677d1.58893721.mpg</basename>
+        <dirname>1144</dirname>
+        <basename>099. Olha o Sanduiche.mpg</basename>
     </file>
     <file>
         <id_resource>1145</id_resource>
         <id_file>16899</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9e18a7aa5.65113759.mpg</basename>
+        <dirname>1145</dirname>
+        <basename>012. Os Angulos e as Torres.mpg</basename>
     </file>
     <file>
         <id_resource>1146</id_resource>
         <id_file>16902</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9f1c3da79.12035678.mpg</basename>
+        <dirname>1146</dirname>
+        <basename>102. Osso Duro de Roer.mpg</basename>
     </file>
     <file>
         <id_resource>1147</id_resource>
         <id_file>16905</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1ee9f9da7342.95556352.mpg</basename>
+        <dirname>1147</dirname>
+        <basename>126. Overdose.mpg</basename>
     </file>
     <file>
         <id_resource>1148</id_resource>
         <id_file>16908</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea041bf527.99777269.mpg</basename>
+        <dirname>1148</dirname>
+        <basename>095. Pandemia.mpg</basename>
     </file>
     <file>
         <id_resource>1149</id_resource>
         <id_file>16911</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea0fc36cd4.28140326.mpg</basename>
+        <dirname>1149</dirname>
+        <basename>091. Panquecas da Dona Gloria.mpg</basename>
     </file>
     <file>
         <id_resource>1150</id_resource>
         <id_file>16914</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea19a5ecc9.28466538.mpg</basename>
+        <dirname>1150</dirname>
+        <basename>063. Para Correr a Sao Silvestre.mpg</basename>
     </file>
     <file>
         <id_resource>1151</id_resource>
         <id_file>16917</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea2494e307.01057229.mpg</basename>
+        <dirname>1151</dirname>
+        <basename>064. Para Salvar o Mundo.mpg</basename>
     </file>
     <file>
         <id_resource>1154</id_resource>
         <id_file>16926</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea437cae34.74717421.mpg</basename>
+        <dirname>1154</dirname>
+        <basename>136.-Pelas-Lentes-da-Matematica.mpg</basename>
     </file>
     <file>
         <id_resource>1155</id_resource>
         <id_file>16929</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea4d5e2ae9.76377721.mpg</basename>
+        <dirname>1155</dirname>
+        <basename>069. Perdido no Globo.mpg</basename>
     </file>
     <file>
         <id_resource>1156</id_resource>
         <id_file>16932</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea5befa310.59964975.mpg</basename>
+        <dirname>1156</dirname>
+        <basename>056.-Um-Poema-e-Tres-Quebra-Cabecas.mpg</basename>
     </file>
     <file>
         <id_resource>1157</id_resource>
         <id_file>16935</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea6663c813.02779420.mpg</basename>
+        <dirname>1157</dirname>
+        <basename>060. Um Ponto de Vista.mpg</basename>
     </file>
     <file>
         <id_resource>1158</id_resource>
         <id_file>16938</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea6eb07b24.94222875.mpg</basename>
+        <dirname>1158</dirname>
+        <basename>111. Pra La de Bagda.mpg</basename>
     </file>
     <file>
         <id_resource>1159</id_resource>
         <id_file>16941</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea799bf7f8.69181859.mpg</basename>
+        <dirname>1159</dirname>
+        <basename>132. O Principe de Sofia.mpg</basename>
     </file>
     <file>
         <id_resource>1160</id_resource>
         <id_file>16944</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea83527ef6.79193755.mpg</basename>
+        <dirname>1160</dirname>
+        <basename>084.-O-Problema-da-Cerca.mpg</basename>
     </file>
     <file>
         <id_resource>1161</id_resource>
         <id_file>16947</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea8de46a98.16057776.mpg</basename>
+        <dirname>1161</dirname>
+        <basename>032. Procurando Xenakis.mpg</basename>
     </file>
     <file>
         <id_resource>1162</id_resource>
         <id_file>16950</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eea96bbc051.88731484.mpg</basename>
+        <dirname>1162</dirname>
+        <basename>016. Prova de Alternativas.mpg</basename>
     </file>
     <file>
         <id_resource>1164</id_resource>
         <id_file>16956</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeab1031461.52105487.mpg</basename>
+        <dirname>1164</dirname>
+        <basename>131. Qual o Melhor Caminho.mpg</basename>
     </file>
     <file>
         <id_resource>1165</id_resource>
         <id_file>16959</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeabbaff2b1.37479122.mpg</basename>
+        <dirname>1165</dirname>
+        <basename>110. Que Saco.mpg</basename>
     </file>
     <file>
         <id_resource>1166</id_resource>
         <id_file>16962</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeac9d9cbb9.70391718.mpg</basename>
+        <dirname>1166</dirname>
+        <basename>005. Que a Forca Esteja com Voce.mpg</basename>
     </file>
     <file>
         <id_resource>1167</id_resource>
         <id_file>16965</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eead5336dc0.73991109.mpg</basename>
+        <dirname>1167</dirname>
+        <basename>133. Quem Quer Ser um Milionario.mpg</basename>
     </file>
     <file>
         <id_resource>1168</id_resource>
         <id_file>16968</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeadddcb666.32496081.mpg</basename>
+        <dirname>1168</dirname>
+        <basename>150. A Razao dos Irracionais.mpg</basename>
     </file>
     <file>
         <id_resource>1169</id_resource>
         <id_file>16971</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeae6b73870.50631310.mpg</basename>
+        <dirname>1169</dirname>
+        <basename>076. A Revanche de Alice.mpg</basename>
     </file>
     <file>
         <id_resource>1170</id_resource>
         <id_file>16974</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeaf311f645.65291503.mpg</basename>
+        <dirname>1170</dirname>
+        <basename>153. Revendo a Moratoria.mpg</basename>
     </file>
     <file>
         <id_resource>1171</id_resource>
         <id_file>16977</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeafd460408.84325075.mpg</basename>
+        <dirname>1171</dirname>
+        <basename>088. Roda Roda.mpg</basename>
     </file>
     <file>
         <id_resource>1172</id_resource>
         <id_file>16980</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb08cea0d2.70220561.mpg</basename>
+        <dirname>1172</dirname>
+        <basename>051. Roda de Samba.mpg</basename>
     </file>
     <file>
         <id_resource>1173</id_resource>
         <id_file>16983</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb1359b035.33054542.mpg</basename>
+        <dirname>1173</dirname>
+        <basename>053. Roda do Sonho.mpg</basename>
     </file>
     <file>
         <id_resource>1174</id_resource>
         <id_file>16986</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb2372a892.18887736.mpg</basename>
+        <dirname>1174</dirname>
+        <basename>100. Salvador, o Hipocondriaco.mpg</basename>
     </file>
     <file>
         <id_resource>1175</id_resource>
         <id_file>16989</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb2854bba0.88725153.mpg</basename>
+        <dirname>1175</dirname>
+        <basename>006. Se Eu Fosse Voce.mpg</basename>
     </file>
     <file>
         <id_resource>1176</id_resource>
         <id_file>16992</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb356b74b2.13231844.mpg</basename>
+        <dirname>1176</dirname>
+        <basename>134. Sem Discriminacao.mpg</basename>
     </file>
     <file>
         <id_resource>1177</id_resource>
         <id_file>16995</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb3c49c910.73341423.mpg</basename>
+        <dirname>1177</dirname>
+        <basename>036. Sinfonia de Poliedros.mpg</basename>
     </file>
     <file>
         <id_resource>1178</id_resource>
         <id_file>16998</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb46b14740.83503588.mpg</basename>
+        <dirname>1178</dirname>
+        <basename>044. O Sonho Dourado.mpg</basename>
     </file>
     <file>
         <id_resource>1179</id_resource>
         <id_file>17001</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb4fac3d39.28048319.mpg</basename>
+        <dirname>1179</dirname>
+        <basename>140. Surpresa para os Calouros.mpg</basename>
     </file>
     <file>
         <id_resource>1180</id_resource>
         <id_file>17004</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb55ba7628.14258787.mpg</basename>
+        <dirname>1180</dirname>
+        <basename>048. Os Suspeitos.mpg</basename>
     </file>
     <file>
         <id_resource>1181</id_resource>
         <id_file>17007</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb6178c819.52591524.mpg</basename>
+        <dirname>1181</dirname>
+        <basename>114.-Tempos-de-Guerra.mpg</basename>
     </file>
     <file>
         <id_resource>1182</id_resource>
         <id_file>17010</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb6d562914.92040039.mpg</basename>
+        <dirname>1182</dirname>
+        <basename>049. Terremoto Brasileiro.mpg</basename>
     </file>
     <file>
         <id_resource>1183</id_resource>
         <id_file>17013</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb782e5a79.63061046.mpg</basename>
+        <dirname>1183</dirname>
+        <basename>137. Tesouro Cartesiano.mpg</basename>
     </file>
     <file>
         <id_resource>1184</id_resource>
         <id_file>17016</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb8061f9d1.25639619.mpg</basename>
+        <dirname>1184</dirname>
+        <basename>015. Teste de Gravidez.mpg</basename>
     </file>
     <file>
         <id_resource>1185</id_resource>
         <id_file>17019</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb8bd3da02.20163534.mpg</basename>
+        <dirname>1185</dirname>
+        <basename>059. Triangular E Preciso.mpg</basename>
     </file>
     <file>
         <id_resource>1186</id_resource>
         <id_file>17022</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb9721fcc5.74078042.mpg</basename>
+        <dirname>1186</dirname>
+        <basename>029.-Tudo-Que-Voce-Sempre-Quis-Perguntar.mpg</basename>
     </file>
     <file>
         <id_resource>1187</id_resource>
         <id_file>17025</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeb9fac2db2.24756837.mpg</basename>
+        <dirname>1187</dirname>
+        <basename>103.-Um-Sonho-Complexo.mpg</basename>
     </file>
     <file>
         <id_resource>1188</id_resource>
         <id_file>17028</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebaaaad0f5.63475098.mpg</basename>
+        <dirname>1188</dirname>
+        <basename>135. Voce Disse Cristalografia.mpg</basename>
     </file>
     <file>
         <id_resource>1189</id_resource>
         <id_file>17031</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebb3784d78.53795410.mpg</basename>
+        <dirname>1189</dirname>
+        <basename>118. A Velha Historia das Multidoes.mpg</basename>
     </file>
     <file>
         <id_resource>1190</id_resource>
         <id_file>17034</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebbf28a6e9.56898824.mpg</basename>
+        <dirname>1190</dirname>
+        <basename>143. Venda Segura.mpg</basename>
     </file>
     <file>
         <id_resource>1191</id_resource>
         <id_file>17037</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebca8c7fb8.77413323.mpg</basename>
+        <dirname>1191</dirname>
+        <basename>070. Vou de Taxi.mpg</basename>
     </file>
     <file>
         <id_resource>1192</id_resource>
         <id_file>17040</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebd79014a6.21431316.mpg</basename>
+        <dirname>1192</dirname>
+        <basename>073. A Voz do Interior.mpg</basename>
     </file>
     <file>
         <id_resource>1193</id_resource>
         <id_file>17043</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebe2e896c8.15089170.mpg</basename>
+        <dirname>1193</dirname>
+        <basename>007. Xeque-Mate.mpg</basename>
     </file>
     <file>
         <id_resource>1194</id_resource>
         <id_file>17046</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebed3b4fb3.70682529.mpg</basename>
+        <dirname>1194</dirname>
+        <basename>Administrador e Contador.mpg</basename>
     </file>
     <file>
         <id_resource>1195</id_resource>
         <id_file>17049</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eebf6217df4.58651008.mpg</basename>
+        <dirname>1195</dirname>
+        <basename>Advogado e Engenheiro Eletrico.mpg</basename>
     </file>
     <file>
         <id_resource>1196</id_resource>
         <id_file>17052</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec0421ebe9.87503614.mov</basename>
+        <dirname>1196</dirname>
+        <basename>Agrimensor e Geologo.mov</basename>
     </file>
     <file>
         <id_resource>1197</id_resource>
         <id_file>17055</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec0ac297a2.35019493.mpg</basename>
+        <dirname>1197</dirname>
+        <basename>Agronomo e Fisioterapeuta.mpg</basename>
     </file>
     <file>
         <id_resource>1198</id_resource>
         <id_file>17058</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec17df2d59.24144093.mpg</basename>
+        <dirname>1198</dirname>
+        <basename>Analista de Sistemas e Engenheiro da Computacao.mpg</basename>
     </file>
     <file>
         <id_resource>1199</id_resource>
         <id_file>17061</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec205785c0.00859448.mov</basename>
+        <dirname>1199</dirname>
+        <basename>Arquiteto e Engenheiro Civil.mov</basename>
     </file>
     <file>
         <id_resource>1200</id_resource>
         <id_file>17064</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec31d9d239.01381529.mpg</basename>
+        <dirname>1200</dirname>
+        <basename>Artista Plastico e Designer Grafico.mpg</basename>
     </file>
     <file>
         <id_resource>1201</id_resource>
         <id_file>17067</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec43eeb646.99840031.mpg</basename>
+        <dirname>1201</dirname>
+        <basename>Astronomo e Fisico.mpg</basename>
     </file>
     <file>
         <id_resource>1202</id_resource>
         <id_file>17070</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec4f8be2c6.56389044.mpg</basename>
+        <dirname>1202</dirname>
+        <basename>Atuario e Estatistico.mpg</basename>
     </file>
     <file>
         <id_resource>1203</id_resource>
         <id_file>17073</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec5bcd93e6.89717426.mov</basename>
+        <dirname>1203</dirname>
+        <basename>Biologo e Nutricionista.mov</basename>
     </file>
     <file>
         <id_resource>1204</id_resource>
         <id_file>17076</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec6ac9f274.42882326.mpg</basename>
+        <dirname>1204</dirname>
+        <basename>Chef de Cozinha e Estilista.mpg</basename>
     </file>
     <file>
         <id_resource>1205</id_resource>
         <id_file>17079</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec7994cee5.61115686.mpg</basename>
+        <dirname>1205</dirname>
+        <basename>Comerciante e Corretor de Imoveis.mpg</basename>
     </file>
     <file>
         <id_resource>1206</id_resource>
         <id_file>17082</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec846dc295.50346603.mpg</basename>
+        <dirname>1206</dirname>
+        <basename>Controlador de Trafego Aereo e Piloto de Helicoptero.mpg</basename>
     </file>
     <file>
         <id_resource>1207</id_resource>
         <id_file>17085</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec95dc60e7.56038364.mpg</basename>
+        <dirname>1207</dirname>
+        <basename>Economista e Comercio Exterior.mpg</basename>
     </file>
     <file>
         <id_resource>1208</id_resource>
         <id_file>17088</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eec9e39e086.58046409.mpg</basename>
+        <dirname>1208</dirname>
+        <basename>Engenheira de Alimentos e Quimico.mpg</basename>
     </file>
     <file>
         <id_resource>1209</id_resource>
         <id_file>17091</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eeca947ea23.07241806.mpg</basename>
+        <dirname>1209</dirname>
+        <basename>Esportista e Fotografo.mpg</basename>
     </file>
     <file>
         <id_resource>1210</id_resource>
         <id_file>17094</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecb1403b24.99074440.mpg</basename>
+        <dirname>1210</dirname>
+        <basename>Farmaceutica e Produtora de Eventos.mpg</basename>
     </file>
     <file>
         <id_resource>1211</id_resource>
         <id_file>17097</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecbb234959.58324350.mov</basename>
+        <dirname>1211</dirname>
+        <basename>Hotelaria e Logistica.mov</basename>
     </file>
     <file>
         <id_resource>1212</id_resource>
         <id_file>17100</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecc2e432f0.81275117.mpg</basename>
+        <dirname>1212</dirname>
+        <basename>Matematico e Musico.mpg</basename>
     </file>
     <file>
         <id_resource>1213</id_resource>
         <id_file>17103</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecca48ddf2.25373409.mpg</basename>
+        <dirname>1213</dirname>
+        <basename>Meteorologista e Turismo.mpg</basename>
     </file>
     <file>
         <id_resource>1214</id_resource>
         <id_file>17106</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecd31f06e3.80589300.mov</basename>
+        <dirname>1214</dirname>
+        <basename>Odontologia e Medico.mov</basename>
     </file>
     <file>
         <id_resource>1215</id_resource>
         <id_file>17109</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eece0e35064.89511004.mpg</basename>
+        <dirname>1215</dirname>
+        <basename>Produtor de Cinema e Publicitario.mpg</basename>
     </file>
     <file>
         <id_resource>1216</id_resource>
         <id_file>17112</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecec166086.98355770.mpg</basename>
+        <dirname>1216</dirname>
+        <basename>Professor Universitario e Bancaria.mpg</basename>
     </file>
     <file>
         <id_resource>1217</id_resource>
         <id_file>17115</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eecf476df04.23931799.mpg</basename>
+        <dirname>1217</dirname>
+        <basename>Secretaria e Engenheiro de Telecomunicacoes.mpg</basename>
     </file>
     <file>
         <id_resource>1218</id_resource>
         <id_file>17118</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f1eed02304799.53296192.mov</basename>
+        <dirname>1218</dirname>
+        <basename>Zootecnia e Veterinaria.mov</basename>
     </file>
     <file>
         <id_resource>1364</id_resource>
         <id_file>17599</id_file>
         <type>6</type>
-        <dirname>txt</dirname>
-        <basename>4f569e23e598d5.88958528.mpg</basename>
+        <dirname>1364</dirname>
+        <basename>AVALANCHESVCD_NTSC_Lg.mpg</basename>
     </file>
     <file>
         <id_resource>1382</id_resource>
         <id_file>17733</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f6c5d7687f5b8.01111879.mpg</basename>
+        <dirname>1382</dirname>
+        <basename>CAIXA DE PAPELSVCD_NTSC_Lg.mpg</basename>
     </file>
     <file>
         <id_resource>1384</id_resource>
         <id_file>17739</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f6c7d0b6ee730.53087803.mpg</basename>
+        <dirname>1384</dirname>
+        <basename>MONTANHAS GEOMETRICASSVCD_NTSC_Lg.mpg</basename>
     </file>
     <file>
         <id_resource>1385</id_resource>
         <id_file>17742</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f6c80e220f4b4.92946029.mpg</basename>
+        <dirname>1385</dirname>
+        <basename>PADROES NO PLANOSVCD_NTSC_Lg.mpg</basename>
     </file>
     <file>
         <id_resource>1163</id_resource>
         <id_file>17849</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4f84cf405eb013.61010474.mpg</basename>
+        <dirname>1163</dirname>
+        <basename>127. Quadra Poliesportiva.mpg</basename>
     </file>
     <file>
         <id_resource>1105</id_resource>
         <id_file>17901</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4fbee054bec0a9.88845277.mpg</basename>
+        <dirname>1105</dirname>
+        <basename>146. As Aventuras do Geodetetive 4.mpg</basename>
     </file>
     <file>
         <id_resource>1075</id_resource>
         <id_file>17904</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>4fbf58f3946a63.58075544.mpg</basename>
+        <dirname>1075</dirname>
+        <basename>067. Conclusoes Precipitadas.mpg</basename>
     </file>
     <file>
         <id_resource>1153</id_resource>
         <id_file>17978</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>502be89847d264.63368143.mpg</basename>
+        <dirname>1153</dirname>
+        <basename>068. A Parte do Leao.mpg</basename>
     </file>
     <file>
         <id_resource>1063</id_resource>
         <id_file>18102</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>50b9eae8311cc1.13088318.mpg</basename>
+        <dirname>1063</dirname>
+        <basename>093. Carro Flex.mpg</basename>
     </file>
     <file>
         <id_resource>1387</id_resource>
         <id_file>18109</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>50bbabba2b6527.49284756.mpg</basename>
+        <dirname>1387</dirname>
+        <basename>022. Descobrindo o Algoritimo de Guido.mpg</basename>
     </file>
     <file>
         <id_resource>1152</id_resource>
         <id_file>18136</id_file>
         <type>6</type>
-        <dirname>vid</dirname>
-        <basename>52350dcf944768.74632204.mpg</basename>
+        <dirname>1152</dirname>
+        <basename>077. Alice, o Paradoxo e a Formalizacao.mpg</basename>
     </file>
     <file>
         <id_resource>1040</id_resource>
         <id_file>16589</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5a8349ce7.97344281.pdf</basename>
+        <dirname>1040</dirname>
+        <basename>321misterio.pdf</basename>
     </file>
     <file>
         <id_resource>1041</id_resource>
         <id_file>16592</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5b1460ed7.87064993.pdf</basename>
+        <dirname>1041</dirname>
+        <basename>aesperadameianoite.pdf</basename>
     </file>
     <file>
         <id_resource>1042</id_resource>
         <id_file>16595</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5bb9e7f56.19672691.pdf</basename>
+        <dirname>1042</dirname>
+        <basename>abelhasmatematicas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1043</id_resource>
         <id_file>16598</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5c28083a0.70251402.pdf</basename>
+        <dirname>1043</dirname>
+        <basename>acaoreacaocorrelacao.pdf</basename>
     </file>
     <file>
         <id_resource>1044</id_resource>
         <id_file>16601</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5cb1aa7f1.18560786.pdf</basename>
+        <dirname>1044</dirname>
+        <basename>achoqueviumcoelhinho-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1045</id_resource>
         <id_file>16604</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5d62f07f1.53907005.pdf</basename>
+        <dirname>1045</dirname>
+        <basename>afogandoemzeros-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1046</id_resource>
         <id_file>16607</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5df0a5f90.77964333.pdf</basename>
+        <dirname>1046</dirname>
+        <basename>aliceealgumasrelacoestrigonometricas.pdf</basename>
     </file>
     <file>
         <id_resource>1047</id_resource>
         <id_file>16610</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5e9f26e19.21524388.pdf</basename>
+        <dirname>1047</dirname>
+        <basename>aliceealeidoscossenos.pdf</basename>
     </file>
     <file>
         <id_resource>1048</id_resource>
         <id_file>16613</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5f400e4f4.28917589.pdf</basename>
+        <dirname>1048</dirname>
+        <basename>aliceeocossenodadiferencadearcos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1049</id_resource>
         <id_file>16616</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee5fc146f85.46451090.pdf</basename>
+        <dirname>1049</dirname>
+        <basename>amuletomagico-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1050</id_resource>
         <id_file>16619</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee608236459.11321233.pdf</basename>
+        <dirname>1050</dirname>
+        <basename>aaparicao.pdf</basename>
     </file>
     <file>
         <id_resource>1051</id_resource>
         <id_file>16622</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee610c036c0.94123836.pdf</basename>
+        <dirname>1051</dirname>
+        <basename>artematematica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1052</id_resource>
         <id_file>16625</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee61aed3721.25598000.pdf</basename>
+        <dirname>1052</dirname>
+        <basename>atleticanoriograndense-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1053</id_resource>
         <id_file>16628</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6244231e9.30012487.pdf</basename>
+        <dirname>1053</dirname>
+        <basename>UmaAventuraRPG-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1054</id_resource>
         <id_file>16631</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee62fbbe244.79935654.pdf</basename>
+        <dirname>1054</dirname>
+        <basename>asaventurasderadix-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1055</id_resource>
         <id_file>16634</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee63735bf29.35629757.pdf</basename>
+        <dirname>1055</dirname>
+        <basename>bombonsagranel-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1056</id_resource>
         <id_file>16637</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee64145fa89.45591053.pdf</basename>
+        <dirname>1056</dirname>
+        <basename>brasileargentina.pdf</basename>
     </file>
     <file>
         <id_resource>1057</id_resource>
         <id_file>16640</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee64a864e60.83803161.pdf</basename>
+        <dirname>1057</dirname>
+        <basename>breverelatodofim-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1058</id_resource>
         <id_file>16643</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6537af7e6.30196518.pdf</basename>
+        <dirname>1058</dirname>
+        <basename>cacadoresdossonsdefibonacci.pdf</basename>
     </file>
     <file>
         <id_resource>1059</id_resource>
         <id_file>16646</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee65b324411.14885811.pdf</basename>
+        <dirname>1059</dirname>
+        <basename>cadagraficonoseugalho-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1060</id_resource>
         <id_file>16649</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee662056ca3.05730262.pdf</basename>
+        <dirname>1060</dirname>
+        <basename>CaminhoCombaterDengue-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1061</id_resource>
         <id_file>16652</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee66be8e1e1.24788764.pdf</basename>
+        <dirname>1061</dirname>
+        <basename>umcaminhoparaocurral.pdf</basename>
     </file>
     <file>
         <id_resource>1062</id_resource>
         <id_file>16655</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee67744a2f0.98853062.pdf</basename>
+        <dirname>1062</dirname>
+        <basename>caraoucoroa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1064</id_resource>
         <id_file>16661</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee686aef536.69562470.pdf</basename>
+        <dirname>1064</dirname>
+        <basename>acarta-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1065</id_resource>
         <id_file>16664</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee68cb084a2.89624910.pdf</basename>
+        <dirname>1065</dirname>
+        <basename>acartomante.pdf</basename>
     </file>
     <file>
         <id_resource>1066</id_resource>
         <id_file>16667</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee69858cff3.18255411.pdf</basename>
+        <dirname>1066</dirname>
+        <basename>umcertofatordeescala-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1067</id_resource>
         <id_file>16670</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6a6820505.54618570.pdf</basename>
+        <dirname>1067</dirname>
+        <basename>acesaroqueedecesar-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1068</id_resource>
         <id_file>16673</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6ac1192d0.88464948.pdf</basename>
+        <dirname>1068</dirname>
+        <basename>cloronapiscina-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1069</id_resource>
         <id_file>16676</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6b87b8d19.44552289.pdf</basename>
+        <dirname>1069</dirname>
+        <basename>codigopascal.pdf</basename>
     </file>
     <file>
         <id_resource>1070</id_resource>
         <id_file>16679</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6c33ea593.31223803.pdf</basename>
+        <dirname>1070</dirname>
+        <basename>coisadepassarinho.pdf</basename>
     </file>
     <file>
         <id_resource>1071</id_resource>
         <id_file>16682</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6cd70f522.82090733.pdf</basename>
+        <dirname>1071</dirname>
+        <basename>coisasdoamor.pdf</basename>
     </file>
     <file>
         <id_resource>1072</id_resource>
         <id_file>16685</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6ddbe4e29.80174132.pdf</basename>
+        <dirname>1072</dirname>
+        <basename>colmeiaglobal-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1073</id_resource>
         <id_file>16688</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6e623d683.84126999.pdf</basename>
+        <dirname>1073</dirname>
+        <basename>comendonumeros-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1074</id_resource>
         <id_file>16691</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6ecb97780.42696093.pdf</basename>
+        <dirname>1074</dirname>
+        <basename>acomunidade-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1076</id_resource>
         <id_file>16695</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee6ff9cb9b0.01278404.pdf</basename>
+        <dirname>1076</dirname>
+        <basename>cooperativadeleite.pdf</basename>
     </file>
     <file>
         <id_resource>1077</id_resource>
         <id_file>16698</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee70917dce7.66749148.pdf</basename>
+        <dirname>1077</dirname>
+        <basename>cozinhacientifica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1078</id_resource>
         <id_file>16701</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee713b99398.34295481.pdf</basename>
+        <dirname>1078</dirname>
+        <basename>criadorecriatura-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1079</id_resource>
         <id_file>16704</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee71de62f60.44461488.pdf</basename>
+        <dirname>1079</dirname>
+        <basename>crimedaruadogasometro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1080</id_resource>
         <id_file>16707</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7320dd935.55077359.pdf</basename>
+        <dirname>1080</dirname>
+        <basename>dancadosol-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1081</id_resource>
         <id_file>16710</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee73e043fd6.30257328.pdf</basename>
+        <dirname>1081</dirname>
+        <basename>dancaembaralhamento-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1082</id_resource>
         <id_file>16713</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee74686aa74.74144061.pdf</basename>
+        <dirname>1082</dirname>
+        <basename>dadoibope-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1083</id_resource>
         <id_file>16716</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee74e7df300.81502402.pdf</basename>
+        <dirname>1083</dirname>
+        <basename>demalasprontas.pdf</basename>
     </file>
     <file>
         <id_resource>1084</id_resource>
         <id_file>16719</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7584e6d16.55565618.pdf</basename>
+        <dirname>1084</dirname>
+        <basename>desafiodascorrelacoesespurias.pdf</basename>
     </file>
     <file>
         <id_resource>1085</id_resource>
         <id_file>16722</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee75e333351.87361712.pdf</basename>
+        <dirname>1085</dirname>
+        <basename>desejos.pdf</basename>
     </file>
     <file>
         <id_resource>1086</id_resource>
         <id_file>16725</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7671acfa6.85000109.pdf</basename>
+        <dirname>1086</dirname>
+        <basename>desenhandoondas.pdf</basename>
     </file>
     <file>
         <id_resource>1087</id_resource>
         <id_file>16728</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee770dc1075.70247217.pdf</basename>
+        <dirname>1087</dirname>
+        <basename>desvendandoocalendario-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1088</id_resource>
         <id_file>16731</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee778943743.47133945.pdf</basename>
+        <dirname>1088</dirname>
+        <basename>asdesventurasdamaejoana-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1089</id_resource>
         <id_file>16734</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7843abd69.32855923.pdf</basename>
+        <dirname>1089</dirname>
+        <basename>odilemadoprisioneiro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1090</id_resource>
         <id_file>16737</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee78d683839.37323231.pdf</basename>
+        <dirname>1090</dirname>
+        <basename>dinamicadegrupo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1091</id_resource>
         <id_file>16740</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee797c4ce19.39642775.pdf</basename>
+        <dirname>1091</dirname>
+        <basename>direitosdoconsumidor.pdf</basename>
     </file>
     <file>
         <id_resource>1092</id_resource>
         <id_file>16743</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee79fb4f8f3.08960463.pdf</basename>
+        <dirname>1092</dirname>
+        <basename>eagorajose-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1093</id_resource>
         <id_file>16746</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7aa3772c2.24737251.pdf</basename>
+        <dirname>1093</dirname>
+        <basename>emequilibrio-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1094</id_resource>
         <id_file>16749</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7b43e0270.03208948.pdf</basename>
+        <dirname>1094</dirname>
+        <basename>embalagens-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1095</id_resource>
         <id_file>16752</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7bc3b5419.77968146.pdf</basename>
+        <dirname>1095</dirname>
+        <basename>encontroinusitado-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1096</id_resource>
         <id_file>16755</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7c63a9bc0.59980522.pdf</basename>
+        <dirname>1096</dirname>
+        <basename>entrandopelotunel-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1097</id_resource>
         <id_file>16758</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7cea64552.62185335.pdf</basename>
+        <dirname>1097</dirname>
+        <basename>essetaldebhaskara-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1098</id_resource>
         <id_file>16761</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7da896d80.32999556.pdf</basename>
+        <dirname>1098</dirname>
+        <basename>aexperiencia-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1099</id_resource>
         <id_file>16764</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7ec668bb8.21786082.pdf</basename>
+        <dirname>1099</dirname>
+        <basename>formulamagica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1100</id_resource>
         <id_file>16767</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7f68bd0f4.41729959.pdf</basename>
+        <dirname>1100</dirname>
+        <basename>gabaritosecreto.pdf</basename>
     </file>
     <file>
         <id_resource>1101</id_resource>
         <id_file>16770</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee7ff477be6.80237703.pdf</basename>
+        <dirname>1101</dirname>
+        <basename>gasolinaoualcool-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1102</id_resource>
         <id_file>16773</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8094b4f22.86332483.pdf</basename>
+        <dirname>1102</dirname>
+        <basename>geodetetive-1-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1103</id_resource>
         <id_file>16776</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee81f61ae60.10218096.pdf</basename>
+        <dirname>1103</dirname>
+        <basename>geodetetive2-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1104</id_resource>
         <id_file>16779</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee82960a6e8.59177675.pdf</basename>
+        <dirname>1104</dirname>
+        <basename>geodetetive3-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1106</id_resource>
         <id_file>16783</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee83b6533f5.27722654.pdf</basename>
+        <dirname>1106</dirname>
+        <basename>geodetetive5-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1107</id_resource>
         <id_file>16786</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee841f2ae14.61342603.pdf</basename>
+        <dirname>1107</dirname>
+        <basename>geodetetive_6-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1108</id_resource>
         <id_file>16789</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee857bd7d35.70249342.pdf</basename>
+        <dirname>1108</dirname>
+        <basename>ogolpe-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1109</id_resource>
         <id_file>16792</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee865430fc6.36879848.pdf</basename>
+        <dirname>1109</dirname>
+        <basename>grandehotel-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1110</id_resource>
         <id_file>16795</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee870aecc60.34507277.pdf</basename>
+        <dirname>1110</dirname>
+        <basename>grandehotel2-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1111</id_resource>
         <id_file>16798</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee87f8ed654.50981524.pdf</basename>
+        <dirname>1111</dirname>
+        <basename>grilocantante-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1112</id_resource>
         <id_file>16801</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee885de0d74.96836290.pdf</basename>
+        <dirname>1112</dirname>
+        <basename>oguardadordeaguas.pdf</basename>
     </file>
     <file>
         <id_resource>1113</id_resource>
         <id_file>16804</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee890301618.65338189.pdf</basename>
+        <dirname>1113</dirname>
+        <basename>halloween-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1114</id_resource>
         <id_file>16807</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee89ea90a05.45638441.pdf</basename>
+        <dirname>1114</dirname>
+        <basename>herancadefamilia-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1115</id_resource>
         <id_file>16810</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8a5267413.47419755.pdf</basename>
+        <dirname>1115</dirname>
+        <basename>ahistoriademussaraf-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1116</id_resource>
         <id_file>16813</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8b5869483.30204120.pdf</basename>
+        <dirname>1116</dirname>
+        <basename>hitdosbits-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1117</id_resource>
         <id_file>16816</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8bdd648f7.96309612.pdf</basename>
+        <dirname>1117</dirname>
+        <basename>hoteldehilbert-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1118</id_resource>
         <id_file>16819</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8c33a18a8.00703780.pdf</basename>
+        <dirname>1118</dirname>
+        <basename>huguinhozezinho-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1119</id_resource>
         <id_file>16822</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8cfd5e474.87021676.pdf</basename>
+        <dirname>1119</dirname>
+        <basename>aincrivelpiritipocadaserra.pdf</basename>
     </file>
     <file>
         <id_resource>1120</id_resource>
         <id_file>16825</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8dd0d7e88.25632377.pdf</basename>
+        <dirname>1120</dirname>
+        <basename>osinfinitosdecantor-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1121</id_resource>
         <id_file>16828</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8e84fe242.55408091.pdf</basename>
+        <dirname>1121</dirname>
+        <basename>jardimdenumeros-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1122</id_resource>
         <id_file>16831</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8f1d17ca4.98144128.pdf</basename>
+        <dirname>1122</dirname>
+        <basename>guia_ojogodedadosdemozart.pdf</basename>
     </file>
     <file>
         <id_resource>1123</id_resource>
         <id_file>16834</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee8fb147231.39811818.pdf</basename>
+        <dirname>1123</dirname>
+        <basename>jogos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1124</id_resource>
         <id_file>16837</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9037e7414.36111235.pdf</basename>
+        <dirname>1124</dirname>
+        <basename>jurosdivididosdividacrescente.pdf</basename>
     </file>
     <file>
         <id_resource>1125</id_resource>
         <id_file>16840</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee90e621c20.54836562.pdf</basename>
+        <dirname>1125</dirname>
+        <basename>lembrancasdesofia.pdf</basename>
     </file>
     <file>
         <id_resource>1126</id_resource>
         <id_file>16843</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee917dbb729.75616471.pdf</basename>
+        <dirname>1126</dirname>
+        <basename>lendadedido.pdf</basename>
     </file>
     <file>
         <id_resource>1127</id_resource>
         <id_file>16846</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee92009f408.71483195.pdf</basename>
+        <dirname>1127</dirname>
+        <basename>logicadealice-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1128</id_resource>
         <id_file>16849</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee92a2c7a08.13945249.pdf</basename>
+        <dirname>1128</dirname>
+        <basename>aloiradobanheiro.pdf</basename>
     </file>
     <file>
         <id_resource>1129</id_resource>
         <id_file>16852</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee936023c29.63669715.pdf</basename>
+        <dirname>1129</dirname>
+        <basename>luthierdeproporcoes.pdf</basename>
     </file>
     <file>
         <id_resource>1130</id_resource>
         <id_file>16855</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee93f999524.65547613.pdf</basename>
+        <dirname>1130</dirname>
+        <basename>amae.pdf</basename>
     </file>
     <file>
         <id_resource>1131</id_resource>
         <id_file>16858</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee947c1e206.36344694.pdf</basename>
+        <dirname>1131</dirname>
+        <basename>omagicodasarabias.pdf</basename>
     </file>
     <file>
         <id_resource>1132</id_resource>
         <id_file>16861</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9519f4179.70475120.pdf</basename>
+        <dirname>1132</dirname>
+        <basename>maldicaodapiramide-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1133</id_resource>
         <id_file>16864</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee95b7e22c9.10275165.pdf</basename>
+        <dirname>1133</dirname>
+        <basename>amancha.pdf</basename>
     </file>
     <file>
         <id_resource>1134</id_resource>
         <id_file>16867</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee960ddd755.53119083.pdf</basename>
+        <dirname>1134</dirname>
+        <basename>medindoaterra-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1135</id_resource>
         <id_file>16870</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee969684525.26567719.pdf</basename>
+        <dirname>1135</dirname>
+        <basename>musicaquaseporacaso-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1136</id_resource>
         <id_file>16873</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee97f924b26.26829423.pdf</basename>
+        <dirname>1136</dirname>
+        <basename>musicaquasesemcompositor-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1137</id_resource>
         <id_file>16876</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee98a1b0f08.94665096.pdf</basename>
+        <dirname>1137</dirname>
+        <basename>nacaudadocometa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1138</id_resource>
         <id_file>16879</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee994e0a4f9.50657807.pdf</basename>
+        <dirname>1138</dirname>
+        <basename>naturalmente.pdf</basename>
     </file>
     <file>
         <id_resource>1139</id_resource>
         <id_file>16882</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee99f09da94.16671521.pdf</basename>
+        <dirname>1139</dirname>
+        <basename>noitedeforro.pdf</basename>
     </file>
     <file>
         <id_resource>1140</id_resource>
         <id_file>16885</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9aa585a99.26195875.pdf</basename>
+        <dirname>1140</dirname>
+        <basename>osonho.pdf</basename>
     </file>
     <file>
         <id_resource>1141</id_resource>
         <id_file>16888</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9b45bb043.34690723.pdf</basename>
+        <dirname>1141</dirname>
+        <basename>osonhocontinua-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1142</id_resource>
         <id_file>16891</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9c1635658.88013726.pdf</basename>
+        <dirname>1142</dirname>
+        <basename>osonhonaoacabou-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1143</id_resource>
         <id_file>16894</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9cbbb9cf1.07670585.pdf</basename>
+        <dirname>1143</dirname>
+        <basename>oferendamusicaldebach-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1144</id_resource>
         <id_file>16897</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9daa43dd5.94072191.pdf</basename>
+        <dirname>1144</dirname>
+        <basename>olhaosanduiche-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1145</id_resource>
         <id_file>16900</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9e5413744.38441915.pdf</basename>
+        <dirname>1145</dirname>
+        <basename>osanguloseastorres-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1146</id_resource>
         <id_file>16903</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9f2965af4.92551218.pdf</basename>
+        <dirname>1146</dirname>
+        <basename>ossoduroderoer-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1147</id_resource>
         <id_file>16906</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1ee9fcb0d4f5.93633411.pdf</basename>
+        <dirname>1147</dirname>
+        <basename>overdose-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1148</id_resource>
         <id_file>16909</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea050fe198.30772520.pdf</basename>
+        <dirname>1148</dirname>
+        <basename>pandemia-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1149</id_resource>
         <id_file>16912</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea10a5c8d6.42551972.pdf</basename>
+        <dirname>1149</dirname>
+        <basename>panquecasdadonagloria-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1150</id_resource>
         <id_file>16915</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea1ab1fee5.67243468.pdf</basename>
+        <dirname>1150</dirname>
+        <basename>paracorrerasaosilvestre.pdf</basename>
     </file>
     <file>
         <id_resource>1151</id_resource>
         <id_file>16918</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea2808edc1.29472329.pdf</basename>
+        <dirname>1151</dirname>
+        <basename>parasalvaromundo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1154</id_resource>
         <id_file>16927</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea444d41b5.48134024.pdf</basename>
+        <dirname>1154</dirname>
+        <basename>pelaslentesdamatematica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1155</id_resource>
         <id_file>16930</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea4e337fd8.33366434.pdf</basename>
+        <dirname>1155</dirname>
+        <basename>perdidonoglobo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1156</id_resource>
         <id_file>16933</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea5f31efb1.90094547.pdf</basename>
+        <dirname>1156</dirname>
+        <basename>poema3quebracabecas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1157</id_resource>
         <id_file>16936</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea68190b70.81663190.pdf</basename>
+        <dirname>1157</dirname>
+        <basename>umpontodevista-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1158</id_resource>
         <id_file>16939</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea6f6de1e4.95442568.pdf</basename>
+        <dirname>1158</dirname>
+        <basename>praladebagda-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1159</id_resource>
         <id_file>16942</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea7daedb36.47634109.pdf</basename>
+        <dirname>1159</dirname>
+        <basename>oprincipedesofia-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1160</id_resource>
         <id_file>16945</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea851d6bd2.35818591.pdf</basename>
+        <dirname>1160</dirname>
+        <basename>oproblemadacerca-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1161</id_resource>
         <id_file>16948</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea8ee64ab2.15372799.pdf</basename>
+        <dirname>1161</dirname>
+        <basename>procurandoxenakis-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1162</id_resource>
         <id_file>16951</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eea97c0d816.56657891.pdf</basename>
+        <dirname>1162</dirname>
+        <basename>provadealternativas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1164</id_resource>
         <id_file>16957</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeab64caaa2.93645056.pdf</basename>
+        <dirname>1164</dirname>
+        <basename>qual-o-melhor-caminho-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1165</id_resource>
         <id_file>16960</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeabea9a743.36153513.pdf</basename>
+        <dirname>1165</dirname>
+        <basename>quesaco-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1166</id_resource>
         <id_file>16963</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeacd140368.26484965.pdf</basename>
+        <dirname>1166</dirname>
+        <basename>queaforcaestejacomvoce.pdf</basename>
     </file>
     <file>
         <id_resource>1167</id_resource>
         <id_file>16966</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eead6392ad2.77661695.pdf</basename>
+        <dirname>1167</dirname>
+        <basename>quemquersermilionario-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1168</id_resource>
         <id_file>16969</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeadeb87403.52124407.pdf</basename>
+        <dirname>1168</dirname>
+        <basename>razaodosirracionais-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1169</id_resource>
         <id_file>16972</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeae7725c11.10786726.pdf</basename>
+        <dirname>1169</dirname>
+        <basename>revanchedealice-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1170</id_resource>
         <id_file>16975</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeaf4c5baf8.08614121.pdf</basename>
+        <dirname>1170</dirname>
+        <basename>revendoamoratoria-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1171</id_resource>
         <id_file>16978</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeafe00d091.06880791.pdf</basename>
+        <dirname>1171</dirname>
+        <basename>rodaroda-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1172</id_resource>
         <id_file>16981</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb098a8ed5.83553773.pdf</basename>
+        <dirname>1172</dirname>
+        <basename>RodadeSamba-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1173</id_resource>
         <id_file>16984</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb14208042.86194944.pdf</basename>
+        <dirname>1173</dirname>
+        <basename>rodadosonho-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1174</id_resource>
         <id_file>16987</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb246e8e66.94077943.pdf</basename>
+        <dirname>1174</dirname>
+        <basename>salvadorhipocondriaco-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1175</id_resource>
         <id_file>16990</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb2b3a1028.32576412.pdf</basename>
+        <dirname>1175</dirname>
+        <basename>seeufossevoce.pdf</basename>
     </file>
     <file>
         <id_resource>1176</id_resource>
         <id_file>16993</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb365a3d94.46267771.pdf</basename>
+        <dirname>1176</dirname>
+        <basename>semdiscriminacao.pdf</basename>
     </file>
     <file>
         <id_resource>1177</id_resource>
         <id_file>16996</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb3e0dae04.98571540.pdf</basename>
+        <dirname>1177</dirname>
+        <basename>sinfoniadepoliedros.pdf</basename>
     </file>
     <file>
         <id_resource>1178</id_resource>
         <id_file>16999</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb47d46d09.35174925.pdf</basename>
+        <dirname>1178</dirname>
+        <basename>sonhodourado-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1179</id_resource>
         <id_file>17002</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb51620201.19986264.pdf</basename>
+        <dirname>1179</dirname>
+        <basename>surpresaparaoscalouros-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1180</id_resource>
         <id_file>17005</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb580827c4.99859543.pdf</basename>
+        <dirname>1180</dirname>
+        <basename>ossuspeitos.pdf</basename>
     </file>
     <file>
         <id_resource>1181</id_resource>
         <id_file>17008</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb62590dc9.38055174.pdf</basename>
+        <dirname>1181</dirname>
+        <basename>temposdeguerra-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1182</id_resource>
         <id_file>17011</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb6e31fcc4.10049185.pdf</basename>
+        <dirname>1182</dirname>
+        <basename>terremotobrasileiro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1183</id_resource>
         <id_file>17014</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb7c5ddea5.99136150.pdf</basename>
+        <dirname>1183</dirname>
+        <basename>tesourocartesiano-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1184</id_resource>
         <id_file>17017</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb8124d186.02625969.pdf</basename>
+        <dirname>1184</dirname>
+        <basename>testedegravidez-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1185</id_resource>
         <id_file>17020</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb8e6b2f78.16221787.pdf</basename>
+        <dirname>1185</dirname>
+        <basename>triangularehpreciso-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1186</id_resource>
         <id_file>17023</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeb97ce1474.21197510.pdf</basename>
+        <dirname>1186</dirname>
+        <basename>tudoquevocesemprequisperguntar-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1187</id_resource>
         <id_file>17026</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeba1e25e24.45647953.pdf</basename>
+        <dirname>1187</dirname>
+        <basename>umsonhocomplexo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1188</id_resource>
         <id_file>17029</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebabcbaa35.15350996.pdf</basename>
+        <dirname>1188</dirname>
+        <basename>vocedissecristalografia-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1189</id_resource>
         <id_file>17032</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebb426a985.37364037.pdf</basename>
+        <dirname>1189</dirname>
+        <basename>avelhahistoriadasmultidoes-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1190</id_resource>
         <id_file>17035</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebc026d808.27502554.pdf</basename>
+        <dirname>1190</dirname>
+        <basename>vendasegura-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1191</id_resource>
         <id_file>17038</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebcc0bd536.82528800.pdf</basename>
+        <dirname>1191</dirname>
+        <basename>voudetaxi-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1192</id_resource>
         <id_file>17041</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebd8622ef5.05050957.pdf</basename>
+        <dirname>1192</dirname>
+        <basename>vozdointerior.pdf</basename>
     </file>
     <file>
         <id_resource>1193</id_resource>
         <id_file>17044</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebe601f513.21927802.pdf</basename>
+        <dirname>1193</dirname>
+        <basename>xequemate-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1194</id_resource>
         <id_file>17047</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebf1648704.43445373.pdf</basename>
+        <dirname>1194</dirname>
+        <basename>administradora_contador.pdf</basename>
     </file>
     <file>
         <id_resource>1195</id_resource>
         <id_file>17050</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eebf6e50e70.89836612.pdf</basename>
+        <dirname>1195</dirname>
+        <basename>advogado_engenheiroeletrico.pdf</basename>
     </file>
     <file>
         <id_resource>1196</id_resource>
         <id_file>17053</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec0740f040.33953821.pdf</basename>
+        <dirname>1196</dirname>
+        <basename>agrimensorgeologo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1197</id_resource>
         <id_file>17056</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec0b927842.57610744.pdf</basename>
+        <dirname>1197</dirname>
+        <basename>agronomo_fisoterapeuta.pdf</basename>
     </file>
     <file>
         <id_resource>1198</id_resource>
         <id_file>17059</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec1bc90719.65844615.pdf</basename>
+        <dirname>1198</dirname>
+        <basename>analistadesistema_engenheirodacomputacao.pdf</basename>
     </file>
     <file>
         <id_resource>1199</id_resource>
         <id_file>17062</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec26c968d3.56008791.pdf</basename>
+        <dirname>1199</dirname>
+        <basename>arquitetoengenheirocivil-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1200</id_resource>
         <id_file>17065</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec32876b86.52854293.pdf</basename>
+        <dirname>1200</dirname>
+        <basename>artistaplastico_designergrafico-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1201</id_resource>
         <id_file>17068</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec44ce61c5.56458393.pdf</basename>
+        <dirname>1201</dirname>
+        <basename>astronomo_fisico.pdf</basename>
     </file>
     <file>
         <id_resource>1202</id_resource>
         <id_file>17071</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec51a34261.89345875.pdf</basename>
+        <dirname>1202</dirname>
+        <basename>atuario_estatistica.pdf</basename>
     </file>
     <file>
         <id_resource>1203</id_resource>
         <id_file>17074</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec5c97c0e2.91927579.pdf</basename>
+        <dirname>1203</dirname>
+        <basename>biologonutricionista-gua.pdf</basename>
     </file>
     <file>
         <id_resource>1204</id_resource>
         <id_file>17077</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec6d68fe01.26413866.pdf</basename>
+        <dirname>1204</dirname>
+        <basename>chefdecozinha_estilista-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1205</id_resource>
         <id_file>17080</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec7e429dc8.59670768.pdf</basename>
+        <dirname>1205</dirname>
+        <basename>comerciantecorretordeimoveis.pdf</basename>
     </file>
     <file>
         <id_resource>1206</id_resource>
         <id_file>17083</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec8a14aac3.79250283.pdf</basename>
+        <dirname>1206</dirname>
+        <basename>controladordevoo_pilotohelicoptero-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1207</id_resource>
         <id_file>17086</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec96ad7a85.49855956.pdf</basename>
+        <dirname>1207</dirname>
+        <basename>economista_comercioexterior.pdf</basename>
     </file>
     <file>
         <id_resource>1208</id_resource>
         <id_file>17089</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eec9f12b3f8.76028615.pdf</basename>
+        <dirname>1208</dirname>
+        <basename>engenheiradealimentos_quimico.pdf</basename>
     </file>
     <file>
         <id_resource>1209</id_resource>
         <id_file>17092</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecaba19b43.89338030.pdf</basename>
+        <dirname>1209</dirname>
+        <basename>esportista_fotografo.pdf</basename>
     </file>
     <file>
         <id_resource>1210</id_resource>
         <id_file>17095</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecb1d40a66.68719783.pdf</basename>
+        <dirname>1210</dirname>
+        <basename>farmaceutica_produtoradeeventos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1211</id_resource>
         <id_file>17098</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecbbb3d180.36877793.pdf</basename>
+        <dirname>1211</dirname>
+        <basename>hotelarialogistica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1212</id_resource>
         <id_file>17101</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecc5b4cf60.46155654.pdf</basename>
+        <dirname>1212</dirname>
+        <basename>matematico_musio.pdf</basename>
     </file>
     <file>
         <id_resource>1213</id_resource>
         <id_file>17104</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecce1fdbc3.73658795.pdf</basename>
+        <dirname>1213</dirname>
+        <basename>meteorologista_turismologa.pdf</basename>
     </file>
     <file>
         <id_resource>1214</id_resource>
         <id_file>17107</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecd3bee077.51148989.pdf</basename>
+        <dirname>1214</dirname>
+        <basename>odontologiamedicina-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1215</id_resource>
         <id_file>17110</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eece1b74128.79130381.pdf</basename>
+        <dirname>1215</dirname>
+        <basename>produtordecinema_publicitario.pdf</basename>
     </file>
     <file>
         <id_resource>1216</id_resource>
         <id_file>17113</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecef460c66.22342418.pdf</basename>
+        <dirname>1216</dirname>
+        <basename>professoruniversitario_bancaria.pdf</basename>
     </file>
     <file>
         <id_resource>1217</id_resource>
         <id_file>17116</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eecf80b4b17.13735433.pdf</basename>
+        <dirname>1217</dirname>
+        <basename>secretaria_engenheirodetelecomunicacoes.pdf</basename>
     </file>
     <file>
         <id_resource>1218</id_resource>
         <id_file>17119</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed02cae016.82761621.pdf</basename>
+        <dirname>1218</dirname>
+        <basename>zootecniaveterinaria-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1251</id_resource>
         <id_file>17211</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed468e50f3.94655724.pdf</basename>
+        <dirname>1251</dirname>
+        <basename>embaralhandosherlockholmes-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1254</id_resource>
         <id_file>17217</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed52152d46.71254652.pdf</basename>
+        <dirname>1254</dirname>
+        <basename>minhocando-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1255</id_resource>
         <id_file>17221</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed52c7a7a5.04474500.pdf</basename>
+        <dirname>1255</dirname>
+        <basename>mundosimaginarios-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1257</id_resource>
         <id_file>17226</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed55775100.40907417.pdf</basename>
+        <dirname>1257</dirname>
+        <basename>pensandoemprogressaogeometrica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1262</id_resource>
         <id_file>17234</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed5c79c809.71975035.pdf</basename>
+        <dirname>1262</dirname>
+        <basename>6grausseparacao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1263</id_resource>
         <id_file>17238</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed5d4dc079.56227850.pdf</basename>
+        <dirname>1263</dirname>
+        <basename>h1n1-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1264</id_resource>
         <id_file>17242</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed5e7f11c5.70115804.pdf</basename>
+        <dirname>1264</dirname>
+        <basename>tremores-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1265</id_resource>
         <id_file>17246</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed61db4dc4.82683091.pdf</basename>
+        <dirname>1265</dirname>
+        <basename>universo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1266</id_resource>
         <id_file>17250</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed6498d187.94434428.pdf</basename>
+        <dirname>1266</dirname>
+        <basename>violenciamatematica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1267</id_resource>
         <id_file>17254</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed666fd766.74748225.pdf</basename>
+        <dirname>1267</dirname>
+        <basename>animaisnanatureza-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1268</id_resource>
         <id_file>17258</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed6adba893.58905029.pdf</basename>
+        <dirname>1268</dirname>
+        <basename>combinacao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1269</id_resource>
         <id_file>17262</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed6dbd8144.29455880.pdf</basename>
+        <dirname>1269</dirname>
+        <basename>combustiveis-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1270</id_resource>
         <id_file>17266</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed6fa6f0e5.23434973.pdf</basename>
+        <dirname>1270</dirname>
+        <basename>estimativasdocorpohumano-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1271</id_resource>
         <id_file>17270</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed714105d0.54961686.pdf</basename>
+        <dirname>1271</dirname>
+        <basename>distancias-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1272</id_resource>
         <id_file>17274</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed74d2c5e3.28028587.pdf</basename>
+        <dirname>1272</dirname>
+        <basename>esferas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1273</id_resource>
         <id_file>17278</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed76b134e8.45777603.pdf</basename>
+        <dirname>1273</dirname>
+        <basename>lixo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1274</id_resource>
         <id_file>17282</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed7a805518.32334621.pdf</basename>
+        <dirname>1274</dirname>
+        <basename>massaeidade-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1275</id_resource>
         <id_file>17286</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed7f47b3a1.14058493.pdf</basename>
+        <dirname>1275</dirname>
+        <basename>pizzafeijao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1276</id_resource>
         <id_file>17290</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed803df1a3.53184576.pdf</basename>
+        <dirname>1276</dirname>
+        <basename>infinito1-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1277</id_resource>
         <id_file>17294</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed826b2c88.22545957.pdf</basename>
+        <dirname>1277</dirname>
+        <basename>infinito2-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1278</id_resource>
         <id_file>17298</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed849fa270.64555592.pdf</basename>
+        <dirname>1278</dirname>
+        <basename>intrigascubicas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1279</id_resource>
         <id_file>17302</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed85ccc7f6.33241017.pdf</basename>
+        <dirname>1279</dirname>
+        <basename>acriacaodoslogaritimos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1280</id_resource>
         <id_file>17306</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed896934c3.67327839.pdf</basename>
+        <dirname>1280</dirname>
+        <basename>negativos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1281</id_resource>
         <id_file>17310</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed8a696666.48157416.pdf</basename>
+        <dirname>1281</dirname>
+        <basename>newtonnumeros-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1282</id_resource>
         <id_file>17314</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed8cc430a0.05472249.pdf</basename>
+        <dirname>1282</dirname>
+        <basename>operacomplexa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1283</id_resource>
         <id_file>17318</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed8da26b09.30036197.pdf</basename>
+        <dirname>1283</dirname>
+        <basename>quatro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1284</id_resource>
         <id_file>17322</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed8ea8c096.60595262.pdf</basename>
+        <dirname>1284</dirname>
+        <basename>senos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1285</id_resource>
         <id_file>17326</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed8fac67c3.35165386.pdf</basename>
+        <dirname>1285</dirname>
+        <basename>zerosimmascomorgulho-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1288</id_resource>
         <id_file>17332</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed97db7250.82548640.pdf</basename>
+        <dirname>1288</dirname>
+        <basename>margemdeerro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1291</id_resource>
         <id_file>17338</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eed9f307799.25385297.pdf</basename>
+        <dirname>1291</dirname>
+        <basename>hipotenusa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1294</id_resource>
         <id_file>17344</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeda64a6e30.41585459.pdf</basename>
+        <dirname>1294</dirname>
+        <basename>paralelogramo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1295</id_resource>
         <id_file>17348</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eeda8c7ae23.27938318.pdf</basename>
+        <dirname>1295</dirname>
+        <basename>permutacao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1296</id_resource>
         <id_file>17352</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedacb03d68.24906237.pdf</basename>
+        <dirname>1296</dirname>
+        <basename>poliedro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1297</id_resource>
         <id_file>17356</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedae2a83d0.08741123.pdf</basename>
+        <dirname>1297</dirname>
+        <basename>polinomio-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1298</id_resource>
         <id_file>17360</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedb25c2eb2.38688664.pdf</basename>
+        <dirname>1298</dirname>
+        <basename>primo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1299</id_resource>
         <id_file>17364</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedb4ae8f88.23534914.pdf</basename>
+        <dirname>1299</dirname>
+        <basename>radiano-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1301</id_resource>
         <id_file>17372</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedb9680e68.72503799.pdf</basename>
+        <dirname>1301</dirname>
+        <basename>invejadosaneisdesaturno-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1302</id_resource>
         <id_file>17376</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedbb19bc10.27762421.pdf</basename>
+        <dirname>1302</dirname>
+        <basename>bifesnachapa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1303</id_resource>
         <id_file>17380</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedbc6c0e19.57392643.pdf</basename>
+        <dirname>1303</dirname>
+        <basename>calcadas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1304</id_resource>
         <id_file>17384</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedc17c0055.64285638.pdf</basename>
+        <dirname>1304</dirname>
+        <basename>camelos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1305</id_resource>
         <id_file>17388</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedc44cec60.28488101.pdf</basename>
+        <dirname>1305</dirname>
+        <basename>caminhoesdeacucar-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1306</id_resource>
         <id_file>17392</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedc5c36e60.59547941.pdf</basename>
+        <dirname>1306</dirname>
+        <basename>comodescobriraverdade-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1308</id_resource>
         <id_file>17397</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedca6b7864.16818903.pdf</basename>
+        <dirname>1308</dirname>
+        <basename>contagemdepassos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1309</id_resource>
         <id_file>17401</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedcb373ef5.28028080.pdf</basename>
+        <dirname>1309</dirname>
+        <basename>dadosnaotransitivos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1310</id_resource>
         <id_file>17405</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedcdaa60f5.63511530.pdf</basename>
+        <dirname>1310</dirname>
+        <basename>diferencadosprimos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1311</id_resource>
         <id_file>17409</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedcfcf10e1.57575268.pdf</basename>
+        <dirname>1311</dirname>
+        <basename>comodividirumbolo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1312</id_resource>
         <id_file>17417</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedd3718fb9.76966711.pdf</basename>
+        <dirname>1312</dirname>
+        <basename>formacaotriangular-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1315</id_resource>
         <id_file>17423</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedda02fe95.17765444.pdf</basename>
+        <dirname>1315</dirname>
+        <basename>mediasqueinteressam-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1317</id_resource>
         <id_file>17428</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedde88af77.29053342.pdf</basename>
+        <dirname>1317</dirname>
+        <basename>permutacao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1319</id_resource>
         <id_file>17433</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eede5469a94.76527980.pdf</basename>
+        <dirname>1319</dirname>
+        <basename>herancaetestamentoruins-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1320</id_resource>
         <id_file>17437</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eede824cba3.44773241.pdf</basename>
+        <dirname>1320</dirname>
+        <basename>subconjuntos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1321</id_resource>
         <id_file>17441</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eede8e95854.64218346.pdf</basename>
+        <dirname>1321</dirname>
+        <basename>tamanhodamesa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1322</id_resource>
         <id_file>17445</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedebefb410.24333421.pdf</basename>
+        <dirname>1322</dirname>
+        <basename>tamanhodaterra-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1323</id_resource>
         <id_file>17449</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedee87bc42.52710727.pdf</basename>
+        <dirname>1323</dirname>
+        <basename>TitiusBode-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1325</id_resource>
         <id_file>17454</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedf254d9e0.83858446.pdf</basename>
+        <dirname>1325</dirname>
+        <basename>tudocomecaempizza-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1326</id_resource>
         <id_file>17458</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedf330da22.96849208.pdf</basename>
+        <dirname>1326</dirname>
+        <basename>volumeconecilindro-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1328</id_resource>
         <id_file>17466</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedf8a19f86.72516953.pdf</basename>
+        <dirname>1328</dirname>
+        <basename>oproblema3xmais1-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1329</id_resource>
         <id_file>17470</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedfa6789d0.32399848.pdf</basename>
+        <dirname>1329</dirname>
+        <basename>6grausdeconexoes-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1330</id_resource>
         <id_file>17474</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedfbe86ac5.57927425.pdf</basename>
+        <dirname>1330</dirname>
+        <basename>celulastronco-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1362</id_resource>
         <id_file>17478</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedfd36f821.85838894.pdf</basename>
+        <dirname>1362</dirname>
+        <basename>conjecturadegoldbach-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1331</id_resource>
         <id_file>17482</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eedfe356995.00573107.pdf</basename>
+        <dirname>1331</dirname>
+        <basename>conteudodouniverso-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1332</id_resource>
         <id_file>17486</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee01305639.71105292.pdf</basename>
+        <dirname>1332</dirname>
+        <basename>curvadosino-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1333</id_resource>
         <id_file>17490</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee02598c30.14256223.pdf</basename>
+        <dirname>1333</dirname>
+        <basename>pesodaduvida-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1334</id_resource>
         <id_file>17494</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee04659669.43881034.pdf</basename>
+        <dirname>1334</dirname>
+        <basename>esferacabelonano-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1335</id_resource>
         <id_file>17498</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee07ae9ab2.18712645.pdf</basename>
+        <dirname>1335</dirname>
+        <basename>exoplanetas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1336</id_resource>
         <id_file>17502</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee08c29b36.19657551.pdf</basename>
+        <dirname>1336</dirname>
+        <basename>formigas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1337</id_resource>
         <id_file>17506</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee0a524714.27486612.pdf</basename>
+        <dirname>1337</dirname>
+        <basename>genoma-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1338</id_resource>
         <id_file>17510</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee0b3b0e11.39325945.pdf</basename>
+        <dirname>1338</dirname>
+        <basename>gravideznaadolescenciaa-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1339</id_resource>
         <id_file>17514</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee0c1ad7a2.28928811.pdf</basename>
+        <dirname>1339</dirname>
+        <basename>horariodeverao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1340</id_resource>
         <id_file>17518</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee0e6803b9.06073496.pdf</basename>
+        <dirname>1340</dirname>
+        <basename>imobesidadeiac-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1342</id_resource>
         <id_file>17523</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee12259ef1.57438632.pdf</basename>
+        <dirname>1342</dirname>
+        <basename>maquinasdotempo-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1343</id_resource>
         <id_file>17527</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee15cfc3c2.65460294.pdf</basename>
+        <dirname>1343</dirname>
+        <basename>mudancasclimaticasepitagoras-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1344</id_resource>
         <id_file>17531</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee16b324d2.08954032.pdf</basename>
+        <dirname>1344</dirname>
+        <basename>noslacos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1345</id_resource>
         <id_file>17535</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee1a10a2e4.20945158.pdf</basename>
+        <dirname>1345</dirname>
+        <basename>numerosprimos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1346</id_resource>
         <id_file>17539</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee1b13b1f0.26992154.pdf</basename>
+        <dirname>1346</dirname>
+        <basename>previsoesolimpiadas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1347</id_resource>
         <id_file>17543</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee1c3cc109.08149449.pdf</basename>
+        <dirname>1347</dirname>
+        <basename>primosgemeos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1348</id_resource>
         <id_file>17547</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee23289758.61253403.pdf</basename>
+        <dirname>1348</dirname>
+        <basename>redesdedistribuicao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1350</id_resource>
         <id_file>17552</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee25907b01.56926908.pdf</basename>
+        <dirname>1350</dirname>
+        <basename>sexodobebe-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1352</id_resource>
         <id_file>17557</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee2d84a257.55129330.pdf</basename>
+        <dirname>1352</dirname>
+        <basename>tamanhodoproton-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1353</id_resource>
         <id_file>17561</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee300fd278.25875909.pdf</basename>
+        <dirname>1353</dirname>
+        <basename>tempestadessolares-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1354</id_resource>
         <id_file>17565</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee348de643.09000804.pdf</basename>
+        <dirname>1354</dirname>
+        <basename>terremotos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1355</id_resource>
         <id_file>17569</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee37b217e9.50399449.pdf</basename>
+        <dirname>1355</dirname>
+        <basename>tijolodeeuler-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1356</id_resource>
         <id_file>17573</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee39d15425.21723047.pdf</basename>
+        <dirname>1356</dirname>
+        <basename>moleculasemtitan-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1357</id_resource>
         <id_file>17577</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee3c74faa5.95944613.pdf</basename>
+        <dirname>1357</dirname>
+        <basename>tubaroesfractais-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1358</id_resource>
         <id_file>17581</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee3ea878b9.71270634.pdf</basename>
+        <dirname>1358</dirname>
+        <basename>utildnainutil-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1359</id_resource>
         <id_file>17585</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f1eee41b046b4.29390377.pdf</basename>
+        <dirname>1359</dirname>
+        <basename>venusetrigonometria-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1364</id_resource>
         <id_file>17600</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f569e23ee46c0.22139964.pdf</basename>
+        <dirname>1364</dirname>
+        <basename>atividadeavalanches---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1377</id_resource>
         <id_file>17703</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f5cd645970776.34076661.pdf</basename>
+        <dirname>1377</dirname>
+        <basename>verao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1378</id_resource>
         <id_file>17711</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f5cdb989405d6.46209630.pdf</basename>
+        <dirname>1378</dirname>
+        <basename>escalasdetemperatura-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1252</id_resource>
         <id_file>17727</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f6694e7a48d09.04499641.pdf</basename>
+        <dirname>1252</dirname>
+        <basename>historiadaestatistica-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1253</id_resource>
         <id_file>17731</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f669620cc0cd0.13994366.pdf</basename>
+        <dirname>1253</dirname>
+        <basename>historiadaprobabilidade-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1382</id_resource>
         <id_file>17734</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f6c5d77762ea2.85543147.pdf</basename>
+        <dirname>1382</dirname>
+        <basename>caixa_de_papel---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1384</id_resource>
         <id_file>17740</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f6c7d0c5a47d0.07892958.pdf</basename>
+        <dirname>1384</dirname>
+        <basename>montanhas_geometricas---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1385</id_resource>
         <id_file>17743</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f6c80e2b31a89.77389554.pdf</basename>
+        <dirname>1385</dirname>
+        <basename>padroes_no_plano---guia_do_professor.pdf</basename>
     </file>
     <file>
         <id_resource>1163</id_resource>
         <id_file>17850</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f84cf44f0c0a6.07375049.pdf</basename>
+        <dirname>1163</dirname>
+        <basename>quadra_poliesportiva-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1258</id_resource>
         <id_file>17854</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4f96b2f42ece53.72747552.pdf</basename>
+        <dirname>1258</dirname>
+        <basename>pontes-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1261</id_resource>
         <id_file>17882</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbebdbb6e3990.72825079.pdf</basename>
+        <dirname>1261</dirname>
+        <basename>verdadementira-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1293</id_resource>
         <id_file>17886</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbec03e1d8ae6.77031981.pdf</basename>
+        <dirname>1293</dirname>
+        <basename>guia_parabola.pdf</basename>
     </file>
     <file>
         <id_resource>1292</id_resource>
         <id_file>17890</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbec63d91aec8.63830769.pdf</basename>
+        <dirname>1292</dirname>
+        <basename>guia-logaritmo.pdf</basename>
     </file>
     <file>
         <id_resource>1289</id_resource>
         <id_file>17894</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbec7dd7f1807.06067992.pdf</basename>
+        <dirname>1289</dirname>
+        <basename>guia-exponencial.pdf</basename>
     </file>
     <file>
         <id_resource>1287</id_resource>
         <id_file>17898</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbecc894d3ac7.93495414.pdf</basename>
+        <dirname>1287</dirname>
+        <basename>guia_elipse.pdf</basename>
     </file>
     <file>
         <id_resource>1105</id_resource>
         <id_file>17902</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbee0561e3261.66387117.pdf</basename>
+        <dirname>1105</dirname>
+        <basename>geodetetive4-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1075</id_resource>
         <id_file>17905</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf58f44fc866.32011736.pdf</basename>
+        <dirname>1075</dirname>
+        <basename>conclusoesprecipitadas-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1256</id_resource>
         <id_file>17909</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf5e50a47bd5.20862753.pdf</basename>
+        <dirname>1256</dirname>
+        <basename>pensandoemprogressaoaritmetica - guia.pdf</basename>
     </file>
     <file>
         <id_resource>1313</id_resource>
         <id_file>17913</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf66417f9308.24720288.pdf</basename>
+        <dirname>1313</dirname>
+        <basename>fraude171.pdf</basename>
     </file>
     <file>
         <id_resource>1314</id_resource>
         <id_file>17917</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf704bebbc64.70488854.pdf</basename>
+        <dirname>1314</dirname>
+        <basename>gasolinaadulterada.pdf</basename>
     </file>
     <file>
         <id_resource>1316</id_resource>
         <id_file>17921</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf8820f260d0.23817464.pdf</basename>
+        <dirname>1316</dirname>
+        <basename>mortosvivos.pdf</basename>
     </file>
     <file>
         <id_resource>1290</id_resource>
         <id_file>17926</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf99429e3e39.64472876.pdf</basename>
+        <dirname>1290</dirname>
+        <basename>guia_hiperbole.pdf</basename>
     </file>
     <file>
         <id_resource>1318</id_resource>
         <id_file>17930</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf998b998cb5.15697464.pdf</basename>
+        <dirname>1318</dirname>
+        <basename>guia-pesoextra.pdf</basename>
     </file>
     <file>
         <id_resource>1307</id_resource>
         <id_file>17934</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf99b7e1d272.01737254.pdf</basename>
-    </file>
-    <file>
-        <id_resource>1349</id_resource>
-        <id_file>17938</id_file>
-        <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9a0545d3c5.68642073.pdf</basename>
+        <dirname>1307</dirname>
+        <basename>quantocustaaenergia-gua.pdf</basename>
     </file>
     <file>
         <id_resource>1324</id_resource>
         <id_file>17942</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9a6587fc60.05220705.pdf</basename>
+        <dirname>1324</dirname>
+        <basename>guia-trianguloimpar.pdf</basename>
     </file>
     <file>
         <id_resource>1259</id_resource>
         <id_file>17946</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9c006f9ce9.17052946.pdf</basename>
+        <dirname>1259</dirname>
+        <basename>problemasgregos-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1260</id_resource>
         <id_file>17950</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9c46b508d9.19528164.pdf</basename>
+        <dirname>1260</dirname>
+        <basename>vampiros-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1341</id_resource>
         <id_file>17954</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9ce13010d8.02297074.pdf</basename>
+        <dirname>1341</dirname>
+        <basename>infinitosracionais-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1351</id_resource>
         <id_file>17958</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9d1cc28ef3.66428644.pdf</basename>
+        <dirname>1351</dirname>
+        <basename>solidosconvexoseuler-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1360</id_resource>
         <id_file>17962</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fbf9d9cba3176.50479418.pdf</basename>
+        <dirname>1360</dirname>
+        <basename>vulcoes-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1286</id_resource>
         <id_file>17970</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>4fc13c49a1f3b2.09448576.pdf</basename>
+        <dirname>1286</dirname>
+        <basename>guia-baricentro.pdf</basename>
     </file>
     <file>
         <id_resource>1153</id_resource>
         <id_file>17979</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>502be899685c19.18899462.pdf</basename>
+        <dirname>1153</dirname>
+        <basename>apartedoleao-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1327</id_resource>
         <id_file>18009</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>5068d7e88eb398.52261304.pdf</basename>
+        <dirname>1327</dirname>
+        <basename>37porcentonamorados-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1063</id_resource>
         <id_file>18103</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>50b9eae94391e7.79459751.pdf</basename>
+        <dirname>1063</dirname>
+        <basename>carroflex-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1387</id_resource>
         <id_file>18110</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>50bbabbae98b79.94118923.pdf</basename>
+        <dirname>1387</dirname>
+        <basename>descobrindoalgoritmoGuido-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1152</id_resource>
         <id_file>18137</id_file>
         <type>7</type>
-        <dirname>doc</dirname>
-        <basename>52350dd0aed7f1.33288933.pdf</basename>
+        <dirname>1152</dirname>
+        <basename>aliceparadoxoformalizaco-guia.pdf</basename>
     </file>
     <file>
         <id_resource>1251</id_resource>
         <id_file>17209</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed4638e6b2.93698970.mp3</basename>
+        <dirname>1251</dirname>
+        <basename>MAT 1.4-SEQUENCIA DE FIBONACCI-220310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1254</id_resource>
         <id_file>17215</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed4a6308e6.37214662.mp3</basename>
+        <dirname>1254</dirname>
+        <basename>MAT 1.9-SERIE CULTURA-MINHOCANDO-280810-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1255</id_resource>
         <id_file>17219</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed52b02626.34040928.mp3</basename>
+        <dirname>1255</dirname>
+        <basename>MAT 1.6-JACKIL E MR HIDE-060611-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1257</id_resource>
         <id_file>17224</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed551fc863.30724193.mp3</basename>
+        <dirname>1257</dirname>
+        <basename>MAT 1.3-PROGRESSAO GEOMETRICA-230310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1262</id_resource>
         <id_file>17232</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed5c528521.21720796.mp3</basename>
+        <dirname>1262</dirname>
+        <basename>MAT 7.1-SEIS GRAUS DE SEPARACAO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1263</id_resource>
         <id_file>17236</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed5d321ee4.30219461.mp3</basename>
+        <dirname>1263</dirname>
+        <basename>MAT 7.3-H1N1-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1264</id_resource>
         <id_file>17240</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed5e0f00a3.47077347.mp3</basename>
+        <dirname>1264</dirname>
+        <basename>MAT 7.4-TERREMOTOS-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1265</id_resource>
         <id_file>17244</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed61bee855.11373204.mp3</basename>
+        <dirname>1265</dirname>
+        <basename>MAT 7.2-CONTEUDO DO UNIVERSO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1266</id_resource>
         <id_file>17248</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed6460d5b4.82559792.mp3</basename>
+        <dirname>1266</dirname>
+        <basename>MAT 7.5-VIOLENCIA-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1267</id_resource>
         <id_file>17252</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed6613e0d4.51012488.mp3</basename>
+        <dirname>1267</dirname>
+        <basename>MAT 2.1-ANIMAIS NATUREZA-160310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1268</id_resource>
         <id_file>17256</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed67ed1720.97800412.mp3</basename>
+        <dirname>1268</dirname>
+        <basename>MAT 2.10-COMBINACAO-060510-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1269</id_resource>
         <id_file>17260</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed6d01a4e7.57873763.mp3</basename>
+        <dirname>1269</dirname>
+        <basename>MAT 2.4-COMBUSTIVEL-120110-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1270</id_resource>
         <id_file>17264</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed6f679d27.81532566.mp3</basename>
+        <dirname>1270</dirname>
+        <basename>MAT 2.2-BATIMENTOS E CABELO-160310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1271</id_resource>
         <id_file>17268</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed70ea7fc8.58608078.mp3</basename>
+        <dirname>1271</dirname>
+        <basename>MAT 2.5-DISTANCIAS-030210-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1272</id_resource>
         <id_file>17272</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed748980d0.00989226.mp3</basename>
+        <dirname>1272</dirname>
+        <basename>MAT 2.6-ESFERAS-120110-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1273</id_resource>
         <id_file>17276</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed765c6fa2.02050846.mp3</basename>
+        <dirname>1273</dirname>
+        <basename>MAT 2.7-ESTIMATIVA LIXO-050510-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1274</id_resource>
         <id_file>17280</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed7a319da7.71039155.mp3</basename>
+        <dirname>1274</dirname>
+        <basename>MAT 2.8-MASSA E IDADE-190310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1275</id_resource>
         <id_file>17284</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed7ef0e193.73362699.mp3</basename>
+        <dirname>1275</dirname>
+        <basename>MAT 2.9-PIZZA E FEIJAO-190310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1276</id_resource>
         <id_file>17288</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed801a49e9.57845924.mp3</basename>
+        <dirname>1276</dirname>
+        <basename>MAT 5.1-INFINITO 1-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1277</id_resource>
         <id_file>17292</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed81354b40.37442072.mp3</basename>
+        <dirname>1277</dirname>
+        <basename>MAT 5.2-INFINITO 2-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1278</id_resource>
         <id_file>17296</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8458b4a7.02432185.mp3</basename>
+        <dirname>1278</dirname>
+        <basename>MAT 5.9-EQUACOES CUBICAS-100511-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1279</id_resource>
         <id_file>17300</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed858c59a3.10323492.mp3</basename>
+        <dirname>1279</dirname>
+        <basename>MAT 5.8-CRIACAO DE LOGARITMOS-160610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1280</id_resource>
         <id_file>17304</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8948ab60.65148225.mp3</basename>
+        <dirname>1280</dirname>
+        <basename>MAT 5.3-NEGATIVOS-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1281</id_resource>
         <id_file>17308</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8a414163.18118363.mp3</basename>
+        <dirname>1281</dirname>
+        <basename>MAT 5.4-NEWTON E OS NUMEROS-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1282</id_resource>
         <id_file>17312</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8c8bd912.61457265.mp3</basename>
+        <dirname>1282</dirname>
+        <basename>MAT 5.6-COMPLEXOS-160610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1283</id_resource>
         <id_file>17316</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8d8abcd3.28339153.mp3</basename>
+        <dirname>1283</dirname>
+        <basename>MAT 5.10-QUATRO E UM QUADRADO-250411-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1284</id_resource>
         <id_file>17320</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8e7fa889.89296791.mp3</basename>
+        <dirname>1284</dirname>
+        <basename>MAT 5.7-SENOS-090610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1285</id_resource>
         <id_file>17324</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8f875b10.96448026.mp3</basename>
+        <dirname>1285</dirname>
+        <basename>MAT 5.5-INVENCAO DO ZERO-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1288</id_resource>
         <id_file>17330</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed979d6f96.32654777.mp3</basename>
+        <dirname>1288</dirname>
+        <basename>MAT 3.13-MARGEM DE ERRO-160610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1291</id_resource>
         <id_file>17336</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed9edfe273.05714956.mp3</basename>
+        <dirname>1291</dirname>
+        <basename>MAT 3.5-O QUE E HIPOTENUSA-200310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1294</id_resource>
         <id_file>17342</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eeda4596739.93362310.mp3</basename>
+        <dirname>1294</dirname>
+        <basename>MAT 3.9-O QUE E PARALELOGRAMO-230310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1295</id_resource>
         <id_file>17346</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eeda8799c65.60450281.mp3</basename>
+        <dirname>1295</dirname>
+        <basename>MAT 3.14-PERMUTACAO-160610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1296</id_resource>
         <id_file>17350</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedac730ca7.60700583.mp3</basename>
+        <dirname>1296</dirname>
+        <basename>MAT 3.10-O QUE E POLIEDRO-080910-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1297</id_resource>
         <id_file>17354</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedade391a5.67931967.mp3</basename>
+        <dirname>1297</dirname>
+        <basename>MAT 3.11-O QUE E POLINOMIO-230310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1298</id_resource>
         <id_file>17358</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedb216b1e3.33381261.mp3</basename>
+        <dirname>1298</dirname>
+        <basename>MAT 3.7-O QUE E NUMERO PRIMO-250310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1299</id_resource>
         <id_file>17362</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedb37c0189.47556835.mp3</basename>
+        <dirname>1299</dirname>
+        <basename>MAT 3.12-O QUE E RADIANO-230310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1301</id_resource>
         <id_file>17370</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedb847bba9.39697599.mp3</basename>
+        <dirname>1301</dirname>
+        <basename>MAT 4.22-ANEIS DE SATURNO-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1302</id_resource>
         <id_file>17374</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedbae70577.38707687.mp3</basename>
+        <dirname>1302</dirname>
+        <basename>MAT 4.25-BIFES NA CHAPA-140910-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1303</id_resource>
         <id_file>17378</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedbc279d49.44841013.mp3</basename>
+        <dirname>1303</dirname>
+        <basename>MAT 4.11-CALCADAS-070110-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1304</id_resource>
         <id_file>17382</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedc12c7087.99660631.mp3</basename>
+        <dirname>1304</dirname>
+        <basename>MAT 4.6-CAMELOS-290310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1305</id_resource>
         <id_file>17386</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedc3f1f0c1.77734031.mp3</basename>
+        <dirname>1305</dirname>
+        <basename>MAT 4.2-CAMINHOES DE ACUCAR-090410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1306</id_resource>
         <id_file>17390</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedc56ebe38.41383058.mp3</basename>
+        <dirname>1306</dirname>
+        <basename>MAT 4.4-VERDADE-081209-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1308</id_resource>
         <id_file>17395</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedca3213c6.15942165.mp3</basename>
+        <dirname>1308</dirname>
+        <basename>MAT 4.24-CONTAGEM DE PASSOS-020910-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1309</id_resource>
         <id_file>17399</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedcb1c3e66.91879655.mp3</basename>
+        <dirname>1309</dirname>
+        <basename>MAT 4.21-DADOS NAO TRANSITIVOS-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1310</id_resource>
         <id_file>17403</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedcc486b83.63592704.mp3</basename>
+        <dirname>1310</dirname>
+        <basename>MAT 4.1-DIFERENCA PRIMOS-070410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1311</id_resource>
         <id_file>17407</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedcf73e009.31571716.mp3</basename>
+        <dirname>1311</dirname>
+        <basename>MAT 4.3-DIVISAO SEM INVEJA-101209-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1312</id_resource>
         <id_file>17415</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedd34c91b9.30083738.mp3</basename>
+        <dirname>1312</dirname>
+        <basename>MAT 4.28-TRIANGULO EQUILATERO-020910-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1315</id_resource>
         <id_file>17421</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedd9a8dc71.56312491.mp3</basename>
+        <dirname>1315</dirname>
+        <basename>MAT 4.7-MEDIAS QUE IMPORTAM-111209-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1317</id_resource>
         <id_file>17426</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedde4192d1.89611178.mp3</basename>
+        <dirname>1317</dirname>
+        <basename>MAT 4.8-PERMUTACAO-070410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1319</id_resource>
         <id_file>17431</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eede4f38766.21488635.mp3</basename>
+        <dirname>1319</dirname>
+        <basename>MAT 4.12-PREJUIZO E HERANCA-220310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1320</id_resource>
         <id_file>17435</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eede7c5ed94.91620715.mp3</basename>
+        <dirname>1320</dirname>
+        <basename>MAT 4.16-SUBCONJUNTOS-161209-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1321</id_resource>
         <id_file>17439</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eede8ce5ff9.10840701.mp3</basename>
+        <dirname>1321</dirname>
+        <basename>MAT 4.23-TAMANHO DA MESA-080610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1322</id_resource>
         <id_file>17443</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedea2bd959.39678865.mp3</basename>
+        <dirname>1322</dirname>
+        <basename>MAT 4.9-TAMANHO DA TERRA-200410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1323</id_resource>
         <id_file>17447</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedee32a9a5.30577286.mp3</basename>
+        <dirname>1323</dirname>
+        <basename>MAT 4.15-TITIUS E BOLD-060410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1325</id_resource>
         <id_file>17452</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf234b2f3.78129821.mp3</basename>
+        <dirname>1325</dirname>
+        <basename>MAT 4.20-TUDO COMECA EM PIZZA-160610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1326</id_resource>
         <id_file>17456</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf30dad83.76488213.mp3</basename>
+        <dirname>1326</dirname>
+        <basename>MAT 4.26-VOLUME CONES E CILINDROS-140910-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1328</id_resource>
         <id_file>17464</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf86883a1.72916907.mp3</basename>
+        <dirname>1328</dirname>
+        <basename>MAT 6.32-3X+1-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1329</id_resource>
         <id_file>17468</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf9696452.70579862.mp3</basename>
+        <dirname>1329</dirname>
+        <basename>MAT 6.27-SEIS GRAUS DE SEPARACAO-230911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1330</id_resource>
         <id_file>17472</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfbc60ab3.16019609.mp3</basename>
+        <dirname>1330</dirname>
+        <basename>MAT 6.17-CELULAS TRONCO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1362</id_resource>
         <id_file>17476</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfcf31ab2.48567232.mp3</basename>
+        <dirname>1362</dirname>
+        <basename>MAT 6.31-CONJECTURA DE GOLDBACH-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1331</id_resource>
         <id_file>17480</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfe0fa9a4.17057442.mp3</basename>
+        <dirname>1331</dirname>
+        <basename>MAT 6.18-CONTEUDO UNIVERSO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1332</id_resource>
         <id_file>17484</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee01147df3.36596120.mp3</basename>
+        <dirname>1332</dirname>
+        <basename>MAT 6.19-CURVA DO SINO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1333</id_resource>
         <id_file>17488</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee02314bb0.67681318.mp3</basename>
+        <dirname>1333</dirname>
+        <basename>MAT 6.25-O PESO DA DUVIDA-140911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1334</id_resource>
         <id_file>17492</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee03517430.20229444.mp3</basename>
+        <dirname>1334</dirname>
+        <basename>MAT 6.9-TEOREMA DA ESFERA COM CABELOS-250411-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1335</id_resource>
         <id_file>17496</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee07993859.01675551.mp3</basename>
+        <dirname>1335</dirname>
+        <basename>MAT 6.8-EXOPLANETAS-060611-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1336</id_resource>
         <id_file>17500</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee087c6af7.91772901.mp3</basename>
+        <dirname>1336</dirname>
+        <basename>MAT 6.1-FORMIGAS-160610-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1337</id_resource>
         <id_file>17504</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0a13f764.20601100.mp3</basename>
+        <dirname>1337</dirname>
+        <basename>MAT 6.11-GENOMA-190711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1338</id_resource>
         <id_file>17508</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0b185b59.24402410.mp3</basename>
+        <dirname>1338</dirname>
+        <basename>MAT 6.21-GRAVIDEZ NA ADOLESCENCIA-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1339</id_resource>
         <id_file>17512</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0bf241a7.65260928.mp3</basename>
+        <dirname>1339</dirname>
+        <basename>MAT 6.22-HORARIO DE VERAO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1340</id_resource>
         <id_file>17516</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0d6aa420.78363653.mp3</basename>
+        <dirname>1340</dirname>
+        <basename>MAT 6.6-IMC E IAC-100511-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1342</id_resource>
         <id_file>17521</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee12025292.68951170.mp3</basename>
+        <dirname>1342</dirname>
+        <basename>MAT 6.20-MAQUINAS DO TEMPO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1343</id_resource>
         <id_file>17525</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee15793755.27368289.mp3</basename>
+        <dirname>1343</dirname>
+        <basename>MAT 6.3-MUDANCAS CLIMATICAS-300810-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1344</id_resource>
         <id_file>17529</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee16957ee5.62655901.mp3</basename>
+        <dirname>1344</dirname>
+        <basename>MAT 6.14-NOS-200711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1345</id_resource>
         <id_file>17533</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee19c00650.55287458.mp3</basename>
+        <dirname>1345</dirname>
+        <basename>MAT 6.4-NUMEROS PRIMOS-310810-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1346</id_resource>
         <id_file>17537</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee1ae00b17.66315202.mp3</basename>
+        <dirname>1346</dirname>
+        <basename>MAT 6.26-OLIMPIADAS-140911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1347</id_resource>
         <id_file>17541</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee1c107ce8.99764103.mp3</basename>
+        <dirname>1347</dirname>
+        <basename>MAT 6.33-NUMEROS PRIMOS-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1348</id_resource>
         <id_file>17545</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee22db05c4.28134112.mp3</basename>
+        <dirname>1348</dirname>
+        <basename>MAT 6.2A-REDES E AMAR-100511-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1350</id_resource>
         <id_file>17550</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee256a4f15.52958366.mp3</basename>
+        <dirname>1350</dirname>
+        <basename>MAT 6.28-DESVIO PADRAO-230911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1352</id_resource>
         <id_file>17555</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee2d5e3dc5.14147885.mp3</basename>
+        <dirname>1352</dirname>
+        <basename>MAT 6.29-TAMANHO DOS PROTONS-230911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1353</id_resource>
         <id_file>17559</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee2fb6fd67.68923411.mp3</basename>
+        <dirname>1353</dirname>
+        <basename>MAT 6.10-TEMPESTADES SOLARES-190711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1354</id_resource>
         <id_file>17563</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee345285d2.83097009.mp3</basename>
+        <dirname>1354</dirname>
+        <basename>MAT 6.12-TERREMOTOS-190711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1355</id_resource>
         <id_file>17567</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee3785c276.52725580.mp3</basename>
+        <dirname>1355</dirname>
+        <basename>MAT 6.30-TIJOLOS DE EULLER-230911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1356</id_resource>
         <id_file>17571</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee39a435f1.24277428.mp3</basename>
+        <dirname>1356</dirname>
+        <basename>MAT 6.24-TITA-140911-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1357</id_resource>
         <id_file>17575</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee3c5099f2.30902696.mp3</basename>
+        <dirname>1357</dirname>
+        <basename>MAT 6.15-TUBAROES-200711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1358</id_resource>
         <id_file>17579</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee3e6e21a2.34392915.mp3</basename>
+        <dirname>1358</dirname>
+        <basename>MAT 6.13-DNA-190711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1359</id_resource>
         <id_file>17583</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee415621d0.16452707.mp3</basename>
+        <dirname>1359</dirname>
+        <basename>MAT 6.7-VENUS E TRIGONOMETRIA-200711-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1377</id_resource>
         <id_file>17701</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f5cd64528b3c9.59723799.mp3</basename>
+        <dirname>1377</dirname>
+        <basename>MAT 7.6-HORARIO DE VERAO-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1378</id_resource>
         <id_file>17709</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f5cdb9871fee9.60803244.mp3</basename>
+        <dirname>1378</dirname>
+        <basename>MAT 4.27-ESCALAS DE TEMPERATURA-020910-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1252</id_resource>
         <id_file>17725</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f6694e7351147.44588149.mp3</basename>
+        <dirname>1252</dirname>
+        <basename>MAT 1.8A_SERIE CULTURA_ESTATISTICAS_BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1253</id_resource>
         <id_file>17729</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f669620b1ea21.38066564.mp3</basename>
+        <dirname>1253</dirname>
+        <basename>MAT 1.8B_SERIE CULTURA_PROBABILIDADE_BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1258</id_resource>
         <id_file>17852</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4f96b2f3b6ed70.10940012.mp3</basename>
+        <dirname>1258</dirname>
+        <basename>MAT 1.7A_SERIE CULTURA_PONTES_BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1261</id_resource>
         <id_file>17880</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbebdbb270315.98082984.mp3</basename>
+        <dirname>1261</dirname>
+        <basename>MAT 1.5-SERIE CULTURA-VERDADE E MENTIRA-190410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1293</id_resource>
         <id_file>17884</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbec03dd2f791.64119773.mp3</basename>
+        <dirname>1293</dirname>
+        <basename>MAT 3.8-O QUE E PARABOLA-200310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1292</id_resource>
         <id_file>17888</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbec63d556848.26625172.mp3</basename>
+        <dirname>1292</dirname>
+        <basename>MAT 3.6-O QUE E LOGARITIMO-200310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1289</id_resource>
         <id_file>17892</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbec7dd45ff24.28320986.mp3</basename>
+        <dirname>1289</dirname>
+        <basename>MAT 3.3-O QUE E EXPONENCIAL-220310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1287</id_resource>
         <id_file>17896</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbecc88ccd571.40588857.mp3</basename>
+        <dirname>1287</dirname>
+        <basename>MAT 3.2-O QUE E ELIPSE-200310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1256</id_resource>
         <id_file>17907</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf5e5043a6e3.02868283.mp3</basename>
+        <dirname>1256</dirname>
+        <basename>MAT 1.2-PROGRESSAO ARITMETICA-MIX-170511-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1313</id_resource>
         <id_file>17911</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf66412abf78.47997816.mp3</basename>
+        <dirname>1313</dirname>
+        <basename>MAT 4.5-FRAUDE-191109-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1314</id_resource>
         <id_file>17915</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf704ba7c607.80263294.mp3</basename>
+        <dirname>1314</dirname>
+        <basename>MAT 4.10-GASOLINA ADULTERADA-070410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1316</id_resource>
         <id_file>17919</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf8820a88ea1.83081844.mp3</basename>
+        <dirname>1316</dirname>
+        <basename>MAT 4.13-MORTOS VIVOS-161209-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1290</id_resource>
         <id_file>17924</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9942273a55.73191918.mp3</basename>
+        <dirname>1290</dirname>
+        <basename>MAT 3.4-O QUE E HIPERBOLE-230310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1318</id_resource>
         <id_file>17928</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf998b4d2da7.70373630.mp3</basename>
+        <dirname>1318</dirname>
+        <basename>MAT 4.14-PESO EXTRA-110110-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1307</id_resource>
         <id_file>17932</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf99b79240c6.15901442.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1349</id_resource>
-        <id_file>17936</id_file>
-        <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9a050e8af2.54058608.mp3</basename>
+        <dirname>1307</dirname>
+        <basename>MAT 4.19-CONSUMO DE ENERGIA-140410-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1324</id_resource>
         <id_file>17940</id_file>
         <type>8</type>
-        <dirname>gen</dirname>
-        <basename>4fbf9a652fbf44.24522540.mp3</basename>
+        <dirname>1324</dirname>
+        <basename>MAT 4.17-TRIANGULO IMPAR-081209-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1259</id_resource>
         <id_file>17944</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9c004864d5.83351944.mp3</basename>
+        <dirname>1259</dirname>
+        <basename>MAT 1.7B_SERIE CULTURA_GREGOS_BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1260</id_resource>
         <id_file>17948</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9c4638ed94.35383567.mp3</basename>
+        <dirname>1260</dirname>
+        <basename>MAT 1.10-VAMPIROS-170511-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1341</id_resource>
         <id_file>17952</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9ce1152a67.83514320.mp3</basename>
+        <dirname>1341</dirname>
+        <basename>MAT 6.5B-INFINITUDE DOS RACIONAIS-060611-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1351</id_resource>
         <id_file>17956</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9d1c6a8529.06766637.mp3</basename>
+        <dirname>1351</dirname>
+        <basename>MAT 6.2B-SOLIDOS CONVEXOS-100511-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1360</id_resource>
         <id_file>17960</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9d9ca153f7.59775057.mp3</basename>
+        <dirname>1360</dirname>
+        <basename>MAT 6.5A-VULCOES E PROBABILIDADES-060611-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1286</id_resource>
         <id_file>17968</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>4fc13c49636516.72383862.mp3</basename>
+        <dirname>1286</dirname>
+        <basename>MAT 3.1-O QUE E BARICENTRO-190310-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1327</id_resource>
         <id_file>18007</id_file>
         <type>8</type>
-        <dirname>aud</dirname>
-        <basename>5068d7e86d7411.99882749.mp3</basename>
+        <dirname>1327</dirname>
+        <basename>MAT 6.16-37 POR CENTO-230811-BL1.mp3</basename>
     </file>
     <file>
         <id_resource>1251</id_resource>
         <id_file>17210</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed4668e037.85747894.mp3</basename>
+        <dirname>1251</dirname>
+        <basename>MAT 1.4-SEQUENCIA DE FIBONACCI-COM CREDITOS-220310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1254</id_resource>
         <id_file>17216</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed51ea1f75.91875089.mp3</basename>
+        <dirname>1254</dirname>
+        <basename>MAT 1.9-SERIE CULTURA-MINHOCANDO-280810-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1255</id_resource>
         <id_file>17220</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed52bd6a51.01981442.mp3</basename>
+        <dirname>1255</dirname>
+        <basename>MAT 1.6-JACKIL E MR HIDE-060611-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1257</id_resource>
         <id_file>17225</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed55549968.33055141.mp3</basename>
+        <dirname>1257</dirname>
+        <basename>MAT 1.3-PROGRESSAO GEOMETRICA-COM CREDITOS-230310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1262</id_resource>
         <id_file>17233</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed5c62d465.05756482.mp3</basename>
+        <dirname>1262</dirname>
+        <basename>MAT 7.1-SEIS GRAUS DE SEPARACAO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1263</id_resource>
         <id_file>17237</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed5d41efe3.97025897.mp3</basename>
+        <dirname>1263</dirname>
+        <basename>MAT 7.3-H1N1-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1264</id_resource>
         <id_file>17241</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed5e1e6b71.05525756.mp3</basename>
+        <dirname>1264</dirname>
+        <basename>MAT 7.4-TERREMOTOS-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1265</id_resource>
         <id_file>17245</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed61ccf038.71970477.mp3</basename>
+        <dirname>1265</dirname>
+        <basename>MAT 7.2-CONTEUDO DO UNIVERSO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1266</id_resource>
         <id_file>17249</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed647e7ba0.95058165.mp3</basename>
+        <dirname>1266</dirname>
+        <basename>MAT 7.5-VIOLENCIA-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1267</id_resource>
         <id_file>17253</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed66437652.41208151.mp3</basename>
+        <dirname>1267</dirname>
+        <basename>MAT 2.1-ANIMAIS NATUREZA-160310-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1268</id_resource>
         <id_file>17257</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed68257fd3.49584883.mp3</basename>
+        <dirname>1268</dirname>
+        <basename>MAT 2.10-COMBINACAO-COM CREDITOS-060510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1269</id_resource>
         <id_file>17261</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed6d2572b7.73093883.mp3</basename>
+        <dirname>1269</dirname>
+        <basename>MAT 2.4-COMBUSTIVEL-120110-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1270</id_resource>
         <id_file>17265</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed6f8b4bf1.86271039.mp3</basename>
+        <dirname>1270</dirname>
+        <basename>MAT 2.2-BATIMENTOS E CABELO-160310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1271</id_resource>
         <id_file>17269</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed711fb774.77467169.mp3</basename>
+        <dirname>1271</dirname>
+        <basename>MAT 2.5-DISTANCIAS-030210-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1272</id_resource>
         <id_file>17273</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed74b12615.07476089.mp3</basename>
+        <dirname>1272</dirname>
+        <basename>MAT 2.6-ESFERAS-120110-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1273</id_resource>
         <id_file>17277</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed768c7120.93384378.mp3</basename>
+        <dirname>1273</dirname>
+        <basename>MAT 2.7-ESTIMATIVA LIXO-COM CREDITOS-050510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1274</id_resource>
         <id_file>17281</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed7a57b948.34202364.mp3</basename>
+        <dirname>1274</dirname>
+        <basename>MAT 2.8-MASSA E IDADE-COM CREDITOS-190310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1275</id_resource>
         <id_file>17285</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed7f278e33.90046150.mp3</basename>
+        <dirname>1275</dirname>
+        <basename>MAT 2.9-PIZZA E FEIJAO-COM CREDITOS-190310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1276</id_resource>
         <id_file>17289</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed802e8f95.09559729.mp3</basename>
+        <dirname>1276</dirname>
+        <basename>MAT 5.1-INFINITO 1-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1277</id_resource>
         <id_file>17293</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed817b88b0.86524999.mp3</basename>
+        <dirname>1277</dirname>
+        <basename>MAT 5.2-INFINITO 2-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1278</id_resource>
         <id_file>17297</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8481dcd6.73394533.mp3</basename>
+        <dirname>1278</dirname>
+        <basename>MAT 5.9-EQUACOES CUBICAS-100511-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1279</id_resource>
         <id_file>17301</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eed85a96fc4.69694895.mp3</basename>
+        <dirname>1279</dirname>
+        <basename>MAT 5.8-CRIACAO DE LOGARITMOS-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1280</id_resource>
         <id_file>17305</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed895aaea2.12843132.mp3</basename>
+        <dirname>1280</dirname>
+        <basename>MAT 5.3-NEGATIVOS-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1281</id_resource>
         <id_file>17309</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8a5646c5.10101300.mp3</basename>
+        <dirname>1281</dirname>
+        <basename>MAT 5.4-NEWTON E OS NUMEROS-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1282</id_resource>
         <id_file>17313</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8caf31c0.78174230.mp3</basename>
+        <dirname>1282</dirname>
+        <basename>MAT 5.6-COMPLEXOS-COM CREDITOS-160610-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1283</id_resource>
         <id_file>17317</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8d972336.99445343.mp3</basename>
+        <dirname>1283</dirname>
+        <basename>MAT 5.10-QUATRO E UM QUADRADO-250411-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1284</id_resource>
         <id_file>17321</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8e96a953.21603295.mp3</basename>
+        <dirname>1284</dirname>
+        <basename>MAT 5.7-SENOS-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1285</id_resource>
         <id_file>17325</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed8f9c4510.26208001.mp3</basename>
+        <dirname>1285</dirname>
+        <basename>MAT 5.5-INVENCAO DO ZERO-180610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1288</id_resource>
         <id_file>17331</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed97bea1a4.26046090.mp3</basename>
+        <dirname>1288</dirname>
+        <basename>MAT 3.13-MARGEM DE ERRO-160610-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1291</id_resource>
         <id_file>17337</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eed9f12aa40.56887725.mp3</basename>
+        <dirname>1291</dirname>
+        <basename>MAT 3.5-O QUE E HIPOTENUSA-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1294</id_resource>
         <id_file>17343</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eeda54410f8.20684223.mp3</basename>
+        <dirname>1294</dirname>
+        <basename>MAT 3.9-O QUE E PARALELOGRAMO-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1295</id_resource>
         <id_file>17347</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eeda8a05345.44651889.mp3</basename>
+        <dirname>1295</dirname>
+        <basename>MAT 3.14-PERMUTACAO-COM CREDITOS-160610-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1296</id_resource>
         <id_file>17351</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedac957384.95112541.mp3</basename>
+        <dirname>1296</dirname>
+        <basename>MAT 3.10-O QUE E POLIEDRO-COM CREDITOS-080910-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1297</id_resource>
         <id_file>17355</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedae117426.28426189.mp3</basename>
+        <dirname>1297</dirname>
+        <basename>MAT 3.11-O QUE E POLINOMIO-COM CREDITOS-080910-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1298</id_resource>
         <id_file>17359</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedb23f7cf2.67519601.mp3</basename>
+        <dirname>1298</dirname>
+        <basename>MAT 3.7-O QUE E NUMERO PRIMO-COM CREDITOS-240510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1299</id_resource>
         <id_file>17363</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedb42dc686.18828140.mp3</basename>
+        <dirname>1299</dirname>
+        <basename>MAT 3.12-O QUE E RADIANO-COM CREDITOS-240510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1301</id_resource>
         <id_file>17371</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedb8590d48.88429456.mp3</basename>
+        <dirname>1301</dirname>
+        <basename>MAT 4.22-ANEIS DE SATURNO-080610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1302</id_resource>
         <id_file>17375</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedbb1224d5.03944448.mp3</basename>
+        <dirname>1302</dirname>
+        <basename>MAT 4.25-BIFES NA CHAPA-140910-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1303</id_resource>
         <id_file>17379</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedbc4c4258.22322425.mp3</basename>
+        <dirname>1303</dirname>
+        <basename>MAT 4.11-CALCADAS-070110-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1304</id_resource>
         <id_file>17383</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedc154d5e8.61721810.mp3</basename>
+        <dirname>1304</dirname>
+        <basename>MAT 4.6-CAMELOS-COM CREDITOS-290310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1305</id_resource>
         <id_file>17387</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedc42a3704.59214699.mp3</basename>
+        <dirname>1305</dirname>
+        <basename>MAT 4.2-CAMINHOES DE ACUCAR-COM CREDITOS-090410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1306</id_resource>
         <id_file>17391</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedc59dc206.50671709.mp3</basename>
+        <dirname>1306</dirname>
+        <basename>MAT 4.4-VERDADE-081209-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1308</id_resource>
         <id_file>17396</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedca4a9f69.74270121.mp3</basename>
+        <dirname>1308</dirname>
+        <basename>MAT 4.24-CONTAGEM DE PASSOS-020910-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1309</id_resource>
         <id_file>17400</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedcb2a8894.29928876.mp3</basename>
+        <dirname>1309</dirname>
+        <basename>MAT 4.21-DADOS NAO TRANSITIVOS-080610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1310</id_resource>
         <id_file>17404</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedcd225437.52734089.mp3</basename>
+        <dirname>1310</dirname>
+        <basename>MAT 4.1-DIFERENCA PRIMOS-COM CREDITOS-070410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1311</id_resource>
         <id_file>17408</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedcfa5c703.23609173.mp3</basename>
+        <dirname>1311</dirname>
+        <basename>MAT 4.3-DIVISAO SEM INVEJA-101209-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1312</id_resource>
         <id_file>17416</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedd36757e1.01723548.mp3</basename>
+        <dirname>1312</dirname>
+        <basename>MAT 4.28-TRIANGULO EQUILATERO-020910-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1315</id_resource>
         <id_file>17422</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedd9d57091.21662022.mp3</basename>
+        <dirname>1315</dirname>
+        <basename>MAT 4.7-MEDIAS QUE IMPORTAM-111209-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1317</id_resource>
         <id_file>17427</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedde676c10.31117918.mp3</basename>
+        <dirname>1317</dirname>
+        <basename>MAT 4.8-PERMUTACAO-COM CREDITOS-070410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1319</id_resource>
         <id_file>17432</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eede5251395.66750005.mp3</basename>
+        <dirname>1319</dirname>
+        <basename>MAT 4.12-PREJUIZO E HERANCA-COM CREDITOS-220310-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1320</id_resource>
         <id_file>17436</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eede800be29.89691872.mp3</basename>
+        <dirname>1320</dirname>
+        <basename>MAT 4.16-SUBCONJUNTOS-161209-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1321</id_resource>
         <id_file>17440</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eede8dd68a1.44239397.mp3</basename>
+        <dirname>1321</dirname>
+        <basename>MAT 4.23-TAMANHO DA MESA-080610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1322</id_resource>
         <id_file>17444</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedea587fe0.14187934.mp3</basename>
+        <dirname>1322</dirname>
+        <basename>MAT 4.9-TAMANHO DA TERRA-COM CREDITO-200410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1323</id_resource>
         <id_file>17448</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4f1eedee6272b4.75374471.mp3</basename>
+        <dirname>1323</dirname>
+        <basename>MAT 4.15-TITIUS E BOLD-COM CREDITOS-060410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1325</id_resource>
         <id_file>17453</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf24739f8.81388834.mp3</basename>
+        <dirname>1325</dirname>
+        <basename>MAT 4.20-TUDO COMECA EM PIZZA-160610-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1326</id_resource>
         <id_file>17457</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf320e3a7.81520456.mp3</basename>
+        <dirname>1326</dirname>
+        <basename>MAT 4.26-VOLUME CONES E CILINDROS-140910-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1328</id_resource>
         <id_file>17465</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedf8873431.82266315.mp3</basename>
+        <dirname>1328</dirname>
+        <basename>MAT 6.32-3X+1-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1329</id_resource>
         <id_file>17469</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfa0559b5.58918492.mp3</basename>
+        <dirname>1329</dirname>
+        <basename>MAT 6.27-SEIS GRAUS DE SEPARACAO-230911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1330</id_resource>
         <id_file>17473</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfbdb0a14.71895130.mp3</basename>
+        <dirname>1330</dirname>
+        <basename>MAT 6.17-CELULAS TRONCO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1362</id_resource>
         <id_file>17477</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfd1f3f01.20429510.mp3</basename>
+        <dirname>1362</dirname>
+        <basename>MAT 6.31-CONJECTURA DE GOLDBACH-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1331</id_resource>
         <id_file>17481</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eedfe270438.58317110.mp3</basename>
+        <dirname>1331</dirname>
+        <basename>MAT 6.18-CONTEUDO UNIVERSO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1332</id_resource>
         <id_file>17485</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0123f8e7.85778803.mp3</basename>
+        <dirname>1332</dirname>
+        <basename>MAT 6.19-CURVA DO SINO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1333</id_resource>
         <id_file>17489</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee02478403.67344314.mp3</basename>
+        <dirname>1333</dirname>
+        <basename>MAT 6.25-O PESO DA DUVIDA-140911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1334</id_resource>
         <id_file>17493</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee036a9465.32965751.mp3</basename>
+        <dirname>1334</dirname>
+        <basename>MAT 6.9-TEOREMA DA ESFERA COM CABELOS-250411-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1335</id_resource>
         <id_file>17497</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee07a51670.01260248.mp3</basename>
+        <dirname>1335</dirname>
+        <basename>MAT 6.8-EXOPLANETAS-060611-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1336</id_resource>
         <id_file>17501</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee08a1ffd7.47918352.mp3</basename>
+        <dirname>1336</dirname>
+        <basename>MAT 6.1-FORMIGAS-COM CREDITOS-160610-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1337</id_resource>
         <id_file>17505</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0a367517.31294838.mp3</basename>
+        <dirname>1337</dirname>
+        <basename>MAT 6.11-GENOMA-190711-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1338</id_resource>
         <id_file>17509</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0b2bb5b9.98912928.mp3</basename>
+        <dirname>1338</dirname>
+        <basename>MAT 6.21-GRAVIDEZ NA ADOLESCENCIA-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1339</id_resource>
         <id_file>17513</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0c0f1b01.43151961.mp3</basename>
+        <dirname>1339</dirname>
+        <basename>MAT 6.22-HORARIO DE VERAO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1340</id_resource>
         <id_file>17517</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee0db64305.01576276.mp3</basename>
+        <dirname>1340</dirname>
+        <basename>MAT 6.6-IMC E IAC-100511-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1342</id_resource>
         <id_file>17522</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee1215e3b6.52879082.mp3</basename>
+        <dirname>1342</dirname>
+        <basename>MAT 6.20-MAQUINAS DO TEMPO-230811-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1343</id_resource>
         <id_file>17526</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee15a2b1b4.41811713.mp3</basename>
+        <dirname>1343</dirname>
+        <basename>MAT 6.3-MUDANCAS CLIMATICAS-300810-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1344</id_resource>
         <id_file>17530</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee16a51798.43894068.mp3</basename>
+        <dirname>1344</dirname>
+        <basename>MAT 6.14-NOS-200711-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1345</id_resource>
         <id_file>17534</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee19e75288.76936880.mp3</basename>
+        <dirname>1345</dirname>
+        <basename>MAT 6.4-NUMEROS PRIMOS-310810-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1346</id_resource>
         <id_file>17538</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee1b00e0b3.20142140.mp3</basename>
+        <dirname>1346</dirname>
+        <basename>MAT 6.26-OLIMPIADAS-140911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1347</id_resource>
         <id_file>17542</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee1c2682b0.48664731.mp3</basename>
+        <dirname>1347</dirname>
+        <basename>MAT 6.33-NUMEROS PRIMOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1348</id_resource>
         <id_file>17546</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee230d72d6.30290137.mp3</basename>
+        <dirname>1348</dirname>
+        <basename>MAT 6.2A-REDES E AMAR-100511-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1350</id_resource>
         <id_file>17551</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee257b28b7.51287903.mp3</basename>
+        <dirname>1350</dirname>
+        <basename>MAT 6.28-DESVIO PADRAO-230911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1352</id_resource>
         <id_file>17556</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee2d732a52.07646575.mp3</basename>
+        <dirname>1352</dirname>
+        <basename>MAT 6.29-TAMANHO DOS PROTONS-230911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1353</id_resource>
         <id_file>17560</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee2fdf9822.49049069.mp3</basename>
+        <dirname>1353</dirname>
+        <basename>MAT 6.10-TEMPESTADES SOLARES-190711-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1354</id_resource>
         <id_file>17564</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee34717096.41574971.mp3</basename>
+        <dirname>1354</dirname>
+        <basename>MAT 6.12-TERREMOTOS-190711-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1355</id_resource>
         <id_file>17568</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee379cf434.65018002.mp3</basename>
+        <dirname>1355</dirname>
+        <basename>MAT 6.30-TIJOLOS DE EULLER-230911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1356</id_resource>
         <id_file>17572</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee39b91ea4.21103934.mp3</basename>
+        <dirname>1356</dirname>
+        <basename>MAT 6.24-TITA-140911-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1357</id_resource>
         <id_file>17576</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee3c654dd7.77159282.mp3</basename>
+        <dirname>1357</dirname>
+        <basename>MAT 6.15-TUBAROES-200711-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1358</id_resource>
         <id_file>17580</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee3e8e7f98.99296854.mp3</basename>
+        <dirname>1358</dirname>
+        <basename>MAT 6.13-DNA-190711-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1359</id_resource>
         <id_file>17584</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f1eee4186e774.65882917.mp3</basename>
+        <dirname>1359</dirname>
+        <basename>MAT 6.7-VENUS E TRIGONOMETRIA-250411-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1377</id_resource>
         <id_file>17702</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f5cd6458251c8.59909505.mp3</basename>
+        <dirname>1377</dirname>
+        <basename>MAT 7.6-HORARIO DE VERAO-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1378</id_resource>
         <id_file>17710</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f5cdb98813ba8.87963190.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1252</id_resource>
-        <id_file>17726</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f6694e7990e81.83167991.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1253</id_resource>
-        <id_file>17730</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f669620c198e0.88083838.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1258</id_resource>
-        <id_file>17853</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4f96b2f423a537.31160728.mp3</basename>
+        <dirname>1378</dirname>
+        <basename>MAT 4.27-ESCALAS DE TEMPERATURA-020910-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1261</id_resource>
         <id_file>17881</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbebdbb4ebe92.21586998.mp3</basename>
+        <dirname>1261</dirname>
+        <basename>MAT 1.5-SERIE CULTURA-VERDADE E MENTIRA-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1293</id_resource>
         <id_file>17885</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbec03e068a78.98940847.mp3</basename>
+        <dirname>1293</dirname>
+        <basename>MAT 3.8-O QUE E PARABOLA-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1292</id_resource>
         <id_file>17889</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbec63d770ee8.79319831.mp3</basename>
+        <dirname>1292</dirname>
+        <basename>MAT 3.6-O QUE E LOGARITIMO-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1289</id_resource>
         <id_file>17893</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbec7dd668429.54218863.mp3</basename>
+        <dirname>1289</dirname>
+        <basename>MAT 3.3-O QUE E EXPONENCIAL-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1287</id_resource>
         <id_file>17897</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbecc8908fed2.03769359.mp3</basename>
+        <dirname>1287</dirname>
+        <basename>MAT 3.2-O QUE E ELIPSE-COM CREDITOS-080910-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1256</id_resource>
         <id_file>17908</id_file>
         <type>9</type>
-        <dirname>txt</dirname>
-        <basename>4fbf5e507b12f3.89605892.mp3</basename>
+        <dirname>1256</dirname>
+        <basename>MAT 1.2-PROGRESSAO ARITMETICA-MIX-170511-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1313</id_resource>
         <id_file>17912</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbf6641566ba4.30859410.mp3</basename>
+        <dirname>1313</dirname>
+        <basename>MAT 4.5-FRAUDE-COM CREDITOS-191109-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1314</id_resource>
         <id_file>17916</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbf704bcdda37.85270221.mp3</basename>
+        <dirname>1314</dirname>
+        <basename>MAT 4.10-GASOLINA ADULTERADA-COM CREDITOS-070410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1316</id_resource>
         <id_file>17920</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbf8820d42024.71749485.mp3</basename>
+        <dirname>1316</dirname>
+        <basename>MAT 4.13-MORTOS VIVOS-161209-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1290</id_resource>
         <id_file>17925</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9942833529.98245291.mp3</basename>
+        <dirname>1290</dirname>
+        <basename>MAT 3.4-O QUE E HIPERBOLE-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1318</id_resource>
         <id_file>17929</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbf998b78db11.48786372.mp3</basename>
+        <dirname>1318</dirname>
+        <basename>MAT 4.14-PESO EXTRA-110110-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1307</id_resource>
         <id_file>17933</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbf99b7bfd979.30096861.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1349</id_resource>
-        <id_file>17937</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9a052eecb6.16835354.mp3</basename>
+        <dirname>1307</dirname>
+        <basename>MAT 4.19-CONSUMO DE ENERGIA-COM CREDITOS-140410-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1324</id_resource>
         <id_file>17941</id_file>
         <type>9</type>
-        <dirname>gen</dirname>
-        <basename>4fbf9a65618eb7.61056928.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1259</id_resource>
-        <id_file>17945</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9c005c6574.89573096.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1260</id_resource>
-        <id_file>17949</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9c467eea87.16202070.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1341</id_resource>
-        <id_file>17953</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9ce1250e57.07416116.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1351</id_resource>
-        <id_file>17957</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9d1c9ca854.19681780.mp3</basename>
-    </file>
-    <file>
-        <id_resource>1360</id_resource>
-        <id_file>17961</id_file>
-        <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fbf9d9cafe739.59480710.mp3</basename>
+        <dirname>1324</dirname>
+        <basename>MAT 4.17-TRIANGULO IMPAR-081209-COM CREDITOS-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1286</id_resource>
         <id_file>17969</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>4fc13c498c2858.89211587.mp3</basename>
+        <dirname>1286</dirname>
+        <basename>MAT 3.1-O QUE E BARICENTRO-COM CREDITOS-210510-BL2.mp3</basename>
     </file>
     <file>
         <id_resource>1327</id_resource>
         <id_file>18008</id_file>
         <type>9</type>
-        <dirname>aud</dirname>
-        <basename>5068d7e87ec7a3.00488069.mp3</basename>
+        <dirname>1327</dirname>
+        <basename>MAT 6.16-37 POR CENTO-230811-BL2.mp3</basename>
     </file>
 </root>`
 
