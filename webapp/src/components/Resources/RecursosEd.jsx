@@ -99,14 +99,18 @@ function RecursosEd() {
                 }
             )
 			*/
-			filtersMapping[filterValue].split(',').forEach(
-                function(value) {
-                    returnArray = returnArray.filter(element => 
-                        element.media.toLowerCase().includes(value.trim().toLowerCase()) ||
-                        element.tags.toLowerCase().includes(value.trim().toLowerCase())
-                    )
-                }
-            )
+			filterValue.split(' ').forEach(
+				function(value1) {
+					filtersMapping[value1].split(',').forEach(
+						function(value2) {
+							returnArray = returnArray.filter(element => 
+								element.media.toLowerCase().includes(value2.trim().toLowerCase()) ||
+								element.tags.toLowerCase().includes(value2.trim().toLowerCase())
+							)
+						}
+					)
+				}
+			)
         }
 
         setFilteredResourcesArray(prevState => returnArray)
