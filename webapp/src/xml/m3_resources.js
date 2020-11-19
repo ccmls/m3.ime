@@ -2147,8 +2147,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>Porcentagem e juros; juros compostos; Progressões geométricas; Função Exponencial.; Matemática
-Financeira; Número E; Número de Euler; Sequências e progressões</tags>
+        <tags>Porcentagem e juros; juros compostos; Progressões geométricas; Função Exponencial.; Matemática Financeira; Número E; Número de Euler; Sequências e progressões</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -2838,8 +2837,7 @@ h2. Revisores
 *roteiro* Frederico Gualberto de Souza, Sarah Yakhni
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>empréstimo; Matemática
-Financeira; juros compostos; poupança; Porcentagem e juros; origem e história do banco; Montante</tags>
+        <tags>empréstimo; Matemática Financeira; juros compostos; poupança; Porcentagem e juros; origem e história do banco; Montante</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -4469,8 +4467,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *graficos_formulas* Raphael Garcia
 </authors>
-        <tags>Análise e viabilidade de transações financeiras.; Juros simples e compostos; Matemática
-Financeira</tags>
+        <tags>Análise e viabilidade de transações financeiras.; Juros simples e compostos; Matemática Financeira</tags>
         <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
