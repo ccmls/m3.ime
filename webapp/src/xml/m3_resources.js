@@ -2866,7 +2866,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *gráficos_fórmulas* Raphael Garcia
 </authors>
-        <tags>modelagem matemática; Fundamentos da economia; MatemáticaFinanceira</tags>
+        <tags>modelagem matemática; Fundamentos da economia; Matemática Financeira</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -5592,7 +5592,7 @@ Mostrar aplicações de progressão geométrica em matemática ﬁnanceira.</obj
 Samuel Rocha de Oliveira, Leonardo Barichello
 
 </authors>
-        <tags>compra; Progressão Geométrica; Sequências; dívida; juros compostos; financiamento; Juros.; MatemáticaFinanceira</tags>
+        <tags>compra; Progressão Geométrica; Sequências; dívida; juros compostos; financiamento; Juros.; Matemática Financeira</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -8688,4 +8688,5 @@ Adolfo Maia</authors>
 </root>
 `
 
-export default m3_resources
+export default m3_resources;
+

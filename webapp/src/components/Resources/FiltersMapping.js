@@ -20,7 +20,7 @@ export const filtersMapping = {
     grandezasUnidadesDeMedidaEEscalas: "Grandezas, unidades de medida e escalas",
     comprimentosAreasEVolumes: "Comprimentos, áreas e volumes",
     angulos: "Ângulos",
-    posicoesDeRetas: "Posições de retas",
+    posicoesDeRetas: "retas",
     simetriasDeFigurasPlanasOuEspaciais: "Simetrias de figuras planas ou espaciais",
     congruenciaESemelhancaDeTriangulos: "Congruência e semelhança de triângulos",
     teoremaDeTales: "Teorema de Tales",
@@ -35,7 +35,7 @@ export const filtersMapping = {
     // Números e Funções
     logicaERaciocinioLogico: "Lógica e raciocínio lógico",
     operacoesEmConjuntosNumericos: "Operações em conjuntos numéricos",
-    desigualdades: "Desigualdades",
+    desigualdades: "Desigualdade",
     divisibilidadeFatoracao: "Divisibilidade, fatoração",
     razoesEProporcoes: "Razões e proporções",
     porcentagemEJuros: "Porcentagem e juros",
