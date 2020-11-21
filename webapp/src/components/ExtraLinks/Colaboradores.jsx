@@ -118,7 +118,9 @@ function Colaboradores() {
                         <br/>Augusto Fidalgo Yamamoto
                         <br/>Alan Bondesan De Maria
                         <br/>Bianca Ortelã Andre Novo
+                        <br/>Caio Henrique de Souza
                         <br/>Carolina Bonturi
+                        <br/>Claudio dos Santos Júnior
                         <br/>Clenio da Silva Brandao
                         <br/>Cristiano Torezzan
                         <br/>Daniel Sarmento Abrahão
@@ -139,6 +141,7 @@ function Colaboradores() {
                         <br/>João Marcelo Vieira Santa Maria
                         <br/>José Felipe Blasco
                         <br/>Kauan Pastini Paula Leite
+                        <br/>Letícia Miguel Pinto
                         <br/>Lucas Ogasawara de Oliveira
                         <br/>Lucas Vignoli Reis
                         <br/>Luís Antonio Rodrigues
@@ -162,6 +165,7 @@ function Colaboradores() {
                         <br/>Rodrigo Iamarino Caravita
                         <br/>Ronaldo Barbosa
                         <br/>Tânia Mara Marques
+                        <br/>Thais Araujo Bispo
                         <br/>Thaisa Aluani
                     </p>
                 </Col>
