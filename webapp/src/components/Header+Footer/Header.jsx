@@ -93,9 +93,9 @@ function Header() {
                             <DropdownItem onClick={() => history.push("/recursos?filter=funcoesDo1GrauFuncoesLinearesFuncoesAfim")}> Funções do 1º grau / Funções lineares / Funções afim </DropdownItem> 
                             <DropdownItem onClick={() => history.push("/recursos?filter=funcoesDo2GrauFuncoesQuadraticas")}> Funções do 2º grau / Funções quadráticas </DropdownItem> 
                             <DropdownItem onClick={() => history.push("/recursos?filter=polinomiosEFuncoesPolinomiais")}> Polinômios e funções polinomiais </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=funcoesRacionais")}> Funções racionais </DropdownItem> 
+                            
                             <DropdownItem onClick={() => history.push("/recursos?filter=funcoesExponenciaisELogaritmicas")}> Funções exponenciais e logarítmicas </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=equacoesEInequacoes")}> Equações e inequações </DropdownItem> 
+                            
                             <DropdownItem onClick={() => history.push("/recursos?filter=relacoesNoCicloTrigonometricoEFuncoesTrigonometricas")}> Relações no ciclo trigonométrico e funções trigonométricas </DropdownItem> 
                             <DropdownItem onClick={() => history.push("/recursos?filter=sistemasDeEquacoes")}> Sistemas de equações </DropdownItem> 
                             <DropdownItem onClick={() => history.push("/recursos?filter=matrizes")}> Matrizes </DropdownItem> 
@@ -120,7 +120,7 @@ function Header() {
                                 <DropdownItem onClick={() => history.push("/recursos?filter=grandezasUnidadesDeMedidaEEscalas")}> Grandezas, unidades de medida e escalas </DropdownItem>
                                 <DropdownItem onClick={() => history.push("/recursos?filter=comprimentosAreasEVolumes")}> Comprimentos, áreas e volumes </DropdownItem> 
                                 <DropdownItem onClick={() => history.push("/recursos?filter=angulos")}> Ângulos </DropdownItem>
-                                <DropdownItem onClick={() => history.push("/recursos?filter=posicoesDeRetas")}> Posições de retas </DropdownItem> 
+                                
                                 <DropdownItem onClick={() => history.push("/recursos?filter=simetriasDeFigurasPlanasOuEspaciais")}> Simetrias de figuras planas ou espaciais </DropdownItem>
                                 <DropdownItem onClick={() => history.push("/recursos?filter=congruenciaESemelhancaDeTriangulos")}> Congruência e semelhança de triângulos </DropdownItem> 
                                 <DropdownItem onClick={() => history.push("/recursos?filter=teoremaDeTales")}> Teorema de Tales </DropdownItem>
@@ -176,7 +176,7 @@ function Header() {
                         <DropdownMenu className="header-dropdown-menu" right>
                             <DropdownItem onClick={() => history.push("/recursos?filter=grafos")}> Grafos </DropdownItem> 
                             <DropdownItem onClick={() => history.push("/recursos?filter=criptografia")}> Criptografia </DropdownItem>
-                            <DropdownItem onClick={() => history.push("/recursos?filter=computacao")}> Computação </DropdownItem> 
+                            
                             <DropdownItem onClick={() => history.push("/recursos?filter=numerosComplexos")}> Números Complexos </DropdownItem>
                             <DropdownItem onClick={() => history.push("/recursos?filter=conicas")}> Cônicas </DropdownItem>
                             <DropdownItem onClick={() => history.push("/recursos?filter=historiaDaMatematica")}> História da Matemática </DropdownItem> 
