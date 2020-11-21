@@ -32,7 +32,8 @@ function Colaboradores() {
                         <br/>
                         <b>Samuel Rocha de Oliveira</b>, coordenador geral acadêmico;
                         <br/>
-                        <b>Leonardo Barichello</b>, coordenador dos experimentos e softwares;
+                        <b>Leonardo Barichello</b>, coordenador dos experimentos e softwares e dos atualizações
+                        e melhorias realizadas em 2019 e 2020;
                         <br/>
                         <b>Sarah Yakhni</b>, coordenadora dos vídeos;
                         <br/>
