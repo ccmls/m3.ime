@@ -95,16 +95,8 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                             <span style={{color: "#202020"}}> Polinômios e funções polinomiais⠀✕ </span> :'Polinômios e funções polinomiais'} 
                                         </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("funcoesRacionais")}> {filters.includes("funcoesRacionais") ?
-                                            <span style={{color: "#202020"}}> Funções racionais⠀✕ </span> :'Funções racionais'} 
-                                        </p>
-                                        <br/>
                                         <p onClick={() => URLtoggler("funcoesExponenciaisELogaritmicas")}> {filters.includes("funcoesExponenciaisELogaritmicas") ?
                                             <span style={{color: "#202020"}}> Funções exponenciais e logarítmicas⠀✕ </span> :'Funções exponenciais e logarítmicas'} 
-                                        </p>
-                                        <br/>
-                                        <p onClick={() => URLtoggler("equacoesEInequacoes")}> {filters.includes("equacoesEInequacoes") ?
-                                            <span style={{color: "#202020"}}> Equações e inequações⠀✕ </span> :'Equações e inequações'} 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("relacoesNoCicloTrigonometricoEFuncoesTrigonometricas")}> {filters.includes("relacoesNoCicloTrigonometricoEFuncoesTrigonometricas") ?
@@ -147,10 +139,6 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                         <br/>
                                         <p onClick={() => URLtoggler("angulos")}> {filters.includes("angulos") ?
                                             <span style={{color: "#202020"}}> Ângulos⠀✕ </span> :'Ângulos'} 
-                                        </p>
-                                        <br/>
-                                        <p onClick={() => URLtoggler("posicoesDeRetas")}> {filters.includes("posicoesDeRetas") ? 
-                                            <span style={{color: "#202020"}}> Posições de retas⠀✕ </span> :'Posições de retas'} 
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("simetriasDeFigurasPlanasOuEspaciais")}> {filters.includes("simetriasDeFigurasPlanasOuEspaciais") ? 
@@ -259,10 +247,6 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
                                         <br/>
                                         <p onClick={() => URLtoggler("criptografia")}> {filters.includes("criptografia") ? 
                                             <span style={{color: "#202020"}}> Criptografia⠀✕ </span> :'Criptografia'} 
-                                        </p>
-                                        <br/>
-                                        <p onClick={() => URLtoggler("computacao")}> {filters.includes("computacao") ? 
-                                            <span style={{color: "#202020"}}> Computação⠀✕ </span> :'Computação'}
                                         </p>
                                         <br/>
                                         <p onClick={() => URLtoggler("numerosComplexos")}> {filters.includes("numerosComplexos") ? 
