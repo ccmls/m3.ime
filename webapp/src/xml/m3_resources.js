@@ -177,7 +177,7 @@ Aplicar o conhecimento geométrico a situações de caráter prático por meio d
 </objectives>
         <youtube_link></youtube_link>
         <authors>Leonardo Barichello, Samuel Rocha de Oliveira</authors>
-        <tags>Técnicas de Contagem; Combinatória; Princípio Fundamental da Contagem</tags>
+        <tags>Combinatória; Princípio Fundamental da Contagem; Princípios de contagem</tags>
         <theme>análise de dados e probabilidade</theme>
     </m3_resource>
     <m3_resource>
@@ -254,7 +254,7 @@ Planejar, construir e avaliar um projeto
 </objectives>
         <youtube_link></youtube_link>
         <authors>Claudina Izepe Rodrigues, Eliane Quelho Frota Rezende, Luiz Fernando Giolo Alves e Maria Lúcia Bontorim de Queiroz</authors>
-        <tags>túnel; engenharia; Geometria Plana; experimento; direção; História da matemática; Comprimentos; Congruência e Semelhança de triângulos; Relações métricas em um triângulo; Relações trigonométricas em um triângulo; ângulos</tags>
+        <tags>Geometria Plana; História da matemática; Comprimentos; Congruência e Semelhança de triângulos; Relações trigonométricas em um triângulo; ângulos; Trigonometria do ângulo agudo</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -689,7 +689,7 @@ Apresentar a transformação de Möbius
 Edmundo Capelas de Oliveira; 
 Eliane Quelho Frota Rezende e
 Maria Lúcia Bontorim de Queiroz</authors>
-        <tags>translação; transformações geométricas; Números complexos; dilatação; Matrizes; rotação; Argand-Gauss</tags>
+        <tags>translação; transformações geométricas; Números complexos; dilatação; rotação; Argand-Gauss</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -747,7 +747,7 @@ h2. Revisores
 *guia* Roberto Limberger
 *gráficos_fórmulas* Raphael Garcia
 </authors>
-        <tags>sólidos; Áreas; prismas; princípio de cavalieri; volumes</tags>
+        <tags>Geometria Espacial; sólidos; Áreas; prismas; princípio de cavalieri; volumes</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -1153,7 +1153,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *graficos_formulas* Raphael Garcia
 </authors>
-        <tags>multiplicação de matrizes; Matrizes</tags>
+        <tags>multiplicação de matrizes; Matrizes; Sistemas de equações</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -1288,7 +1288,7 @@ h2. Revisores
 *guia* Leonardo Barichello
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>caminhos; outros; grafos; Euler; teoria dos grafos</tags>
+        <tags>caminhos; grafos; Euler; teoria dos grafos</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -1314,7 +1314,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>teorema de pitágoras; Trigonometria; Comprimentos; tabela dos ângulos notáveis; triângulo retângulo Congruência e semelhança de triângulos; Relações métricas nos triângulos; Georg Joachim Rheticus; unidades de medida e escalas</tags>
+        <tags>teorema de pitágoras; Trigonometria do ângulo agudo; Comprimentos; tabela dos ângulos notáveis; triângulo retângulo; Congruência e semelhança de triângulos; Relações métricas nos triângulos</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -1421,7 +1421,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *gráficos_fórmulas* Raphael Garcia
 </authors>
-        <tags>Combinação; permutação; análise combinatóra; arranjo; fatorial</tags>
+        <tags>Arranjo, permutação e combinação; Análise combinatóra; Fatorial; Princípios de contagem</tags>
         <theme>análise de dados e probabilidade</theme>
     </m3_resource>
     <m3_resource>
@@ -2199,8 +2199,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>Polinômio; Comprimentos; funções
-polinomiais; áreas e volumes.; Características das figuras geométricas planas e espaciais; Perímetro; aproveitamento de volume</tags>
+        <tags>Áreas e volumes.; Características das figuras geométricas planas e espaciais; Otimização; Polinômios e funções polinomiais</tags>
         <theme>geometria e medidas; números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -2280,7 +2279,7 @@ h2. Revisores
 *guia* Samuel Rocha de Oliveira
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>Equação quadrática; Bhaskara; Viète; raízes de uma função quadrática; método de Completar quadrados; História da matemática; Áreas; Comprimentos; Representação e análise de dados; Juros.</tags>
+        <tags>Equação quadrática; Bhaskara; funções do 2.º grau / funções quadráticas; método de Completar quadrados; História da matemática.</tags>
         <theme>análise de dados e probabilidade; geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -2920,7 +2919,7 @@ Maria Lucia de Queiroz
 *guia* Leonardo Barichello
 *graficos_formulas* Raphael Garcia
 </authors>
-        <tags>geometria analítica; pontos; sistema cartesiano</tags>
+        <tags>geometria analítica; Pontos; Plano cartesiano</tags>
         <theme>Geometria e Medidas</theme>
     </m3_resource>
     <m3_resource>
@@ -3683,7 +3682,7 @@ h2. Revisores
 *guia* Ernesto Kemp
 *graficos_formulas* Raphael Garcia
 </authors>
-        <tags>conjuntos; Funções; Função Exponencial.; Função Quadrática; Função Afim</tags>
+        <tags>conjuntos; Funções; Função Exponencial.; Função Quadrática; Função Afim;Relações de dependência entre grandezas</tags>
         <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
@@ -3982,7 +3981,7 @@ h2. Revisores
 *guia* José Plínio de Oliveira Santos
 *graficos_formulas* Raphael Garcia
 </authors>
-        <tags>máximos e mínimos.; Funções quadráticas</tags>
+        <tags>máximos e mínimos.; funções do 2.º grau / funções quadráticas</tags>
         <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
@@ -4797,7 +4796,7 @@ h2. Revisores
 *guia* Cristiano Torezzan
 *gráficos e fórmulas* Raphael Garcia
 </authors>
-        <tags>operação módulo; Números primos; outros; chave pública; chave privada; problema do logaritmo discreto; RSA; criptografia.</tags>
+        <tags>operação módulo; Números primos; chave pública; chave privada; problema do logaritmo discreto; RSA; criptografia.</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -5403,7 +5402,7 @@ Incentivar o estudo para a profissionalização.</objectives>
         <serie>null</serie>
         <title>Arco Romano e Arco Ferradura</title>
         <duration>Uma aula dupla</duration>
-        <synopsis>Este software ilustra um processo de otimização, utilizando polinômios do segundo grau. É considerada uma situação hipotética em que o objetivo é encontrar a janela de maior área com o formato de arco romano (Atividade 1) e de arco ferradura (Atividade 2), considerando um perímetro fixo. O caminho de investigação proposto parte da percepção visual dos valores através de gráficos dinâmicos e induz ao modelamento do problema por funções.</synopsis>
+        <synopsis>Este software ilustra um processo de otimização, utilizando s do segundo grau. É considerada uma situação hipotética em que o objetivo é encontrar a janela de maior área com o formato de arco romano (Atividade 1) e de arco ferradura (Atividade 2), considerando um perímetro fixo. O caminho de investigação proposto parte da percepção visual dos valores através de gráficos dinâmicos e induz ao modelamento do problema por funções.</synopsis>
         <objectives>Despertar a percepção para a variação de valores de uma função de uma variável
 Modelar matematicamente uma situação por meio de uma função, determinando restrições de seu domínio
 Investigar o comportamento de uma função polinomial do segundo grau – seus valores máximos e mínimos
@@ -5772,10 +5771,8 @@ h2. Revisores
         <media>Áudio</media>
         <serie>Cultura</serie>
         <title>História da Estatística</title>
-        <duration>8 min</duration>
-        <synopsis>A história da estatística é contada desde quando levantamentos de dados populacionais e econômicos começaram a ser realizados pela primeira vez.
-Esse programa está no Bloco 1.
-O Bloco 2 se refere à história da Probabilidade.</synopsis>
+        <duration>9 min</duration>
+        <synopsis>A história da estatística é contada, de um jeito diferente e divertido, desde quando levantamentos de dados populacionais e econômicos começaram a ser realizados pela primeira vez.</synopsis>
         <objectives>Apresentar alguns fatos históricos que levaram ao desenvolvimento da estatística e da probabilidade
 </objectives>
         <youtube_link></youtube_link>
@@ -5787,7 +5784,6 @@ O Bloco 2 se refere à história da Probabilidade.</synopsis>
 
 h2. Revisores
 				
-*conteudo* 
 *guia* Leonardo Barichello
 </authors>
         <tags>História da probabilidade.; História da estatística.</tags>
@@ -5799,20 +5795,18 @@ h2. Revisores
         <serie>Cultura</serie>
         <title>História da Probabilidade</title>
         <duration>9 min</duration>
-        <synopsis>A história da teoria da probabilidade é contada desde seus primórdios, quando estudos de jogos de azar começaram a ser realizados por entusiastas dos mesmos.
-Esse programa está no Bloco 1. O Bloco 2 se refere à história da estatística</synopsis>
+        <synopsis>A história da teoria da probabilidade é contada, de um jeito diferente e divertido, desde seus primórdios, quando estudos de jogos de azar começaram a ser realizados por entusiastas dos mesmos.</synopsis>
         <objectives>Apresentar alguns fatos históricos que levaram ao desenvolvimento da teoria da probabilidade.
 </objectives>
         <youtube_link></youtube_link>
         <authors>h2. Autores
 				
-*conteudo* Leonardo Barichello e Fernando Collaço
-*roteiro* 
+*conteúdo* Leonardo Barichello
+*roteiro* Fernando Collaço
 *guia* Douglas Mendes
 
 h2. Revisores
 				
-*conteudo* 
 *guia* Leonardo Barichello
 </authors>
         <tags>História da probabilidade.</tags>
@@ -6033,7 +6027,7 @@ h2. Revisores
 *conteudo* 
 *guia* Samuel Rocha de Oliveira
 </authors>
-        <tags>Função Exponencial.</tags>
+        <tags>Função Exponencial</tags>
         <theme>análise de dados e probabilidade; números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -6825,7 +6819,7 @@ h2. Revisores
 *conteudo* José Plínio de Oliveira Santos
 *guia* Samuel Rocha de Oliveira
 </authors>
-        <tags>Contagem; permutação; Análise Combinatória</tags>
+        <tags>Princípios de contagem; Arranjo, permutação e combinação; Análise Combinatória</tags>
         <theme>análise de dados e probabilidade</theme>
     </m3_resource>
     <m3_resource>
@@ -6872,7 +6866,7 @@ h2. Revisores
 *conteúdo* José Plínio de Oliveira Santos
 *guia* Samuel Rocha de Oliveira
 </authors>
-        <tags>Grau; splines; Polinômio; Equações; funçõespolinomiais</tags>
+        <tags>Grau; splines; Equações; Polinômios e funções polinomiais</tags>
         <theme>números e funções</theme>
     </m3_resource>
     <m3_resource>
@@ -8054,31 +8048,6 @@ h2. Revisores
         <theme>Números e Funções</theme>
     </m3_resource>
     <m3_resource>
-        <id>1349</id>
-        <media>Áudio</media>
-        <serie>Radio</serie>
-        <title>Redes e Sólidos</title>
-        <duration>9 min</duration>
-        <synopsis>Durante sua programação, a rádio Cangália discute sobre as redes de distribuição, demonstra o Teorema de Euler e faz uma piada que envolve o conceito de números binários.</synopsis>
-        <objectives>Mostrar a importância das funções de potência fracionária no meio científico
-Demonstrar o Teorema de Euler
-</objectives>
-        <youtube_link></youtube_link>
-        <authors>h2. Autores
-				
-*conteudo* Samuel Rocha de Oliveira
-*roteiro* Gabriel Ishida
-*guia* Pedro Ferraz Villela
-
-h2. Revisores
-				
-*conteudo* Adolfo Maia
-*guia* Samuel Rocha de Oliveira
-</authors>
-        <tags>Teorema de Euler.; Funcão potência; números binários</tags>
-        <theme>análise de dados e probabilidade; geometria e medidas</theme>
-    </m3_resource>
-    <m3_resource>
         <id>1350</id>
         <media>Áudio</media>
         <serie>Radio</serie>
@@ -8640,8 +8609,8 @@ Familiarizar o aluno com o conceito de vetores no plano.</objectives>
         <youtube_link>TM1XRbw_G3k</youtube_link>
         <authors>Samuel Rocha de Oliveira
 Patricia Roman</authors>
-        <tags>Algoritmo; Padrões matemáticos; Simetrias</tags>
-        <theme>Tópicos avançados e Temas transversais</theme>
+        <tags>Algoritmo; Padrões matemáticos; Simetrias de figuras planas ou espaciais</tags>
+        <theme>geometria e medidas;Tópicos avançados e Temas transversais</theme>
     </m3_resource>
     <m3_resource>
         <id>1386</id>
@@ -8655,7 +8624,7 @@ Familiarizar o aluno com o conceito de vetores no plano.</objectives>
         <youtube_link></youtube_link>
         <authors>Samuel Rocha de Oliveira
 Thaisa Aluani</authors>
-        <tags>Translações; Geometria Analítica; vetores; Rotações</tags>
+        <tags>Translações; Geometria Analítica; vetores; Rotações; Simetrias de figuras planas ou espaciais</tags>
         <theme>geometria e medidas</theme>
     </m3_resource>
     <m3_resource>
