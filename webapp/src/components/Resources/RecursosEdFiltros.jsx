@@ -276,7 +276,12 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
             <br/>
             
             <p> Mostrando {numberOfResults} resultados. </p>
-            {filters? <p> Filtrando por: {filters.split(" ").map(element => filtersMapping[element]).join(" / ") } </p> : null}
+            { /*filters? <p> Filtrando por: {filters.split(" ").map(element => filtersMapping[element]).join(" / ") } </p> : null */}
+            { filters? <p> Filtrando por: {
+				filters.split(" ").map(element => ( <span> {filtersMapping[element]} 
+				<span style={{cursor: "pointer"}} onClick={() => URLtoggler(element)}> ✕</span>
+				&nbsp; &nbsp; </span>))
+				} </p> : null }
         </>
     )
 }

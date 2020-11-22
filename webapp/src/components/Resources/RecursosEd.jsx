@@ -60,7 +60,11 @@ function RecursosEd() {
         }
 
         if (!auxFilter) {
-            history.push(location.pathname);
+			if (!searchValue) {
+				history.push(location.pathname);
+			} else {
+				history.push(location.pathname.concat("?search=" + searchValue));
+			}
         } else if (searchValue) {
             history.push(location.pathname.concat("?search=" + searchValue + "&filter=" + auxFilter));
         } else {
@@ -105,8 +109,13 @@ function RecursosEd() {
 						function(value2) {
 							returnArray = returnArray.filter(element => 
 								element.media.toLowerCase().includes(value2.trim().toLowerCase()) ||
-								element.tags.toLowerCase().includes(value2.trim().toLowerCase())
-							)
+								( element.tags.toLowerCase().includes(value2.trim().toLowerCase()) 
+									&& (value2 !== filtersMapping['experimentos']) 
+									&& (value2 !== filtersMapping['videos']) 
+									&& (value2 !== filtersMapping['softwares'])
+									&& (value2 !== filtersMapping['audios'])
+									)
+							);
 						}
 					)
 				}
@@ -289,11 +298,18 @@ function RecursosEd() {
                     <Col className="home-col" style={{marginBottom: "5px"}}>
                         <div style={{display: "flex", flexDirection: "row"}}>
                             <Button className="button" onClick={() => setFiltrosOpen(!filtrosOpen)} style={{marginRight: "10px"}}> 
-                                <p> FILTRAR </p> 
+                                <p> 
+								{!filtrosOpen ? ( <span>FILTRAR&nbsp;▼</span>) : ( <span>FILTRAR&nbsp;▲</span> )}
+								
+								</p> 
                             </Button>
                             <RecursosEdSearch setSearchValue={(value) => {
                                 if (value.length === 0) {
+                                    if (filters === "") {
                                     history.push(`/recursos`);
+                                    } else {
+                                        history.push(`/recursos?filter=${filters}`)
+                                    }
                                 } else {
                                     if (filters === "") {
                                         history.push(`/recursos?search=${value}`);
@@ -306,6 +322,7 @@ function RecursosEd() {
                         </div>
                     </Col>
                 </Row>
+
                 <Row className="home-row">
                     <Col style={{padding: "0px 47px"}}>
                         <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length} filters={filters} URLtoggler={URLtoggler}/>
