@@ -1,11 +1,13 @@
 import React from 'react';
 import { Col, Row } from 'reactstrap';
 import { Collapse, CardBody, Card } from 'reactstrap';
-import { filtersMapping } from './FiltersMapping';
+import { filtersMapping, cleanFilterText } from './FiltersMapping';
+
+
 
 // Componente para o collapse de filtros que aparece na página de recursos
-function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) {
- 
+function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler, clearFilters}) {
+	
     return (
         <>
             <Collapse isOpen={filtrosOpen} className="filter-collapse">
@@ -276,14 +278,19 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler}) 
             <br/>
             
             <p> Mostrando {numberOfResults} resultados. </p>
+			<p>
             { /*filters? <p> Filtrando por: {filters.split(" ").map(element => filtersMapping[element]).join(" / ") } </p> : null */}
-            { filters? <p> Filtrando por: {
-				filters.split(" ").map(element => ( <span> {filtersMapping[element]} 
+            { filters ? <span> Filtrando por: {
+				filters.split(" ").map(element => ( <span key={cleanFilterText(filtersMapping[element])} > {cleanFilterText(filtersMapping[element])} 
 				<span style={{cursor: "pointer"}} onClick={() => URLtoggler(element)}> ✕</span>
 				&nbsp; &nbsp; </span>))
-				} </p> : null }
+				} </span> : null }
+			 { filters  ? ( filters.split(" ").length===2 ? <span> ( <span style={{cursor: "pointer", color: "red"}} onClick={() => clearFilters()}>Limpar Tudo</span> ) </span>: null) : null }
+			</p>
         </>
     )
 }
+
+
 
 export default RecursosEdFiltros

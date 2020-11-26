@@ -77,7 +77,7 @@ function Midias() {
                         <Card style={{borderColor: "#f5f5f5", height: "305px", overflowY: "scroll"}}>
                             <CardBody>
                                 <p> 
-                                    <b> Matemática na Escola </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieMatematicaNaEscola")}> <b> Matemática na Escola </b></span>
                                     <br/>
                                     A série Matemática na Escola aborda o conteúdo de matemática do ensino médio através de 
                                     situações, ficções e contextualizações. Os programas desta série usualmente são informativos 
@@ -86,13 +86,13 @@ function Midias() {
                                     trazem informações interdisciplinares.
                                     <br/>
                                     <br/>
-                                    <b> Atividades </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieAtividades")}> <b> Atividades </b> </span>
                                     <br/>
                                     A série Atividades apresenta em vídeo os principais passos de alguns experimentos que o professor pode 
                                     desenvolver com a sua turma.
                                     <br/>
                                     <br/>
-                                    <b> Profissões </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieProfissoes")}> <b> Profissões </b> </span>
                                     <br/>               
                                     A série Qual é a sua profissão? apresenta uma série de entrevistas com profissionais. São duas 
                                     entrevistas espontâneas intercaladas em cada programa, no ambiente de trabalho dos profissionais e 
@@ -149,12 +149,12 @@ function Midias() {
                         <Card style={{borderColor: "#f5f5f5", height: "305px", overflowY: "scroll"}}>
                             <CardBody>
                                 <p>
-                                    <b> Estimativas </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieEstimativas")}> <b> Estimativas </b> </span>
                                     <br/>
                                     A ideia da série é incentivar os alunos a fazerem estimativas numéricas.
                                     <br/>
                                     <br/>
-                                    <b> Problemas e Soluções </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieProblemasESolucoes")}> <b> Problemas e Soluções </b> </span>
                                     <br/>
                                     Problemas e Soluções A série Problemas e Soluções trata de problemas típicos de matemática 
                                     do ensino médio contextualizados por uma ficção. Em cada programa um ou dois problemas são 
@@ -164,14 +164,14 @@ function Midias() {
                                     alguns comentários ou informações adicionais.
                                     <br/>
                                     <br/>
-                                    <b> O que é? </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieOQueE")}> <b> O que é? </b> </span>
                                     <br/>
                                     A proposta da série “O que é?” é fazer uma discussão introdutória e sem grandes aprofundamentos 
                                     de alguns conceitos do currículo de Matemática do Ensino Médio que contenham palavras “incomuns” 
                                     fora do contexto da Matemática.
                                     <br/>
                                     <br/>
-                                    <b> Cultura </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieCultura")}> <b> Cultura? </b> </span>
                                     <br/>
                                     A série Cultura foi concebida com o objetivo de proporcionar aos alunos a oportunidade de fazer 
                                     paralelos significativos entre Literatura, Cultura Geral e Matemática, para que ele, além de poder 
@@ -179,7 +179,7 @@ function Midias() {
                                     literárias e expandir seu conhecimento em diversas áreas.
                                     <br/>
                                     <br/>
-                                    <b> Cumpadis </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieCumpadis")}> <b>Cumpadis </b> </span>
                                     <br/>
                                     A série Cumpadis apresenta programas descontraídos de variedades que usualmente abordam uma informação 
                                     ou notícia de conhecimentos gerais, na conversa livre, parcialmente rimada, com comentários de conteúdo 
@@ -189,7 +189,7 @@ function Midias() {
                                     aula ou em atividades extraclasse.
                                     <br/>
                                     <br/>
-                                    <b> Matema </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieMatema")}> <b> Matema </b> </span>
                                     <br/>
                                     A série Mátema levanta aspectos históricos dos fundamentos da matemática. O contexto da ficção tem o objetivo de 
                                     tornar o programa interessante para o ensino médio e para adolescentes, uma vez que faz uso do estereótipo do Joãozinho, 
@@ -197,7 +197,7 @@ function Midias() {
                                     No entanto, o programa traz ricas informações e tem o devido cuidado com as definições e conclusões matemáticas
                                     <br/>
                                     <br/>
-                                    <b> Radio </b>
+									<span className="filter-link" onClick={() => history.push("/recursos?filter=serieRadio")}> <b> Radio </b> </span>
                                     <br/>               
                                     A série Rádio Cangália apresenta programas descontraídos de variedades que usualmente abordam uma informação ou notícia 
                                     de conhecimentos gerais, com comentários de um professor de matemática. Os temas não são tratados em profundidade, mas 

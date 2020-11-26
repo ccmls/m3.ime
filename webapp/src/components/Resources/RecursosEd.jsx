@@ -45,6 +45,15 @@ function RecursosEd() {
         }
     }, [filterValue]);
 
+	function clearFilters()
+	{
+		if (!searchValue) {
+			history.push(location.pathname);
+		} else {
+			history.push(location.pathname.concat("?search=" + searchValue));
+		}
+		
+	}
 
     // Função para mudar a rota referente aos filtros (ele altera tudo que vem imediatamente depois de ?search=blabla&filter=)
     function URLtoggler(filter) {
@@ -106,6 +115,7 @@ function RecursosEd() {
 			filterValue.split(' ').forEach(
 				function(value1) {
 					filtersMapping[value1].split(',').forEach(
+						/*
 						function(value2) {
 							returnArray = returnArray.filter(element => 
 								element.media.toLowerCase().includes(value2.trim().toLowerCase()) ||
@@ -116,6 +126,30 @@ function RecursosEd() {
 									&& (value2 !== filtersMapping['audios'])
 									)
 							);
+						}*/
+						function(value2) {
+							var elems = value2.split(':');
+							if ( elems.length === 2) 
+							{
+								switch (elems[0].trim().toLowerCase()) {
+									case "media":
+										returnArray = returnArray.filter(element => element.media.toLowerCase().includes(elems[1].trim().toLowerCase()));
+									break;
+									case "tag":
+										returnArray = returnArray.filter(element => element.tags.toLowerCase().includes(elems[1].trim().toLowerCase()));
+									break;
+									case "serie":
+										returnArray = returnArray.filter(element => element.serie.toLowerCase().includes(elems[1].trim().toLowerCase()));
+									break;
+								}
+							}
+							else
+							{
+								console.log('Length Not Ok');
+								returnArray = returnArray.filter(element => 
+									element.media.toLowerCase().includes(value2.trim().toLowerCase()) ||
+									element.tags.toLowerCase().includes(value2.trim().toLowerCase()) )
+							}
 						}
 					)
 				}
@@ -325,7 +359,7 @@ function RecursosEd() {
 
                 <Row className="home-row">
                     <Col style={{padding: "0px 47px"}}>
-                        <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length} filters={filters} URLtoggler={URLtoggler}/>
+                        <RecursosEdFiltros filtrosOpen={filtrosOpen} numberOfResults={filteredResourcesArray.length} filters={filters} URLtoggler={URLtoggler} clearFilters={clearFilters}/>
                     </Col>
                 </Row>
 
