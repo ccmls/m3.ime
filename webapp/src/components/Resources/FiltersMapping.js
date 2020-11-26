@@ -1,14 +1,10 @@
 export function cleanFilterText( filterText )
 {
-	var elems = String(filterText).split(':');
-	if ( elems.length === 2 )
-	{
-		return elems[1];
-	} 
-	else 
-	{
-		return filterText;
-	}
+	filterText = filterText.replace(/tag:/g,'');
+	filterText = filterText.replace(/media:/g,'');
+	filterText = filterText.replace(/serie:/g,'');
+
+	return filterText;
 }
 
 // Objeto com o mapeamento de filtros (associa a string da URL ao nome do filtro)
