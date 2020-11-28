@@ -141,11 +141,15 @@ function RecursosEd() {
 									case "serie":
 										returnArray = returnArray.filter(element => element.serie.toLowerCase().includes(elems[1].trim().toLowerCase()));
 									break;
+									default:
+										returnArray = returnArray.filter(element => 
+											element.media.toLowerCase().includes(elems[1].trim().toLowerCase()) ||
+											element.tags.toLowerCase().includes(elems[1].trim().toLowerCase()) );
+
 								}
 							}
 							else
 							{
-								console.log('Length Not Ok');
 								returnArray = returnArray.filter(element => 
 									element.media.toLowerCase().includes(value2.trim().toLowerCase()) ||
 									element.tags.toLowerCase().includes(value2.trim().toLowerCase()) )
