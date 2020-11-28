@@ -151,10 +151,6 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler, c
                                             <span style={{color: "#202020"}}> Congruência e semelhança de triângulos⠀✕ </span> :'Congruência e semelhança de triângulos'} 
                                         </p>
                                         <br/>
-                                        <p onClick={() => URLtoggler("teoremaDeTales")}> {filters.includes("teoremaDeTales") ?
-                                            <span style={{color: "#202020"}}> Teorema de Tales⠀✕ </span> :'Teorema de Tales'} 
-                                        </p> 
-                                        <br/>
                                         <p onClick={() => URLtoggler("relacoesMetricasNosTriangulos")}> {filters.includes("relacoesMetricasNosTriangulos") ? 
                                             <span style={{color: "#202020"}}> Relações métricas nos triângulos⠀✕ </span> :'Relações métricas nos triângulos'} 
                                         </p>
