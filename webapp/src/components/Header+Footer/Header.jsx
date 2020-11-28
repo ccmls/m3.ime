@@ -180,7 +180,7 @@ function Header() {
                             <DropdownItem onClick={() => history.push("/recursos?filter=numerosComplexos")}> Números Complexos </DropdownItem>
                             <DropdownItem onClick={() => history.push("/recursos?filter=conicas")}> Cônicas </DropdownItem>
                             <DropdownItem onClick={() => history.push("/recursos?filter=historiaDaMatematica")}> História da Matemática </DropdownItem> 
-                            <DropdownItem onClick={() => history.push("/recursos?filter=outros")}> Números Outros </DropdownItem>  
+                            <DropdownItem onClick={() => history.push("/recursos?filter=outros")}> Outros </DropdownItem>  
                         </DropdownMenu>
                     </Dropdown>
                 </li>
