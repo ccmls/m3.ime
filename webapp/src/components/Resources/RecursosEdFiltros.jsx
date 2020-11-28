@@ -278,10 +278,10 @@ function RecursosEdFiltros({filtrosOpen, numberOfResults, filters, URLtoggler, c
             { /*filters? <p> Filtrando por: {filters.split(" ").map(element => filtersMapping[element]).join(" / ") } </p> : null */}
             { filters ? <span> Filtrando por: {
 				filters.split(" ").map(element => ( <span key={cleanFilterText(filtersMapping[element])} > {cleanFilterText(filtersMapping[element])} 
-				<span style={{cursor: "pointer"}} onClick={() => URLtoggler(element)}> ✕</span>
+				<span style={{cursor: "pointer", color: "rgb(238, 45, 50)"}} onClick={() => URLtoggler(element)}> ✕</span>
 				&nbsp; &nbsp; </span>))
 				} </span> : null }
-			 { filters  ? ( filters.split(" ").length===2 ? <span> ( <span style={{cursor: "pointer", color: "red"}} onClick={() => clearFilters()}>Limpar Tudo</span> ) </span>: null) : null }
+			 { filters  ? ( filters.split(" ").length>=2 ? <span style={{cursor: "pointer", color: "rgb(238, 45, 50)"}} onClick={() => clearFilters()}>Limpar Tudo</span>: null) : null }
 			</p>
         </>
     )

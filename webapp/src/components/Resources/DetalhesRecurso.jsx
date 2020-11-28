@@ -14,6 +14,7 @@ import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
 import iconVideos from '../../assets/icons - Home/icon-videos.png';
 import iconSoftwares from '../../assets/icons - Home/icon-softwares.png';
 import iconAudios from '../../assets/icons - Home/icon-audios.png';
+import buttonTwitter from "../../assets/button-twitter.svg";
 
 
 const {m3_site} = require('../../xml/m3_config.js');
@@ -286,15 +287,13 @@ function DetalhesRecurso() {
                         :
                             null
                     }
-
+			
                     {/* Botão de compartilhamento do twitter */}
                     <div className="centerContent" style={{paddingTop: "40px"}}>
                         <div className="selfCenter">
-                            <TwitterShareButton url={`{m3_site}/recursos/${resource.id}`} options={{
-                                text: '#M3',
-                                via: 'matematicam3',
-                                size: 'large',
-                            }} placeholder="Loading" />
+							<a href="https://twitter.com/intent/tweet?text=%23m3" target="_blank" rel="noopener noreferrer">
+								<img id="twiiter-button" style={{height: "20px", width: "auto"}} src={buttonTwitter} alt="twitter"/>
+							</a>
                         </div>
                     </div>
                 </Col>
