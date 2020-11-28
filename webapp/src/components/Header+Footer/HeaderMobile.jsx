@@ -101,7 +101,7 @@ function HeaderMobile() {
                                 <DropdownItem onClick={() => history.push("/recursos?filter=angulos")}> Ângulos </DropdownItem>
                                 <DropdownItem onClick={() => history.push("/recursos?filter=simetriasDeFigurasPlanasOuEspaciais")}> Simetrias de figuras planas ou espaciais </DropdownItem>
                                 <DropdownItem onClick={() => history.push("/recursos?filter=congruenciaESemelhancaDeTriangulos")}> Congruência e semelhança de triângulos </DropdownItem> 
-                                <DropdownItem onClick={() => history.push("/recursos?filter=teoremaDeTales")}> Teorema de Tales </DropdownItem>
+                                
                                 <DropdownItem onClick={() => history.push("/recursos?filter=relacoesMetricasNosTriangulos")}> Relações métricas nos triângulos </DropdownItem> 
                                 <DropdownItem onClick={() => history.push("/recursos?filter=trigonometriaDoAnguloAgudo")}> Trigonometria do ângulo agudo </DropdownItem>  
                                 <DropdownItem onClick={() => history.push("/recursos?filter=geometriaEspacial")}> Geometria Espacial </DropdownItem> 
