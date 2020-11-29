@@ -229,3 +229,41 @@
 audio:focus {
     outline: none;
 }
+
+/* Tentativa de copiar o botão do Twitter sem usar o site deles */
+
+.twitter-button {
+	box-sizing: border-box;
+	padding: 3px 3px 6px 10px;
+	background-color: #1b95e0;
+	color: #fff;
+	border-radius: 4px;
+	font-weight: 500;
+	cursor: pointer;
+	font: normal normal normal 13px/20px 'Helvetica Neue',Arial,sans-serif;
+	width: 75px;
+	height: 29px;
+	font-size: 13px;
+	white-space: nowrap;
+}
+
+.twitter-button:hover {
+	background-color: #0c7abf;
+}
+
+.twitter-button svg {
+	margin-top: 5px;
+	float: left;
+	height: 13px;
+
+}
+
+.twitter-button-text {
+	margin-top: 1px;
+	margin-bottom: 0px;
+	margin-left: 4px;
+	margin-right: 0px;
+    float: left;
+}
+
+	

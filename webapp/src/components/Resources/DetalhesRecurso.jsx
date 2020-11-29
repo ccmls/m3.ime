@@ -5,7 +5,6 @@ import { useHistory, useParams } from 'react-router-dom';
 import RecursosEdSearch from './RecursosEdSearch';
 // React Twitter Embed:
 // https://www.npmjs.com/package/react-twitter-embed
-import { TwitterShareButton } from 'react-twitter-embed';
 // XML
 import m3_resources from '../../xml/m3_resources.js'
 import files from '../../xml/files.js'
@@ -14,10 +13,8 @@ import iconExperimentos from '../../assets/icons - Home/icon-experimentos.png';
 import iconVideos from '../../assets/icons - Home/icon-videos.png';
 import iconSoftwares from '../../assets/icons - Home/icon-softwares.png';
 import iconAudios from '../../assets/icons - Home/icon-audios.png';
-import buttonTwitter from "../../assets/button-twitter.svg";
 
-
-const {m3_site} = require('../../xml/m3_config.js');
+// const {m3_site} = require('../../xml/m3_config.js');
 const {m3_site_files} = require('../../xml/m3_config.js');
 const {m3_site_software} = require('../../xml/m3_config.js');
 
@@ -150,11 +147,11 @@ function DetalhesRecurso() {
                             // Lembrar que dei replace no banco de <m3_serie_id></m3_serie_id> para <m3_serie_id>null</m3_serie_id>
                             resource.serie === "null"?
                                 <p> 
-                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
+                                    <span style={{color: "", textTransform: "uppercase"}} > {resource.theme}  </span>
                                 </p>
                             :
                                 <p> 
-                                    <span style={{color: "#ee2d32", textTransform: "uppercase"}} > {resource.theme}  </span>
+                                    <span style={{color: "", textTransform: "uppercase"}} > {resource.theme}  </span>
                                     <span> • Série: {resource.serie} </span> 
                                 </p>
                         }
@@ -289,13 +286,34 @@ function DetalhesRecurso() {
                     }
 			
                     {/* Botão de compartilhamento do twitter */}
+					{ /* SVG pego de: https://gist.github.com/mbostock/3094619 */ }
+
                     <div className="centerContent" style={{paddingTop: "40px"}}>
-                        <div className="selfCenter">
-							<a href="https://twitter.com/intent/tweet?text=%23m3" target="_blank" rel="noopener noreferrer">
-								<img id="twiiter-button" style={{height: "20px", width: "auto"}} src={buttonTwitter} alt="twitter"/>
-							</a>
-                        </div>
-                    </div>
+						<a href="https://twitter.com/intent/tweet?text=%23m3">
+							<div className="selfCenter twitter-button">
+								<svg viewBox="328 355 335 276" xmlns="http://www.w3.org/2000/svg">
+									<path d="
+									M 630, 425
+									A 195, 195 0 0 1 331, 600
+									A 142, 142 0 0 0 428, 570
+									A  70,  70 0 0 1 370, 523
+									A  70,  70 0 0 0 401, 521
+									A  70,  70 0 0 1 344, 455
+									A  70,  70 0 0 0 372, 460
+									A  70,  70 0 0 1 354, 370
+									A 195, 195 0 0 0 495, 442
+									A  67,  67 0 0 1 611, 380
+									A 117, 117 0 0 0 654, 363
+									A  65,  65 0 0 1 623, 401
+									A 117, 117 0 0 0 662, 390
+									A  65,  65 0 0 1 630, 425
+									Z"
+									style={{fill: "#FFFFFF"}}/>
+								</svg>
+								<div className="twitter-button-text">Tweet</div>
+							</div>
+						</a>
+					</div>
                 </Col>
             </Row>
 
